@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "checked_at": "2026-11-02T09:41:13.405Z",
+  "version": 2,
+  "checked_at": "2026-11-02T11:37:59.826Z",
   "category": "学术",
   "priority_network": {
     "name": "Hong Hao / 郝洪",
@@ -78,5 +78,24 @@
     "旧履历只作身份基线；今年才发现旧任命不写成最近升职，基金启动与获批时间不混",
     "外方强团队依公开成果与重要事件筛选，不声称未经核实的排名或全门派关系",
     "没有真实进展就不推送；不推断未公开的项目金额、晋升、离职原因"
-  ]
+  ],
+  "conferences": {
+    "scope": "船舶/结构碰撞、冲击防护、桥梁、风机/风工程、多灾害安全等相关的高质量学术会议；大学、协会、正式会议官网为准。",
+    "entries": [
+      {
+        "name": "ICILSM / IJIE conference",
+        "url": "https://www.ijie-conference.org/"
+      },
+      {
+        "name": "IAWE conferences",
+        "url": "https://iawe.org/conferences/"
+      },
+      {
+        "name": "AAWE conferences/news",
+        "url": "https://aawe.org/news/"
+      }
+    ],
+    "checks": "分开原公告日期、修改日、核验日、会期和投稿/注册截止；核对时区、地点、线上/线下、主办与征稿状态。不补造费用、接收率或截止日，不把已结束的会议/已过期征稿当作即将举办。没有新实质变化不反复推。event_start/event_end只记已核完整会期，published_at仍为真实公告日期；无公告日期先作线索不伪造今天发布。",
+    "privacy": "不收集或公开个人邮箱、电话等联系信息。"
+  }
 }

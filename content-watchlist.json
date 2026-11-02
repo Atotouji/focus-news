@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "checked_at": "2026-11-02T09:41:13.405Z",
+  "version": 3,
+  "checked_at": "2026-11-02T11:37:59.826Z",
   "timezone": "Asia/Hong_Kong",
   "schedule": "每天09:00、12:00、17:00开始检索；不是实时通讯社专线，实际发布以generated_at为准",
   "categories": {
@@ -151,7 +151,13 @@
           "name": "BBC News",
           "entry": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
         }
-      ]
+      ],
+      "subsections": {
+        "china": "中国：国内公共事务、经济、灾害与与中国直接相关的重大双边事项；按主题归类，不以报道语言/媒体所在国判定。",
+        "global": "全球局势：其它国家、国际冲突、选举、宏观金融与灾害。",
+        "field": "politics_region=china/global；时政仍计入同一50条保留底线，不为子栏编造或拆分内容。",
+        "coverage": "每期分别检索中国与全球，不能长期只查海外；没有可靠新进展不凑数量。"
+      }
     },
     "AI": {
       "retained_minimum": 50,
@@ -433,7 +439,8 @@
           "entry": "https://eprints.ncl.ac.uk/"
         }
       ],
-      "policy": "academic-network-watchlist.json"
+      "policy": "academic-network-watchlist.json",
+      "conference_watchlist": "academic-network-watchlist.json"
     }
   },
   "editorial_rules": [

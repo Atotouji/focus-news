@@ -109,9 +109,11 @@ export function mergeFeed({ base, additions = [], covers = {}, generatedAt, edit
 
   const candidates = [...byId.values()].filter(entry => !removed.has(entry.article.id));
   const order = (left, right) => Date.parse(right.article.published_at) - Date.parse(left.article.published_at) || left.ordinal - right.ordinal;
-  const protectedArticles = candidates.filter(entry => entry.article.year_highlight === true);
-  if (protectedArticles.length > maxArticles) throw new Error(`年度重要文章 ${protectedArticles.length} 篇超过容量 ${maxArticles}；请明确移除或提高合法容量，不能静默丢弃`);
-  const ordinary = candidates.filter(entry => entry.article.year_highlight !== true).sort(order);
+  const generatedDay=Number.isFinite(Date.parse(generatedAt))?new Date(Date.parse(generatedAt)+8*3600000).toISOString().slice(0,10):'';
+  const protectedArticles = candidates.filter(({article}) => article.year_highlight === true||(article.category==='学术'&&article.event_start&&article.event_end&&generatedDay&&article.event_end>=generatedDay));
+  if (protectedArticles.length > maxArticles) throw new Error(`年度重要及未结束会议 ${protectedArticles.length} 篇超过容量 ${maxArticles}；请明确移除或提高合法容量，不能静默丢弃`);
+  const protectedIds=new Set(protectedArticles.map(entry=>entry.article.id));
+  const ordinary = candidates.filter(entry => !protectedIds.has(entry.article.id)).sort(order);
   const selection=new Map(protectedArticles.map(entry=>[entry.article.id,entry]));
   // Keep useful breadth in each column as daily updates accumulate.
   const columnFloor=Math.min(50,Math.floor(maxArticles/6));

@@ -123,7 +123,7 @@ test('default 500 cap keeps an old annual entry while discarding oldest ordinary
 
 test('protected overflow fails instead of silently evicting annual entries', () => {
   const rows = Array.from({ length: 501 }, (_, index) => article(index, { year_highlight: true }));
-  assert.throws(() => run({ base: doc(rows) }), /年度重要文章 501 篇超过容量 500/);
+  assert.throws(() => run({ base: doc(rows) }), /年度重要(?:文章|及未结束会议) 501 篇超过容量 500/);
 });
 
 test('latest is explicit, unique and must survive removals and capacity', () => {
@@ -209,4 +209,13 @@ test('six columns retain films and combine both AI labels under one floor',()=>{
  assert.equal(feed.articles.length,500);
  for(const c of cats.filter(c=>c!=='AI 新闻'))assert.equal(feed.articles.filter(a=>a.category===c).length,50);
  assert.equal(feed.articles.filter(a=>['AI','AI 新闻'].includes(a.category)).length,250);
+});
+
+test('upcoming conference survives an old announcement date; expired conference is ordinary',()=>{
+ const upcoming=article(60001,{published_at:'2025-01-01',event_start:'2026-02-20',event_end:'2026-02-25'});
+ const expired=article(60002,{published_at:'2025-01-02',event_start:'2026-01-01',event_end:'2026-01-05'});
+ const recent=article(60003,{published_at:'2026-01-19'});
+ const {feed}=run({base:doc([expired,upcoming,recent]),maxArticles:2});
+ assert.deepEqual(new Set(feed.articles.map(a=>a.id)),new Set([upcoming.id,recent.id]));
+ assert.equal(feed.articles[1].published_at,'2025-01-01');
 });

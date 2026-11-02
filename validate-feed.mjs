@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT_FIELDS = ['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources'];
 const ARTICLE_FIELDS = ['id', 'source_id', 'source_name', 'category', 'url', 'title', 'title_zh', 'body', 'body_zh', 'preview_zh', 'scope', 'language', 'translation_status', 'translation_error', 'translation_model', 'translated_at', 'published_at', 'image_url', 'saved', 'read', 'is_demo'];
-const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight', 'date_basis'];
+const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight', 'date_basis', 'politics_region', 'event_start', 'event_end'];
 const SOURCE_FIELDS = ['id', 'name', 'category', 'adapter', 'feed_url', 'enabled', 'note', 'last_checked', 'last_error'];
 const CATEGORIES = new Set(['时政', 'AI', 'AI 新闻', '游戏', '数码', '影视', '学术', '未分类']);
 const EDITIONS = new Set(['早间', '午间', '晚间']);
@@ -176,6 +176,8 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     if (Object.hasOwn(article,'month_highlight') && typeof article.month_highlight !== 'boolean') fail(`${path}.month_highlight`, '月度重要标记应为布尔值');
     if (Object.hasOwn(article,'date_basis') && ![null,'source','curated'].includes(article.date_basis)) fail(`${path}.date_basis`, '日期依据须为source或curated，旧稿可省略或null');
     if (article.date_basis==='curated' && (article.category!=='影视'||article.year_highlight===true)) fail(`${path}.date_basis`, '整理日期仅限明确标注的影视资料导读，不作年度事件日期');
+    if(article.politics_region!=null&&(!['china','global'].includes(article.politics_region)||article.category!=='时政'))fail(`${path}.politics_region`,'时政区域须为china或global，且仅用于时政');
+    if(article.event_start!=null||article.event_end!=null){if(article.category!=='学术'||!calendarDate(article.event_start)||!calendarDate(article.event_end)||article.event_end<article.event_start)fail(`${path}.event_start`,'学术会期须为有效完整日期且结束不早于开始；不代替公告发表时间');}
     if (Object.hasOwn(article,'image_usage') && article.image_usage!==null && !['source_remote','licensed_asset'].includes(article.image_usage)) fail(`${path}.image_usage`, '图片用途须为source_remote或licensed_asset');
     if (Object.hasOwn(article,'reference_urls')) {
       if (!Array.isArray(article.reference_urls) || article.reference_urls.length > 20) fail(`${path}.reference_urls`, '相关报道和公开论文全文链接最多20个');
@@ -286,6 +288,12 @@ export function selfTest() {
   test('curated film date', value => { value.articles[0].category='影视';value.articles[0].date_basis='curated'; },true);
   test('curated date cannot pretend annual event', value => { value.articles[0].category='影视';value.articles[0].date_basis='curated';value.articles[0].year_highlight=true; });
   test('curated date cannot replace academic source date', value => { value.articles[0].date_basis='curated'; });
+  test('China politics tag', v=>{v.articles[0].category='时政';v.articles[0].politics_region='china';},true);
+  test('global politics tag', v=>{v.articles[0].category='时政';v.articles[0].politics_region='global';},true);
+  test('politics tag is not a new category', v=>{v.articles[0].politics_region='global';});
+  test('conference has separate future event dates',v=>{v.articles[0].category='学术';v.articles[0].event_start='2027-06-20';v.articles[0].event_end='2027-06-25';},true);
+  test('invalid conference order',v=>{v.articles[0].category='学术';v.articles[0].event_start='2027-06-25';v.articles[0].event_end='2027-06-20';});
+  test('invalid conference calendar',v=>{v.articles[0].category='学术';v.articles[0].event_start='2027-02-30';v.articles[0].event_end='2027-03-01';});
   test('month precision retains unknown day', value => { value.articles[0].published_at='2026-02'; },true);
   test('invalid month precision', value => { value.articles[0].published_at='2026-13'; });
   test('source image is a link without relicensing', value => { Object.assign(value.articles[0],{image_url:'https://ichef.bbci.co.uk/news/1024/source.jpg',image_credit:'BBC 原报道署名见原文',image_license:null,image_source_url:'https://www.bbc.com/news/articles/source-image',image_usage:'source_remote'}); },true);

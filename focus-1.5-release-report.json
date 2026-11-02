@@ -1,0 +1,23 @@
+{
+  "version": "1.5.0",
+  "generated_at": "2026-11-02T11:37:59.826Z",
+  "archive_path": "archives/2026-11-02/1937.json",
+  "snapshot_path": "snapshots/2026-11-02-1.5.json",
+  "articles": 318,
+  "sources": 113,
+  "counts": {
+    "影视": 50,
+    "时政": 55,
+    "AI": 52,
+    "游戏": 57,
+    "数码": 50,
+    "学术": 54
+  },
+  "china": 3,
+  "global": 52,
+  "existing_articles_preserved": 317,
+  "only_existing_metadata_change": "55条时政添加politics_region；正文、原图、原始链接、日期与重要标记不变。",
+  "new_conferences": 1,
+  "latest": 0,
+  "note": "客户端按六栏交错展示；公开feed仍按真实来源日期降序，会议另外保存会期。"
+}
