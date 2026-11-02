@@ -177,11 +177,52 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
   return { ok: errors.length === 0, errors, articles: ids.size, sources: sources.size, latest: latest.size };
 }
 
+/** JSON.parse alone silently accepts duplicate properties, which can hide discarded sensitive values. */
+export function parseFeedJson(text) {
+  const value = JSON.parse(text);
+  let position = 0;
+  const space = () => { while (/\s/.test(text[position] ?? '') && position < text.length) position++; };
+  function string() {
+    const start = position++;
+    while (position < text.length) {
+      const next = text[position++];
+      if (next === '\\') position++;
+      else if (next === '"') return JSON.parse(text.slice(start, position));
+    }
+    throw new Error('JSON 字符串未结束');
+  }
+  function scan(depth) {
+    if (depth > 8) throw new Error('JSON 嵌套层级过深');
+    space();
+    const next = text[position];
+    if (next === '{') {
+      position++; space();
+      const keys = new Set();
+      if (text[position] === '}') { position++; return; }
+      for (;;) {
+        space(); const key = string();
+        if (keys.has(key)) throw new Error('JSON 含重复字段，不能可靠复核被覆盖的内容');
+        keys.add(key); space(); position++; scan(depth + 1); space();
+        if (text[position++] === '}') return;
+      }
+    }
+    if (next === '[') {
+      position++; space();
+      if (text[position] === ']') { position++; return; }
+      for (;;) { scan(depth + 1); space(); if (text[position++] === ']') return; }
+    }
+    if (next === '"') { string(); return; }
+    while (position < text.length && !/[\s,\]}]/.test(text[position])) position++;
+  }
+  scan(0);
+  return value;
+}
+
 async function loadJson(path) {
   if ((await stat(path)).size > MAX_BYTES) throw new Error('JSON 文件超过 4 MB');
   const bytes = await readFile(path);
   if (bytes[0] === 0xef && bytes[1] === 0xbb && bytes[2] === 0xbf) throw new Error('请使用不带 BOM 的 UTF-8 JSON');
-  return JSON.parse(new TextDecoder('utf-8', { fatal: true }).decode(bytes));
+  return parseFeedJson(new TextDecoder('utf-8', { fatal: true }).decode(bytes));
 }
 
 export function selfTest() {
@@ -232,6 +273,12 @@ export function selfTest() {
   test('article limit', value => { value.articles = Array.from({ length: 501 }, () => structuredClone(article)); });
   test('meaningful query retained', value => { value.articles[0].url += '?id=10302026a'; value.articles[0].id = articleId(value.articles[0].url); value.latest_article_ids = [value.articles[0].id]; }, true);
   test('tracking query rejected', value => { value.articles[0].url += '?utm_source=test'; value.articles[0].id = articleId(value.articles[0].url); value.latest_article_ids = [value.articles[0].id]; });
+  for (const text of ['{"version":1,"version":1}', '{"version":1,"\\u0076ersion":1}', '{"a":{"id":1,"id":2}}']) {
+    let rejected = false; try { parseFeedJson(text); } catch { rejected = true; }
+    checks++; if (!rejected) throw new Error('自检失败：重复 JSON 字段未被拒绝');
+  }
+  checks++;
+  if (parseFeedJson('{"text":"escaped \\\" \\\\ { } [ ]", "array":[{"id":1},{"id":2}]}').array.length !== 2) throw new Error('自检失败：JSON 字符串边界');
   return checks;
 }
 
