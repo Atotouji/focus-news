@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T10:32:10.492Z",
+  "generated_at": "2026-11-02T11:37:59.826Z",
   "edition": "晚间",
   "latest_article_ids": [],
   "articles": [
@@ -1699,7 +1699,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-c043b71c0a349aa46fe99070",
@@ -1731,7 +1732,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-f85c339ec781424571ff88b0",
@@ -1764,7 +1766,8 @@
       "reference_urls": [
         "https://wtaq.com/2026/11/01/trump-heads-to-iowa-kansas-for-rallies-before-midterms/",
         "https://apnews.com/article/midterms-trump-republicans-iran-tariffs-congress-84336d419a4e8014854ce86dc953284b"
-      ]
+      ],
+      "politics_region": "global"
     },
     {
       "id": "article-6b7b671ff347c6497a0e2592",
@@ -1794,7 +1797,8 @@
       "image_license": null,
       "image_source_url": "https://www.zaobao.com/news/world/story20261102-9931523",
       "image_usage": "source_remote",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-21e0fdc0ffe2e76e529fb65e",
@@ -1829,7 +1833,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-b5541d408d5c775484505168",
@@ -1891,7 +1896,8 @@
       "month_highlight": true,
       "reference_urls": [
         "https://amp.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853"
-      ]
+      ],
+      "politics_region": "global"
     },
     {
       "id": "article-843d1890b91f3122fbf4abf1",
@@ -1955,7 +1961,8 @@
       "month_highlight": true,
       "reference_urls": [
         "https://apnews.com/article/palm-beach-plane-crash-ffdee609e7916ff7fcd178d2b8e69b39"
-      ]
+      ],
+      "politics_region": "global"
     },
     {
       "id": "article-6f410f12736757208d1b4cd0",
@@ -1989,7 +1996,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-b9e96a5951c21addd3921512",
@@ -2019,7 +2027,8 @@
       "image_license": null,
       "image_source_url": "https://www.dw.com/zh/葡萄牙警方暴力清除抗议者营地-数十人受伤/a-79823322",
       "image_usage": "source_remote",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-2a078eb9b3502fd093b62e92",
@@ -2051,7 +2060,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-a4f54ff2c2900cf5f01cdd85",
@@ -2080,7 +2090,8 @@
       "image_source_url": "https://www.undrr.org/news/undrr-escwa-and-league-arab-states-advance-regional-cooperation-disaster-statistics-risk",
       "image_usage": "source_remote",
       "year_highlight": false,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-23d3481b5df9dcd75a288aab",
@@ -2114,7 +2125,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-bd1ca86521348a140b175522",
@@ -2147,7 +2159,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-cd0407cd77f761ebabefd45d",
@@ -2180,7 +2193,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-5d1cb631b1996f0a89ba783a",
@@ -2212,7 +2226,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-753f2945e4b149b97b07c7f8",
@@ -2333,7 +2348,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-3bebd6949b1b6ee8273c9f17",
@@ -2363,7 +2379,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-9e399088353940601a085c3e",
@@ -2395,7 +2412,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-b81f830c592e30ec795fc0ae",
@@ -2427,7 +2445,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-f63de119424494cdc5e007cd",
@@ -2459,7 +2478,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-5ee45d05eb2cb6a72aff6fa8",
@@ -2554,7 +2574,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-14fdd1f3b59a7800f52127c2",
@@ -2586,7 +2607,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-bd03e4a483646b8532a8be38",
@@ -2713,7 +2735,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-b479963f89ee23e04982adfa",
@@ -2899,7 +2922,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-df496099d22cf769e8031404",
@@ -2929,7 +2953,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-ac167c3e79fbe9f1fa3839a3",
@@ -2959,7 +2984,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-7ccf6537c78580a90deb5f83",
@@ -2991,7 +3017,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-6825ae5281ac7c3fe9afc39e",
@@ -3393,7 +3420,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-9a064d95901e645ea065cfa7",
@@ -3522,7 +3550,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-3644197654694ae689db46f1",
@@ -3830,7 +3859,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-8045a0fa82c5fd541477c1e7",
@@ -3862,7 +3892,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-cb0bf0e1617ea81085ee0137",
@@ -4016,7 +4047,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "china"
     },
     {
       "id": "article-724c36123cd9fca39bd08978",
@@ -4046,7 +4078,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-10ce53cc389a03375ed358d5",
@@ -4110,7 +4143,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-8d6665ab69ee0937415c5ac5",
@@ -4327,7 +4361,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-d395c9727f2d29b925a1a8b7",
@@ -4419,7 +4454,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-033e5603f4dfe677d6e5819c",
@@ -4515,7 +4551,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-f7b44fc456d63445a3752247",
@@ -4545,7 +4582,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-45694c398ec51ed060ad8571",
@@ -4605,7 +4643,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-9fd2063f235c43aded059147",
@@ -4637,7 +4676,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-4e66a7e453a3193bb5cb6a8f",
@@ -5013,7 +5053,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-bfc4355d370530a85bd88314",
@@ -5200,7 +5241,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": false
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-f6e0a3b3f52abf457b49fb71",
@@ -6327,7 +6369,8 @@
       "read": 0,
       "is_demo": 0,
       "image_usage": "source_remote",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-c46ccb12033c0979ffd36d8d",
@@ -6589,7 +6632,8 @@
       "read": 0,
       "is_demo": 0,
       "image_usage": "source_remote",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-8ea547338d4efc30cbb2489c",
@@ -6818,7 +6862,8 @@
       "read": 0,
       "is_demo": 0,
       "image_usage": "licensed_asset",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-9aecc6976c0ce44464e62710",
@@ -7621,7 +7666,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-2ec39aa2ae6e9f792791133a",
@@ -7687,7 +7733,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-3ab776e9141c2b63614726b8",
@@ -7974,7 +8021,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-9effb6c300b81781fb5da7a7",
@@ -8137,7 +8185,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "china"
     },
     {
       "id": "article-c5373a603a0dce7e87784bb7",
@@ -8527,7 +8576,8 @@
       "read": 0,
       "is_demo": 0,
       "image_usage": "source_remote",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-720d05f84e1686bbd30bec61",
@@ -8723,7 +8773,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "china"
     },
     {
       "id": "article-4bcfabff914968544946d64f",
@@ -8755,7 +8806,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-8ff9f0a05f792a388a2b478e",
@@ -8820,7 +8872,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-b41f0a755dad4e9eac3db6ab",
@@ -8984,7 +9037,8 @@
       "read": 0,
       "is_demo": 0,
       "image_usage": "source_remote",
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-050a778fd6acfbb78d54fba3",
@@ -9141,7 +9195,8 @@
       "saved": 0,
       "read": 0,
       "is_demo": 0,
-      "month_highlight": true
+      "month_highlight": true,
+      "politics_region": "global"
     },
     {
       "id": "article-de867b53527e279097b70c07",
@@ -9376,6 +9431,41 @@
       "read": 0,
       "is_demo": 0,
       "month_highlight": true
+    },
+    {
+      "id": "article-37ec2032e2eae2759547618a",
+      "source_id": "academic-aawe",
+      "source_name": "American Association for Wind Engineering（AAWE）",
+      "category": "学术",
+      "url": "https://aawe.org/news/17th-international-conference-on-wind-engineering-icwe2027/",
+      "title": "2027国际风工程大会：6月20—25日在多伦多举行，关注风灾与结构安全交流",
+      "title_zh": "2027国际风工程大会：6月20—25日在多伦多举行，关注风灾与结构安全交流",
+      "body": null,
+      "body_zh": "【会议信息｜2026-11-02核验】美国风工程协会（AAWE）与国际风工程协会（IAWE）的官方资料确认，第17届国际风工程大会（ICWE17）计划于 **2027年6月20日至25日**在加拿大多伦多举行，主席为 Gregory Kopp。该系列大会属于 IAWE 的国际会议体系。\n\n这是一条即将举办的学术会议资料，适合持续跟踪强风、风荷载与结构安全方向的交流信息。它不意味着每一场报告都涉及风机或船舶碰撞，具体专题仍要以主办方后续日程为准。\n\nAAWE原公告发表于2025年10月10日，页面记录的修改日为2026年7月28日；本次是核对与收录，不写成今天刚宣布。会议官网当前未能正常读取，因此这里不填写未核实的摘要截止、注册费用或具体会场，也不把已过期征稿窗口当作仍开放。",
+      "preview_zh": "【会议信息｜2026-11-02核验】美国风工程协会（AAWE）与国际风工程协会（IAWE）的官方资料确认，第17届国际风工程大会（ICWE17）计划于 2027年6月20日至25日在加拿大多伦多举行，主席为 Gregory Kopp。该系列大会属于 IAWE 的国际会议体系。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2025-10-10T17:36:49+00:00",
+      "event_start": "2027-06-20",
+      "event_end": "2027-06-25",
+      "image_url": "https://aawe.org/wp-content/uploads/2025/10/conference.png",
+      "image_credit": "AAWE会议公告页配图，非会场实拍；原页图片归属见来源原文。",
+      "image_license": null,
+      "image_source_url": "https://aawe.org/news/17th-international-conference-on-wind-engineering-icwe2027/",
+      "image_usage": "source_remote",
+      "reference_urls": [
+        "https://aawe.org/news/17th-international-conference-on-wind-engineering-icwe2027/",
+        "https://iawe.org/conferences/"
+      ],
+      "year_highlight": false,
+      "month_highlight": false,
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0
     },
     {
       "id": "article-c5c43fdf0c5e1bf684bbeb02",
@@ -11355,6 +11445,17 @@
       "enabled": 1,
       "note": "公开原始公告与明确日期核验；回填不等于当日新发生；图片只保存远程原站引用。",
       "last_checked": "2026-11-02T10:31:02.424Z",
+      "last_error": null
+    },
+    {
+      "id": "academic-aawe",
+      "name": "American Association for Wind Engineering（AAWE）",
+      "category": "学术",
+      "adapter": "briefing",
+      "feed_url": "https://aawe.org/news/",
+      "enabled": 1,
+      "note": "风工程协会的公开会议公告；会期、公告发表日与核验日分别记录，不复制联系方式。",
+      "last_checked": "2026-11-02T11:37:59.826Z",
       "last_error": null
     },
     {
