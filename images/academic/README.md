@@ -1,5 +1,11 @@
 # 学术配图来源与许可
 
+追加图件：
+
+- `renewable-review-figure4.jpg`：Chen等，Renewable and Sustainable Energy Reviews 226 (2026), 116510，Fig.4。[论文](https://research.chalmers.se/en/publication/549326)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。从开放作者稿第4页提取完整原生文献分布图，未改图数据。
+- `cargo-outflow-figure1.png`：Schreuder等，Applied Ocean Research (2025), 104723，Fig.1。[论文](https://research.chalmers.se/en/publication/547697)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。从开放稿第4页提取完整三联模型图，未改图内容。
+- `pile-group-figure1.png`：Cao等，Ocean Engineering 354 (2026), 125018，Fig.1。[原始机构页及许可](https://strathprints.strath.ac.uk/95931/)、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。从作者稿第6页提取完整缩尺船模图，保留全部照片、箭头、比例、标注和图注；未改图内容。三个文件均已对照论文图注视觉核验。
+
 本目录仅保存逐图核明CC BY 4.0的论文图件，供公开新闻库托管与App加载。图件保留原论文内容；如由PDF区域渲染提取，具体处理见manifest。每张图的作者、论文原稿、许可与处理说明如下。
 
 ## staps-cons-figure1.jpg
