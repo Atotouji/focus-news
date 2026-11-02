@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-02T09:41:13.405Z",
+  "category": "学术",
+  "priority_network": {
+    "name": "Hong Hao / 郝洪",
+    "institution": "广州大学",
+    "profile": "https://www.gzhu.edu.cn/info/1105/11857.htm",
+    "center": "https://eertc.gzhu.edu.cn/",
+    "scope": "优先整个正式团队及有官方履历证实的学生/博士后/历任成员网络，包括项目、职称/讲席、任职、机构流动、重要获奖和团队建设。",
+    "relationship_rule": "师承、博士后、当前成员、曾任成员、合作分别记录；共同署名或同校不能单独证明师承。动态从官方团队/个人履历逐步扩展，不编造全量门派名单。"
+  },
+  "retained_groups": [
+    {
+      "name": "Kaiming Bi / 毕凯明",
+      "profile": "https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/"
+    },
+    {
+      "name": "Yong Xia / 夏勇",
+      "profile": "https://www.polyu.edu.hk/cee/people/academic-staff/ir-prof-yong-xia/"
+    },
+    {
+      "name": "Wei Fan / 湖南大学樊伟",
+      "profile": "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm"
+    }
+  ],
+  "universities": [
+    {
+      "name": "广州大学",
+      "news": "https://news.gzhu.edu.cn/",
+      "unit": "https://eertc.gzhu.edu.cn/"
+    },
+    {
+      "name": "同济大学",
+      "news": "https://news.tongji.edu.cn/",
+      "leadership": "https://www.tongji.cn/xxgk1/xrld1/xrxzld/xz.htm",
+      "civil": "https://civileng.tongji.edu.cn/18055/list.htm",
+      "verified_baseline": {
+        "president": "杨金龙",
+        "discipline": "理论与计算化学，不能写成土木教授",
+        "source": "https://www.tongji.cn/info/1122/35385.htm"
+      }
+    },
+    {
+      "name": "广西大学",
+      "news": "https://news.gxu.edu.cn/",
+      "leadership": "https://www.gxu.edu.cn/xdgl1/xrld2.htm",
+      "civil": "https://tmjz.gxu.edu.cn/xxgk/xrld.htm",
+      "verified_baseline": {
+        "president": "肖建庄",
+        "civil_evidence": "https://news.gxu.edu.cn/info/1002/44207.htm",
+        "source": "https://www.gxu.edu.cn/info/1486/35007.htm"
+      }
+    }
+  ],
+  "overseas_entry_examples": [
+    {
+      "unit": "UC Berkeley PEER",
+      "url": "https://peer.berkeley.edu/"
+    },
+    {
+      "unit": "Stanford John A. Blume Earthquake Engineering Center",
+      "url": "https://blume.stanford.edu/"
+    },
+    {
+      "unit": "ETH Zürich Institute of Structural Engineering",
+      "url": "https://ibk.ethz.ch/"
+    },
+    {
+      "unit": "EPFL Earthquake Engineering and Structural Dynamics",
+      "url": "https://www.epfl.ch/labs/eesd/"
+    }
+  ],
+  "news_rules": [
+    "论文主轴继续为船舶碰撞与风机灾害；机构及团队新闻在土木/结构/抗震/冲击领域适度扩展",
+    "只纳入有学科相关性和实质影响的项目、任命、迁校、奖项/平台，不刷日常会见、泛化宣传或大学排名",
+    "校长/院长先核是否土木背景，任职必须有正式任免和现任页面交叉；教授/副教授/讲席/名誉/兼职分别表述",
+    "旧履历只作身份基线；今年才发现旧任命不写成最近升职，基金启动与获批时间不混",
+    "外方强团队依公开成果与重要事件筛选，不声称未经核实的排名或全门派关系",
+    "没有真实进展就不推送；不推断未公开的项目金额、晋升、离职原因"
+  ]
+}

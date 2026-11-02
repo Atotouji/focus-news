@@ -1,0 +1,27 @@
+{
+  "version": "1.4.0",
+  "generated_at": "2026-11-02T10:32:10.492Z",
+  "archive_path": "archives/2026-11-02/1832.json",
+  "snapshot_path": "snapshots/2026-11-02-1.4.json",
+  "previous_articles": 256,
+  "preserved_unchanged": 256,
+  "added": 61,
+  "articles": 317,
+  "sources": 112,
+  "counts": {
+    "影视": 50,
+    "时政": 55,
+    "AI": 52,
+    "游戏": 57,
+    "数码": 50,
+    "学术": 53
+  },
+  "latest": 0,
+  "year": 140,
+  "monthly": 240,
+  "images": 311,
+  "new_images": 61,
+  "new_distinct_images": 61,
+  "curated_guides": 50,
+  "note": "本次为栏目和资料库扩充；回填及经典回看不冒充今天新增新闻，因此本期朗读列表为空。已有256篇文章逐条保持不变。"
+}

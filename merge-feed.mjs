@@ -114,10 +114,11 @@ export function mergeFeed({ base, additions = [], covers = {}, generatedAt, edit
   const ordinary = candidates.filter(entry => entry.article.year_highlight !== true).sort(order);
   const selection=new Map(protectedArticles.map(entry=>[entry.article.id,entry]));
   // Keep useful breadth in each column as daily updates accumulate.
-  const columnFloor=Math.min(50,Math.floor(maxArticles/5));
-  for(const category of ['时政','AI 新闻','游戏','数码','学术']){
-    let count=[...selection.values()].filter(entry=>entry.article.category===category).length;
-    for(const entry of ordinary)if(count<columnFloor&&entry.article.category===category&&!selection.has(entry.article.id)){selection.set(entry.article.id,entry);count++;}
+  const columnFloor=Math.min(50,Math.floor(maxArticles/6));
+  const column=entry=>entry.article.category==='AI 新闻'?'AI':entry.article.category;
+  for(const category of ['时政','AI','游戏','数码','影视','学术']){
+    let count=[...selection.values()].filter(entry=>column(entry)===category).length;
+    for(const entry of ordinary)if(count<columnFloor&&column(entry)===category&&!selection.has(entry.article.id)){selection.set(entry.article.id,entry);count++;}
   }
   if(selection.size>maxArticles)throw new Error('年度保护与栏目保留超过容量，不能静默丢弃；请明确调整保留策略');
   for(const entry of ordinary)if(selection.size<maxArticles&&!selection.has(entry.article.id))selection.set(entry.article.id,entry);

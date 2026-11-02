@@ -6,9 +6,9 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT_FIELDS = ['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources'];
 const ARTICLE_FIELDS = ['id', 'source_id', 'source_name', 'category', 'url', 'title', 'title_zh', 'body', 'body_zh', 'preview_zh', 'scope', 'language', 'translation_status', 'translation_error', 'translation_model', 'translated_at', 'published_at', 'image_url', 'saved', 'read', 'is_demo'];
-const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight'];
+const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight', 'date_basis'];
 const SOURCE_FIELDS = ['id', 'name', 'category', 'adapter', 'feed_url', 'enabled', 'note', 'last_checked', 'last_error'];
-const CATEGORIES = new Set(['时政', 'AI 新闻', '游戏', '数码', '学术', '未分类']);
+const CATEGORIES = new Set(['时政', 'AI', 'AI 新闻', '游戏', '数码', '影视', '学术', '未分类']);
 const EDITIONS = new Set(['早间', '午间', '晚间']);
 const MAX_BYTES = 4 * 1024 * 1024;
 const cp = value => [...value].length;
@@ -174,6 +174,8 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     }
     if (Object.hasOwn(article,'year_highlight') && typeof article.year_highlight !== 'boolean') fail(`${path}.year_highlight`, '年度重要标记应为布尔值');
     if (Object.hasOwn(article,'month_highlight') && typeof article.month_highlight !== 'boolean') fail(`${path}.month_highlight`, '月度重要标记应为布尔值');
+    if (Object.hasOwn(article,'date_basis') && ![null,'source','curated'].includes(article.date_basis)) fail(`${path}.date_basis`, '日期依据须为source或curated，旧稿可省略或null');
+    if (article.date_basis==='curated' && (article.category!=='影视'||article.year_highlight===true)) fail(`${path}.date_basis`, '整理日期仅限明确标注的影视资料导读，不作年度事件日期');
     if (Object.hasOwn(article,'image_usage') && article.image_usage!==null && !['source_remote','licensed_asset'].includes(article.image_usage)) fail(`${path}.image_usage`, '图片用途须为source_remote或licensed_asset');
     if (Object.hasOwn(article,'reference_urls')) {
       if (!Array.isArray(article.reference_urls) || article.reference_urls.length > 20) fail(`${path}.reference_urls`, '相关报道和公开论文全文链接最多20个');
@@ -281,6 +283,9 @@ export function selfTest() {
   test('annual flag type', value => { value.articles[0].year_highlight='yes'; });
   test('monthly important flag', value => { value.articles[0].month_highlight=true; },true);
   test('monthly flag type', value => { value.articles[0].month_highlight=1; });
+  test('curated film date', value => { value.articles[0].category='影视';value.articles[0].date_basis='curated'; },true);
+  test('curated date cannot pretend annual event', value => { value.articles[0].category='影视';value.articles[0].date_basis='curated';value.articles[0].year_highlight=true; });
+  test('curated date cannot replace academic source date', value => { value.articles[0].date_basis='curated'; });
   test('month precision retains unknown day', value => { value.articles[0].published_at='2026-02'; },true);
   test('invalid month precision', value => { value.articles[0].published_at='2026-13'; });
   test('source image is a link without relicensing', value => { Object.assign(value.articles[0],{image_url:'https://ichef.bbci.co.uk/news/1024/source.jpg',image_credit:'BBC 原报道署名见原文',image_license:null,image_source_url:'https://www.bbc.com/news/articles/source-image',image_usage:'source_remote'}); },true);

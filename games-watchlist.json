@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-02T09:41:13.405Z",
+  "category": "游戏",
+  "priority": [
+    {
+      "studio": "FromSoftware / FS社",
+      "works": [
+        "Elden Ring / 艾尔登法环",
+        "Shadow of the Erdtree",
+        "Nightreign / 黑夜君临",
+        "The Duskbloods",
+        "Dark Souls",
+        "Bloodborne",
+        "Sekiro",
+        "Armored Core及正式公布的新项目"
+      ],
+      "official": [
+        "https://www.fromsoftware.jp/ww/",
+        "https://www.theduskbloods.jp/",
+        "https://en.bandainamcoent.eu/elden-ring"
+      ]
+    },
+    {
+      "studio": "CD PROJEKT RED",
+      "works": [
+        "The Witcher IV及后续巫师项目",
+        "巫师3重要更新"
+      ],
+      "official": [
+        "https://www.thewitcher.com/",
+        "https://www.cdprojekt.com/en/media/news/"
+      ]
+    },
+    {
+      "studio": "Larian Studios",
+      "works": [
+        "Divinity新作",
+        "Baldur’s Gate 3重要后续"
+      ],
+      "official": [
+        "https://larian.com/",
+        "https://larian.com/press",
+        "https://divinity.com/"
+      ]
+    },
+    {
+      "works": [
+        "影之刃零 / Phantom Blade Zero",
+        "鬼武者 / Onimusha: Way of the Sword",
+        "其它热门独立游戏与3A作品"
+      ],
+      "note": "继续保留前述重点，不因新增关注丢失原兴趣。"
+    }
+  ],
+  "esports": {
+    "cs": "CS2（用户所称CSGO赛事的当前主线）：重大赛程、赛果、阵容与规则，比赛时间注明时区；转会传闻与官宣区分。",
+    "lol": "LoL国际赛事、LPL/LCK及重点赛事，赛果必须已完成，不能把预测或赛程写成结果。",
+    "sources": [
+      {
+        "name": "HLTV",
+        "url": "https://www.hltv.org/",
+        "note": "已确认普通请求可能403；仅使用可正常读取的原页，不绕过挑战，不把摘要冒称全文。"
+      },
+      {
+        "name": "LoL Esports",
+        "url": "https://lolesports.com/en-GB/news"
+      },
+      {
+        "name": "ESL",
+        "url": "https://pro.eslgaming.com/tour/"
+      },
+      {
+        "name": "BLAST",
+        "url": "https://blast.tv/"
+      }
+    ]
+  },
+  "reviews": {
+    "sources": [
+      "具名媒体原始评测（如PC Gamer、Eurogamer、GameSpot、IGN）",
+      "HLTV赛事分析（有原文可读时）",
+      "Metacritic/OpenCritic及Steam用户评价原站"
+    ],
+    "rules": [
+      "注明平台、版本、评测日期、分值量尺和样本，不混抢先体验与正式版",
+      "评分显著偏低、普遍严重技术问题或有充分证据的过度说教/改编争议作品，不作为游玩推荐；可客观报道问题与争议原因",
+      "默认参考媒体汇总70/100、Steam70%等作提示线，最终结合样本与版本，不靠单篇差评或预售时无分否定未发售热门作品"
+    ]
+  },
+  "controversy": {
+    "quota": "仅有实质消息才收录，通常每期全库最多1篇、游戏稿中不超过约10%；无消息为0。",
+    "topics": [
+      "具体叙事/改编决策的争议",
+      "玩家对低评分原因的可追溯质疑",
+      "Sweet Baby Inc等叙事/文化咨询公司的已证实合作、实际工作及相关舆论"
+    ],
+    "verification": [
+      "优先游戏鸣谢、发行商/开发商/咨询公司公开声明及具名调查",
+      "区分合作存在、具体负责内容、评论者观点和因果推测",
+      "不能从咨询公司参与或某类角色身份自动断言评分/销量由其造成",
+      "不照搬未经证实名单、网暴动员、匿名爆料；不发布对个人的骚扰信息"
+    ],
+    "company_entry": "https://sweetbabyinc.com/"
+  }
+}

@@ -200,3 +200,13 @@ test('CLI handles repeated additions, covers, latest and remove JSON files witho
     await rmdir(directory);
   }
 });
+
+test('six columns retain films and combine both AI labels under one floor',()=>{
+ const cats=['时政','AI 新闻','游戏','数码','影视','学术'];
+ const old=cats.flatMap((category,c)=>Array.from({length:50},(_,i)=>article(40000+c*100+i,{category,published_at:'2025-01-01'})));
+ const recent=Array.from({length:500},(_,i)=>article(50000+i,{category:i%2?'AI':'AI 新闻',published_at:'2026-01-19'}));
+ const {feed}=run({base:doc(old),additions:[doc(recent)]});
+ assert.equal(feed.articles.length,500);
+ for(const c of cats.filter(c=>c!=='AI 新闻'))assert.equal(feed.articles.filter(a=>a.category===c).length,50);
+ assert.equal(feed.articles.filter(a=>['AI','AI 新闻'].includes(a.category)).length,250);
+});

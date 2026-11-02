@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-02T09:41:13.405Z",
+  "category": "影视",
+  "timezone": "Asia/Hong_Kong",
+  "retained_minimum": 50,
+  "scope": [
+    "重要电影的正式立项、预告、定档、改期与上映前期待",
+    "Netflix与国内平台已上线高口碑新剧，兼顾其它优质平台",
+    "少量经典老剧的优秀媒体评测、制作访谈与有价值的回看"
+  ],
+  "sections": [
+    "待上映/待上线",
+    "新作口碑",
+    "经典回看"
+  ],
+  "quality": {
+    "defaults": "已上线推荐优先可读原站Rotten Tomatoes影评人好评率≥85%且至少10篇影评，兼看观众≥70%；或豆瓣≥8.0且至少1000评价、IMDb≥7.5且至少1000票；明确阈值是编辑筛选而非质量保证。",
+    "alternatives": "没有可核实时评分时，可依据具名媒体的具体正面评测或奖项作为独立口碑参考，明确是媒体观点，不编造百分比。",
+    "required": [
+      "评分平台",
+      "对应作品与季数",
+      "分值和量尺",
+      "人数/影评数量（原站给出多少就记录多少）",
+      "核验日期"
+    ],
+    "rules": [
+      "Tomatometer是正面影评占比，不是平均分；Popcornmeter另列",
+      "旧季高分不能当新季评分，预告热度与播放榜不当口碑",
+      "待上映只写期待依据与已证实主创/制作信息，不虚构已看过或提前影评",
+      "低样本/分歧明显应标明；不把宣传稿当独立评测",
+      "国内与海外上线分开；地区、院线/流媒体、整季/分批区分",
+      "默认不剧透结局；深度评测含关键剧透时标题/开头提示"
+    ]
+  },
+  "providers": [
+    {
+      "name": "Netflix Tudum",
+      "url": "https://www.netflix.com/tudum/"
+    },
+    {
+      "name": "Netflix Media Center",
+      "url": "https://media.netflix.com/"
+    },
+    {
+      "name": "Universal Pictures",
+      "url": "https://www.universalpictures.com/"
+    },
+    {
+      "name": "Warner Bros.",
+      "url": "https://www.warnerbros.com/"
+    },
+    {
+      "name": "Disney / Pixar",
+      "url": "https://movies.disney.com/"
+    },
+    {
+      "name": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/"
+    },
+    {
+      "name": "豆瓣电影",
+      "url": "https://movie.douban.com/"
+    },
+    {
+      "name": "IMDb",
+      "url": "https://www.imdb.com/"
+    },
+    {
+      "name": "国内平台及具名剧评",
+      "examples": [
+        "央视/爱奇艺/腾讯视频/优酷/芒果TV正式页面",
+        "人民网/新华网/澎湃新闻/文汇等原始评论"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "title": "The Odyssey / 奥德赛",
+      "status_as_of": "2026-11-02",
+      "state": "已于2026-07-17上映，应作为回看/后续发行消息，不能再标为尚待首次上映",
+      "source": "https://www.odysseymovie.com/"
+    }
+  ],
+  "images": "优先同一新闻/同一作品的海报、剧照与片方资料，严格区分季数和版本，避免通用胶片图；远程引用不等于再分发许可。"
+}

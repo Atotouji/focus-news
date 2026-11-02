@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "checked_at": "2026-11-02T06:07:40Z",
+  "version": 2,
+  "checked_at": "2026-11-02T10:24:48.599Z",
   "timezone": "Asia/Hong_Kong",
   "year": 2026,
   "editorial_scope": {
@@ -10,14 +10,14 @@
       "船–浮式风机碰撞",
       "风机在台风、地震、波浪、极端事件及多灾害下的安全与韧性"
     ],
-    "other_academic": "仅限Kaiming Bi、Yong Xia、湖南大学Wei Fan三个已消歧研究团队的直接相关成果或官方动态。",
+    "other_academic": "保留毕凯明、夏勇、湖南大学樊伟；重点扩展广州大学郝洪的正式团队及官方履历确认的师承/历任成员网络，兼顾同济、广西大学和国际土木强团队的实质项目、任职、流动、奖励与平台动态，见academic-network-watchlist.json。",
     "exclude": [
       "通用PIV或与这些对象无关的测量文章",
       "同名作者成果",
       "未读原始资料却声称全文已验证",
       "以期刊名称、奖项或影响因子代替证据"
     ],
-    "year_policy": "主回看清单仅2026正式文献年/2026官方动态；记录卷期与在线日期的差别。往年资料卡单独保存，不标成今年新闻。"
+    "year_policy": "真实发表/公告日期；往年代表作明确回看，year_highlight=false；当年项目批准、启动与成果日期分别写，不将首次入库当成今日新发生。"
   },
   "groups": [
     {
@@ -31,7 +31,6 @@
       "homepage": "https://www.polyu.edu.hk/cee/~kaimbi/",
       "institutional_research_profile": "https://research.polyu.edu.hk/en/persons/kaiming-bi/",
       "orcid": "https://orcid.org/0000-0002-5702-6119",
-      "public_email": "kaiming.bi@polyu.edu.hk",
       "identity_evidence": [
         "https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/",
         "https://www.polyu.edu.hk/cee/~kaimbi/",
@@ -64,7 +63,6 @@
       "homepage": "https://www.polyu.edu.hk/cee/~ceyxia/",
       "institutional_research_profile": "https://research.polyu.edu.hk/en/persons/yong-xia/",
       "orcid": "https://orcid.org/0000-0001-5319-5858",
-      "public_email": "y.xia@polyu.edu.hk",
       "identity_evidence": [
         "https://www.polyu.edu.hk/cee/people/academic-staff/ir-prof-yong-xia/",
         "https://www.polyu.edu.hk/jlmi/people/group/",
@@ -94,7 +92,6 @@
       "homepage": "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
       "orcid": null,
       "orcid_status": "本次未找到由湖南大学官方人员页直接确认的ORCID，不从同名聚合记录猜填。",
-      "public_email": "wfan@hnu.edu.cn",
       "identity_evidence": [
         "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
         "https://ce.hnu.edu.cn/szdw/jsmc.htm"
@@ -122,7 +119,7 @@
           "reason": "ORCID所属UNC Charlotte交通研究Wei (David) Fan，非湖南大学桥梁系樊伟。"
         }
       ],
-      "caution": "用Hunan University、wfan@hnu.edu.cn、桥梁抗撞主题及稳定合作者共同消歧；不得与湖南师范大学心理学范伟混用。"
+      "caution": "用Hunan University、（联系方式省略）、桥梁抗撞主题及稳定合作者共同消歧；不得与湖南师范大学心理学范伟混用。"
     }
   ],
   "journal_policy": {
@@ -443,5 +440,6 @@
       "reason": "有出版方公开摘要索引，但原始页面403，未找到可正常打开的机构论文记录，未纳入主回看。"
     }
   ],
-  "image_policy": "image_url当前均为null；有明确CC BY许可的图作为候选单独记录，根代理须核对单图第三方署名、实际URL及画面后才发布，不能把开放摘要自动视为图片授权。"
+  "image_policy": "逐篇优先论文内文图/图形摘要，团队动态优先同一公告图。source_remote保留真实原页、署名且许可未知为null，不公开托管；仅明确开放许可且逐图核实后可托管。",
+  "network_watchlist": "academic-network-watchlist.json"
 }

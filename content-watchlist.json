@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "checked_at": "2026-11-02T08:27:00.351Z",
+  "version": 2,
+  "checked_at": "2026-11-02T09:41:13.405Z",
   "timezone": "Asia/Hong_Kong",
   "schedule": "每天09:00、12:00、17:00开始检索；不是实时通讯社专线，实际发布以generated_at为准",
   "categories": {
@@ -153,7 +153,7 @@
         }
       ]
     },
-    "AI 新闻": {
+    "AI": {
       "retained_minimum": 50,
       "providers": [
         {
@@ -183,8 +183,38 @@
         {
           "name": "Anthropic 官方",
           "entry": "https://www.anthropic.com/news"
+        },
+        {
+          "name": "DeepSeek 官方",
+          "entry": "https://www.deepseek.com/en/news/"
+        },
+        {
+          "name": "DeepSeek 更新日志",
+          "entry": "https://api-docs.deepseek.com/updates/"
+        },
+        {
+          "name": "Qwen 官方",
+          "entry": "https://qwen.ai/blog"
+        },
+        {
+          "name": "Kimi 官方研究",
+          "entry": "https://www.kimi.com/en/blog/"
+        },
+        {
+          "name": "智谱 Z.ai",
+          "entry": "https://z.ai/blog"
+        },
+        {
+          "name": "MiniMax",
+          "entry": "https://www.minimax.io/news"
+        },
+        {
+          "name": "字节 Seed",
+          "entry": "https://seed.bytedance.com/"
         }
-      ]
+      ],
+      "selection": "国内外按实质重要性筛选：重大模型/权重开放、能力或成本/可用性显著改变、可核重要研究或落地；国内不设凑数配额，小营销/榜单变化不报；厂商评测明确归属，开放权重不自动等于OSI开源。",
+      "wire_compatibility": "界面名AI，公开稿保留AI 新闻线格式以兼容1.3；新校验器同时接受AI与AI 新闻，保留策略合并为同栏。"
     },
     "游戏": {
       "retained_minimum": 50,
@@ -217,7 +247,8 @@
           "name": "PlayStation.Blog",
           "entry": "https://blog.playstation.com/"
         }
-      ]
+      ],
+      "policy": "games-watchlist.json"
     },
     "数码": {
       "retained_minimum": 50,
@@ -292,6 +323,44 @@
         }
       ]
     },
+    "影视": {
+      "retained_minimum": 50,
+      "providers": [
+        {
+          "name": "Netflix Tudum",
+          "entry": "https://www.netflix.com/tudum/"
+        },
+        {
+          "name": "Netflix Media Center",
+          "entry": "https://media.netflix.com/"
+        },
+        {
+          "name": "Universal Pictures",
+          "entry": "https://www.universalpictures.com/"
+        },
+        {
+          "name": "Warner Bros.",
+          "entry": "https://www.warnerbros.com/"
+        },
+        {
+          "name": "Disney / Pixar",
+          "entry": "https://movies.disney.com/"
+        },
+        {
+          "name": "Rotten Tomatoes",
+          "entry": "https://www.rottentomatoes.com/"
+        },
+        {
+          "name": "豆瓣电影",
+          "entry": "https://movie.douban.com/"
+        },
+        {
+          "name": "IMDb",
+          "entry": "https://www.imdb.com/"
+        }
+      ],
+      "policy": "entertainment-watchlist.json"
+    },
     "学术": {
       "retained_minimum": 50,
       "providers": [
@@ -363,7 +432,8 @@
           "name": "Newcastle University ePrints",
           "entry": "https://eprints.ncl.ac.uk/"
         }
-      ]
+      ],
+      "policy": "academic-network-watchlist.json"
     }
   },
   "editorial_rules": [
@@ -389,7 +459,8 @@
         "https://www.capcom.co.jp/ir/english/news/",
         "https://www.pcgamer.com/"
       ],
-      "note": "同一游戏可跟踪实质不同更新，但不能把同一次发售拆成多条。PS与PC/Xbox/Nintendo官方资料同时查，不能只查某一家平台。"
+      "note": "同一游戏可跟踪实质不同更新，但不能把同一次发售拆成多条。PS与PC/Xbox/Nintendo官方资料同时查，不能只查某一家平台。",
+      "new_scope": "参照games-watchlist.json，优先FS社/巫师续作/Larian新作/CS2与LoL赛事，并保留原重点。"
     },
     "digital": {
       "brands": [
@@ -424,9 +495,15 @@
       "other_groups": [
         "PolyU Kaiming Bi（毕凯明）",
         "PolyU Yong Xia（夏勇）",
-        "湖南大学Wei Fan（樊伟）"
+        "湖南大学Wei Fan（樊伟）",
+        "广州大学Hong Hao正式团队与经证实的师承/历任成员网络",
+        "同济/广西大学及海外土木强团队的实质学术动态"
       ],
-      "note": "按官方机构与作者消歧；只读摘要如实说明。往年代表作明确回看，月精度不捏造日期。"
+      "note": "具体边界与任职核对见academic-network-watchlist.json；原有三团队继续关注。"
+    },
+    "entertainment": {
+      "policy": "entertainment-watchlist.json",
+      "note": "上映状态、口碑、经典回看分开；评分有来源/季数/人数/时间，默认无结局剧透。"
     }
   }
 }
