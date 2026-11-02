@@ -1,0 +1,98 @@
+学术回看来源核查（2026-11-02，Asia/Hong_Kong）
+范围：8篇2026文献年论文+1条2026指定课题组官方动态。每项主URL已实际open成功。未读取授权受限全文的项目明确标注公开摘要；没有复制论文全文或强凑参数。
+三组身份：PolyU Kaiming Bi=毕凯明/畢凱明；ORCID0000-0002-5702-6119由院系官方链接确认。PolyU Yong Xia=夏勇；ORCID0000-0001-5319-5858由院系官方链接确认。HNU Wei Fan=樊伟，桥梁系教授，wfan@hnu.edu.cn；本次没有官方确认ORCID，不猜填。
+bi官方身份页：https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/
+xia官方身份页：https://www.polyu.edu.hk/cee/people/academic-staff/ir-prof-yong-xia/
+fan官方身份页：https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm
+夏勇中文名与实验室身份交叉页：https://www.polyu.edu.hk/jlmi/people/group/
+同名风险：ORCID0000-0001-9815-710X为UNC Charlotte交通学者Wei (David) Fan，不是湖南大学樊伟。聚合书目里的跨学科Yong Xia作品不能仅凭名字纳入。
+
+1. Dynamic behaviors of operational floating offshore wind turbines subjected to ship collisions
+主URL（已open）：https://ira.lib.polyu.edu.hk/handle/10397/118616
+日期：2026-04-15；期刊卷期日期，机构知识库明确列15-Apr-2026；并非宣称今日新发布。
+作者：Xudong Ye; Xiaoqiang Yang; Wei Fan; Mindong Yang; Kaiming Bi
+证据层级：institutional_abstract
+DOI：10.1016/j.oceaneng.2026.124533
+关联来源：https://doi.org/10.1016/j.oceaneng.2026.124533 | https://www.sciencedirect.com/science/article/pii/S0029801826003677 | https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/ | https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm
+正文字符数：635
+
+2. Ship bow impact force in head-on collision
+主URL（已open）：https://orbit.dtu.dk/en/publications/ship-bow-impact-force-in-head-on-collision/
+日期：2026-01-30；Marine Structures 106卷期日期；DTU将文献年明确列为2026，DOI中的2025不直接代表卷期年份。
+作者：Shengming Zhang; Preben Terndrup Pedersen
+证据层级：institutional_abstract
+DOI：10.1016/j.marstruc.2025.103940
+关联来源：https://doi.org/10.1016/j.marstruc.2025.103940 | https://www.sciencedirect.com/science/article/abs/pii/S0951833925001637
+正文字符数：689
+
+3. Experimental and probabilistic analysis of pile group under ship impact for protecting nuclear power plants
+主URL（已open）：https://strathprints.strath.ac.uk/95931/
+日期：2026-03-13；机构记录明确Published Online 13 March 2026；卷期出版日期为1 May 2026。
+作者：Zhiyang Cao; Minghan Huang; Yuanqiang Zhang; Guoji Xu; Jinsheng Wang
+证据层级：institutional_abstract_and_public_section_excerpts
+DOI：10.1016/j.oceaneng.2026.125018
+关联来源：https://doi.org/10.1016/j.oceaneng.2026.125018 | https://strathprints.strath.ac.uk/95931/7/Cao-etal-OE-2026-Experimental-and-probabilistic-analysis-of-pile-group-under-ship-impact.pdf
+正文字符数：635
+
+4. Structural protection of ship-shaped offshore installations using hollow-section rubber fenders under high-energy side-by-side collisions
+主URL（已open）：https://discovery.ucl.ac.uk/id/eprint/10222203/
+日期：2026-04-30；出版方公开元数据标注Ocean Engineering 353卷Part 2，30 April 2026；UCL机构页确认2026。
+作者：Hyeong Jin Kim; Sang Min Park; Jeom-Kee Paik
+证据层级：institutional_abstract
+DOI：10.1016/j.oceaneng.2026.124808
+关联来源：https://doi.org/10.1016/j.oceaneng.2026.124808 | https://discovery.ucl.ac.uk/id/eprint/10222203/7/Kim_1-s2.0-S0029801826006426-main.pdf
+正文字符数：652
+
+5. Numerical simulation and dynamic response analysis of a ship–train–bridge system under vessel collision
+主URL（已open）：https://link.springer.com/article/10.1186/s43251-025-00200-5
+日期：2026-03-18；出版社明示Published与Version of record均为18 March 2026。
+作者：Bo Liu; Hai Fang; Enshi Jia; Xinchen Zhang; Lu Zhu; Hongfei Yan; Shenlin Yu
+证据层级：open_access_selected_sections
+DOI：10.1186/s43251-025-00200-5
+关联来源：https://doi.org/10.1186/s43251-025-00200-5
+正文字符数：651
+
+6. How well can the Mann model describe typhoon turbulence?
+主URL（已open）：https://wes.copernicus.org/articles/11/961/2026/
+日期：2026-03-26；出版社明确Published 26 March 2026；讨论稿始于2025，最终论文为2026。
+作者：Sara Müller; Xiaoli Guo Larsén; Fei Hu
+证据层级：open_access_selected_sections
+DOI：10.5194/wes-11-961-2026
+关联来源：https://doi.org/10.5194/wes-11-961-2026 | https://wes.copernicus.org/articles/11/961/2026/wes-11-961-2026.pdf
+正文字符数：635
+
+7. Grand challenges in designing resilient wind energy systems in areas prone to tropical cyclones
+主URL（已open）：https://wes.copernicus.org/articles/11/2749/2026/
+日期：2026-08-03；出版社明确Published 3 August 2026。
+作者：Georgios Deskos; Jiali Wang; Sanjay Arwade; Murray Fisher; Brian Hirth; Xiaoli Guo Larsén; Julie K. Lundquist; Andrew Myers; Weichiang Pang; William J. Pringle; Robert Rogers; Miguel Sanchez-Gomez; Chao Sun; Atsushi Yamaguchi; Paul Veers
+证据层级：open_access_selected_sections
+DOI：10.5194/wes-11-2749-2026
+关联来源：https://doi.org/10.5194/wes-11-2749-2026
+正文字符数：647
+
+8. 50-year wind speed maps for tropical-cyclone-affected regions using best track data
+主URL（已open）：https://wes.copernicus.org/articles/11/1889/2026/
+日期：2026-05-26；出版社明确Published 26 May 2026。
+作者：Keeta Chapman-Smith; Xiaoli Guo Larsén; Mark Laier Brodersen
+证据层级：open_access_selected_sections
+DOI：10.5194/wes-11-1889-2026
+关联来源：https://doi.org/10.5194/wes-11-1889-2026
+正文字符数：645
+
+9. SKL-CRCC Member Prof. Kaiming BI Honored with the Nishino Prize at EASEC-19
+主URL（已open）：https://www.polyu.edu.hk/sklcrcc/news-and-events/news/2026/20260724_nishino-prize/
+日期：2026-07-24；PolyU官方新闻发布日期；会议实际于2026年7月13至15日举行。
+作者：官方新闻，无论文作者列表
+证据层级：official_university_news
+DOI：不适用
+关联来源：https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/ | https://www.polyu.edu.hk/cee/~kaimbi/ | https://orcid.org/0000-0002-5702-6119
+正文字符数：613
+
+访问限制与排除：
+ScienceDirect多个原页实际open返回403；没有绕过付费限制或称已读全文。可读机构记录已用于主URL。Strathprints作者稿PDF曾超时，因此摘要与公开节选才是本次事实范围。
+未把2024年半潜浮体碰撞会议论文当作2026年Marine Structures新论文；有关2026大直径圆柱、船桥塔、台风地震、Xia龙卷风论文仅列watchlist候选，不当已核回看。
+通用PIV与船舶/船桥/船浮式风机及指定三组无直接关系，主清单没有收录。
+不填写未经核实的期刊影响因子或分区。原始摘要的“研究稀缺”“改善准确性”等表述不自动改写成首次或全面优越。
+往年代表作单独在academic-background-cards.json，不混入今年新闻。
+图片：WES与Advances in Bridge Engineering已核CC BY4.0，但图像仅记候选；主feed image_url为null，根代理需核单图与可达性后再使用。
+

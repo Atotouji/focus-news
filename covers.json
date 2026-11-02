@@ -1,0 +1,33 @@
+{
+  "时政": {
+    "image_url": "https://raw.githubusercontent.com/Atotouji/focus-news/main/images/covers/politics-earth-apollo17.jpg",
+    "image_credit": "资料图（非现场）：NASA/Apollo 17 crew; taken by either Harrison Schmitt or Ron Evans",
+    "image_license": "Public domain",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg"
+  },
+  "AI 新闻": {
+    "image_url": "https://raw.githubusercontent.com/Atotouji/focus-news/main/images/covers/ai-nersc-data-center.jpg",
+    "image_credit": "资料图（非现场）：D Coetzee",
+    "image_license": "CC0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:UPS_Power_Management_Module,_iDataPlex_racks_with_network_cabling_in_NERSC_data_center_(2).jpg"
+  },
+  "游戏": {
+    "image_url": "https://raw.githubusercontent.com/Atotouji/focus-news/main/images/covers/games-controller.jpg",
+    "image_credit": "资料图（非现场）：Evan-Amos",
+    "image_license": "Public domain",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Switch-Pro-Controller-FL.jpg"
+  },
+  "数码": {
+    "image_url": "https://raw.githubusercontent.com/Atotouji/focus-news/main/images/covers/digital-devices.jpg",
+    "image_credit": "资料图（非现场）：Alejandro Escamilla alejandroescamilla",
+    "image_license": "CC0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:Iphone,_macbook_and_smartphone_on_a_table_(Unsplash).jpg"
+  },
+  "学术": {
+    "image_url": "https://raw.githubusercontent.com/Atotouji/focus-news/main/images/covers/academic-offshore-wind.jpg",
+    "image_credit": "资料图（非现场）：Original: Andy Dingley ; Edit: Muhammad",
+    "image_license": "CC BY-SA 3.0",
+    "image_source_url": "https://commons.wikimedia.org/wiki/File:Barrow_Offshore_wind_turbines_NR.jpg"
+  }
+}
+

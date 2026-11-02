@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-02T06:07:40Z",
+  "not_current_news": true,
+  "cards": [
+    {
+      "group": "polyu-kaiming-bi",
+      "year": 2024,
+      "title": "Control of seismic induced response of wind turbines using KDamper",
+      "url": "https://research.polyu.edu.hk/en/publications/control-of-seismic-induced-response-of-wind-turbines-using-kdampe/",
+      "doi": "10.1016/j.iintel.2024.100082",
+      "note": "机构摘要已核：NREL 5 MW塔架多自由度模型、负刚度KDamper与TMD比较。仅作往年研究脉络，不能当2026新论文。"
+    },
+    {
+      "group": "polyu-yong-xia",
+      "year": 2025,
+      "title": "Wake dynamics and coherence modes of vertical-axis wind turbines: The role of atmospheric boundary layer",
+      "url": "https://research.polyu.edu.hk/en/publications/wake-dynamics-and-coherence-modes-of-vertical-axis-wind-turbines-/",
+      "doi": "10.1063/5.0271326",
+      "note": "机构正式书目列2025年6月1日。它是用户指定团队的风机方向背景，不是碰撞研究，也不混入2026新闻。"
+    },
+    {
+      "group": "hnu-wei-fan",
+      "year": 2024,
+      "title": "Dynamic behavior and simplified analysis method of bridge structures subject to water-driven vessel collisions",
+      "url": "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
+      "doi": "10.1016/j.oceaneng.2024.119374",
+      "note": "湖南大学官方人员页列明2024年Ocean Engineering 313,119374及作者。这里只建立论文线索，不用书目标题补造未读摘要或全文结论。"
+    }
+  ]
+}
+

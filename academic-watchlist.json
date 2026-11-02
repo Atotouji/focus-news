@@ -1,0 +1,448 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-02T06:07:40Z",
+  "timezone": "Asia/Hong_Kong",
+  "year": 2026,
+  "editorial_scope": {
+    "primary": [
+      "船舶碰撞及结构损伤",
+      "船–桥碰撞、撞后性能和防护",
+      "船–浮式风机碰撞",
+      "风机在台风、地震、波浪、极端事件及多灾害下的安全与韧性"
+    ],
+    "other_academic": "仅限Kaiming Bi、Yong Xia、湖南大学Wei Fan三个已消歧研究团队的直接相关成果或官方动态。",
+    "exclude": [
+      "通用PIV或与这些对象无关的测量文章",
+      "同名作者成果",
+      "未读原始资料却声称全文已验证",
+      "以期刊名称、奖项或影响因子代替证据"
+    ],
+    "year_policy": "主回看清单仅2026正式文献年/2026官方动态；记录卷期与在线日期的差别。往年资料卡单独保存，不标成今年新闻。"
+  },
+  "groups": [
+    {
+      "key": "polyu-kaiming-bi",
+      "name": "Kaiming Bi",
+      "name_zh": "毕凯明（官方繁体：畢凱明）",
+      "institution": "The Hong Kong Polytechnic University",
+      "department": "Department of Civil and Environmental Engineering",
+      "position": "Associate Professor",
+      "profile_url": "https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/",
+      "homepage": "https://www.polyu.edu.hk/cee/~kaimbi/",
+      "institutional_research_profile": "https://research.polyu.edu.hk/en/persons/kaiming-bi/",
+      "orcid": "https://orcid.org/0000-0002-5702-6119",
+      "public_email": "kaiming.bi@polyu.edu.hk",
+      "identity_evidence": [
+        "https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/",
+        "https://www.polyu.edu.hk/cee/~kaimbi/",
+        "https://research.polyu.edu.hk/en/persons/kaiming-bi/"
+      ],
+      "research": [
+        "结构振动控制",
+        "结构动力学",
+        "冲击工程",
+        "地震工程"
+      ],
+      "tracking_urls": [
+        "https://ira.lib.polyu.edu.hk/",
+        "https://www.polyu.edu.hk/sklcrcc/news-and-events/news/"
+      ],
+      "current_verified_items": [
+        "article-5c395cf2fefad148bee1c39b",
+        "article-8ea547338d4efc30cbb2489c"
+      ],
+      "caution": "机构简介与2026新闻的论文数等统计时点不同，不拼接、不推断增幅。"
+    },
+    {
+      "key": "polyu-yong-xia",
+      "name": "Yong Xia",
+      "name_zh": "夏勇",
+      "institution": "The Hong Kong Polytechnic University",
+      "department": "Department of Civil and Environmental Engineering",
+      "position": "Chair Professor of Structural Health Monitoring; Director of Joint Research Centre for Marine Infrastructure; Associate Dean of Graduate School",
+      "profile_url": "https://www.polyu.edu.hk/cee/people/academic-staff/ir-prof-yong-xia/",
+      "homepage": "https://www.polyu.edu.hk/cee/~ceyxia/",
+      "institutional_research_profile": "https://research.polyu.edu.hk/en/persons/yong-xia/",
+      "orcid": "https://orcid.org/0000-0001-5319-5858",
+      "public_email": "y.xia@polyu.edu.hk",
+      "identity_evidence": [
+        "https://www.polyu.edu.hk/cee/people/academic-staff/ir-prof-yong-xia/",
+        "https://www.polyu.edu.hk/jlmi/people/group/",
+        "https://research.polyu.edu.hk/en/persons/yong-xia/"
+      ],
+      "research": [
+        "结构健康监测",
+        "损伤识别",
+        "有限元模型修正",
+        "结构动力学",
+        "海洋基础设施监测"
+      ],
+      "tracking_urls": [
+        "https://www.polyu.edu.hk/jlmi/",
+        "https://www.polyu.edu.hk/cee/~ceyxia/"
+      ],
+      "caution": "不得仅以Yong Xia姓名匹配：排除优化数学、石油及其他机构同名作者。部分机构聚合书目可能误挂跨学科作品，必须再核论文作者机构。"
+    },
+    {
+      "key": "hnu-wei-fan",
+      "name": "Wei Fan",
+      "name_zh": "樊伟",
+      "institution": "Hunan University",
+      "department": "College of Civil Engineering, Department of Bridge Engineering",
+      "position": "Professor; doctoral supervisor",
+      "profile_url": "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
+      "homepage": "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
+      "orcid": null,
+      "orcid_status": "本次未找到由湖南大学官方人员页直接确认的ORCID，不从同名聚合记录猜填。",
+      "public_email": "wfan@hnu.edu.cn",
+      "identity_evidence": [
+        "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
+        "https://ce.hnu.edu.cn/szdw/jsmc.htm"
+      ],
+      "research": [
+        "桥梁抗冲击与振动",
+        "船–桥–浮箱流固耦合碰撞",
+        "桥梁防船撞",
+        "UHPC增强构件"
+      ],
+      "current_project": {
+        "title": "水-船-桥-浮箱碰撞耦联系统的能量消散机制及水增益措施研究",
+        "grant": "52478171",
+        "period": "2025–2028",
+        "source": "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
+        "limitation": "项目期不是2026新项目发布日期，不另包装为今年刚获批。"
+      },
+      "tracking_urls": [
+        "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm",
+        "https://ce.hnu.edu.cn/"
+      ],
+      "excluded_namesakes": [
+        {
+          "orcid": "0000-0001-9815-710X",
+          "reason": "ORCID所属UNC Charlotte交通研究Wei (David) Fan，非湖南大学桥梁系樊伟。"
+        }
+      ],
+      "caution": "用Hunan University、wfan@hnu.edu.cn、桥梁抗撞主题及稳定合作者共同消歧；不得与湖南师范大学心理学范伟混用。"
+    }
+  ],
+  "journal_policy": {
+    "priority": [
+      {
+        "name": "Ocean Engineering",
+        "url": "https://www.sciencedirect.com/journal/ocean-engineering",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      },
+      {
+        "name": "Marine Structures",
+        "url": "https://www.sciencedirect.com/journal/marine-structures",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      },
+      {
+        "name": "Engineering Structures",
+        "url": "https://www.sciencedirect.com/journal/engineering-structures",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      },
+      {
+        "name": "International Journal of Impact Engineering",
+        "url": "https://www.sciencedirect.com/journal/international-journal-of-impact-engineering",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      },
+      {
+        "name": "Thin-Walled Structures",
+        "url": "https://www.sciencedirect.com/journal/thin-walled-structures",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      },
+      {
+        "name": "Renewable Energy",
+        "url": "https://www.sciencedirect.com/journal/renewable-energy",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      },
+      {
+        "name": "Wind Energy",
+        "url": "https://onlinelibrary.wiley.com/journal/10991824",
+        "gate": "逐篇核实研究对象、载荷工况及与关注主题的直接关系；不因期刊名自动收录。"
+      }
+    ],
+    "additional_verified_relevant": [
+      {
+        "name": "Wind Energy Science",
+        "url": "https://wes.copernicus.org/",
+        "reason": "本次已核读2026台风湍流、极端风速及风机韧性同行评审论文。"
+      },
+      {
+        "name": "Advances in Bridge Engineering",
+        "url": "https://link.springer.com/journal/43251",
+        "reason": "本次已核读2026船–列车–桥耦合碰撞论文。"
+      }
+    ],
+    "metrics": "不记录未经核实的影响因子、JCR分区或作者排名；优先实质相关性、方法、可复现性及证据边界。"
+  },
+  "included_items": [
+    {
+      "article_id": "article-5c395cf2fefad148bee1c39b",
+      "title": "Dynamic behaviors of operational floating offshore wind turbines subjected to ship collisions",
+      "year": 2026,
+      "authors": [
+        "Xudong Ye",
+        "Xiaoqiang Yang",
+        "Wei Fan",
+        "Mindong Yang",
+        "Kaiming Bi"
+      ],
+      "journal": "Ocean Engineering",
+      "doi": "10.1016/j.oceaneng.2026.124533",
+      "url": "https://ira.lib.polyu.edu.hk/handle/10397/118616",
+      "publication_date": "2026-04-15",
+      "date_basis": "期刊卷期日期，机构知识库明确列15-Apr-2026；并非宣称今日新发布。",
+      "evidence_level": "institutional_abstract",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.1016/j.oceaneng.2026.124533",
+        "https://www.sciencedirect.com/science/article/pii/S0029801826003677",
+        "https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/",
+        "https://ngcee.hnu.edu.cn/szdw/dsdw/xnbssds/znjz/fw.htm"
+      ],
+      "image_candidates": []
+    },
+    {
+      "article_id": "article-41968144cc26ef617cb840c1",
+      "title": "Ship bow impact force in head-on collision",
+      "year": 2026,
+      "authors": [
+        "Shengming Zhang",
+        "Preben Terndrup Pedersen"
+      ],
+      "journal": "Marine Structures",
+      "doi": "10.1016/j.marstruc.2025.103940",
+      "url": "https://orbit.dtu.dk/en/publications/ship-bow-impact-force-in-head-on-collision/",
+      "publication_date": "2026-01-30",
+      "date_basis": "Marine Structures 106卷期日期；DTU将文献年明确列为2026，DOI中的2025不直接代表卷期年份。",
+      "evidence_level": "institutional_abstract",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.1016/j.marstruc.2025.103940",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0951833925001637"
+      ],
+      "image_candidates": []
+    },
+    {
+      "article_id": "article-9f07f1081e0b627198b97a80",
+      "title": "Experimental and probabilistic analysis of pile group under ship impact for protecting nuclear power plants",
+      "year": 2026,
+      "authors": [
+        "Zhiyang Cao",
+        "Minghan Huang",
+        "Yuanqiang Zhang",
+        "Guoji Xu",
+        "Jinsheng Wang"
+      ],
+      "journal": "Ocean Engineering",
+      "doi": "10.1016/j.oceaneng.2026.125018",
+      "url": "https://strathprints.strath.ac.uk/95931/",
+      "publication_date": "2026-03-13",
+      "date_basis": "机构记录明确Published Online 13 March 2026；卷期出版日期为1 May 2026。",
+      "evidence_level": "institutional_abstract_and_public_section_excerpts",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.1016/j.oceaneng.2026.125018",
+        "https://strathprints.strath.ac.uk/95931/7/Cao-etal-OE-2026-Experimental-and-probabilistic-analysis-of-pile-group-under-ship-impact.pdf"
+      ],
+      "image_candidates": []
+    },
+    {
+      "article_id": "article-1368832ffa8b583eb7f0c260",
+      "title": "Structural protection of ship-shaped offshore installations using hollow-section rubber fenders under high-energy side-by-side collisions",
+      "year": 2026,
+      "authors": [
+        "Hyeong Jin Kim",
+        "Sang Min Park",
+        "Jeom-Kee Paik"
+      ],
+      "journal": "Ocean Engineering",
+      "doi": "10.1016/j.oceaneng.2026.124808",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10222203/",
+      "publication_date": "2026-04-30",
+      "date_basis": "出版方公开元数据标注Ocean Engineering 353卷Part 2，30 April 2026；UCL机构页确认2026。",
+      "evidence_level": "institutional_abstract",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.1016/j.oceaneng.2026.124808",
+        "https://discovery.ucl.ac.uk/id/eprint/10222203/7/Kim_1-s2.0-S0029801826006426-main.pdf"
+      ],
+      "image_candidates": []
+    },
+    {
+      "article_id": "article-eb9037d33a20623b521f4f24",
+      "title": "Numerical simulation and dynamic response analysis of a ship–train–bridge system under vessel collision",
+      "year": 2026,
+      "authors": [
+        "Bo Liu",
+        "Hai Fang",
+        "Enshi Jia",
+        "Xinchen Zhang",
+        "Lu Zhu",
+        "Hongfei Yan",
+        "Shenlin Yu"
+      ],
+      "journal": "Advances in Bridge Engineering",
+      "doi": "10.1186/s43251-025-00200-5",
+      "url": "https://link.springer.com/article/10.1186/s43251-025-00200-5",
+      "publication_date": "2026-03-18",
+      "date_basis": "出版社明示Published与Version of record均为18 March 2026。",
+      "evidence_level": "open_access_selected_sections",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.1186/s43251-025-00200-5"
+      ],
+      "image_candidates": [
+        {
+          "figure": "Figure 26: Schematic diagram of different positions where the train is located",
+          "figure_page": "https://link.springer.com/article/10.1186/s43251-025-00200-5/figures/26",
+          "source_url": "https://link.springer.com/article/10.1186/s43251-025-00200-5",
+          "license": "CC BY 4.0 (unless a figure-specific credit states otherwise)",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Liu et al. (2026), Advances in Bridge Engineering 7, 11, Fig. 26; https://doi.org/10.1186/s43251-025-00200-5",
+          "status": "正文图注及文章许可已核；尚未提取并核对单图文件，不能直接视为已授权插图成品。"
+        }
+      ]
+    },
+    {
+      "article_id": "article-0d76ddda65582478e784c779",
+      "title": "How well can the Mann model describe typhoon turbulence?",
+      "year": 2026,
+      "authors": [
+        "Sara Müller",
+        "Xiaoli Guo Larsén",
+        "Fei Hu"
+      ],
+      "journal": "Wind Energy Science",
+      "doi": "10.5194/wes-11-961-2026",
+      "url": "https://wes.copernicus.org/articles/11/961/2026/",
+      "publication_date": "2026-03-26",
+      "date_basis": "出版社明确Published 26 March 2026；讨论稿始于2025，最终论文为2026。",
+      "evidence_level": "open_access_selected_sections",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.5194/wes-11-961-2026",
+        "https://wes.copernicus.org/articles/11/961/2026/wes-11-961-2026.pdf"
+      ],
+      "image_candidates": [
+        {
+          "figure": "Figure 1: Illustration of typhoon regions",
+          "url": "https://wes.copernicus.org/articles/11/961/2026/wes-11-961-2026-f01.png",
+          "source_url": "https://wes.copernicus.org/articles/11/961/2026/",
+          "license": "CC BY 4.0",
+          "license_url": "https://creativecommons.org/licenses/by/4.0/",
+          "credit": "Müller, Larsén & Hu (2026), Wind Energy Science 11, 961–981, Fig. 1; https://doi.org/10.5194/wes-11-961-2026",
+          "status": "文内图注与文章许可已核；图像URL由原页Download链接取得，但web图像请求cache miss，需根再取图确认可达及画面。"
+        }
+      ]
+    },
+    {
+      "article_id": "article-f2cc88910e91b4fae1a28d52",
+      "title": "Grand challenges in designing resilient wind energy systems in areas prone to tropical cyclones",
+      "year": 2026,
+      "authors": [
+        "Georgios Deskos",
+        "Jiali Wang",
+        "Sanjay Arwade",
+        "Murray Fisher",
+        "Brian Hirth",
+        "Xiaoli Guo Larsén",
+        "Julie K. Lundquist",
+        "Andrew Myers",
+        "Weichiang Pang",
+        "William J. Pringle",
+        "Robert Rogers",
+        "Miguel Sanchez-Gomez",
+        "Chao Sun",
+        "Atsushi Yamaguchi",
+        "Paul Veers"
+      ],
+      "journal": "Wind Energy Science",
+      "doi": "10.5194/wes-11-2749-2026",
+      "url": "https://wes.copernicus.org/articles/11/2749/2026/",
+      "publication_date": "2026-08-03",
+      "date_basis": "出版社明确Published 3 August 2026。",
+      "evidence_level": "open_access_selected_sections",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.5194/wes-11-2749-2026"
+      ],
+      "image_candidates": []
+    },
+    {
+      "article_id": "article-5f17ca82cc16142afbb7986f",
+      "title": "50-year wind speed maps for tropical-cyclone-affected regions using best track data",
+      "year": 2026,
+      "authors": [
+        "Keeta Chapman-Smith",
+        "Xiaoli Guo Larsén",
+        "Mark Laier Brodersen"
+      ],
+      "journal": "Wind Energy Science",
+      "doi": "10.5194/wes-11-1889-2026",
+      "url": "https://wes.copernicus.org/articles/11/1889/2026/",
+      "publication_date": "2026-05-26",
+      "date_basis": "出版社明确Published 26 May 2026。",
+      "evidence_level": "open_access_selected_sections",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://doi.org/10.5194/wes-11-1889-2026"
+      ],
+      "image_candidates": []
+    },
+    {
+      "article_id": "article-8ea547338d4efc30cbb2489c",
+      "title": "SKL-CRCC Member Prof. Kaiming BI Honored with the Nishino Prize at EASEC-19",
+      "year": 2026,
+      "authors": [],
+      "journal": null,
+      "doi": null,
+      "url": "https://www.polyu.edu.hk/sklcrcc/news-and-events/news/2026/20260724_nishino-prize/",
+      "publication_date": "2026-07-24",
+      "date_basis": "PolyU官方新闻发布日期；会议实际于2026年7月13至15日举行。",
+      "evidence_level": "official_university_news",
+      "checked_at": "2026-11-02",
+      "reference_urls": [
+        "https://www.polyu.edu.hk/cee/people/academic-staff/dr-kaiming-bi/",
+        "https://www.polyu.edu.hk/cee/~kaimbi/",
+        "https://orcid.org/0000-0002-5702-6119"
+      ],
+      "image_candidates": []
+    }
+  ],
+  "pending_candidates": [
+    {
+      "title": "Towards enhanced monopile offshore wind turbine resilience against tornadoes: Synergistic effects of yaw and pitch control on rotor aerodynamic performance",
+      "doi": "10.1016/j.oceaneng.2026.127053",
+      "year": 2026,
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0029801826028878",
+      "reason": "出版方索引摘要列Yong Xia，但原页open返回403；尚未找到可正常打开的对应机构原始论文记录，暂不进入已核主回看清单。需继续核实作者机构及正式日期。"
+    },
+    {
+      "title": "Collapse mechanism and failure criteria of offshore monopile wind turbine towers under coupled typhoon and strong earthquake effects in the eyewall region",
+      "doi": "10.1016/j.oceaneng.2025.124002",
+      "issue_date": "2026-03-15",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0029801825036844",
+      "reason": "主题高度匹配，但原页403；仅获得公开索引摘要，未找到可读机构原始记录。保留候选，不补造全文模型或将能量阈值推广为通用判据。"
+    },
+    {
+      "title": "Simplified structural assessment of large-diameter cylinder indentation with application to ship–semisubmersible floater collision analysis",
+      "doi": "10.1016/j.marstruc.2026.104128",
+      "year": 2026,
+      "institution_url": "https://gem.ec-nantes.fr/utr-dynast/",
+      "publisher_url": "https://www.sciencedirect.com/science/article/abs/pii/S095183392600122X",
+      "reason": "机构课题组页已核到作者/2026书目，但不是独立可读论文摘要页；出版原页403，暂放进一步取作者稿候选。2024会议前身不能当作2026全文替代。"
+    },
+    {
+      "title": "Dynamic behavior of long-span cable-stayed bridge under ship-pylon collision",
+      "doi": "10.1016/j.oceaneng.2026.124666",
+      "issue_date": "2026-04-30",
+      "publisher_url": "https://www.sciencedirect.com/science/article/pii/S0029801826005007",
+      "reason": "有出版方公开摘要索引，但原始页面403，未找到可正常打开的机构论文记录，未纳入主回看。"
+    }
+  ],
+  "image_policy": "image_url当前均为null；有明确CC BY许可的图作为候选单独记录，根代理须核对单图第三方署名、实际URL及画面后才发布，不能把开放摘要自动视为图片授权。"
+}
+

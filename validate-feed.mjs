@@ -6,6 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT_FIELDS = ['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources'];
 const ARTICLE_FIELDS = ['id', 'source_id', 'source_name', 'category', 'url', 'title', 'title_zh', 'body', 'body_zh', 'preview_zh', 'scope', 'language', 'translation_status', 'translation_error', 'translation_model', 'translated_at', 'published_at', 'image_url', 'saved', 'read', 'is_demo'];
+const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'reference_urls', 'year_highlight'];
 const SOURCE_FIELDS = ['id', 'name', 'category', 'adapter', 'feed_url', 'enabled', 'note', 'last_checked', 'last_error'];
 const CATEGORIES = new Set(['时政', 'AI 新闻', '游戏', '数码', '学术', '未分类']);
 const EDITIONS = new Set(['早间', '午间', '晚间']);
@@ -71,10 +72,10 @@ function wellFormed(value) {
 export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
   const errors = [];
   const fail = (path, text) => errors.push(`${path}: ${text}`);
-  function object(value, fields, path) {
+  function object(value, fields, path, optional = []) {
     if (!value || typeof value !== 'object' || Array.isArray(value)) { fail(path, '应为 JSON 对象'); return false; }
     for (const key of fields) if (!Object.hasOwn(value, key)) fail(`${path}.${key}`, '缺少字段；可空字段也须显式写 null');
-    for (const key of Object.keys(value)) if (!fields.includes(key)) fail(`${path}.${key}`, '未定义字段；不要加入凭据、账号或私人资料');
+    for (const key of Object.keys(value)) if (!fields.includes(key) && !optional.includes(key)) fail(`${path}.${key}`, '未定义字段；不要加入凭据、账号或私人资料');
     return true;
   }
   function text(value, path, min = 1, max = 2000, nullable = false) {
@@ -136,7 +137,7 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
   let previousTime = Infinity;
   for (const [index, article] of (Array.isArray(feed.articles) ? feed.articles : []).entries()) {
     const path = `$.articles[${index}]`;
-    if (!object(article, ARTICLE_FIELDS, path)) continue;
+    if (!object(article, ARTICLE_FIELDS, path, ARTICLE_OPTIONAL_FIELDS)) continue;
     if (!publicUrl(article.url)) fail(`${path}.url`, '须为公开原始来源 HTTPS 地址；禁止示例/本机地址、片段和跟踪/凭据参数');
     if (typeof article.url === 'string' && article.id !== articleId(article.url)) fail(`${path}.id`, '须为 article- 加原始 URL UTF-8 SHA-256 前 24 位小写十六进制');
     if (ids.has(article.id)) fail(`${path}.id`, '文章编号重复');
@@ -148,7 +149,7 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     if (!CATEGORIES.has(article.category)) fail(`${path}.category`, '栏目不受支持');
     text(article.title, `${path}.title`, 1, 500);
     if (text(article.title_zh, `${path}.title_zh`, 1, 250) && !/\p{Script=Han}/u.test(article.title_zh)) fail(`${path}.title_zh`, '应提供中文标题');
-    if (text(article.body_zh, `${path}.body_zh`, 40, 1800)) {
+    if (text(article.body_zh, `${path}.body_zh`, 40, 12000)) {
       if (cp(article.body_zh.replace(/\s/gu, '')) < 40 || !/\p{Script=Han}/u.test(article.body_zh)) fail(`${path}.body_zh`, '应为至少 40 个非空白字符的中文原创摘要');
     }
     text(article.preview_zh, `${path}.preview_zh`, 0, 360, true);
@@ -158,7 +159,19 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     equals(article.translation_error, null, `${path}.translation_error`);
     equals(article.translated_at, null, `${path}.translated_at`);
     text(article.translation_model, `${path}.translation_model`, 1, 200, true);
-    equals(article.image_url, null, `${path}.image_url`);
+    if (article.image_url !== null) {
+      if (!publicUrl(article.image_url)) fail(`${path}.image_url`, '配图必须是公开 HTTPS 图片地址');
+      text(article.image_credit, `${path}.image_credit`, 1, 500);
+      text(article.image_license, `${path}.image_license`, 1, 300);
+      if (!publicUrl(article.image_source_url)) fail(`${path}.image_source_url`, '有配图时必须提供可核验归属和许可的来源页面');
+    } else {
+      for (const field of ['image_credit','image_license','image_source_url']) if (Object.hasOwn(article,field) && article[field] !== null) fail(`${path}.${field}`, '无图片时归属字段应为 null 或省略');
+    }
+    if (Object.hasOwn(article,'year_highlight') && typeof article.year_highlight !== 'boolean') fail(`${path}.year_highlight`, '年度重要标记应为布尔值');
+    if (Object.hasOwn(article,'reference_urls')) {
+      if (!Array.isArray(article.reference_urls) || article.reference_urls.length > 20) fail(`${path}.reference_urls`, '相关报道和公开论文全文链接最多20个');
+      else { const references=new Set();for(const link of article.reference_urls){if(!publicUrl(link)||references.has(link))fail(`${path}.reference_urls`, '应为不重复的公开 HTTPS 来源链接');references.add(link);} }
+    }
     for (const key of ['saved', 'read', 'is_demo']) equals(article[key], 0, `${path}.${key}`);
     if (typeof article.language !== 'string' || !/^[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$/.test(article.language)) fail(`${path}.language`, '应为原始来源的语言代码，例如 en 或 zh');
     const published = date(article.published_at, `${path}.published_at`, { dateOnly: true, max: Number.isFinite(generated) ? generated : now });
@@ -248,11 +261,19 @@ export function selfTest() {
   test('full original text', value => { value.articles[0].body = 'copied original'; });
   test('wrong scope', value => { value.articles[0].scope = 'full_text'; });
   test('short summary', value => { value.articles[0].body_zh = '太短'; });
-  test('oversized summary', value => { value.articles[0].body_zh = '文'.repeat(1801); });
+  test('detailed original report', value => { value.articles[0].body_zh = '文'.repeat(6000); }, true);
+  test('oversized summary', value => { value.articles[0].body_zh = '文'.repeat(12001); });
   test('missing Chinese title', value => { value.articles[0].title_zh = null; });
   test('wrong status', value => { value.articles[0].translation_status = 'translated'; });
   for (const key of ['is_demo', 'saved', 'read']) test(`nonzero ${key}`, value => { value.articles[0][key] = 1; });
   test('unlicensed image disallowed', value => { value.articles[0].image_url = 'https://www.nasa.gov/image.jpg'; });
+  test('credited licensed image', value => { Object.assign(value.articles[0],{image_url:'https://www.nasa.gov/image.jpg',image_credit:'NASA',image_license:'Public Domain',image_source_url:'https://www.nasa.gov/nasa-brand-center/images-and-media/'}); },true);
+  test('image license required', value => { Object.assign(value.articles[0],{image_url:'https://www.nasa.gov/image.jpg',image_credit:'NASA',image_source_url:'https://www.nasa.gov/nasa-brand-center/images-and-media/'}); });
+  test('image source required', value => { Object.assign(value.articles[0],{image_url:'https://www.nasa.gov/image.jpg',image_credit:'NASA',image_license:'Public Domain'}); });
+  test('annual milestone', value => { value.articles[0].year_highlight=true; },true);
+  test('annual flag type', value => { value.articles[0].year_highlight='yes'; });
+  test('related readable sources', value => { value.articles[0].reference_urls=['https://www.nasa.gov/news/']; },true);
+  test('related source must be public', value => { value.articles[0].reference_urls=['file:///private']; });
   test('missing source', value => { value.sources = []; });
   test('wrong source name', value => { value.articles[0].source_name = 'Other'; });
   test('duplicate article', value => { value.articles.push(structuredClone(value.articles[0])); });

@@ -1,0 +1,430 @@
+2026年内重要新闻回填：来源与图片核查记录
+整理日期：2026-11-02（香港时区）；本文件与year-backfill.json为待根整合的本地素材，未直接推送远程。
+范围：26条；灾害5、Apple5、NVIDIA5、OpenAI5、独立游戏及大型游戏6。文章原始发布日期覆盖2026-01-05至2026-10-28；事件日期最早为2026-01-02。
+正文为原创中文事实整理和必要解释，body=null，不搬运来源全文；不把厂商基准或宣传语当作独立评测。
+published_at只填可核实的原始发布日；未得具体时间时保留YYYY-MM-DD，不补虚构午夜。事件日、统计截点和未来供应计划写在正文。
+reference_urls列出实际打开的原始或交叉来源；少数USGS事件页仅返回JavaScript壳，已在对应备注说明，不冒充读取其原始数据。
+未免费展示的付费正文未绕过。Reuters部分采用公开授权转载全文；AP、BBC、DW等图片没有因非商业使用而复制。
+历史回填latest_article_ids=[]，以免误把整个历史集合当成本期新新闻触发通知；整合时由发布者决定当期ID。
+图片：USGS单图媒体页明示Public Domain。NASA图按官方图片指南事实性信息用途使用，署名、不暗示NASA认可本AI稿；新闻稿件本身仍为AI整理。
+厂商图片、新闻社照片、含第三方地图素材，除明确核实的两图外均image_url及归属字段为null。本记录保留候选入口，不构成复用许可。
+Mega Crit已打开内容政策 https://megacrit.com/content-policy/ ，明确许可游戏视频和部分自制作品；不扩大为静态宣传素材通用许可。
+低分辨率NASA图片可由根另核实同一官方公开大图后替换，不能以猜测的媒体版权代替验证。
+
+01. 墨西哥年初强震：格雷罗州受损，潮位站记录到小幅海面扰动
+原文标题：Registro del tsunami en la estación mareográfica de Acapulco del Servicio Mareográfico Nacional por el sismo de magnitud 6.5 ocurrido el 2 de enero de 2026
+栏目：时政；来源：墨西哥国立自治大学（UNAM）；原文语言：es
+原始发布日期：2026-01-05；事件/阶段：2026-01-02
+主链接：https://www.mareografico.unam.mx/wp-content/uploads/2026/01/20260102_IGEF-SMN_RRPT_SanMarcos_GUERR.pdf
+稳定ID：article-89892eb58f2e83093d7b2341
+已打开参考：
+  https://www.investing.com/news/world-news/earthquake-of-magnitude-63-strikes-southern-mexico-4427850
+  https://apnews.com/article/mexico-earthquake-san-marcos-ce9e9e76e445e68797e36b2fa8e14418
+  https://earthquake.usgs.gov/earthquakes/eventpage/us7000rm3k/executive
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.mareografico.unam.mx/wp-content/uploads/2026/01/20260102_IGEF-SMN_RRPT_SanMarcos_GUERR.pdf
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开UNAM 1月5日报告、Reuters授权转载全文和AP可读报道。USGS事件页仅JavaScript壳，参数用UNAM内明确列示的USGS记录核验。机构深度不同，不混为一个确定值；没有可确认复用许可的单独照片。
+正文汉字数：512
+
+02. 气旋Gezani重创马达加斯加，救援与莫桑比克沿岸预警接续展开
+原文标题：Tropical cyclone Gezani hits Madagascar and threatens Mozambique
+栏目：时政；来源：世界气象组织（WMO）；原文语言：en
+原始发布日期：2026-02-13；事件/阶段：2026-02-10
+主链接：https://wmo.int/media/news/tropical-cyclone-gezani-hits-madagascar-and-threatens-mozambique
+稳定ID：article-d0fdcbec525e6403ad3d687c
+已打开参考：
+  https://apnews.com/article/madagascar-tropical-cyclone-storm-climate-weather-7b73d04f1b29c915db42f5eb05d03615
+  https://www.unicef.org/madagascar/en/media/15511/file/UNICEF%20Madagascar%20Cyclone%20Response%20Plan%20FYTIA%20%20GEZANI%20Feb%202026%20.pdf
+  https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/
+  https://www.nasa.gov/nasa-brand-center/images-and-media/
+图片URL：https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-second-cyclone-slams-madagascar/cyclonegezani_tmo_20260210_lrg.jpg?crop=faces%2Cfocalpoint&fit=crop&h=150&w=150
+图片来源/候选页：https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/
+图片署名：NASA Earth Observatory / Lauren Dauphin；Aqua/MODIS，2026年2月10日，非地面灾情照片
+图片许可：NASA Images and Media Usage Guidelines：允许事实性信息用途；需署名，不暗示NASA背书；该素材未标第三方版权
+核查与边界：已打开WMO正文及AP报道，核对2月13日发布、2月10日登陆。UNICEF文件作为补充交叉。风速采用WMO口径；官方配图署Meteosat/Météo-France，复用许可未确认，留空。 图片另用NASA同一事件2月10日卫星图，NASA于2月18日发布并署名Lauren Dauphin；已读NASA图片使用指南。当前URL是已打开的150px缩略，发布前可按同源公开下载替换为已核实高分辨率素材。
+正文汉字数：545
+
+03. 委内瑞拉连续强震后，滑坡、道路阻断与孤立社区成为救援重点
+原文标题：2026 Venezuela Sequence Earthquake-Triggered Landslide Hazards
+栏目：时政；来源：美国地质调查局（USGS）；原文语言：en
+原始发布日期：2026-06-29；事件/阶段：2026-06-24
+主链接：https://www.usgs.gov/programs/landslide-hazards/science/2026-venezuela-sequence-earthquake-triggered-landslide-hazards
+稳定ID：article-3fffa7a05892fcfde3c0fc5b
+已打开参考：
+  https://science.data.nasa.gov/disasters/news-events-stories/venezuela-earthquake-jun-2026
+  https://amp.dw.com/en/venezuela-hit-by-two-powerful-earthquakes/a-77698995
+  https://www.paho.org/sites/default/files/2026/06/ven-earthquakessitrep124jun2026v2-1.pdf
+图片URL：https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/USGS_LASER%20ven20260716-1.png
+图片来源/候选页：https://www.usgs.gov/media/images/2026-venezuela-earthquake-sequence-landslide-hazards
+图片署名：USGS Landslide Hazards Program；截至2026年7月16日的滑坡遥感评估图，非震发现场照片
+图片许可：Public Domain
+核查与边界：已打开USGS正文与媒体详情、NASA灾害门户、DW正文及PAHO PDF。页面6月29日、事件6月24日；地图明确Public Domain，观测截至7月16日，原图从Original链接取得并打开。未采用早期滚动死亡数作最终数。
+正文汉字数：523
+
+04. 熊本强震造成商场与工厂受损，官方监测显示强烈地面摇晃
+原文标题：A 7.1 magnitude quake hits Japan’s southern Kyushu island killing at least 3
+栏目：时政；来源：美联社（AP）；原文语言：en
+原始发布日期：2026-07-28；事件/阶段：2026-07-28
+主链接：https://apnews.com/article/japan-earthquake-tsunami-09e6f40acbcc96053946c9c104e7a242
+稳定ID：article-150a15a318d3531edc92f748
+已打开参考：
+  https://www.kyoshin.bosai.go.jp/en//large_eqs/
+  https://earthquake.usgs.gov/earthquakes/eventpage/pt26209004/impact
+  https://www.jishin.go.jp/main/chousa/26jul_kumamoto/index-e.htm
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://apnews.com/article/japan-earthquake-tsunami-09e6f40acbcc96053946c9c104e7a242
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开AP可读正文、防灾科研所强震目录、USGS影响页及地震调查委员会页。委员会页题名7月29日、页头6月29日不一致，未采用其发布日期；published_at用AP原发7月28日。JMA7.1、USGS6.8显式分口径。不复制AP/共同社图。
+正文汉字数：505
+
+05. 哥伦比亚西部7.4级地震后，医疗设施受损与转诊中断加重恢复压力
+原文标题：Public Health Situation Analysis of Colombia — As of 18 August 2026
+栏目：时政；来源：泛美卫生组织（PAHO）；原文语言：en
+原始发布日期：2026-08-18；事件/阶段：2026-08-10
+主链接：https://www.paho.org/sites/default/files/2026/08/phsa-colombiaearthquake-2026.pdf
+稳定ID：article-140bc91bd96baf72e89b46cf
+已打开参考：
+  https://elpais.com/america-colombia/2026-08-10/un-fuerte-temblor-sacude-colombia.html
+  https://www.lemonde.fr/en/environment/article/2026/08/11/colombia-searches-for-survivors-after-powerful-earthquake_6756366_114.html
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.paho.org/sites/default/files/2026/08/phsa-colombiaearthquake-2026.pdf
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开PAHO8月18日PDF前两页及两家媒体可读正文。明确区分事件8月10日与统计8月18日，304死亡等仅初步时点。PDF地图含第三方底图，未确认单图复用许可，图留空。
+正文汉字数：518
+
+06. Apple推出MacBook Neo，以A18 Pro与599美元起价进入更低价笔记本市场
+原文标题：Say hello to MacBook Neo
+栏目：数码；来源：Apple Newsroom；原文语言：en
+原始发布日期：2026-03-04；事件/阶段：2026-03-04
+主链接：https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/
+稳定ID：article-c31bac9a0298e72630351cfb
+已打开参考：
+  https://www.investing.com/news/stock-market-news/apple-debuts-599-macbook-neo-to-challenge-chromebooks-windows-pcs-4541354
+  https://apnews.com/article/apple-iphone17e-macbook-monitors-ipad-e52b1d9b4df4c0bc6b40b11dc155450b
+  https://www.apple.com/newsroom/2026/03/macbook-neo-iphone-17e-ipad-air-with-m4-and-more-are-now-available/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开Apple原始发布、Reuters授权转载、AP可读报道；3月11日上市确认页已打开。599美元为宣布当时美国起价，不写成现价或人民币售价；图片有Apple版权，未确认本项目复用许可。
+正文汉字数：480
+
+07. M5 Pro与M5 Max进入MacBook Pro，存储、无线连接与本地AI能力同步更新
+原文标题：Apple introduces MacBook Pro with all-new M5 Pro and M5 Max, delivering breakthrough pro performance and next-level on-device AI
+栏目：数码；来源：Apple Newsroom；原文语言：en
+原始发布日期：2026-03-03；事件/阶段：2026-03-03
+主链接：https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+稳定ID：article-a553588f92b47cd9fc502f94
+已打开参考：
+  https://www.tomshardware.com/laptops/apple-launches-new-macbook-pros-powered-by-m5-pro-m5-max-and-2x-faster-ssds-new-super-cores-help-deliver-up-to-30-percent-performance-boost
+  https://www.apple.com/newsroom/2026/03/macbook-neo-iphone-17e-ipad-air-with-m4-and-more-are-now-available/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开Apple3月3日公告、Tom's Hardware3月3日全文可读部分与Apple3月11日上市确认。性能是厂商指定任务数据，未当作独立复现。官方图许可未确认，保留来源页候选。
+正文汉字数：465
+
+08. iPhone 18 Pro系列发布，可变光圈与A20 Pro成为主要硬件变化
+原文标题：Apple debuts iPhone 18 Pro and iPhone 18 Pro Max
+栏目：数码；来源：Apple Newsroom；原文语言：en
+原始发布日期：2026-09-09；事件/阶段：2026-09-09
+主链接：https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+稳定ID：article-15fbf084df0e1594d1763507
+已打开参考：
+  https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开Apple原始公告的相机、芯片和上市段落，并读AP同场发布报道。9月9日宣布、9月12日预订、9月18日上市分开。AP100wordlim在此条只用于发布会日期背景，主要用于Duo条。未复制AP或Apple图片。
+正文汉字数：443
+
+09. Apple首款折叠iPhone Duo公布，内外双屏把多任务带入新的机身形态
+原文标题：Apple unveils iPhone Duo
+栏目：数码；来源：Apple Newsroom；原文语言：en
+原始发布日期：2026-09-09；事件/阶段：2026-09-09
+主链接：https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/
+稳定ID：article-e2137401cab38c45344dd87c
+已打开参考：
+  https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2
+  https://www.apple.com/uk/newsroom/2026/09/apple-unveils-iphone-duo/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开Apple美国及英国正文和AP可读报道。公告日期9月9日；其定价与供应段注明10月16日预订、10月23日首批供应，未误用Pro的9月18日。美英页面为同一公告的地区版本，不视作独立证据；AP用于交叉确认发布形态。
+正文汉字数：468
+
+10. MacBook Pro公布叠层OLED触屏版本，11月6日供应计划尚待到来
+原文标题：Apple unveils groundbreaking MacBook Pro with PROLED XDR Display and Touch for the first time on Mac
+栏目：数码；来源：Apple Newsroom；原文语言：en
+原始发布日期：2026-10-28；事件/阶段：2026-10-28
+主链接：https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/
+稳定ID：article-8a5e3ec0466b72d05c75f5e2
+已打开参考：
+  https://www.techradar.com/computing/macbooks/whats-the-tech-inside-the-touchscreen-macbook-pros-proled-xdr-screen-heres-why-the-tandem-oled-panel-is-important
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开Apple10月28日发布与TechRadar同日显示技术解读；截至本次核查11月2日，11月6日是未来供应计划，不写已上市。主信息为官方声称，不作独立测评；素材版权未明确授予本项目，留空。
+正文汉字数：459
+
+11. Rubin平台在CES亮相，NVIDIA把AI计算、网络与存储作为整机系统设计
+原文标题：NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer
+栏目：数码；来源：NVIDIA；原文语言：en
+原始发布日期：2026-01-05；事件/阶段：2026-01-05
+主链接：https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer
+稳定ID：article-169b39cc7f09274c261d1c3c
+已打开参考：
+  https://www.investing.com/news/stock-market-news/nvidia-ceo-huang-to-take-stage-at-ces-in-las-vegas-as-competition-mounts-4430582
+  https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开NVIDIA1月5日原始公告、技术博客和Reuters授权转载全文。技术博客随后更新为七芯片，本文六芯片描述按1月发布截点；参数倍数明确公司声称。图片版权无本项目明确复用许可。
+正文汉字数：492
+
+12. DLSS 4.5超分辨率全面推送，图像重建与后续多帧生成需要分开看
+原文标题：NVIDIA DLSS 4.5 Super Resolution Available Now - Download NVIDIA App To Enhance Your Games & Apps
+栏目：数码；来源：NVIDIA；原文语言：en
+原始发布日期：2026-01-14；事件/阶段：2026-01-14
+主链接：https://www.nvidia.com/en-us/geforce/news/dlss-4-5-super-resolution-available-now/
+稳定ID：article-b41f0a755dad4e9eac3db6ab
+已打开参考：
+  https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation
+  https://www.tomshardware.com/pc-components/gpu-drivers/nvidia-dlss-4-5-super-resolution-leaves-beta-available-now-to-nvidia-app-users-update-includes-support-for-over-400-titles-with-new-presets
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.nvidia.com/en-us/geforce/news/dlss-4-5-super-resolution-available-now/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开GeForce1月14日正文、技术博客及Tom's Hardware正文。未采用无法打开的PC Gamer页面。区分当日超分辨率推出与春季多帧生成计划，不把RTX全系列支持外推到每项功能。
+正文汉字数：482
+
+13. Vera Rubin扩展为七芯片平台，Groq推理部件加入异构机架体系
+原文标题：NVIDIA Vera Rubin Opens Agentic AI Frontier
+栏目：数码；来源：NVIDIA；原文语言：en
+原始发布日期：2026-03-16；事件/阶段：2026-03-16
+主链接：https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform
+稳定ID：article-f0e273c2a3849d0bb6feb685
+已打开参考：
+  https://developer.nvidia.com/blog/inside-nvidia-groq-3-lpx-the-low-latency-inference-accelerator-for-the-nvidia-vera-rubin-platform/
+  https://www.tomshardware.com/pc-components/gpus/nvidia-groq-3-lpu-and-groq-lpx-racks-join-rubin-platform-at-gtc-sram-packed-accelerator-boosts-every-layer-of-the-ai-model-on-every-token
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开NVIDIA3月16日原文、开发者技术正文和Tom's Hardware全文可读部分；开发者页有自动摘要，本文技术依据采用摘要下的正文，不仅看AI摘要。架构参数只作厂商公开设计，不推导所有负载必达倍数。
+正文汉字数：486
+
+14. DLSS 5公布实时神经渲染路线，光照重塑引发画面风格讨论
+原文标题：NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games
+栏目：数码；来源：NVIDIA；原文语言：en
+原始发布日期：2026-03-16；事件/阶段：2026-03-16
+主链接：https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games
+稳定ID：article-b2041c3fcbfa018d084753f2
+已打开参考：
+  https://www.techradar.com/computing/gpu/i-thought-this-video-was-an-april-fools-joke-but-its-still-march-nvidia-reveals-dlss-5-to-supercharge-graphics-with-ai-and-the-hate-pours-forth
+  https://research.nvidia.com/labs/adlr/DLSS5/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开3月16日官方发布、TechRadar报道和9月1日后续技术研究页。3月原文称秋季到来，本文不把3月演示写成当日已经全面可用。后续研究页只补充原理，不篡改3月发布日期。
+正文汉字数：473
+
+15. Groq 3 LPX披露量产与长上下文测试，NVIDIA把低延迟推理推向产品验证
+原文标题：NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI
+栏目：数码；来源：NVIDIA；原文语言：en
+原始发布日期：2026-08-24；事件/阶段：2026-08-24
+主链接：https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai
+稳定ID：article-d00d6246caee468c0053ce6f
+已打开参考：
+  https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/
+  https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已打开8月24日新闻稿与同日技术正文；另已打开8月26日NVIDIA财报电话会PDF并读LPX段落，交叉确认生产及Nebius优先供应计划；不将公司电话会当作独立媒体。约3400与3431分别为新闻稿约数和技术页中位值，本文按公司披露条件描述，不写通用速度保证。
+正文汉字数：470
+
+16. OpenAI 发布 GPT-5.3-Codex：编程代理扩展到更长的电脑任务
+原文标题：Introducing GPT-5.3-Codex
+栏目：AI 新闻；来源：OpenAI；原文语言：en
+原始发布日期：2026-02-05；事件/阶段：2026-02-05 发布
+主链接：https://openai.com/index/introducing-gpt-5-3-codex/
+稳定ID：article-6e0a9613d1b3d45a132c933d
+已打开参考：
+  https://deploymentsafety.openai.com/gpt-5-3-codex/gpt-5-3-codex.pdf
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://openai.com/index/introducing-gpt-5-3-codex/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读发布正文与同日系统卡前言；速度为厂商对前代的测评声明，网络安全 High 为预防性处理而非已证明越过阈值。
+正文汉字数：394
+
+17. GPT-5.4 发布：加强电脑操作、文档与专业工作流程
+原文标题：Introducing GPT-5.4
+栏目：AI 新闻；来源：OpenAI；原文语言：en
+原始发布日期：2026-03-05；事件/阶段：2026-03-05 发布
+主链接：https://openai.com/index/introducing-gpt-5-4/
+稳定ID：article-4f8d1861c821de5644d97d8d
+已打开参考：
+  https://openai.com/index/gpt-5-4-thinking-system-card/
+  https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://openai.com/index/introducing-gpt-5-4/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读官方公告、系统卡导言和 Ars Technica 3 月 5 日正文。官方称原生 computer use；不将厂商基准推成所有真实工作可靠性保证。
+正文汉字数：407
+
+18. GPT-5.6 系列推出：Sol、Terra、Luna 分担不同复杂度的任务
+原文标题：GPT-5.6: Frontier intelligence that scales with your ambition
+栏目：AI 新闻；来源：OpenAI；原文语言：en
+原始发布日期：2026-07-09；事件/阶段：2026-07-09 全面推出；后续价格调整不记作当日事件
+主链接：https://openai.com/index/gpt-5-6/
+稳定ID：article-caaa735c832bdb2625635b2e
+已打开参考：
+  https://deploymentsafety.openai.com/gpt-5-6
+  https://www.axios.com/2026/07/12/openai-chatgpt-work-luna-terra-sol
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://openai.com/index/gpt-5-6/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读官方发布、系统卡导言和 Axios 可读全文；Axios 仅用于三型号推出的简要交叉核实（25-word limit），其余技术与安全事实来自官方。公告上 7 月 30 日、8 月 21 日降价是后续更新。
+正文汉字数：399
+
+19. GPT-6 Astra 开始推出：电脑操作能力与更高安全风险并行受关注
+原文标题：GPT-6 Astra: A new generation of intelligence
+栏目：AI 新闻；来源：OpenAI；原文语言：en
+原始发布日期：2026-09-03；事件/阶段：2026-09-03 首批推出；其后数日逐步开放
+主链接：https://openai.com/index/gpt-6-astra/
+稳定ID：article-ea74e2fffbc502106773e851
+已打开参考：
+  https://openai.com/index/safety-overview-gpt-6-astra/
+  https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://openai.com/index/gpt-6-astra/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：发布页当前顶部含后续更新；首发日期以同日 Safety overview 和官方发布记录双重确定。所有性能及安全改进明确归属 OpenAI 自述，不称已客观实现 AGI。
+正文汉字数：400
+
+20. DevDay 推出 GPT-6.1 Sol：在代理任务中平衡能力、速度与成本
+原文标题：Introducing GPT-6.1 Sol
+栏目：AI 新闻；来源：OpenAI；原文语言：en
+原始发布日期：2026-09-29；事件/阶段：2026-09-29 DevDay 发布
+主链接：https://openai.com/index/introducing-gpt-6-1-sol/
+稳定ID：article-f2dca02215efd099724cdfd2
+已打开参考：
+  https://deploymentsafety.openai.com/gpt-6-1-sol
+  https://openai.com/index/devday-2026-recap/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://openai.com/index/introducing-gpt-6-1-sol/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：主页面无显式顶部日期，以 DevDay 9 月 29 日回顾及同日系统卡补篇确认。价格只描述发布时相对定位，不作为今日购买建议。
+正文汉字数：391
+
+21. 独立攀岩游戏 Cairn 发售：把路线选择与生存压力结合
+原文标题：Cairn is out now
+栏目：游戏；来源：The Game Bakers；原文语言：en
+原始发布日期：2026-01-30；事件/阶段：2026-01-29 游戏发售；官方文章 1 月30日发布
+主链接：https://www.thegamebakers.com/cairn-is-out-now/
+稳定ID：article-08b1e6978fcd98fc5ff76514
+已打开参考：
+  https://www.pushsquare.com/news/2026/02/ps5-climbing-game-cairn-is-the-first-success-story-of-2026
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.thegamebakers.com/cairn-is-out-now/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读官方 1 月30日全文与 Push Square 2 月2日正文，后者核实发售为1月29日并报道开发商首周末20万份声明。此销量为早期节点非全年累计。
+正文汉字数：385
+
+22. Mewgenics 于 2 月 10 日推出：猫咪育种与回合战术组成循环
+原文标题：Weird roguelike tactical cats game Mewgenics release date and launch time
+栏目：游戏；来源：PC Gamer；原文语言：en
+原始发布日期：2026-02-10；事件/阶段：2026-02-10 PC 版发售
+主链接：https://www.pcgamer.com/games/roguelike/mewgenics-launch-time-release-date/
+稳定ID：article-7e4536689d68d1762be174ff
+已打开参考：
+  https://store.steampowered.com/app/686060/Mewgenics/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.pcgamer.com/games/roguelike/mewgenics-launch-time-release-date/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读 PC Gamer 日期/正文与官方 Steam 全页。开发者对确切小时的估计和商店预估不一致，保留已确证日期，不人为补一个发售时刻。
+正文汉字数：391
+
+23. 生化危机 Requiem 发售后突破 500 万份，系列进入三十周年节点
+原文标题：Resident Evil Requiem Surpasses 5 Million Units!
+栏目：游戏；来源：Capcom；原文语言：en
+原始发布日期：2026-03-04；事件/阶段：2026-02-27 发售；2026-03-04 公布500万份节点
+主链接：https://www.capcom.co.jp/ir/english/news/html/e260304.html
+稳定ID：article-a158cbe4f7c95fff4ab27167
+已打开参考：
+  https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-has-sold-over-5-million-copies-in-less-than-a-week-but-is-still-a-few-million-off-of-slaying-monster-hunter-wilds-as-the-fastest-selling-capcom-game/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.capcom.co.jp/ir/english/news/html/e260304.html
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读 Capcom 3 月4日正文与 GamesRadar 的同期销售报道；全球500万是公司宣布的当时数字，不暗示年末销量或第三方审计。
+正文汉字数：360
+
+24. 杀戮尖塔 2 开始抢先体验，加入最多四人合作
+原文标题：Slay the Spire 2 is out NOW in Early Access!!
+栏目：游戏；来源：Mega Crit；原文语言：en
+原始发布日期：2026-03-05；事件/阶段：2026-03-05 开始 Early Access，并非1.0正式版
+主链接：https://www.megacrit.com/news/2026-03-05-early-access-launch/
+稳定ID：article-0d2f370b914bc8c9cdd3d65b
+已打开参考：
+  https://www.megacrit.com/faq/
+  https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
+  https://www.megacrit.com/press-kits/slay-the-spire-2/
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.megacrit.com/press-kits/slay-the-spire-2/
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读发售文、FAQ、Steam 与官方 press kit；3月5日是 Early Access。已读 https://megacrit.com/content-policy/，明确许可视频及部分自制作品，不把它扩大为静态宣传素材的通用复制许可。
+正文汉字数：375
+
+25. 红色沙漠全球上线：开放世界动作冒险登陆多平台
+原文标题：Pearl Abyss Launches Crimson Desert Worldwide Today
+栏目：游戏；来源：Pearl Abyss；原文语言：en
+原始发布日期：2026-03-19；事件/阶段：2026-03-19 15:00 PDT 全球同时上线（香港为3月20日）
+主链接：https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684
+稳定ID：article-0ea5b207d5728ba7c3dcffc3
+已打开参考：
+  https://crimsondesert.pearlabyss.com/en-US/News/Notice/Detail?_boardNo=64
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读3月19日官方新闻与3月12日全球解锁/预载公告，原文15:00 PDT换算香港为次日06:00；不将官网列表的其它日期误作此文章日期。
+正文汉字数：379
+
+26. PRAGMATA 新 IP 发售后 16 天突破 200 万份
+原文标题：Sales of All-New IP PRAGMATA Top Two Million Units in 16 Days!
+栏目：游戏；来源：Capcom；原文语言：en
+原始发布日期：2026-05-07；事件/阶段：2026-04-17 多数地区发售；日本及部分亚洲Switch2为4月24日；5月7日披露200万份
+主链接：https://www.capcom.co.jp/ir/english/news/html/e260507.html
+稳定ID：article-3223841a6278ec991fa22cf7
+已打开参考：
+  https://blog.playstation.com/2026/03/05/capcom-spotlight-march-2026-recap-pragmata-launches-april-17-alex-joins-street-fighter-6-and-more/
+  https://store.captown.capcom.com/en/blogs/news/0000015
+图片URL：不设置；复用许可未确认
+图片来源/候选页：https://www.capcom.co.jp/ir/english/news/html/e260507.html
+图片署名：无，未使用图片
+图片许可：未确认；不转载
+核查与边界：已读 Capcom 5月7日全文、Capcom在PlayStation Blog的3月5日文及Captown4月17日发布页。销量对应上市后16天而非公告日天数；亚洲Switch2发售日期例外明确列出。
+正文汉字数：369
+
+
