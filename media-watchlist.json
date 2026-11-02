@@ -1,13 +1,53 @@
 {
   "editorial_policy": "优先可追溯事实，不将任何一家媒体视为天然完全客观；重大、争议或快速变化事件尽量核对至少两家独立报道及官方原始数据，分别标明事实、消息来源、评论和预测。无法读取的付费全文不伪装已读。",
   "media": [
-    {"name":"BBC News 中文","home":"https://www.bbc.com/zhongwen","rss":"https://feeds.bbci.co.uk/zhongwen/simp/rss.xml","status":"官方RSS与一篇公开原文已直接读取成功；优先公众事务、科技与国际报道"},
-    {"name":"德国之声 DW 中文","home":"https://www.dw.com/zh/","rss":"https://rss.dw.com/rdf/rss-chi-all","status":"官方RSS与一篇公开原文已直接读取成功；保留当事方归属"},
-    {"name":"联合早报","home":"https://www.zaobao.com/","rss":null,"status":"主页及一篇标记免费公开的原文已直接读取成功；未确认稳定官方RSS，不使用404地址"},
-    {"name":"Reuters","home":"https://www.reuters.com/","principles":"https://reutersagency.com/about/our-trust-principles/","status":"已有授权转载报道作为年度事件交叉核验链接，尚无独立主源稿；继续检索，有可读资料才生成，不绕过访问要求"},
-    {"name":"Associated Press","home":"https://apnews.com/","principles":"https://www.ap.org/about/news-values-and-principles/news-values-introduction/","status":"已收录2026熊本地震年度回顾，并在其它年度事件中交叉引证；灾害记录继续与USGS、气象或救灾部门原始数据核对"},
-    {"name":"NPR","home":"https://www.npr.org/","status":"补充美国公共事务、科学报道；评论与事实报道分开"},
-    {"name":"官方一手来源","examples":["USGS","NASA","Apple Newsroom","NVIDIA Newsroom","OpenAI","开发商与发行商官方公告","论文出版页及大学机构仓储"],"status":"技术参数、地震量值、游戏状态及研究结论优先回到原始发布核对"}
+    {
+      "name": "BBC News 中文",
+      "home": "https://www.bbc.com/zhongwen",
+      "rss": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "status": "官方RSS与一篇公开原文已直接读取成功；优先公众事务、科技与国际报道"
+    },
+    {
+      "name": "德国之声 DW 中文",
+      "home": "https://www.dw.com/zh/",
+      "rss": "https://rss.dw.com/rdf/rss-chi-all",
+      "status": "官方RSS与一篇公开原文已直接读取成功；保留当事方归属"
+    },
+    {
+      "name": "联合早报",
+      "home": "https://www.zaobao.com/",
+      "rss": null,
+      "status": "主页及一篇标记免费公开的原文已直接读取成功；未确认稳定官方RSS，不使用404地址"
+    },
+    {
+      "name": "Reuters",
+      "home": "https://www.reuters.com/",
+      "principles": "https://reutersagency.com/about/our-trust-principles/",
+      "status": "已收录可公开读取的Reuters原始报道，并保留授权转载及其它独立来源作交叉核验；能正常读取才生成，不绕过访问要求"
+    },
+    {
+      "name": "Associated Press",
+      "home": "https://apnews.com/",
+      "principles": "https://www.ap.org/about/news-values-and-principles/news-values-introduction/",
+      "status": "已收录2026熊本地震年度回顾，并在其它年度事件中交叉引证；灾害记录继续与USGS、气象或救灾部门原始数据核对"
+    },
+    {
+      "name": "NPR",
+      "home": "https://www.npr.org/",
+      "status": "已收录NPR Illinois刊载的公开NPR报道；公共事务、科学报道与评论分开"
+    },
+    {
+      "name": "官方一手来源",
+      "examples": [
+        "USGS",
+        "NASA",
+        "Apple Newsroom",
+        "NVIDIA Newsroom",
+        "OpenAI",
+        "开发商与发行商官方公告",
+        "论文出版页及大学机构仓储"
+      ],
+      "status": "技术参数、地震量值、游戏状态及研究结论优先回到原始发布核对"
+    }
   ]
 }
-

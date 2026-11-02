@@ -1,0 +1,432 @@
+{
+  "version": 1,
+  "checked_at": "2026-11-02T08:27:00.351Z",
+  "timezone": "Asia/Hong_Kong",
+  "schedule": "每天09:00、12:00、17:00开始检索；不是实时通讯社专线，实际发布以generated_at为准",
+  "categories": {
+    "时政": {
+      "retained_minimum": 50,
+      "providers": [
+        {
+          "name": "联合早报",
+          "entry": "https://www.zaobao.com/"
+        },
+        {
+          "name": "德国之声 DW",
+          "entry": "https://rss.dw.com/rdf/rss-chi-all"
+        },
+        {
+          "name": "联合国减灾署（UNDRR）",
+          "entry": "https://www.undrr.org/news/undrr-escwa-and-league-arab-states-advance-regional-cooperation-disaster-statistics-risk"
+        },
+        {
+          "name": "泛美卫生组织（PAHO）",
+          "entry": "https://www.paho.org/"
+        },
+        {
+          "name": "美联社（AP）",
+          "entry": "https://apnews.com/"
+        },
+        {
+          "name": "美国地质调查局（USGS）",
+          "entry": "https://www.usgs.gov/"
+        },
+        {
+          "name": "世界气象组织（WMO）",
+          "entry": "https://wmo.int/"
+        },
+        {
+          "name": "墨西哥国立自治大学（UNAM）",
+          "entry": "https://www.mareografico.unam.mx/"
+        },
+        {
+          "name": "路透社（Reuters）",
+          "entry": "https://www.thestar.com.my/news/world/2026/11/02/bulgaria039s-iotova-wins-presidential-runoff-near-final-results-show"
+        },
+        {
+          "name": "美国联邦储备委员会",
+          "entry": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "name": "欧洲中央银行（ECB）",
+          "entry": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+        },
+        {
+          "name": "国际货币基金组织（IMF）",
+          "entry": "https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026"
+        },
+        {
+          "name": "NPR（NPR Illinois刊载）",
+          "entry": "https://www.nprillinois.org/2026-04-12/viktor-orban-concedes-defeat-in-historic-hungary-election"
+        },
+        {
+          "name": "联合国儿童基金会（UNICEF）",
+          "entry": "https://www.unicef.org/panama/emergencia_terremoto_panama"
+        },
+        {
+          "name": "美国劳工统计局（BLS）",
+          "entry": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"
+        },
+        {
+          "name": "欧盟统计局（Eurostat）",
+          "entry": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap"
+        },
+        {
+          "name": "日本银行（BOJ）",
+          "entry": "https://www.boj.or.jp/en/mopo/outlook/gor2610a.pdf"
+        },
+        {
+          "name": "巴西圣保罗州选举法院（TRE-SP）",
+          "entry": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-lula-e-reeleito-presidente-da-republica-confira-resultado-do-2o-turno-em-sp"
+        },
+        {
+          "name": "世界粮食计划署（WFP）",
+          "entry": "https://www.wfp.org/news/wfp-warnings-become-reality-food-insecurity-haiti-track-reach-record-highs"
+        },
+        {
+          "name": "联合国人道事务协调厅（OCHA）",
+          "entry": "https://iran.un.org/en/313396-islamic-republic-iran-humanitarian-update-no-01-17-march-2026"
+        },
+        {
+          "name": "UNICEF USA",
+          "entry": "https://www.unicefusa.org/stories/unicef-urges-action-prepare-el-nino-and-protect-children"
+        },
+        {
+          "name": "加拿大银行（Bank of Canada）",
+          "entry": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+        },
+        {
+          "name": "中国国家统计局",
+          "entry": "https://www.stats.gov.cn/sj/zxfb/202610/t20261019_1965618.html"
+        },
+        {
+          "name": "人权观察（HRW）",
+          "entry": "https://www.hrw.org/news/2026/10/09/human-rights-justice-advocate-navi-pillay-wins-nobel-peace-prize"
+        },
+        {
+          "name": "世界贸易组织（WTO）",
+          "entry": "https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm"
+        },
+        {
+          "name": "世界卫生组织（WHO）",
+          "entry": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON622"
+        },
+        {
+          "name": "联合国难民署（UNHCR）",
+          "entry": "https://www.unhcr.ca/news/unhcr-warns-of-growing-humanitarian-needs-as-thousands-flee-ethiopia-to-kenya/"
+        },
+        {
+          "name": "联合国日内瓦办事处",
+          "entry": "https://www.ungeneva.org/en/news-media/press-briefing/2026/10/un-geneva-press-briefing-4"
+        },
+        {
+          "name": "新西兰储备银行（RBNZ）",
+          "entry": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent"
+        },
+        {
+          "name": "国际海事组织（IMO）",
+          "entry": "https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-welcomes-entry-into-force-bbnj.aspx"
+        },
+        {
+          "name": "联合国裁军事务厅（UNODA）",
+          "entry": "https://unodaweb.unoda.org/public/2026-04/4.13%20Ade%20Opening%20Remarks%20UNDC.pdf"
+        },
+        {
+          "name": "欧盟委员会",
+          "entry": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_184/IP_26_184_EN.pdf"
+        },
+        {
+          "name": "新华社",
+          "entry": "https://www.xinhuanet.com/20260312/e3d72b48bbdc4518aad7454b6ab38a0c/c.html"
+        },
+        {
+          "name": "英国政府（GOV.UK）",
+          "entry": "https://www.gov.uk/government/news/pm-meeting-with-president-xi-jinping-of-china-29-january-2026"
+        },
+        {
+          "name": "欧洲理事会",
+          "entry": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/30/joint-statement-eu-canada-summit-30-october-2026/"
+        },
+        {
+          "name": "BBC News",
+          "entry": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+        }
+      ]
+    },
+    "AI 新闻": {
+      "retained_minimum": 50,
+      "providers": [
+        {
+          "name": "BBC News 中文",
+          "entry": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
+        },
+        {
+          "name": "OpenAI",
+          "entry": "https://openai.com/news/"
+        },
+        {
+          "name": "Google 官方博客",
+          "entry": "https://blog.google/innovation-and-ai/"
+        },
+        {
+          "name": "Google DeepMind",
+          "entry": "https://deepmind.google/blog/"
+        },
+        {
+          "name": "Meta 官方",
+          "entry": "https://about.fb.com/news/"
+        },
+        {
+          "name": "Mistral AI 官方",
+          "entry": "https://mistral.ai/news/"
+        },
+        {
+          "name": "Anthropic 官方",
+          "entry": "https://www.anthropic.com/news"
+        }
+      ]
+    },
+    "游戏": {
+      "retained_minimum": 50,
+      "providers": [
+        {
+          "name": "Hello Games",
+          "entry": "https://www.nomanssky.com/2026/10/forsaken-7-12/"
+        },
+        {
+          "name": "Capcom",
+          "entry": "https://www.capcom.co.jp/"
+        },
+        {
+          "name": "Pearl Abyss",
+          "entry": "https://www.pearlabyss.com/en-US"
+        },
+        {
+          "name": "Mega Crit",
+          "entry": "https://www.megacrit.com/"
+        },
+        {
+          "name": "PC Gamer",
+          "entry": "https://www.pcgamer.com/"
+        },
+        {
+          "name": "The Game Bakers",
+          "entry": "https://www.thegamebakers.com/"
+        },
+        {
+          "name": "PlayStation.Blog",
+          "entry": "https://blog.playstation.com/"
+        }
+      ]
+    },
+    "数码": {
+      "retained_minimum": 50,
+      "providers": [
+        {
+          "name": "Apple Developer",
+          "entry": "https://developer.apple.com/news/releases/?id=10302026a"
+        },
+        {
+          "name": "Apple Newsroom",
+          "entry": "https://www.apple.com/newsroom/"
+        },
+        {
+          "name": "NVIDIA",
+          "entry": "https://nvidianews.nvidia.com/"
+        },
+        {
+          "name": "新华网（数码报道）",
+          "entry": "https://www3.xinhuanet.com"
+        },
+        {
+          "name": "华为发布稿（美通社）",
+          "entry": "https://en.prnasia.com"
+        },
+        {
+          "name": "vivo 官方",
+          "entry": "https://www.vivo.com.cn"
+        },
+        {
+          "name": "Samsung Global Newsroom",
+          "entry": "https://news.samsung.com"
+        },
+        {
+          "name": "Samsung Newsroom Singapore",
+          "entry": "https://news.samsung.com"
+        },
+        {
+          "name": "AMD 官方",
+          "entry": "https://newsroom.amd.com"
+        },
+        {
+          "name": "AMD / Intel",
+          "entry": "https://newsroom.amd.com"
+        },
+        {
+          "name": "Intel 发布稿（Business Wire）",
+          "entry": "https://www.businesswire.com"
+        },
+        {
+          "name": "Intel Newsroom",
+          "entry": "https://www.intel.com"
+        },
+        {
+          "name": "ASUS Pressroom",
+          "entry": "https://press.asus.com"
+        },
+        {
+          "name": "Qualcomm 官方",
+          "entry": "https://www.qualcomm.com"
+        },
+        {
+          "name": "Google 官方博客",
+          "entry": "https://blog.google"
+        },
+        {
+          "name": "Dell 官方",
+          "entry": "https://www.dell.com"
+        },
+        {
+          "name": "Microsoft Devices Blog",
+          "entry": "https://blogs.windows.com"
+        }
+      ]
+    },
+    "学术": {
+      "retained_minimum": 50,
+      "providers": [
+        {
+          "name": "PolyU机构知识库",
+          "entry": "https://ira.lib.polyu.edu.hk/"
+        },
+        {
+          "name": "DTU研究数据库",
+          "entry": "https://orbit.dtu.dk/"
+        },
+        {
+          "name": "Strathclyde机构仓储",
+          "entry": "https://strathprints.strath.ac.uk/"
+        },
+        {
+          "name": "UCL Discovery",
+          "entry": "https://discovery.ucl.ac.uk/"
+        },
+        {
+          "name": "Advances in Bridge Engineering",
+          "entry": "https://link.springer.com/journal/43251"
+        },
+        {
+          "name": "Wind Energy Science",
+          "entry": "https://wes.copernicus.org/"
+        },
+        {
+          "name": "PolyU沿海城市气候韧性全国重点实验室",
+          "entry": "https://www.polyu.edu.hk/sklcrcc/"
+        },
+        {
+          "name": "Computer Modeling in Engineering & Sciences",
+          "entry": "https://www.techscience.com/CMES"
+        },
+        {
+          "name": "Advances in Structural Engineering",
+          "entry": "https://journals.sagepub.com/"
+        },
+        {
+          "name": "Journal of Civil Structural Health Monitoring",
+          "entry": "https://link.springer.com/journal/13349"
+        },
+        {
+          "name": "International Journal of Bridge Engineering, Management and Research",
+          "entry": "https://ijbemr.org/index.php/ber"
+        },
+        {
+          "name": "PolyU Scholars Hub",
+          "entry": "https://research.polyu.edu.hk/"
+        },
+        {
+          "name": "Chalmers Research",
+          "entry": "https://research.chalmers.se/"
+        },
+        {
+          "name": "University of Hertfordshire Research Archive",
+          "entry": "https://uhra.herts.ac.uk/"
+        },
+        {
+          "name": "Frontiers in Marine Science",
+          "entry": "https://www.frontiersin.org/journals/marine-science"
+        },
+        {
+          "name": "Aarhus University Pure",
+          "entry": "https://pure.au.dk/"
+        },
+        {
+          "name": "Newcastle University ePrints",
+          "entry": "https://eprints.ncl.ac.uk/"
+        }
+      ]
+    }
+  },
+  "editorial_rules": [
+    "每次先检查新闻目录/官方更新/RSS和热点关键词，再打开独立原页；RSS不是覆盖完整性的保证",
+    "最近消息与年度回看分开，不以旧日期冒充新发生；首次入库不等同事件首次发生",
+    "重大或争议事件尽可能用独立报道和原始资料交叉，陈述、数据和评论分开",
+    "五栏各至少50个不同已核内容，不拆同一消息凑数；500篇容量下保留栏目下限",
+    "正文选择少量真正重要的句子/数字用双星号标粗；预览和朗读移除标记",
+    "配图优先当前报道原图，再同一游戏/型号/论文图；相关替代须标资料图并说明非本文图，不能统一栏目图片填充"
+  ],
+  "priority_checks": {
+    "games": {
+      "topics": [
+        "影之刃零/Phantom Blade Zero",
+        "鬼武者/Onimusha: Way of the Sword",
+        "独立游戏正式发售与重要开发进展",
+        "3A新作、官方补丁、平台差异与过期试玩"
+      ],
+      "verified_entries": [
+        "https://blog.playstation.com/feed/",
+        "https://steamcommunity.com/app/2638890/allnews/",
+        "https://pbz.s-game.cn/",
+        "https://www.capcom.co.jp/ir/english/news/",
+        "https://www.pcgamer.com/"
+      ],
+      "note": "同一游戏可跟踪实质不同更新，但不能把同一次发售拆成多条。PS与PC/Xbox/Nintendo官方资料同时查，不能只查某一家平台。"
+    },
+    "digital": {
+      "brands": [
+        "Samsung/三星",
+        "vivo",
+        "Huawei/华为",
+        "Apple",
+        "NVIDIA",
+        "AMD",
+        "Intel",
+        "Qualcomm",
+        "Google/Android/Pixel",
+        "PC与外设厂商"
+      ],
+      "note": "区分中国与海外机型、预告/预售/现货、补贴价与官方标价、厂商主张与独立实测。品牌没有可靠新消息不造稿。"
+    },
+    "politics": {
+      "topics": [
+        "法国和德国社会事件：核实地点、时间、示威与局部暴力，不能自动写成全国暴乱",
+        "塞尔维亚选举：分别核对投票、补投、计票、最终结果和组阁",
+        "俄乌战况：区分局部停火、单方声明、现场证据和全线停战",
+        "金融与经济：央行利率、通胀、就业、GDP、财政/债务风险、国际组织预测",
+        "地震、台风、洪灾等重大灾害及救援进展"
+      ],
+      "note": "宏观金融报道呈现数据与来源，不输出针对用户的投资交易指令。"
+    },
+    "academic": {
+      "primary": [
+        "船舶碰撞/船桥/船风机碰撞、结构损伤、防护和撞后性能",
+        "风机台风、地震、波浪和多灾害安全"
+      ],
+      "other_groups": [
+        "PolyU Kaiming Bi（毕凯明）",
+        "PolyU Yong Xia（夏勇）",
+        "湖南大学Wei Fan（樊伟）"
+      ],
+      "note": "按官方机构与作者消歧；只读摘要如实说明。往年代表作明确回看，月精度不捏造日期。"
+    }
+  }
+}

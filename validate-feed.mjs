@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT_FIELDS = ['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources'];
 const ARTICLE_FIELDS = ['id', 'source_id', 'source_name', 'category', 'url', 'title', 'title_zh', 'body', 'body_zh', 'preview_zh', 'scope', 'language', 'translation_status', 'translation_error', 'translation_model', 'translated_at', 'published_at', 'image_url', 'saved', 'read', 'is_demo'];
-const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'reference_urls', 'year_highlight'];
+const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight'];
 const SOURCE_FIELDS = ['id', 'name', 'category', 'adapter', 'feed_url', 'enabled', 'note', 'last_checked', 'last_error'];
 const CATEGORIES = new Set(['时政', 'AI 新闻', '游戏', '数码', '学术', '未分类']);
 const EDITIONS = new Set(['早间', '午间', '晚间']);
@@ -86,13 +86,17 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
   function equals(value, wanted, path) { if (value !== wanted) fail(path, `必须为 ${JSON.stringify(wanted)}`); }
   function date(value, path, { dateOnly = false, max = now, nullable = false } = {}) {
     if (nullable && value === null) return NaN;
+    if(dateOnly&&typeof value==='string'&&/^[1-9]\d{3}-(?:0[1-9]|1[0-2])$/.test(value)){
+      if(value>new Date(max+14*60*60*1000).toISOString().slice(0,7))fail(path,'来源月份不能晚于当前批次');
+      return Date.parse(value+'-01'); // Sorting key only: the displayed and stored value stays month-precision.
+    }
     if (dateOnly && typeof value === 'string' && calendarDate(value)) {
       // Date-only sorting uses a comparison key, never a fabricated publication time.
       if (value > new Date(max + 14 * 60 * 60 * 1000).toISOString().slice(0, 10)) fail(path, '来源日期不能晚于当前批次');
       return Date.parse(value);
     }
     const result = timestamp(value);
-    if (!Number.isFinite(result)) fail(path, dateOnly ? '应为真实 YYYY-MM-DD 或含时区的 ISO 时间；不要补造未知时分秒' : '应为含时区的 ISO 时间，例如 YYYY-MM-DDTHH:mm:ss+08:00');
+    if (!Number.isFinite(result)) fail(path, dateOnly ? '应为已核年月 YYYY-MM、真实 YYYY-MM-DD 或含时区 ISO 时间；不要补造未知日或时分秒' : '应为含时区的 ISO 时间，例如 YYYY-MM-DDTHH:mm:ss+08:00');
     else if (result > max) fail(path, '不能使用未来时间');
     return result;
   }
@@ -104,7 +108,8 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     if (depth > 8) { fail(path, '嵌套层级过深'); continue; }
     if (typeof value === 'string') {
       if (!wellFormed(value) || /[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f]/.test(value)) fail(path, '含损坏的 Unicode 或控制字符');
-      if (/(?:\b[A-Za-z]:[\\/]|\/(?:Users|home)\/)/.test(value)) fail(path, '包含本机私人路径');
+      const outsideUrls=value.replace(/https?:\/\/[^\s<>"']+/gu,'');
+      if (/(?:\b[A-Za-z]:[\\/]|\/(?:Users|home)\/)/.test(outsideUrls)) fail(path, '包含本机私人路径');
       if (/(?:\bgh[pousr]_[A-Za-z0-9_]{16,}|\bgithub_pat_[A-Za-z0-9_]{16,}|\bsk-(?:proj-)?[A-Za-z0-9_-]{16,}|\bAKIA[A-Z0-9]{16}\b|-----BEGIN (?:[A-Z ]+)?PRIVATE KEY-----)/.test(value)) fail(path, '疑似包含密钥或访问凭据');
     } else if (value && typeof value === 'object') {
       for (const [key, next] of Object.entries(value)) stack.push([next, `${path}.${key}`, depth + 1]);
@@ -162,12 +167,14 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     if (article.image_url !== null) {
       if (!publicUrl(article.image_url)) fail(`${path}.image_url`, '配图必须是公开 HTTPS 图片地址');
       text(article.image_credit, `${path}.image_credit`, 1, 500);
-      text(article.image_license, `${path}.image_license`, 1, 300);
-      if (!publicUrl(article.image_source_url)) fail(`${path}.image_source_url`, '有配图时必须提供可核验归属和许可的来源页面');
+      text(article.image_license, `${path}.image_license`, 1, 500, article.image_usage==='source_remote');
+      if (!publicUrl(article.image_source_url)) fail(`${path}.image_source_url`, '有配图时必须提供可核验归属的来源页面');
     } else {
       for (const field of ['image_credit','image_license','image_source_url']) if (Object.hasOwn(article,field) && article[field] !== null) fail(`${path}.${field}`, '无图片时归属字段应为 null 或省略');
     }
     if (Object.hasOwn(article,'year_highlight') && typeof article.year_highlight !== 'boolean') fail(`${path}.year_highlight`, '年度重要标记应为布尔值');
+    if (Object.hasOwn(article,'month_highlight') && typeof article.month_highlight !== 'boolean') fail(`${path}.month_highlight`, '月度重要标记应为布尔值');
+    if (Object.hasOwn(article,'image_usage') && article.image_usage!==null && !['source_remote','licensed_asset'].includes(article.image_usage)) fail(`${path}.image_usage`, '图片用途须为source_remote或licensed_asset');
     if (Object.hasOwn(article,'reference_urls')) {
       if (!Array.isArray(article.reference_urls) || article.reference_urls.length > 20) fail(`${path}.reference_urls`, '相关报道和公开论文全文链接最多20个');
       else { const references=new Set();for(const link of article.reference_urls){if(!publicUrl(link)||references.has(link))fail(`${path}.reference_urls`, '应为不重复的公开 HTTPS 来源链接');references.add(link);} }
@@ -272,6 +279,14 @@ export function selfTest() {
   test('image source required', value => { Object.assign(value.articles[0],{image_url:'https://www.nasa.gov/image.jpg',image_credit:'NASA',image_license:'Public Domain'}); });
   test('annual milestone', value => { value.articles[0].year_highlight=true; },true);
   test('annual flag type', value => { value.articles[0].year_highlight='yes'; });
+  test('monthly important flag', value => { value.articles[0].month_highlight=true; },true);
+  test('monthly flag type', value => { value.articles[0].month_highlight=1; });
+  test('month precision retains unknown day', value => { value.articles[0].published_at='2026-02'; },true);
+  test('invalid month precision', value => { value.articles[0].published_at='2026-13'; });
+  test('source image is a link without relicensing', value => { Object.assign(value.articles[0],{image_url:'https://ichef.bbci.co.uk/news/1024/source.jpg',image_credit:'BBC 原报道署名见原文',image_license:null,image_source_url:'https://www.bbc.com/news/articles/source-image',image_usage:'source_remote'}); },true);
+  test('licensed image still needs license', value => { Object.assign(value.articles[0],{image_url:'https://www.nasa.gov/source.jpg',image_credit:'NASA',image_license:null,image_source_url:'https://www.nasa.gov/source/',image_usage:'licensed_asset'}); });
+  test('public home URL is not a private path', value => { value.articles[0].reference_urls=['https://www.businesswire.com/news/home/20260105738564/en/CES-2026-Intel']; },true);
+  test('local UNIX home path remains private', value => { value.articles[0].body_zh+=' /home/private/research'; });
   test('related readable sources', value => { value.articles[0].reference_urls=['https://www.nasa.gov/news/']; },true);
   test('related source must be public', value => { value.articles[0].reference_urls=['file:///private']; });
   test('missing source', value => { value.sources = []; });
@@ -322,4 +337,3 @@ async function main(args) {
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   main(process.argv.slice(2)).catch(error => { console.error('校验失败：' + error.message); process.exitCode = 1; });
 }
-

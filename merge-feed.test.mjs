@@ -18,6 +18,20 @@ const doc = (articles = [], sources = [source()]) => ({ articles, sources });
 const run = (options = {}) => mergeFeed({ base: doc(), generatedAt, edition: '午间', latestIds: [], ...options });
 const picture = { image_url: 'https://www.nasa.gov/focus-synthetic-cover.jpg', image_credit: '资料图（非现场）：合成测试归属', image_license: 'Synthetic test only', image_source_url: 'https://www.nasa.gov/focus-synthetic-license/' };
 
+test('a busy column cannot evict all fifty older articles in another column',()=>{
+  const busy=Array.from({length:500},(_,i)=>article(10000+i,{category:'AI 新闻',published_at:'2026-01-19'}));
+  const academic=Array.from({length:50},(_,i)=>article(20000+i,{category:'学术',published_at:'2025-01-01'}));
+  const {feed}=run({base:doc([...busy,...academic])});
+  assert.equal(feed.articles.length,500);assert.equal(feed.articles.filter(a=>a.category==='学术').length,50);assert.equal(feed.articles.filter(a=>a.category==='AI 新闻').length,450);
+});
+
+test('monthly importance and remote image rights remain attached to a revised story',()=>{
+  const original=article(30000,{month_highlight:true,image_url:'https://www.bbc.com/source-synthetic.jpg',image_credit:'BBC source fixture',image_license:null,image_source_url:'https://www.bbc.com/news/source-synthetic',image_usage:'source_remote'});
+  const revised=article(30000,{month_highlight:false});
+  const {feed}=run({base:doc([original]),additions:[doc([revised])]});
+  assert.equal(feed.articles[0].month_highlight,true);assert.equal(feed.articles[0].image_usage,'source_remote');assert.equal(feed.articles[0].image_license,null);
+});
+
 test('same exact URL revises once, stable ID retains meaningful query, inputs stay unchanged', () => {
   const url = 'https://developer.apple.com/news/releases/?id=synthetic-test-a';
   const old = article(1, { url, id: articleId(url), year_highlight: true });
@@ -186,4 +200,3 @@ test('CLI handles repeated additions, covers, latest and remove JSON files witho
     await rmdir(directory);
   }
 });
-

@@ -5,7 +5,7 @@ import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { articleId, parseFeedJson, validateFeed } from './validate-feed.mjs';
 
-const IMAGE_FIELDS = ['image_url', 'image_credit', 'image_license', 'image_source_url'];
+const IMAGE_FIELDS = ['image_url', 'image_credit', 'image_license', 'image_source_url', 'image_usage'];
 const ROOT_FIELDS = new Set(['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources']);
 const MAX_BYTES = 4 * 1024 * 1024;
 const clone = value => structuredClone(value);
@@ -97,9 +97,10 @@ export function mergeFeed({ base, additions = [], covers = {}, generatedAt, edit
       if (sameUrl && sameUrl !== article.id) throw new Error(`${label}.articles[${index}] 同一 URL 存在不同 ID`);
       if (localSourceIds.has(article.source_id)) article.source_id = localSourceIds.get(article.source_id);
       if (previous?.article.year_highlight === true) article.year_highlight = true;
+      if (previous?.article.month_highlight === true) article.month_highlight = true;
       // A text-only revision must not replace an existing event photograph with a generic cover.
       if (article.image_url === null && previous?.article.image_url) {
-        for (const field of IMAGE_FIELDS) article[field] = previous.article[field];
+        for (const field of IMAGE_FIELDS) article[field] = field==='image_usage'?(previous.article[field]??'licensed_asset'):previous.article[field];
       }
       byId.set(article.id, { article, ordinal: previous?.ordinal ?? ordinal++ });
       byUrl.set(article.url, article.id);
@@ -111,7 +112,16 @@ export function mergeFeed({ base, additions = [], covers = {}, generatedAt, edit
   const protectedArticles = candidates.filter(entry => entry.article.year_highlight === true);
   if (protectedArticles.length > maxArticles) throw new Error(`年度重要文章 ${protectedArticles.length} 篇超过容量 ${maxArticles}；请明确移除或提高合法容量，不能静默丢弃`);
   const ordinary = candidates.filter(entry => entry.article.year_highlight !== true).sort(order);
-  const retained = [...protectedArticles, ...ordinary.slice(0, maxArticles - protectedArticles.length)].sort(order);
+  const selection=new Map(protectedArticles.map(entry=>[entry.article.id,entry]));
+  // Keep useful breadth in each column as daily updates accumulate.
+  const columnFloor=Math.min(50,Math.floor(maxArticles/5));
+  for(const category of ['时政','AI 新闻','游戏','数码','学术']){
+    let count=[...selection.values()].filter(entry=>entry.article.category===category).length;
+    for(const entry of ordinary)if(count<columnFloor&&entry.article.category===category&&!selection.has(entry.article.id)){selection.set(entry.article.id,entry);count++;}
+  }
+  if(selection.size>maxArticles)throw new Error('年度保护与栏目保留超过容量，不能静默丢弃；请明确调整保留策略');
+  for(const entry of ordinary)if(selection.size<maxArticles&&!selection.has(entry.article.id))selection.set(entry.article.id,entry);
+  const retained=[...selection.values()].sort(order);
   const retainedIds = new Set(retained.map(entry => entry.article.id));
   for (const id of latest) if (!retainedIds.has(id)) throw new Error('latestIds 包含未保留的文章（不存在、被明确移除或超出容量）；请调整本期选择后重试');
 
@@ -120,8 +130,8 @@ export function mergeFeed({ base, additions = [], covers = {}, generatedAt, edit
       const cover = covers[article.category];
       requireObject(cover, 'covers 的栏目配图');
       for (const field of IMAGE_FIELDS) {
-        if (!Object.hasOwn(cover, field)) throw new Error(`covers 的栏目配图缺少 ${field}`);
-        article[field] = clone(cover[field]);
+        if (!Object.hasOwn(cover, field) && field!=='image_usage') throw new Error(`covers 的栏目配图缺少 ${field}`);
+        article[field] = field==='image_usage'?(cover[field]??'licensed_asset'):clone(cover[field]);
       }
     }
     return article;
@@ -193,4 +203,3 @@ async function main(args) {
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   main(process.argv.slice(2)).catch(error => { console.error('合并失败：' + error.message); process.exitCode = 1; });
 }
-
