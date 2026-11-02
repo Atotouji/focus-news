@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT_FIELDS = ['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources'];
 const ARTICLE_FIELDS = ['id', 'source_id', 'source_name', 'category', 'url', 'title', 'title_zh', 'body', 'body_zh', 'preview_zh', 'scope', 'language', 'translation_status', 'translation_error', 'translation_model', 'translated_at', 'published_at', 'image_url', 'saved', 'read', 'is_demo'];
 const SOURCE_FIELDS = ['id', 'name', 'category', 'adapter', 'feed_url', 'enabled', 'note', 'last_checked', 'last_error'];
-const CATEGORIES = new Set(['时政', 'AI 新闻', '体育', '数码', '学术', '未分类']);
+const CATEGORIES = new Set(['时政', 'AI 新闻', '游戏', '数码', '学术', '未分类']);
 const EDITIONS = new Set(['早间', '午间', '晚间']);
 const MAX_BYTES = 4 * 1024 * 1024;
 const cp = value => [...value].length;
@@ -238,6 +238,8 @@ export function selfTest() {
     if (result.ok !== expected) throw new Error(`自检失败：${label}`);
   };
   test('valid fixture', () => {}, true);
+  test('games category', value => { value.articles[0].category = '游戏'; value.sources[0].category = '游戏'; }, true);
+  test('retired sports category', value => { value.articles[0].category = '体育'; value.sources[0].category = '体育'; });
   test('empty latest permitted', value => { value.latest_article_ids = []; }, true);
   test('wrong version', value => { value.version = 2; });
   test('missing root field', value => { delete value.latest_article_ids; });
