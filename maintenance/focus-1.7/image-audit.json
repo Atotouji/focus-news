@@ -1,0 +1,128 @@
+[
+  {
+    "key": "game-room",
+    "url": "https://blog.playstation.com/tachyon/2048/11/9f1fedcdd90425e57cb99d87b41b43d3eef67616.jpg",
+    "article_id": "article-ec5ed8244097f3708e8c6980",
+    "source": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+    "after": 1,
+    "credit": "Visuwyg / Hyperstrange，经 PlayStation Blog 原文展示。",
+    "caption": "《Derelikt》原文游戏截图。",
+    "checked_at": "2026-11-03T03:34:33.565166+00:00",
+    "mime": "image/jpeg",
+    "pixels": [
+      1920,
+      1080
+    ],
+    "bytes": 253867,
+    "sha256": "759d75c87babf75d42cbf5be59e5706a65adc2083ad45b8cd45ebe4ce4f3abd2",
+    "ok": true
+  },
+  {
+    "key": "game-scene",
+    "url": "https://blog.playstation.com/tachyon/2048/11/a3793cf7c6fd7ca414a09ee90908ea92f9752768.jpg",
+    "article_id": "article-ec5ed8244097f3708e8c6980",
+    "source": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+    "after": 2,
+    "credit": "Visuwyg / Hyperstrange，经 PlayStation Blog 原文展示。",
+    "caption": "《Derelikt》原文场景截图。",
+    "checked_at": "2026-11-03T03:34:33.565166+00:00",
+    "mime": "image/jpeg",
+    "pixels": [
+      1920,
+      1080
+    ],
+    "bytes": 160950,
+    "sha256": "45152a024f58e589d0263e408442f0c5212f791bd202d9c0668cdaf17f288415",
+    "ok": true
+  },
+  {
+    "key": "pmi-nonmanufacturing",
+    "url": "https://www.stats.gov.cn/sj/zxfbhjd/202610/W020261031311161847536_ORIGIN.png",
+    "article_id": "article-200ec32cb6f224e69d5a95b1",
+    "source": "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261031_1965718.html",
+    "after": 2,
+    "credit": "国家统计局，2026年10月采购经理指数原文图表。",
+    "caption": null,
+    "checked_at": "2026-11-03T03:34:34.964575+00:00",
+    "mime": "image/png",
+    "pixels": [
+      2212,
+      1372
+    ],
+    "bytes": 104007,
+    "sha256": "160701528e1820db0f76e81ef8d44b48c14e6bdbfff09f58372218dc55569f29",
+    "ok": true
+  },
+  {
+    "key": "bbc-store",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f067/live/7e30cd10-d6b8-11f1-aacc-5b5f23abff4b.jpg",
+    "article_id": "article-d624df893688c9c13db8c606",
+    "source": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+    "after": 1,
+    "credit": "AFP via Getty Images，经 BBC 原报道展示。",
+    "caption": "斯德哥尔摩一家门店的员工处理变质食品。",
+    "checked_at": "2026-11-03T03:34:35.443670+00:00",
+    "mime": "image/jpeg",
+    "pixels": [
+      1024,
+      576
+    ],
+    "bytes": 164556,
+    "sha256": "50c828e5bb17d6d3a3532edcf1f09969ffc009835593beb6ce723f0f4b760de0",
+    "ok": true
+  },
+  {
+    "key": "oman-meeting",
+    "url": "https://www.mfa.gov.cn/gjhdq_676201/gj_676203/yz_676205/1206_676259/xgxw_676265/202611/W020261102541030190834.jpg",
+    "article_id": "article-2c54fcaa786dc9475b0c287c",
+    "source": "https://www.mfa.gov.cn/gjhdq_676201/gj_676203/yz_676205/1206_676259/xgxw_676265/202611/t20261102_12051267.shtml",
+    "after": 2,
+    "credit": "中国外交部，2026年11月2日会谈公告原图；原页未单列摄影署名。",
+    "caption": "2026年11月2日，北京会谈现场。",
+    "checked_at": "2026-11-03T03:34:34.098209+00:00",
+    "mime": "image/jpeg",
+    "pixels": [
+      600,
+      383
+    ],
+    "bytes": 422614,
+    "sha256": "1fa8d41d9b5cd687c6e9a8851e9754763d942fe6b6ac51efa77a36b01ae0666a",
+    "ok": true
+  },
+  {
+    "key": "worlds-poster",
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/4fb7cbb455ad58e79d7fcc4475cbeb5bae1216d4-3840x2160.jpg",
+    "article_id": "article-d7b85ed970c8df94ecf7c8bd",
+    "source": "https://lolesports.com/en-GB/news/your-guide-to-worlds-2026-fan-fest",
+    "after": 2,
+    "credit": "Riot Games / LoL Esports，Fan Fest 官方原文宣传图。",
+    "caption": "2026 全球总决赛 Fan Fest 官方活动海报。",
+    "checked_at": "2026-11-03T03:34:35.874199+00:00",
+    "mime": "image/jpeg",
+    "pixels": [
+      3840,
+      2160
+    ],
+    "bytes": 548558,
+    "sha256": "2b4ec4d2108c6e923109b42f6ad861920f863aa4cd06607d4eab14782ab013c5",
+    "ok": true
+  },
+  {
+    "key": "wes-cyclone",
+    "url": "https://wes.copernicus.org/articles/11/2749/2026/wes-11-2749-2026-f02-web.jpg",
+    "article_id": "article-f2cc88910e91b4fae1a28d52",
+    "source": "https://wes.copernicus.org/articles/11/2749/2026/",
+    "after": 1,
+    "credit": "论文图2；图像署名 Alfred Hicks，经 Wind Energy Science 原文展示。",
+    "caption": "论文图2：热带气旋中的大气与海洋现象示意。",
+    "checked_at": "2026-11-03T03:34:37.776400+00:00",
+    "mime": "image/jpeg",
+    "pixels": [
+      1461,
+      988
+    ],
+    "bytes": 1551029,
+    "sha256": "4e2476c182591e6145d01429b4b80763129eb4607293fc22c05514a1dce4ac38",
+    "ok": true
+  }
+]

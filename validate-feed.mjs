@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT_FIELDS = ['version', 'generated_at', 'edition', 'latest_article_ids', 'articles', 'sources'];
 const ARTICLE_FIELDS = ['id', 'source_id', 'source_name', 'category', 'url', 'title', 'title_zh', 'body', 'body_zh', 'preview_zh', 'scope', 'language', 'translation_status', 'translation_error', 'translation_model', 'translated_at', 'published_at', 'image_url', 'saved', 'read', 'is_demo'];
-const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight', 'date_basis', 'politics_region', 'event_start', 'event_end'];
+const ARTICLE_OPTIONAL_FIELDS = ['image_credit', 'image_license', 'image_source_url', 'image_usage', 'reference_urls', 'year_highlight', 'month_highlight', 'date_basis', 'politics_region', 'event_start', 'event_end', 'inline_images'];
 const SOURCE_FIELDS = ['id', 'name', 'category', 'adapter', 'feed_url', 'enabled', 'note', 'last_checked', 'last_error'];
 const CATEGORIES = new Set(['时政', 'AI', 'AI 新闻', '游戏', '数码', '影视', '学术', '未分类']);
 const EDITIONS = new Set(['早间', '午间', '晚间']);
@@ -172,6 +172,26 @@ export function validateFeed(feed, { now = Date.now(), archive = false } = {}) {
     } else {
       for (const field of ['image_credit','image_license','image_source_url']) if (Object.hasOwn(article,field) && article[field] !== null) fail(`${path}.${field}`, '无图片时归属字段应为 null 或省略');
     }
+    if (Object.hasOwn(article,'inline_images')) {
+      const images=article.inline_images;
+      if(!Array.isArray(images)||images.length>8)fail(path+'.inline_images','正文插图须为最多8张的数组');
+      else {
+        const paragraphs=typeof article.body_zh==='string'?article.body_zh.trim().split(/\n\s*\n/).filter(p=>p.trim()):[];
+        const used=new Set(article.image_url?[article.image_url]:[]);let previous=0;
+        for(const [i,image] of images.entries()){
+          const ip=path+'.inline_images['+i+']';
+          if(!object(image,['after_paragraph','image_url','image_credit','image_license','image_source_url','image_usage','caption_zh'],ip))continue;
+          if(!Number.isInteger(image.after_paragraph)||image.after_paragraph<1||image.after_paragraph>=paragraphs.length||image.after_paragraph<previous)fail(ip+'.after_paragraph','须按段落顺序位于两个实际正文段落之间，一基编号');
+          previous=image.after_paragraph;
+          if(!publicUrl(image.image_url)||used.has(image.image_url))fail(ip+'.image_url','须为不同于头图及其它插图的公开HTTPS图片');used.add(image.image_url);
+          if(!publicUrl(image.image_source_url))fail(ip+'.image_source_url','须为图片实际出现的公开来源页面');
+          if(!['source_remote','licensed_asset'].includes(image.image_usage))fail(ip+'.image_usage','图片用途须为source_remote或licensed_asset');
+          text(image.image_credit,ip+'.image_credit',1,500);
+          text(image.image_license,ip+'.image_license',1,500,image.image_usage==='source_remote');
+          text(image.caption_zh,ip+'.caption_zh',0,500,true);
+        }
+      }
+    }
     if (Object.hasOwn(article,'year_highlight') && typeof article.year_highlight !== 'boolean') fail(`${path}.year_highlight`, '年度重要标记应为布尔值');
     if (Object.hasOwn(article,'month_highlight') && typeof article.month_highlight !== 'boolean') fail(`${path}.month_highlight`, '月度重要标记应为布尔值');
     if (Object.hasOwn(article,'date_basis') && ![null,'source','curated'].includes(article.date_basis)) fail(`${path}.date_basis`, '日期依据须为source或curated，旧稿可省略或null');
@@ -298,6 +318,20 @@ export function selfTest() {
   test('invalid month precision', value => { value.articles[0].published_at='2026-13'; });
   test('source image is a link without relicensing', value => { Object.assign(value.articles[0],{image_url:'https://ichef.bbci.co.uk/news/1024/source.jpg',image_credit:'BBC 原报道署名见原文',image_license:null,image_source_url:'https://www.bbc.com/news/articles/source-image',image_usage:'source_remote'}); },true);
   test('licensed image still needs license', value => { Object.assign(value.articles[0],{image_url:'https://www.nasa.gov/source.jpg',image_credit:'NASA',image_license:null,image_source_url:'https://www.nasa.gov/source/',image_usage:'licensed_asset'}); });
+  const illustrated=v=>{v.articles[0].body_zh+='\n\n第二段正文，保留原文图对应的位置与中文说明。';v.articles[0].inline_images=[{after_paragraph:1,image_url:'https://www.nasa.gov/figure.png',image_credit:'NASA 原文图',image_license:null,image_source_url:'https://www.nasa.gov/news/',image_usage:'source_remote',caption_zh:null}];};
+  test('inline source figure',illustrated,true);
+  test('optional inline images remain empty',v=>{v.articles[0].inline_images=[];},true);
+  test('inline figure requires source',v=>{illustrated(v);delete v.articles[0].inline_images[0].image_source_url;});
+  test('inline figure requires credit',v=>{illustrated(v);v.articles[0].inline_images[0].image_credit='';});
+  test('inline figure placement zero',v=>{illustrated(v);v.articles[0].inline_images[0].after_paragraph=0;});
+  test('inline figure after final paragraph',v=>{illustrated(v);v.articles[0].inline_images[0].after_paragraph=2;});
+  test('inline figure placement fraction',v=>{illustrated(v);v.articles[0].inline_images[0].after_paragraph=1.5;});
+  test('inline figure duplicate lead',v=>{illustrated(v);const i=v.articles[0].inline_images[0];Object.assign(v.articles[0],Object.fromEntries(['image_url','image_credit','image_license','image_source_url','image_usage'].map(k=>[k,i[k]])));});
+  test('inline duplicate image',v=>{illustrated(v);v.articles[0].inline_images.push(structuredClone(v.articles[0].inline_images[0]));});
+  test('inline image license for hosting',v=>{illustrated(v);v.articles[0].inline_images[0].image_usage='licensed_asset';});
+  test('inline image unsafe URL',v=>{illustrated(v);v.articles[0].inline_images[0].image_url='file:///private/photo.png';});
+  test('inline image extra private field',v=>{illustrated(v);v.articles[0].inline_images[0].private_email='private';});
+  test('inline image count limit',v=>{illustrated(v);v.articles[0].inline_images=Array.from({length:9},()=>structuredClone(v.articles[0].inline_images[0]));});
   test('public home URL is not a private path', value => { value.articles[0].reference_urls=['https://www.businesswire.com/news/home/20260105738564/en/CES-2026-Intel']; },true);
   test('local UNIX home path remains private', value => { value.articles[0].body_zh+=' /home/private/research'; });
   test('related readable sources', value => { value.articles[0].reference_urls=['https://www.nasa.gov/news/']; },true);

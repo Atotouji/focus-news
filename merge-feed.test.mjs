@@ -219,3 +219,8 @@ test('upcoming conference survives an old announcement date; expired conference 
  assert.deepEqual(new Set(feed.articles.map(a=>a.id)),new Set([upcoming.id,recent.id]));
  assert.equal(feed.articles[1].published_at,'2025-01-01');
 });
+
+const fig={after_paragraph:1,image_url:'https://www.nasa.gov/figure.png',image_credit:'NASA',image_license:null,image_source_url:'https://www.nasa.gov/news/',image_usage:'source_remote',caption_zh:null};
+test('text-only revision preserves inline figures without mutating base',()=>{const original=article(70001,{body_zh:article(1).body_zh+'\n\n第二段研究结果。',inline_images:[fig]});const before=structuredClone(original);const update={...original,title_zh:'修订标题'};delete update.inline_images;const {feed}=run({base:doc([original]),additions:[doc([update])]});assert.deepEqual(feed.articles[0].inline_images,[fig]);assert.deepEqual(original,before);});
+test('explicit empty array clears figures while preserving identity and dates',()=>{const original=article(70002,{body_zh:article(1).body_zh+'\n\n第二段研究结果。',inline_images:[fig]});const {feed}=run({base:doc([original]),additions:[doc([{...original,inline_images:[]}])]});assert.deepEqual(feed.articles[0].inline_images,[]);assert.equal(feed.articles[0].id,original.id);assert.equal(feed.articles[0].published_at,original.published_at);});
+test('incompatible shortened prose fails rather than silently moving a figure',()=>{const original=article(70003,{body_zh:article(1).body_zh+'\n\n第二段研究结果。',inline_images:[fig]});const update={...original,body_zh:article(1).body_zh};delete update.inline_images;assert.throws(()=>run({base:doc([original]),additions:[doc([update])]}),/实际正文段落之间/);});

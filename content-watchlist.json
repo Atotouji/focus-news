@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "checked_at": "2026-11-02T11:37:59.826Z",
+  "version": 4,
+  "checked_at": "2026-11-03T03:36:00.965Z",
   "timezone": "Asia/Hong_Kong",
   "schedule": "每天09:00、12:00、17:00开始检索；不是实时通讯社专线，实际发布以generated_at为准",
   "categories": {
@@ -512,5 +512,10 @@
       "policy": "entertainment-watchlist.json",
       "note": "上映状态、口碑、经典回看分开；评分有来源/季数/人数/时间，默认无结局剧透。"
     }
+  },
+  "editorial_1_7": {
+    "prose": "新闻、论文内容优先，删除本条依据等编辑流程话术；必要归属与适用范围嵌入具体事实句。",
+    "images": "优先原文内文图，可用inline_images插在对应段落后；不重复头图、不凑图，许可与归属逐图核验。",
+    "client": "底部中文/英文，英文打开来源原站；所有朗读入口移除。"
   }
 }

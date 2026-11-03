@@ -98,6 +98,7 @@ export function mergeFeed({ base, additions = [], covers = {}, generatedAt, edit
       if (localSourceIds.has(article.source_id)) article.source_id = localSourceIds.get(article.source_id);
       if (previous?.article.year_highlight === true) article.year_highlight = true;
       if (previous?.article.month_highlight === true) article.month_highlight = true;
+      if(previous&&!Object.hasOwn(article,'inline_images')&&Object.hasOwn(previous.article,'inline_images'))article.inline_images=clone(previous.article.inline_images);
       // A text-only revision must not replace an existing event photograph with a generic cover.
       if (article.image_url === null && previous?.article.image_url) {
         for (const field of IMAGE_FIELDS) article[field] = field==='image_usage'?(previous.article[field]??'licensed_asset'):previous.article[field];

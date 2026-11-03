@@ -1,0 +1,19 @@
+{
+  "base_commit": "62fcddab4b804671a5fda53783c1153a38ec9cf0",
+  "generated_at": "2026-11-03T03:41:11.524Z",
+  "articles": 333,
+  "counts": {
+    "时政": 60,
+    "游戏": 61,
+    "数码": 52,
+    "影视": 51,
+    "AI": 55,
+    "学术": 54
+  },
+  "latest": 0,
+  "edited_articles": 333,
+  "reviewed_sentences": 89,
+  "inline_images": 7,
+  "inline_articles": 6,
+  "history_dates_and_highlights_preserved": true
+}
