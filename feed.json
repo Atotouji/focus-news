@@ -1,20 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T04:21:15.736Z",
+  "generated_at": "2026-11-03T05:04:20.785Z",
   "edition": "午间",
   "latest_article_ids": [
-    "article-bbb9adae9a48a69ade94cc3b",
-    "article-c58d85bb8a405fa99a4bbfae",
-    "article-d298b8f1847e6f8fe6fcc2ed",
-    "article-a26050f655f06652954e17f0",
-    "article-5bb6ba782f19325a5cd050a1",
-    "article-3dc3cf9f90b7c2fa281ec47f",
-    "article-a24fe88ac870f744871c4b19",
-    "article-0c4f0cd963bcd6957b02253b",
-    "article-139b15d46f32cac57086b31f",
-    "article-d43040406b3a7d375c010887",
-    "article-a7210d2533362c800fd19a5e",
-    "article-08708f33d70dd96e8830e58d"
+    "article-95dfecafc28df3479a495e45"
   ],
   "articles": [
     {
@@ -3015,6 +3004,50 @@
       "is_demo": 0,
       "month_highlight": false,
       "politics_region": "global"
+    },
+    {
+      "id": "article-95dfecafc28df3479a495e45",
+      "source_id": "dotesports-lol",
+      "source_name": "Dot Esports",
+      "category": "游戏",
+      "url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-8-results",
+      "title": "KC dismantle MKOI as LYON survive LOS thriller and BLG eliminate HLE at Worlds 2026 Swiss Stage Day 8",
+      "title_zh": "LoL全球总决赛八强出炉：BLG淘汰HLE，TES对IG将于北京时间11月4日开打",
+      "body": null,
+      "body_zh": "2026英雄联盟全球总决赛瑞士轮已结束，最后三个八强名额由 **KC、LYON、BLG** 拿到。美国得克萨斯州当地10月31日的三组生死战中，KC以2:0淘汰MKOI，LYON以2:1击败巴西战队LOS，BLG以2:0淘汰HLE。三支胜队均以3胜2负完成瑞士轮；这些是已结束系列赛的结果。\n\n八强名单为LPL的TES、IG、BLG，LCK的Gen.G、DK、T1，以及LEC的KC和LCS的LYON。Gen.G与DK在瑞士轮均为3胜0负，抽签后分处上下半区，若继续晋级，最早在决赛相遇。淘汰赛从八强开始全部采用五局三胜制。\n\n八强对阵和开赛时间，以下均为**北京时间**：11月4日06:00，TES对IG；11月5日06:00，Gen.G对LYON；11月6日06:00，DK对BLG；11月7日06:00，T1对KC。TES与IG的LPL内战意味着两队中只有一队能进入四强；Gen.G对LYON、DK对BLG和T1对KC的较量，也将决定半决赛名单。\n\n截至北京时间2026-11-03 13:04，**首场八强赛尚未开打，四强和决赛对阵尚未产生**。官方页面列出的11月3日16:00是得州当地标准时间，换算后为北京11月4日06:00，并非北京时间3日下午。\n\n半决赛安排在北京时间11月8日、9日06:00；冠军决赛转至纽约布鲁克林，计划北京时间11月15日03:00开赛。赛程与即时赛果分开更新，下一轮首先关注TES与IG的最终比分及晋级队伍。",
+      "preview_zh": "2026英雄联盟全球总决赛瑞士轮已结束，最后三个八强名额由 KC、LYON、BLG 拿到。美国得克萨斯州当地10月31日的三组生死战中，KC以2:0淘汰MKOI，LYON以2:1击败巴西战队LOS，BLG以2:0淘汰HLE。三支胜队均以3胜2负完成瑞士轮；这些是已结束系列赛的结果。",
+      "scope": "briefing",
+      "language": "zh",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-01",
+      "image_url": "https://media.dotesports.com/wp-content/uploads/2026/11/BLG-Knight-Cover.webp",
+      "image_credit": "Colin Young-Wolff / Riot Games：Knight在2026年10月31日美国艾伦瑞士轮末日比赛现场；Dot Esports原报道图片。",
+      "image_license": null,
+      "image_source_url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-8-results",
+      "image_usage": "source_remote",
+      "reference_urls": [
+        "https://lolesports.com/en-GB/news/worlds-2026-primer",
+        "https://labs.invenglobal.com/articles/27983/dk-vs-blg-matchup-and-more-quarterfinal-draw-results"
+      ],
+      "year_highlight": false,
+      "month_highlight": true,
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "inline_images": [
+        {
+          "after_paragraph": 1,
+          "image_url": "https://media.dotesports.com/wp-content/uploads/2026/11/Karmine-Corp-Worlds-2026-1024x576.webp",
+          "image_credit": "Colin Young-Wolff / Riot Games：KC在2026年10月31日瑞士轮现场；Dot Esports原报道图片。",
+          "image_license": null,
+          "image_source_url": "https://dotesports.com/league-of-legends/news/worlds-2026-swiss-day-8-results",
+          "image_usage": "source_remote",
+          "caption_zh": "KC在瑞士轮最后一日晋级，成为本届八强中唯一的LEC队伍。"
+        }
+      ]
     },
     {
       "id": "article-cd0407cd77f761ebabefd45d",
@@ -11626,6 +11659,17 @@
       "enabled": 1,
       "note": "2026年内回顾；依据已打开的公开来源撰写原创中文报道，保留原始发布日期；非原文全文或官方背书。",
       "last_checked": null,
+      "last_error": null
+    },
+    {
+      "id": "dotesports-lol",
+      "name": "Dot Esports",
+      "category": "游戏",
+      "adapter": "briefing",
+      "feed_url": "https://dotesports.com/league-of-legends",
+      "enabled": 1,
+      "note": "电竞原始报道；比分与赛程结合LoL Esports官方赛程和独立赛事报道核对。",
+      "last_checked": "2026-11-03T05:04:20.785Z",
       "last_error": null
     },
     {
