@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T06:12:44.306Z",
+  "generated_at": "2026-11-03T09:22:14.931Z",
   "translations": [
+    {
+      "article_id": "article-e5096ee1991e88406ef01038",
+      "source_sha256": "24e6036115b9875bf50df94874cb1823d6fc17c3a653cb0d399ef1602d87729b",
+      "paragraphs": [
+        "On November 3, two Group B teams secured clear advancement at CS2’s IEM Beijing: **PARIVISION and MOUZ have both clinched playoff places** and will next contest a direct semi-final berth. MOUZ beat BETBOOM 2–0, winning Ancient 13–6 and Mirage 16–14 in overtime. BETBOOM drop to the lower bracket to face Aurora.",
+        "PARIVISION had also beaten Liquid 2–0, taking Ancient 13–7 and Inferno 13–9. FL1T recorded 36 kills, 22 deaths and a 1.48 HLTV rating across the series. The winner of the Group B upper final between PARIVISION and MOUZ advances directly to the tournament semi-finals; the loser still has a quarter-final place.",
+        "In another completed series, **Aurora eliminated G2 2–1**, with scores of 13–9 on Nuke, 9–13 on Inferno and 16–13 in overtime on Dust2. Wicadia had 26 kills on the decider, finishing the series with 60 kills and a 1.30 rating. According to HLTV, G2 have exited three consecutive events in the group stage and won only one of their last nine series. Liquid remain alive in the lower bracket and need two more consecutive series wins to advance."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-2030bce98493fdb1ff7b5b21",
+      "source_sha256": "9acab2c1734f5d3fc66bf9010f5e8e5e6293f5fa9b1f8f30c33e03da83d91ea9",
+      "paragraphs": [
+        "BBC reported on November 3 that four planned large UK data centres are considering gas generation before grid connection. At continuous full capacity, it estimated combined demand of about 1.3 GW and possible annual carbon emissions of **4.1 million tonnes**. Actual emissions depend on energy mix, load and duration.",
+        "Ofgem says developers have requested 72 GW of grid capacity; actual UK peak demand last year was 45 GW. Requests are not operational load. Some developers face grid-upgrade and connection waits of up to ten years.",
+        "Acre Slough is considering up to 49.5 MW of gas engines. Wapsey’s Wood proposes a 200 MW gas station, with sufficient grid capacity not expected until 2040. Quest Park in Bedfordshire proposes 1 GW of demand, with its energy mix still under review. A Cardiff project seeks up to 49.9 MW of temporary generation for a maximum of five years.",
+        "The government prioritises connections to the decarbonising grid. On-site generation would be tightly controlled, time-limited and reserved for exceptionally strategic projects lacking other sufficient capacity. The new data centre covenant requires developers to bear associated energy-system costs, minimise water use and benefit local communities."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-5ef7c80104be0411299e077b",
+      "source_sha256": "a62061ff007f6439568c205d05be349ea3398de0339a112a84948d64ab53755c",
+      "paragraphs": [
+        "The 2026 World Internet Conference Wuzhen Summit opened on the morning of November 3. In his keynote, Chinese Premier Li Qiang called for technology transfer, knowledge sharing and digital infrastructure cooperation as the internet and artificial intelligence become increasingly integrated. Around 1,800 government officials, international organisation leaders, business representatives and experts attended the opening.",
+        "Li said China would pursue open innovation, respect countries’ legitimate cybersecurity concerns and **oppose a “digital iron curtain.”** He also proposed supporting digital infrastructure and technical capabilities in Global South countries, and improving multilateral governance through open dialogue. Technology-enabled development, trust and control, broadly shared benefits, and open dialogue were the four cooperation priorities in his speech.",
+        "On AI governance, he stressed human agency and machines as trusted tools, alongside algorithmic ethics, security as digital technologies integrate with the real economy, and inequalities in sharing technological gains. The World Internet Conference has run for 13 consecutive years. After the opening, Li visited the Light of Internet Expo and the Wuzhen World Internet Science and Technology Museum."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-cc9df76cb64dec8b57377a60",
+      "source_sha256": "a23ec258c1afa0ce1d9fc54665d5fd98aad11c9ea327577b1cd03499a4ca110e",
+      "paragraphs": [
+        "At the first briefing in its new Five-Year Plan series on November 3, China’s National Development and Reform Commission discussed AI’s effects on employment and social governance. Wang Ruomeng, a deputy director in its innovation and high-technology department, said the commission would monitor changes in employment structure and promote the inclusion of **new occupations such as model trainers and data annotators in the national occupational classification system**.",
+        "For displacement risks, the commission proposed stronger monitoring and early warning, alongside social protection that accommodates changing jobs and working arrangements. Rights-protection priorities include algorithmic discrimination, deepfakes and privacy breaches, better tracing of AI misuse, and particular attention to older people and minors.",
+        "Southern Metropolis Daily’s on-site report also outlined two legislative priorities: foundational, comprehensive AI legislation, and rules covering data, computing power, algorithms and key applications, with safety standards and ethical principles across the AI lifecycle. The rules would be periodically evaluated and adjusted based on their implementation."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-d298b8f1847e6f8fe6fcc2ed",
       "source_sha256": "d0bba6cc075eaa38ddd4326c34957381141dfa8dcbbd4d2623a6b3311d7b1dcd",
@@ -47,6 +92,17 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
+      "article_id": "article-4698c350da10e2abc98d0219",
+      "source_sha256": "5f93e8dd7832f4db6b30611fb2f6e68d815f22bc008085ab8c39d85f8ccba652",
+      "paragraphs": [
+        "UK Prime Minister Andy Burnham plans to discuss a debt-framework overhaul at the Commonwealth Heads of Government Meeting in Antigua, responding to rising interest-payment burdens in some member countries. The BBC reported on November 3 that Downing Street called this a **“debt reset.”** Talks about a formal British apology for the slave trade are also planned; an apology has not yet been made.",
+        "A UK government readout published the same day confirms that Burnham met Barbados Prime Minister Mia Mottley on November 2. They discussed reshaping international financial frameworks for debt through the UK-hosted G20 next year, the effects of rising seas and extreme heat on Barbados, and structured dialogue with communities affected by the transatlantic slave trade.",
+        "The UK also plans two task forces by year-end: one on critical minerals and supply-chain vulnerabilities, and another on broader trade and investment. They would report to the next leaders’ summit. According to the BBC, the government is open to discussing a formal apology but rejects financial reparations funded by British taxpayers."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
       "article_id": "article-38e81240a551e2399bbc62fd",
       "source_sha256": "bf0f867e6a39e7fce054c9496b2292229531d4b4732439587af54dca7c5932ad",
       "paragraphs": [
@@ -67,6 +123,40 @@
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+    },
+    {
+      "article_id": "article-a6e32eb980aea1b6655cd110",
+      "source_sha256": "1c84d02f630786d2e07b19ca2adc3f5a730e8804ddb6c4d8626357bbd4431a35",
+      "paragraphs": [
+        "On November 3, the Reserve Bank of Australia raised its cash rate target by 25 basis points, from 4.60% to **4.85%**. The decision was not unanimous: six Monetary Policy Board members supported the increase, while three voted to hold at 4.60%.",
+        "The bank described inflation as broad-based. The Middle East conflict has raised fuel and other commodity prices, domestic capacity constraints appear tighter than previously estimated, and AI investment is pushing up some technology-related goods prices. Its revised forecasts put a return to the upper end of the 2–3% inflation target range in **late 2027**, about three quarters later than previously projected.",
+        "The increase comes as growth slows, housing prices fall significantly and unemployment rises. The bank expects dwelling investment and household consumption to remain under pressure, while business investment, including data centres, may remain stronger in the near term. Unemployment is projected to rise more than forecast in August. Future decisions will depend on incoming data and changing risks."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-4b940fe58ecf411e08c8446c",
+      "source_sha256": "3f7f820d203488b2c16127e0a214877d5a931220feefd157895752527d634bf5",
+      "paragraphs": [
+        "In a report published on November 3, the UK National Cyber Security Centre (NCSC) assessed that a ransomware attack involving AI malware is highly likely to affect UK critical infrastructure by 2028. **The forecast concerns changes in attack capabilities over the next two years**: AI lowering operational costs and accelerating vulnerability discovery and exploitation at scale.",
+        "The accompanying annual review covers September 1, 2025 to August 31, 2026. Its incident-management chapter says attackers have used AI tools, but none of the observed uses enabled a new class of attack. Many intrusions still exploit known vulnerabilities, internet-exposed systems and other familiar weaknesses.",
+        "Project DROMOS began in 2026, involving the Government Cyber Coordination Centre, the AI Security Institute and others. A four-week pilot analysing government code repositories was followed by expansion into selected operational government environments. NCSC says AI-assisted analysis uncovered **hundreds of potential security issues, including critical vulnerabilities**. Experts remained responsible for assessing findings, managing false positives and prioritising fixes.",
+        "The report also describes capability-building funding announced in the previous week’s Budget: £60 million for the first phase of the national Cyber Shield, £70 million for the National Exposure and Real-Time Vulnerability (NERV) Centre, and plans for an AI Cyber Security Centre of Excellence in Manchester."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-05f006a5efd4816d6fac8220",
+      "source_sha256": "2baa33f362ef1456b734fbcfe9333c098efa8799f3456f52a121c2adcb5983ca",
+      "paragraphs": [
+        "Hong Kong Observatory reported on November 3 that October 2026 had a mean daily maximum temperature of 30.5°C, a mean temperature of **27.6°C** and a mean daily minimum of 25.8°C. These were 2.4°C, 1.9°C and 1.9°C above their respective normals. All three set October records for Hong Kong, indicating persistent warmth across the month rather than a single extreme day.",
+        "The Observatory’s highest temperature was 33.6°C on October 1 and its lowest 23.3°C on October 6. October 23 reached 32.3°C, the warmest recorded Frost solar term. Monthly rainfall was 81.0 mm, about 67% of the 120.3 mm normal, although accumulated rainfall through October, 2,532.9 mm, remained about 7% above the normal for that period.",
+        "The Observatory linked the warmth to a weaker northeast monsoon and stronger upper-air anticyclone over southern China, against a backdrop of climate warming and a strong El Niño. It forecasts that this El Niño may persist into early next year. Eight tropical cyclones occurred in the South China Sea and western North Pacific in October."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-f762eb70e6b46fa847de8f79",
@@ -1176,6 +1266,17 @@
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+    },
+    {
+      "article_id": "article-e172fa559c0e11f11b6da9de",
+      "source_sha256": "6e607c2d75a311c94c24cf18eebff75143486fce36022a7fa48bfc267c9df3e1",
+      "paragraphs": [
+        "A vivo official community announcement dated October 29 opened the second OriginOS 7 early-access rollout to 16 models, including X200 and iQOO 13. Registration runs from October 29 at 10:00 to **November 12 at 23:59 Beijing time**, with no participant cap. The schedule called for distribution to existing applicants on November 2; applications from November 3–12 are scheduled to receive the update that day, subject to official notices on actual progress.",
+        "The standard **X200 requires software version 16.1.12.40.W10.V000L1 or later**. Other models, including X200 Pro and X200 Ultra, have separate requirements. Applications are available through Settings, System management and upgrade, System update, then the upper-right menu’s early-access upgrade section and the new-version card.",
+        "This batch is a major OriginOS 7 early-access release. vivo says some third-party applications may still have compatibility issues. Users who have upgraded cannot leave early access directly: they must first use the official downgrade tool to return to OriginOS 6, then withdraw through the application screen."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-a0c3e1be77e8b5a27f797ac2",
