@@ -1,7 +1,182 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T09:22:14.931Z",
+  "generated_at": "2026-11-04T01:22:38.368Z",
   "translations": [
+    {
+      "article_id": "article-24dea360bb8c5d64c5c716f9",
+      "source_sha256": "ab44bb290ba52081179533cd41dd140d5c622beb35fd03c8313eab01d17e29ec",
+      "paragraphs": [
+        "The first quarter-final of the 2026 League of Legends World Championship began in Allen, Texas, at 06:00 Beijing time on November 4, with TES facing iG. **The series stood at 1–1 after two games**: iG won the opener, and TES took Game 2 after 47 minutes 8 seconds with a 20–17 kill score.",
+        "In Game 1, JiaQi’s Kai’Sa and Rookie’s Syndra led iG’s damage, extending their advantage through jungle fights and finishing after securing Infernal Soul. TES answered with 369 on Renekton, Tian on Xin Zhao, Creme on Orianna, JackeyLove on Kalista and Zhuo on Renata Glasc. Tian stole Baron; in the final fight, 369 removed a key target before TES killed four opponents and pushed through mid to win.",
+        "The **1–1 score is the position after Game 2**, not the final result of the best-of-five series. Knockout matches require three game wins. The remaining quarter-finals are scheduled for 06:00 Beijing time: GEN–LYON on November 5, DK–BLG on November 6, and T1–KC on November 7."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-6ea1e1302492fa00ceedc6ac",
+      "source_sha256": "91d721b5464ed476d0c2070dde043d162dea56b4c911c902ff0804be8966fc87",
+      "paragraphs": [
+        "On November 4, the Hong Kong Polytechnic University’s Department of Civil and Environmental Engineering announced its 2026 National Natural Science Foundation of China funding results. Two projects list **Yong Xia as supervisor**, with awards to postdoctoral fellow Wei Tian and research assistant professor Ye Yuan. Each receives RMB300,000 under the Young Scientists Fund, Category C.",
+        "Wei Tian’s project is titled “Parametric Substructuring-Based Digital Twin-Driven Damage Detection.” Ye Yuan’s project is “Spatial-Temporal Data Representation and Physics-Enhanced Multimodal Large Model for Bridge Health Monitoring.”",
+        "Across the department, 14 scholars received more than RMB4.5 million through twelve Category C Young Scientists Fund awards and two General Programme awards; ten projects were initiated through the Shenzhen Research Institute. **The RMB4.5 million-plus figure is the department-wide total**, not the amount for Xia’s two supervised projects. This is a funding announcement; experimental data and research findings for the two projects have not been disclosed."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-8801ead606fc4db5063474fe",
+      "source_sha256": "21cd64b616b7fe7d8b9f44298b2fb2e6368e6e8280cb4b637a4b444337df4d68",
+      "paragraphs": [
+        "AMD reported fiscal third-quarter 2026 results for the period ended September 26: revenue of **$13.377 billion, up 45% year on year** and 16% sequentially. GAAP net income was $2.428 billion, diluted earnings per share $1.46 and gross margin 54%. Non-GAAP EPS was $2.09, a separate adjusted measure.",
+        "Data Center revenue reached approximately $8.5 billion, **up 97% year on year**, which AMD attributed to demand for EPYC processors and Instinct MI450 GPUs. Combined Client and Gaming revenue was about $3.7 billion, down 8%: Client was roughly $2.9 billion, up 7%, while Gaming was $773 million, down 40%, reflecting weaker semi-custom and graphics revenue. Embedded revenue was about $1.1 billion, up 29%.",
+        "Management forecasts fourth-quarter revenue of about $17 billion, plus or minus 3%, implying 66% year-on-year growth at the midpoint, and a 55% non-GAAP gross margin. These are forecasts, not realised revenue. AI data-centre growth and Gaming contraction coexisted in the quarter, so company-wide growth does not describe every segment."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-968580948772fb681129715f",
+      "source_sha256": "80a57f192c0e61e38278bc94f4e881220a84a224b35c68b1db02cf96aba1669c",
+      "paragraphs": [
+        "Spanish Transport Minister Óscar Puente announced his resignation at the end of a parliamentary hearing on November 3 and withdrew from the candidate list for the November 29 snap election. A high-speed rail collision near Urda, south of Madrid, on October 28 had killed **at least 69 people**, intensifying questions about political responsibility.",
+        "The collision involved state-owned Renfe and private operator Iryo. AFP reported that an automatic safety-system failure stopped trains along a 63-kilometre section, but a control centre subsequently authorised the Renfe train to proceed. It hit the stationary Iryo service ahead. Signalling and dispatch decisions are central to the investigation; final responsibility has not been established by its findings.",
+        "Puente proposed second-operator confirmation of dispatch decisions when the automatic system is down, improved anomaly alerts, and changes to controller breaks and fatigue monitoring. He also announced €30 million in aid for victims’ families. A separate Spanish rail crash in January killed 46 people; **the casualty totals concern two different accidents**."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-0c5c5a34246f3af68879f93f",
+      "source_sha256": "b3e3e28217e4807ceb58c299a8227c44ce993a40565f31ef671c2a344b9b1246",
+      "paragraphs": [
+        "Xbox announced its first-half November Game Pass schedule. Escape Academy 2: Back 2 School is a **day-one addition on November 5** for Ultimate and PC Game Pass, covering cloud, Xbox Series X|S, PC and handheld optimisation. The sequel expands escape-room puzzles into an open world and supports local or online two-player co-op.",
+        "Warhammer Survivors is due as a day-one addition on November 10 for Ultimate and PC Game Pass, developed by Auroch Digital with Vampire Survivors developer poncle. Thronefall joins Ultimate, Premium and PC Game Pass on November 11, combining daytime kingdom-building with night-time defence. Their dates and subscription tiers differ.",
+        "Void/Breaker reaches its full 1.0 release on November 4 and comes to Xbox Series X|S and cloud gaming. Titles including 1000xResist, Moonlighter and Total Chaos are scheduled to leave on November 15. **Joining a subscription catalogue is not a simultaneous release on every platform**; the handheld designation indicates optimisation for handheld play."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-adc4efaa5bcbe94a7cb3c445",
+      "source_sha256": "e03ce0ec21e35f23005678c93b53a33ca499aba55e3f93dc83b71cb458b8152f",
+      "paragraphs": [
+        "In November 3 updates, BBC, CNN and the Kyiv Independent reported Ukrainian accounts that Russian bombing of a humanitarian aid site in Komyshuvakha, Zaporizhzhia region, killed **at least 33 people**, with others missing. The attack occurred on November 2. The dead included two rescue workers and four police officers. BBC also reported attacks on a Dnipro hospice, a Kharkiv hospital and other sites.",
+        "After reviewing photographs and videos, the UN Human Rights Monitoring Mission said multiple glide bombs hit a school while residents gathered for aid whose distribution time and location had been publicised. Its November 3 statement cited local reports of at least 31 civilian deaths, with **the exact civilian toll still being verified**.",
+        "Russia’s defence ministry said it targeted Ukrainian military units; BBC reported no credible evidence that the site was used by the military. The UN said the attack appeared to violate fundamental principles of international humanitarian law. Zelensky put injuries at the Kharkiv hospital at 73, mostly elderly patients. Rescue work and casualty accounting continued."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-039eeeb95278a513425bf59c",
+      "source_sha256": "0da42aed54f4ee95e2b941e13615620428365abfae7e5fb5c21a5bbd93ecc02f",
+      "paragraphs": [
+        "PlayStation Blog announced on November 3 that PS5 pre-downloads for Grand Theft Auto VI will begin at **local midnight on November 10** for players who have pre-ordered. The release date remains November 19. Pre-downloading prepares files before unlock; it does not make the game playable on November 10.",
+        "The announcement requires at least **212GB of free PS5 storage**. This is a requirement in the PS5 preparation notice, not a PC specification or a universal download size for other platforms. Local midnight also represents different moments across regions.",
+        "The update focuses on launch preparation and edition contents. The Ultimate edition lists extra vehicles, weapons and clothing for Jason and Lucia’s story, with further details promised nearer November 19."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-9f0851e59a48e384cec67cfa",
+      "source_sha256": "0194bb69c0eaa10f965071f36d99bd05e7ab86418df115e574a06da7a67b80bf",
+      "paragraphs": [
+        "On November 3, the European Commission **conditionally approved JD.com’s acquisition of Germany’s Ceconomy** under the Foreign Subsidies Regulation. Ceconomy owns consumer-electronics retailers including MediaMarkt, MediaWorld and Saturn. DW reported that the companies said closing conditions were satisfied and completion was expected within days. Regulatory approval and actual closing remain separate steps.",
+        "The Commission found that preferential financing, tax incentives and grants received by JD.com could distort competition through the combined group’s logistics, technology capabilities and financing. To address this, intra-group transactions and financing provided by JD.com to Ceconomy must take place on market terms to prevent cross-subsidisation.",
+        "JD.com must also offer relevant warehousing, logistics and technology services to third-party retailers on the same terms as Ceconomy. **The commitments last ten years**, with compliance monitored by an independent trustee under Commission supervision. The foreign-subsidies procedure has a different legal basis from ordinary merger-control and national investment-security reviews."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-afd9a1c1cb694ce43cb24640",
+      "source_sha256": "92ce4c755d7b81990a0f96e62a1c952d52f896074e4774cf93992431faf74f6d",
+      "paragraphs": [
+        "Xbox Wire published an official name reveal for The Elder Scrolls VI on November 3, showing the title **The Elder Scrolls VI: Sentinel** and its logo. It is a formal promotional milestone for the next instalment in the series.",
+        "Bethesda Game Studios’ fortieth-anniversary content published the same day also lists the name. The reveal chiefly consists of title artwork and video; its text does not announce a release date, price or complete platform list, nor does it provide an official Chinese rendering of the subtitle Sentinel."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-da38bc697163569b34347a26",
+      "source_sha256": "c71d3dd3d6e72cf22fbe58486f03d5cde006b94739d47cf46de2f71fc68468f2",
+      "paragraphs": [
+        "On November 3, Google DeepMind introduced **Cheminformatics Skills** for Antigravity, connecting RDKit calculations with resources including ChEMBL and PubChem. The language model handles literature navigation, workflow orchestration and analytical reasoning, while deterministic chemistry tools perform molecular calculations. The skills are available through Antigravity’s Science plugin.",
+        "The demonstration examines rigidification of crizotinib, lorlatinib and related compounds: retrieving and curating molecules, comparing rotatable bonds and potency before and after cyclisation, conducting matched molecular pair analysis, and evaluating predictive models with held-out data or scaffold splits. An interactive interface exposes sources and properties, and the agent proposes new macrocycles and synthesis routes.",
+        "The proposed structures and potency estimates remain **computational design hypotheses requiring synthesis and experimental validation**. Inter-laboratory assay noise, sparse data and narrow numerical ranges constrain precision. The company also opened applications offering 10,000 scientists six months at the highest usage tier, with rolling onboarding subject to eligibility, capacity and selection."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-b1acee54f67377df7c225332",
+      "source_sha256": "b1a01d81afa40aec917ff654bbee7878bfcb5df2df28caa39628142a71f31d50",
+      "paragraphs": [
+        "Google announced on November 3 that **teacher-led Guided Learning is rolling out globally in Google Classroom**. Teachers can assign guided activities grounded in uploaded course materials, with questions and step-by-step prompts plus information on student interaction and progress. Related Search capabilities are still scheduled for a pilot in selected US schools later this month.",
+        "The company described a randomised controlled trial with more than 300 University of Tokyo students studying statistics independently for half a day. All could use standard web resources; half also had Gemini’s Guided Learning. Pre-to-post-test gains were **5.3 and 8.1 percentage points**, respectively, a difference of 2.8 points over a single half-day session.",
+        "A separate four-week pilot covered three UK secondary schools and four subjects. Teacher feedback informed improvements to curriculum grounding and interaction insights; those surveys and interviews are not equivalent to the Tokyo trial’s quantified test results. Google also plans to require explicit administrator activation of relevant AI products for K-12 student accounts, with implementation details to follow."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-08c8d386c996c1a2169ee2c1",
+      "source_sha256": "f75fe1aab69d2909ac49b095794e9199ccf523e44c9cee9a895db18fa4b0a70c",
+      "paragraphs": [
+        "In completed Group A matches at IEM Beijing on November 3, **FURIA came back to beat NAVI 2–1 and secure playoffs**. The map scores were 12–16 on Ancient, 16–12 on Nuke and 13–10 on Cache; the first two required overtime. The MongolZ beat HEROIC 2–0, winning Inferno 13–7 and Nuke 19–17 in overtime, also clinching a top-six place.",
+        "In the lower bracket, Falcons eliminated FaZe 2–1: Ancient 13–3, Anubis 10–13 and Mirage 13–7. Having lost to FURIA on day one, FaZe left without a series win. HEROIC and NAVI remained alive in the lower bracket.",
+        "The November 4 schedule in **Beijing time** is Liquid–TYLOO and Aurora–BETBOOM at 10:00; Falcons–HEROIC and NAVI–B8 at 12:30; PARIVISION–MOUZ for a direct semi-final place at 15:00; and The MongolZ–FURIA for the other at 17:30. The two lower-bracket finals are scheduled for 15:00 and 17:30. These are fixtures, not results."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-6d3b5b9ceb736524c424871a",
+      "source_sha256": "11b421021123870eff907ab99d9e2d344383a8036434362aa95b96675e0b78c3",
+      "paragraphs": [
+        "On November 3, OpenAI outlined AI workflows for mechanical, electrical and manufacturing engineering and disclosed research collaboration with Mazda on tasks including aerodynamics and crash safety, balancing airflow, structural, cost and styling constraints. Further technical details of the collaboration remain to be published.",
+        "In an internal prototype example, two employees used GPT-6 Astra to help design a device for talking to Codex, covering requirements, enclosure, PCB and firmware. They **completed the design in under a week**, and a contract manufacturer built a small prototype batch in under a month. Manufacturing still required multiple engineering reviews and revisions; models did not consistently respect tolerances, assembly requirements or manufacturing constraints.",
+        "The company also reported BenchCAD 2.0 scores of 0.875 for an unnamed internal model and 0.594 for GPT-6 Astra at its highest reasoning setting. These are **vendor-reported benchmark results**, not an announcement that a new model is publicly available. A CGR collaboration explores converting 3D scans into editable CAD and 2D drawings, with engineers reviewing manufacturing requirements."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-5e0cc3c9313415ee5064879b",
+      "source_sha256": "dceac1c033128da6b21d6fc09af4499923fb5a47fe973079bbf1ea22b65db196",
+      "paragraphs": [
+        "The United States held its midterm elections on November 3. In BBC live coverage around 09:00 Hong Kong time on November 4, its partner CBS projected that **Jon Ossoff would retain Georgia’s Senate seat** and Mark Warner would win re-election in Virginia. Ossoff’s Republican opponent was Mike Collins. These were media calls in individual races, not final vote totals certified by the states.",
+        "All 435 House seats and 35 Senate seats were contested. A House majority requires 218 seats; in a 50–50 Senate, the vice-president’s tie-breaking vote affects control. Some safe seats were called after the first polls closed, but those calls do not establish the national outcome in either chamber.",
+        "At that verification point, CBS still rated the Ohio and South Carolina Senate races too close to call, while counting was also beginning in states including Maine and Michigan. **Control of Congress remained undecided**, with key districts and the processing of mail ballots still relevant to the outcome."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-aaad0b1f24d682ca5334c58c",
+      "source_sha256": "f1c8e18a143ae0709d5b3d965fa48c8d93ffbc99d93a4998bed4f72bd9db11f0",
+      "paragraphs": [
+        "At the China Meteorological Administration’s November 3 briefing, National Climate Center deputy director Gao Rong said a super El Niño formed in the central and eastern equatorial Pacific in September, became the strongest on the monitoring record in October, and is expected to peak in late autumn or early winter. It is expected to substantially affect China’s winter and spring climate.",
+        "For the winter spanning late 2026 and early 2027, the forecast is **above-normal temperatures nationwide, but slightly more frequent cold waves**, with pronounced swings and a colder early winter followed by a warmer late winter. Northeastern Inner Mongolia and western parts of Northeast China are forecast to be cooler, with most other areas near or above normal. December and January may see frequent sharp cooling and warming episodes.",
+        "Precipitation is forecast to be above normal overall, with more heavy-snow episodes across much of northern China and substantially wetter conditions in the south. Parts of eastern, central, southern and southwestern China face episodic freezing-rain and snow risks. These are seasonal forecasts: **a warmer average can coexist with brief, strong cold waves**."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-832758ca182840fe7f89be3d",
+      "source_sha256": "6aaa00364a61a23f6aa3e864b60129eb301f3d2290ed6c1b547d1ac679901ca6",
+      "paragraphs": [
+        "Hong Kong’s Census and Statistics Department reported on November 3 that real GDP **grew 5.2% year on year** in the third quarter of 2026, up from a revised 4.2% in the second quarter. Seasonally adjusted growth was 1.9% quarter on quarter. Real growth over the first three quarters was 5.1%, the fastest for that period in five years. These are advance estimates.",
+        "Exports and investment expanded strongly. On the national-accounts basis, real goods exports rose 30.4% year on year and imports 29.9%. Gross domestic fixed capital formation increased 7.3%, compared with 3.7% in the previous quarter. Private consumption grew 2.8% and government consumption 1.7%; services exports and imports rose 4.3% and 5.6%, respectively.",
+        "The government expects global AI investment to support merchandise exports, with tourism, cross-boundary travel and financial activity supporting services trade. **Revised third-quarter figures and the full-year growth forecast are due on November 13**. The current 5.2% figure is not a full-year result."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-e5096ee1991e88406ef01038",
       "source_sha256": "24e6036115b9875bf50df94874cb1823d6fc17c3a653cb0d399ef1602d87729b",
@@ -154,6 +329,28 @@
         "Hong Kong Observatory reported on November 3 that October 2026 had a mean daily maximum temperature of 30.5°C, a mean temperature of **27.6°C** and a mean daily minimum of 25.8°C. These were 2.4°C, 1.9°C and 1.9°C above their respective normals. All three set October records for Hong Kong, indicating persistent warmth across the month rather than a single extreme day.",
         "The Observatory’s highest temperature was 33.6°C on October 1 and its lowest 23.3°C on October 6. October 23 reached 32.3°C, the warmest recorded Frost solar term. Monthly rainfall was 81.0 mm, about 67% of the 120.3 mm normal, although accumulated rainfall through October, 2,532.9 mm, remained about 7% above the normal for that period.",
         "The Observatory linked the warmth to a weaker northeast monsoon and stronger upper-air anticyclone over southern China, against a backdrop of climate warming and a strong El Niño. It forecasts that this El Niño may persist into early next year. Eight tropical cyclones occurred in the South China Sea and western North Pacific in October."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-8aed23f142aaf93c17635f5e",
+      "source_sha256": "c097bbe76d545211fd6c656a151a5aaa318440c4d8fc75b6a422d93c69f1da79",
+      "paragraphs": [
+        "Samsung announced on November 3 that its upgraded Sleep Apnea feature is extending through Samsung Health Monitor to Galaxy Ring and compatible Galaxy Watches. The company says the algorithm adds information about the level of breathing disruptions during sleep, beyond risk assessment. The upgrade received US FDA clearance in July and Korean MFDS approval in October.",
+        "It is intended for **users aged 18 or older who have not previously been diagnosed with sleep apnea**, requiring two valid nights of monitoring within ten days to detect signs of moderate-to-severe apnea. It is a risk-screening tool, not a replacement for clinical diagnosis or treatment.",
+        "The watch compatibility note specifies **Galaxy Watch9** running Wear OS 7.0 or later. Watch7 and Watch8 support is planned through future updates. Samsung says it will expand availability further, but this announcement does not confirm a China rollout date or compatibility with vivo phones."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-13877977cb537fbc8095123b",
+      "source_sha256": "59f175cad7c6a2d4ba28a8abde8acd11836da1a1fc4b5bbc9808f35383221ced",
+      "paragraphs": [
+        "Netflix formally renewed **The Beast in Me for Season 2** on November 3. Claire Danes returns as writer Aggie Wiggs. John Goodman joins as her father Jack, with Lili Taylor as her stepmother Fiona. A release date for the second season has not been announced.",
+        "Howard Gordon and Daniel Pearle will serve as co-showrunners. The season is the first project under Gordon’s new exclusive creative partnership with Netflix. Announced executive producers include Danes, Gordon, Pearle, Antonio Campos, Gabe Rotter and Jodie Foster.",
+        "Season 1 is an eight-episode series from 2025. Netflix says it debuted atop its global shows chart, reached the top ten in 88 countries and recorded 43 million views in seven weeks. It received 21 Emmy nominations, and Matthew Rhys won lead actor in a limited or anthology series. **Those achievements concern Season 1, not review scores for the unreleased second season**."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
