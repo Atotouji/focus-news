@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T04:20:39.077Z",
+  "generated_at": "2026-11-04T09:19:16.753Z",
   "translations": [
+    {
+      "article_id": "article-f9de4a42ebbb22df72a6ed9f",
+      "source_sha256": "ee8ee81017d08a825019796002cbc32a0b5086846cec0919b3be016ec9b2c1f7",
+      "paragraphs": [
+        "On November 4, the IEM Beijing lower-bracket semifinals concluded with NAVI and Falcons eliminating B8 and HEROIC, respectively, both by 2-0 scores. **They were scheduled to contest Group A's last playoff place at 6:30 p.m. Beijing time**. Falcons won Ancient 13-8 and Dust2 13-6, with kyousuke recording 44 kills and a 1.90 HLTV Rating 3.0 across the series. NAVI also took Ancient 13-8 before resisting B8's comeback to close Dust2 13-11.",
+        "In Group B, Liquid eliminated TYLOO 2-0, winning Mirage 13-11 and Anubis 13-4. TYLOO saved four consecutive map points on the opener but could not force overtime. EliGE posted 43 kills and a 1.67 Rating 3.0 across the series, while NAF recorded 22 kills on Anubis. TYLOO's tournament ended with its earlier victory over 9z as its only series win.",
+        "BETBOOM defeated Aurora with two 13-5 maps. Magnojez led the series with 35 kills and a 1.70 Rating 3.0, while Aurora finished in 9th-12th place. Liquid and BETBOOM would contest the final Group B playoff spot; as of 5:07 p.m. Beijing time, that deciding series had no final result. Each group's final deciding series awards one playoff place."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-947296f0e581562eb2c66f7e",
       "source_sha256": "53dc0e3f4158aa3ff73e30ff110e4175e1198f38913852ce27e77e24156216dd",
@@ -31,6 +42,16 @@
         "On November 4, the Hong Kong Polytechnic University’s Department of Civil and Environmental Engineering announced its 2026 National Natural Science Foundation of China funding results. Two projects list **Yong Xia as supervisor**, with awards to postdoctoral fellow Wei Tian and research assistant professor Ye Yuan. Each receives RMB300,000 under the Young Scientists Fund, Category C.",
         "Wei Tian’s project is titled “Parametric Substructuring-Based Digital Twin-Driven Damage Detection.” Ye Yuan’s project is “Spatial-Temporal Data Representation and Physics-Enhanced Multimodal Large Model for Bridge Health Monitoring.”",
         "Across the department, 14 scholars received more than RMB4.5 million through twelve Category C Young Scientists Fund awards and two General Programme awards; ten projects were initiated through the Shenzhen Research Institute. **The RMB4.5 million-plus figure is the department-wide total**, not the amount for Xia’s two supervised projects. This is a funding announcement; experimental data and research findings for the two projects have not been disclosed."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-f8a16a4de176fa02f7dd8be1",
+      "source_sha256": "a5df2a299720e571c2dac177c317481d0087d0a08fc3c3533c31a296fabd9993",
+      "paragraphs": [
+        "People's Daily reported on November 4 that the Ministry of Civil Affairs had disclosed the latest progress of care-service consumption subsidies for older adults with moderate or more severe loss of functional ability. **By the end of September 2026, RMB 9.33 billion in subsidies had been redeemed, benefiting 2.43 million people**. The ministry also reported that the program had generated RMB 40.47 billion in care-service spending. All figures are cumulative through the end of September.",
+        "The ministry will continue the subsidy program, improve care arrangements for older adults with functional impairments or dementia and meal-assistance policies, and guide local authorities in streamlining the establishment of care institutions and applications for older-person welfare benefits. Further work includes developing a professional qualification system for care-service practitioners."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -157,11 +178,11 @@
     },
     {
       "article_id": "article-5e0cc3c9313415ee5064879b",
-      "source_sha256": "de787eb838a7b75bffd393e859188dce8eed4bf14473145927410479fa2f146f",
+      "source_sha256": "42178513f11e9374c5ebc7abb9aa4180a18fb4230e91ff1f0c596511e1d9ffea",
       "paragraphs": [
-        "As of 12:04 p.m. Beijing time on November 4, the BBC, citing election projections by its US partner CBS, reported that **Democrats had won enough seats to secure a majority in the next US House of Representatives**. All 435 House seats were being contested, with 218 needed for a majority. Counting continued in competitive districts, leaving the final size of the majority unresolved. The result would end the current situation in which Republicans control both the White House and the House.",
-        "In the Senate, 35 of the chamber's 100 seats were being contested. Democrats Jon Ossoff and Mark Warner were projected to win reelection in Georgia and Virginia, respectively. WUNC, part of the NPR network, reported an Associated Press call that former governor Roy Cooper had won North Carolina's open seat, succeeding Republican Thom Tillis, who was not seeking reelection. At 11:55 a.m. Beijing time, CBS also projected that James Talarico would win the Texas Senate seat.",
-        "At that point, the BBC still listed Senate races in Ohio, Kansas, Michigan and other states as unresolved or competitive, and **control of the Senate as a whole had not been determined**. A change in the House majority would redistribute control over the next Congress's agenda, committees and oversight, creating new negotiating conditions for the Trump administration's budget and legislative plans."
+        "The contest for control of Congress reached a decisive stage: **Democrats were projected to win majorities in both the Senate and the House**. CBS published its Senate-control report at 11:41 p.m. US Eastern time on November 3. NPR subsequently confirmed control of both chambers through its own tally of Associated Press race calls.",
+        "As of 5:07 p.m. Beijing time on November 4, the BBC results tracker showed 54 Senate seats for the Democratic bloc and 44 Republican seats, with two races uncalled. In the House, 367 districts had been called: 228 for Democrats and 139 for Republicans, with the remainder still being counted. Senate totals include seats not contested this year. Democrats flipped Republican-held Senate seats in North Carolina, South Carolina, Ohio, Texas, Kansas, Iowa and Maine.",
+        "The new Congress will take office in January 2027. Democrats will control both chambers' agendas and committees, enabling stronger investigations and oversight of the executive branch and influencing Senate confirmation of presidential nominees. Trump retains his veto power. NPR reported that Democrats and Republicans would still need to negotiate must-pass legislation such as annual appropriations. House Democratic leader Hakeem Jeffries is positioned to seek the speakership, but that election has not yet taken place."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -395,6 +416,40 @@
         "China's State Administration for Market Regulation launched a national trusted-consumption platform on November 3, accessible through the Xiaofeicha mini-program. **The initial group included more than 10,000 participating business units and 100 designated consumer-business clusters**. Coverage spans eight types of units, including retail, catering, accommodation and tourism, and seven types of clusters, including shopping districts, markets and tourist attractions. The platform brings business commitments, operating information, consumer reviews and regulatory removal procedures into one service.",
         "After registering, making commitments online and undergoing verification and public disclosure, businesses can participate in the commitment scheme and receive a unique store-specific code and a national identifier. Initial integrations include Baidu Maps, Meituan Delivery, Taobao Instant Commerce and JD Delivery. Consumers can view business licenses, store photographs, after-sales arrangements and specific commitments, and use navigation, star ratings and telephone contact functions. Nearby participating businesses are displayed based on location.",
         "The platform uses ongoing oversight. If a business breaks the law, engages in dishonest conduct, refuses to honor its commitments, or deliberately rejects or evades reasonable consumer requests, local market regulators can order its removal after verifying the case and withdraw its physical code and identifier. The administration said it would expand industry coverage; functions such as one-click settlement and financial support remain planned upgrades."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-99308bef343002eda523f69e",
+      "source_sha256": "f889a97133bf6bc0746879e7304a01f4f59fd4caf299a024ba329d06f7baf022",
+      "paragraphs": [
+        "In a paper formally published in Wind Energy Science on November 3, Sima Hamzeloo and colleagues at the Technical University of Denmark studied **wind-wave interactions during a North Sea storm on December 5, 2015**. COAWST linked WRF, including its large-eddy simulation mode, with SWAN. Validation used RUNE lidar and wave-buoy observations. Peak significant wave height reached 5.77 meters; mean storm wind speeds increased from 21.3 m/s at 40 meters to 26.8 m/s at 247 meters.",
+        "Six nested domains extended from 9.9-, 3.3- and 1.1-kilometer mesoscale grids to LES grids refined from 100 to 4 meters. Comparing two-way wind-wave coupling with atmosphere-only runs, LES better matched mean winds below roughly 150 meters but produced excessive vertical shear. Higher up, mesoscale and LES results converged and both overestimated observations. Coupling alone did not significantly improve mean wind speeds in this case.",
+        "SWAN driven by LES winds better reproduced significant wave height, with roughly half the root-mean-square error of mesoscale-driven output; peak period and mean wave direction differed less. Coupling also increased velocity variances, covariances and turbulence fluxes as waves modified surface roughness and pressure, informing offshore wind inputs and potential turbine-load modeling.",
+        "**The turbulence enhancement lacked direct observational validation**. RUNE lacked corresponding high-frequency turbulence data, while fine-grid results were affected by simulation duration and resolution. Greater accuracy across all storms was therefore not established. The study modeled the marine boundary layer and wind-wave fields, not turbine structural damage or post-collision performance."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-d8a6692f1a48616fc91f269b",
+      "source_sha256": "a63eed92626c07cc964cce15ba6938506296e712ddb777ff2be76b31f923701b",
+      "paragraphs": [
+        "Netflix updated production news for heist thriller The Take on November 3, confirming that Danai Gurira had joined the cast. **The film is shooting in New Jersey, with no streaming release date announced**. Denzel Washington, Robert Pattinson and Daisy Edgar-Jones lead the cast. It remains an upcoming project in production, rather than a newly released film.",
+        "Fernando Meirelles directs from a screenplay by Simon Kinberg. Both also produce alongside Audrey Chon, with Samson Mucke as executive producer. Other announced cast members include Sean Harris, Moisés Arias and Justin Kirk.",
+        "The announced premise centers on a bank guard, a teller and a master thief caught in a dangerous contest driven by cons and betrayals. Netflix describes it as an unconventional heist movie."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-ebdc2a67c4e68e90f3e20b66",
+      "source_sha256": "eb866b9d8f6c8163e0fccc5e7090a428b5279e7061a05e7d5bfbcbc13bd14da6",
+      "paragraphs": [
+        "Netflix released updated casting and story information for Black Doves Season 2 on November 3, confirming that **the new season returns to Netflix on November 5**. Keira Knightley and Ben Whishaw reprise Helen and Sam, continuing the show's combination of spy thriller and dark comedy.",
+        "Returning actors include Sarah Lancashire as Mrs. Reed, Andrew Buchan as Wallace, Kathryn Hunter, Ella Lily Hyland and Gabrielle Creevy. Among the additions, Ambika Mod plays Laila, a Black Doves agent involved in Helen's mission; Sam Riley plays Patrick, an emissary from a mysterious organization; and Neve Campbell plays Cecile Mason. Babou Ceesay, Sylvia Hoeks and others also join the cast.",
+        "The new story further entangles Helen's covert work with her family circumstances, while Sam becomes involved again in dangerous relationships within the organization. Creator Joe Barton expands the pair's conflicts with old friends and enemies."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -1201,6 +1256,16 @@
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+    },
+    {
+      "article_id": "article-8dd71051e9dde6aef4fea442",
+      "source_sha256": "bf512aac08e298fe7cd352914e89aa26e7785447c028aafb684750c7fd073fe4",
+      "paragraphs": [
+        "In its official November 2 notice, FromSoftware confirmed security vulnerabilities in the game servers for Dark Souls II and Dark Souls III. **Online services had been suspended across all platforms since October 30, with no end date set**. The interruption affects both titles and all platforms covered by the notice.",
+        "**Offline play remains available**; the suspension concerns online mode. The developer describes the measure as temporary and has not announced technical vulnerability details, a patch version or a specific restoration date."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-2287c79dfbe2a119fa2ae5b6",
