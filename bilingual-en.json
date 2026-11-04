@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T01:22:38.368Z",
+  "generated_at": "2026-11-04T04:20:39.077Z",
   "translations": [
+    {
+      "article_id": "article-947296f0e581562eb2c66f7e",
+      "source_sha256": "53dc0e3f4158aa3ff73e30ff110e4175e1198f38913852ce27e77e24156216dd",
+      "paragraphs": [
+        "On November 4 Beijing time, the first quarterfinal of the 2026 League of Legends World Championship concluded in Allen, Texas, with **iG defeating TES 3-1 to become the first team through to the semifinals**. iG won Games 1, 3 and 4, while TES took Game 2. Riot's official schedule marked the series as completed, recording three wins for iG and one for TES. The 1-1 score after the first two games, reported in the morning, was an intermediate score.",
+        "In the decisive fourth game, Wei played Naafiri and repeatedly worked with TheShy's K'Sante to create openings in the top lane, also stealing an early dragon. TES fought back around a dragon fight, but iG regained the initiative through Rift Herald, mid-lane pressure and jungle aggression. Around the 29-minute dragon fight, Meiko's Alistar and JiaQi's Jhin combined, with Rookie's Taliyah following up. iG took down four TES players and pushed straight through to finish. The game ended after roughly 31 minutes with a 16-10 kill score; iG secured four dragons, one Baron and eight towers.",
+        "iG will face the winner of GEN versus LYON in the semifinals. That quarterfinal had not yet begun and **was scheduled to start at 6:00 a.m. Beijing time on November 5**. Riot's schedule placed iG's semifinal at 6:00 a.m. Beijing time on November 8; the opposing slot was still awaiting the quarterfinal result."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-24dea360bb8c5d64c5c716f9",
       "source_sha256": "ab44bb290ba52081179533cd41dd140d5c622beb35fd03c8313eab01d17e29ec",
@@ -146,11 +157,11 @@
     },
     {
       "article_id": "article-5e0cc3c9313415ee5064879b",
-      "source_sha256": "dceac1c033128da6b21d6fc09af4499923fb5a47fe973079bbf1ea22b65db196",
+      "source_sha256": "de787eb838a7b75bffd393e859188dce8eed4bf14473145927410479fa2f146f",
       "paragraphs": [
-        "The United States held its midterm elections on November 3. In BBC live coverage around 09:00 Hong Kong time on November 4, its partner CBS projected that **Jon Ossoff would retain Georgia’s Senate seat** and Mark Warner would win re-election in Virginia. Ossoff’s Republican opponent was Mike Collins. These were media calls in individual races, not final vote totals certified by the states.",
-        "All 435 House seats and 35 Senate seats were contested. A House majority requires 218 seats; in a 50–50 Senate, the vice-president’s tie-breaking vote affects control. Some safe seats were called after the first polls closed, but those calls do not establish the national outcome in either chamber.",
-        "At that verification point, CBS still rated the Ohio and South Carolina Senate races too close to call, while counting was also beginning in states including Maine and Michigan. **Control of Congress remained undecided**, with key districts and the processing of mail ballots still relevant to the outcome."
+        "As of 12:04 p.m. Beijing time on November 4, the BBC, citing election projections by its US partner CBS, reported that **Democrats had won enough seats to secure a majority in the next US House of Representatives**. All 435 House seats were being contested, with 218 needed for a majority. Counting continued in competitive districts, leaving the final size of the majority unresolved. The result would end the current situation in which Republicans control both the White House and the House.",
+        "In the Senate, 35 of the chamber's 100 seats were being contested. Democrats Jon Ossoff and Mark Warner were projected to win reelection in Georgia and Virginia, respectively. WUNC, part of the NPR network, reported an Associated Press call that former governor Roy Cooper had won North Carolina's open seat, succeeding Republican Thom Tillis, who was not seeking reelection. At 11:55 a.m. Beijing time, CBS also projected that James Talarico would win the Texas Senate seat.",
+        "At that point, the BBC still listed Senate races in Ohio, Kansas, Michigan and other states as unresolved or competitive, and **control of the Senate as a whole had not been determined**. A change in the House majority would redistribute control over the next Congress's agenda, committees and oversight, creating new negotiating conditions for the Trump administration's budget and legislative plans."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -351,6 +362,39 @@
         "Netflix formally renewed **The Beast in Me for Season 2** on November 3. Claire Danes returns as writer Aggie Wiggs. John Goodman joins as her father Jack, with Lili Taylor as her stepmother Fiona. A release date for the second season has not been announced.",
         "Howard Gordon and Daniel Pearle will serve as co-showrunners. The season is the first project under Gordon’s new exclusive creative partnership with Netflix. Announced executive producers include Danes, Gordon, Pearle, Antonio Campos, Gabe Rotter and Jodie Foster.",
         "Season 1 is an eight-episode series from 2025. Netflix says it debuted atop its global shows chart, reached the top ten in 88 countries and recorded 43 million views in seven weeks. It received 21 Emmy nominations, and Matthew Rhys won lead actor in a limited or anthology series. **Those achievements concern Season 1, not review scores for the unreleased second season**."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-90ee5b5541c94a5f3b3b5795",
+      "source_sha256": "677df3f956b3350c4690e6c61b172bf2d0841df20a31d9a2bc66cfdf0bdbe3c2",
+      "paragraphs": [
+        "At its infrastructure briefing on the morning of November 4, China's National Development and Reform Commission set transport safety and capacity goals for the 15th Five-Year Plan period. By 2030, it aims to achieve **100% monitoring and early-warning coverage for key at-risk road sections and bridges, and complete reinforcement, upgrading or remediation of about 2,000 aging or unsafe railway bridges**. Measures include safety redundancy, disaster-resistant design, stronger monitoring and early warning, emergency rescue capacity and a transport resilience improvement program.",
+        "The commission also aims to complete 95% of the main framework of the national integrated multidimensional transport network by 2030, and achieve a 90% rate of intermodal transfers completed within one hour at key integrated freight hubs. Plans include about 25,000 kilometers of digitally enabled transport corridors and 35,000 kilometers of zero-carbon transport corridors. Infrastructure priorities cover coastal, border and river routes as well as major links into and out of Xinjiang and Tibet. Private companies will be supported in participating fairly in major transport projects, alongside renewal of aging facilities and capacity expansion at constrained ones. These figures are construction targets, not work already completed.",
+        "For the national water network, the commission said 35 of the 40 main water-transfer and drainage corridors had been completed or were under construction, as had 473 of the 588 major water-regulation and storage nodes. The 15th Five-Year Plan includes more than 400 major projects across nine types in flood mitigation, water supply and irrigation, and aquatic ecosystem restoration and protection. Projects will advance in stages, from completion and accelerated construction to groundbreaking, preparatory work and feasibility studies. Financing measures include maintaining an appropriate level of central investment, attracting private and other non-government capital, and promoting additional water infrastructure REIT listings."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-4ce6008799f40b0dcbf5c7b2",
+      "source_sha256": "710459015a829bd979a41e394857fc0ef937888e9324eea111270691fdaa86b7",
+      "paragraphs": [
+        "Phantom Blade Zero ranked first on Steam's global weekly top-sellers chart. Valve's official chart covered **October 27 to November 3, 2026**. The game climbed two places from the previous week, ahead of Call of Duty: Modern Warfare 4, and remained first when revenue from free-to-play games was included. VGChartz published its report on the chart on November 3.",
+        "The ranking is based on revenue and includes sales such as preorders. It measures commercial performance on Steam during that week, rather than copies sold, and does not represent a PS5 ranking. S-GAME had previously announced publicly on social media on November 2 that the game had sold more than four million copies within 72 hours of launch; GamesRadar+ reproduced and cited that announcement. The publisher's sales milestone and a single platform's weekly revenue ranking use different measures.",
+        "The top six on the full revenue chart were Phantom Blade Zero, Call of Duty: Modern Warfare 4, AION 2, CS2, Dota 2 and PUBG: Battlegrounds. New indie entry Probably Stolen - Cyberpunk Shopkeeper Sim placed seventh, or third when free-to-play titles were excluded. Including or excluding free-to-play games changes the positions below the leader, but not Phantom Blade Zero's first-place finish for the week."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-0bb189f6997ac9dd12066dce",
+      "source_sha256": "15dbb3e31c74f0b68ac1448a67a5e229c4795ecb458a7dbaa5a443777fdcced0",
+      "paragraphs": [
+        "China's State Administration for Market Regulation launched a national trusted-consumption platform on November 3, accessible through the Xiaofeicha mini-program. **The initial group included more than 10,000 participating business units and 100 designated consumer-business clusters**. Coverage spans eight types of units, including retail, catering, accommodation and tourism, and seven types of clusters, including shopping districts, markets and tourist attractions. The platform brings business commitments, operating information, consumer reviews and regulatory removal procedures into one service.",
+        "After registering, making commitments online and undergoing verification and public disclosure, businesses can participate in the commitment scheme and receive a unique store-specific code and a national identifier. Initial integrations include Baidu Maps, Meituan Delivery, Taobao Instant Commerce and JD Delivery. Consumers can view business licenses, store photographs, after-sales arrangements and specific commitments, and use navigation, star ratings and telephone contact functions. Nearby participating businesses are displayed based on location.",
+        "The platform uses ongoing oversight. If a business breaks the law, engages in dishonest conduct, refuses to honor its commitments, or deliberately rejects or evades reasonable consumer requests, local market regulators can order its removal after verifying the case and withdraw its physical code and identifier. The administration said it would expand industry coverage; functions such as one-click settlement and financial support remain planned upgrades."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
