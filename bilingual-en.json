@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T04:07:49.319Z",
+  "generated_at": "2026-11-05T09:12:40.776Z",
   "translations": [
+    {
+      "article_id": "article-c39675d166075949710edcc3",
+      "source_sha256": "95eec926e59fef575a6a91d46f480a730d87561a44a9c1e07f85a0d95b15458c",
+      "paragraphs": [
+        "Hong Kong’s High Court Court of First Instance sentenced Joshua Wong to **ten years in prison** on November 5 for conspiracy to collude with foreign countries or external elements to endanger national security. A Hong Kong government statement that day confirmed that he had admitted the charge and the relevant facts on September 2. Both the BBC and the Associated Press reported the sentencing.",
+        "Prosecutors said the activities took place between July and late November 2020, when Wong conspired with Nathan Law and others to lobby foreign countries to impose sanctions, blockades or other hostile measures against China and Hong Kong. According to the Associated Press, Judge William Tam treated the offense as grave, taking thirteen years as the starting point and reducing the sentence to ten years because of the guilty plea.",
+        "Wong was already serving four years and eight months for conspiracy to subvert state power in a separate case involving an unofficial primary in 2020, and had previously been expected to be released in January 2027. **Two months and two days of the new sentence will run concurrently with his existing term**. The two cases involve separate charges and sentences.",
+        "The Hong Kong government said the sentence upheld national security. Chief Executive John Lee said the sanctions-related activities damaged Hong Kong’s stability and public well-being. Human Rights Watch criticized the ruling as unjust, arguing that the authorities were stacking national-security charges to keep influential pro-democracy figures imprisoned."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-4684e2e591706ff956dd7550",
       "source_sha256": "047cb9af238d8f6e89cbf5fa7ffd7e2535c6ca701818c78716d7f95fab4e8795",
@@ -155,6 +167,17 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-b8d3233e608d83579b371168",
+      "source_sha256": "088e937ceae1f40d385fa847555cf983deec4cef51ccfc6abb848a1100cd8b70",
+      "paragraphs": [
+        "Labour-market data for the third quarter of 2026, released by Stats NZ on November 4, showed the seasonally adjusted **unemployment rate rising from 5.6% in the second quarter to 5.7%**. The number unemployed increased by about 3,000 to 174,000. The employment rate fell from 66.7% to 66.4%, with approximately 2.891 million people employed. Employment was still 0.7% higher than in the same quarter a year earlier.",
+        "The underutilisation rate, a broader measure of unused labour capacity, remained at 13.8%, representing about 438,000 people. In addition to the unemployed, this includes underemployed workers and the potential labour force. Around 151,000 were underemployed and 113,000 were in the potential labour force. Labour-force participation fell from 70.6% to 70.4%, meaning that a slightly higher unemployment rate coincided with a decline in the share of people participating in the labour market.",
+        "All-sector salary and wage rates, as measured by the labour cost index, rose **2.1%** in the year to the third quarter, below consumer price inflation of 3.7% over the same period. The separate Quarterly Employment Survey put average ordinary-time hourly earnings at NZ$44.86, up 2.9% from a year earlier. The first measure tracks wage-rate changes, while the second measures average earnings; their statistical bases differ."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-f8a16a4de176fa02f7dd8be1",
@@ -951,14 +974,15 @@
     },
     {
       "article_id": "article-4261a99eadcb40f887ac2f90",
-      "source_sha256": "2def2587e6bdb4170099ed8c52c981645a855e18536535e6262000f5eae36a88",
+      "source_sha256": "13ff7bf1863813a0ff981235a80968b307d29892f14b620b976e2b1cd3015092",
       "paragraphs": [
-        "[New season to be released] Netflix has officially scheduled the second season of \"North of North\" for November 5, 2026. Anna Lambe portrays young Inuit mother Siaja, who handles family, community work, and personal life in the fictional community Ice Cove. The collaboration between CBC, APTN, and Netflix provides this series with a cultural and regional perspective that differs from the typical urban workplace comedy.",
-        "The new season's public introduction continues to focus on the community center, family relationships, and life in the northern winter. Its highlight is how characters seek new spaces in places they are already very familiar with, rather than viewing the Arctic merely as a scenic postcard. The following reviews belong to the first season that has already been released and can only serve as background for tracking the next season, and must not be written as if the second season has not yet launched. This does not assume that the new season has received similar evaluations, and it does not generalize the fictional experiences of the Inuit characters as representing the reality of all indigenous communities. The platform's schedule is final as arranged by the official, and regional film libraries may still have differences.",
-        "[Reputation Section | 2026-11-02] First season (non-delayed second season): Rotten Tomatoes critic approval rating is 100% (23 reviews), and audience approval rating is 78% (the page shows 250+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
+        "**Season two of North of North arrived on Netflix on November 5, 2026, with eight episodes of approximately thirty minutes each**. It had already aired on Canada’s CBC Gem and APTN+ in September; this is its Netflix release window. The story remains set in the fictional community of Ice Cove, Nunavut, where young Inuk mother Siaja, played by Anna Lambe, tries to build a new life around parenting, work and intimate relationships.",
+        "This season, Siaja seeks greater responsibility at the community center and the trust of her boss, Helen. At home, she raises her daughter Bun with help from her mother Neevee and other family members, while learning about a newly discovered half-sister. Creators Stacey Aglok MacDonald and Alethea Arnaquq-Baril continue the comedy’s small-community structure, where relatives and colleagues all know one another. The series is a collaboration between CBC, APTN and Netflix, with location filming including Iqaluit.",
+        "In a positive review of season two published on September 18, Dorothy Woodend, culture editor at Canadian outlet The Tyee, particularly praised the jokes, clothing and small moments between characters. She argued that the series uses gentle humor to address everyday community difficulties such as drinking water and food prices, grounding weightier issues in specific people and situations.",
+        "**As of November 5, the Rotten Tomatoes page for season two listed only two critic reviews and fewer than fifty audience ratings, with no aggregate scores displayed**. The available named reviews offer positive assessments, but the new season’s rating sample remains very limited."
       ],
       "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-b757c35e537bddcb105739e5",

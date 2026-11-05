@@ -1,11 +1,47 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T04:07:48.684Z",
-  "edition": "午间",
+  "generated_at": "2026-11-05T09:12:40.063Z",
+  "edition": "晚间",
   "latest_article_ids": [
-    "article-6be6d44834d7aa94fda7ee2c"
+    "article-c39675d166075949710edcc3",
+    "article-b8d3233e608d83579b371168",
+    "article-4261a99eadcb40f887ac2f90"
   ],
   "articles": [
+    {
+      "id": "article-c39675d166075949710edcc3",
+      "source_id": "bbc-politics",
+      "source_name": "BBC News",
+      "category": "时政",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "title_zh": "黄之锋被判监十年：涉串谋勾结外国势力，少部分刑期与原案同期执行",
+      "body": null,
+      "body_zh": "香港高等法院原讼法庭11月5日就黄之锋涉嫌“串谋勾结外国或者境外势力危害国家安全”一案，判处他**监禁十年**。香港政府当天声明确认，他已于9月2日承认控罪及相关案情。BBC与美联社均报道了当天的判刑。\n\n控方案情指，相关活动发生于2020年7月至11月下旬，黄之锋与罗冠聪等人串谋，游说外国对中国及香港实施制裁、封锁或其他敌对行动。美联社报道，法官William Tam将罪行视为性质严重，以十三年为量刑起点，因认罪减至十年。\n\n黄之锋此前因另一宗涉及2020年非官方初选的串谋颠覆国家政权案，被判监四年八个月，原本预计2027年1月获释。此次新增刑罚中，**两个月零两天与正在执行的刑期同期执行**；两宗案件的罪名与刑罚各自独立。\n\n香港政府称判刑维护国家安全，行政长官李家超指相关制裁活动损害香港稳定与公众福祉。人权观察则批评判决不公，认为当局通过叠加国安控罪持续关押有影响力的民主派人士。",
+      "preview_zh": "香港高等法院原讼法庭11月5日就黄之锋涉嫌“串谋勾结外国或者境外势力危害国家安全”一案，判处他监禁十年。香港政府当天声明确认，他已于9月2日承认控罪及相关案情。BBC与美联社均报道了当天的判刑。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-05T03:08:39.021Z",
+      "image_url": "https://npr.brightspotcdn.com/dims4/default/0d474e6/2147483647/strip/true/crop/4831x3221+0+0/resize/880x587!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4831x3221%200%200%2Fresize%2F4831x3221%21%2Fquality%2F85%2Fformat%2Fwebp%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F35%2Ff545dd5f49fa81ca441084046476%2Fap26307388068594.jpg",
+      "image_credit": "资料图（相关主题，非该报道原图）：Vincent Yu / AP，经NPR Illinois转载；2015年9月2日黄之锋在香港法院外，非本次判刑现场。",
+      "image_license": null,
+      "image_source_url": "https://www.nprillinois.org/2026-11-04/hong-kong-activist-joshua-wong-sentenced-to-10-years-in-prison",
+      "image_usage": "source_remote",
+      "reference_urls": [
+        "https://www.nprillinois.org/2026-11-04/hong-kong-activist-joshua-wong-sentenced-to-10-years-in-prison",
+        "https://www.info.gov.hk/gia/general/202611/05/P2026110500420.htm"
+      ],
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "year_highlight": false,
+      "month_highlight": true,
+      "politics_region": "china"
+    },
     {
       "id": "article-4684e2e591706ff956dd7550",
       "source_id": "focus-f29521b78266",
@@ -513,6 +549,40 @@
           "caption_zh": "11月3日布展期间，工作人员调试自动装配具身机器人。"
         }
       ]
+    },
+    {
+      "id": "article-b8d3233e608d83579b371168",
+      "source_id": "focus-stats-nz-politics",
+      "source_name": "新西兰统计局（Stats NZ）",
+      "category": "时政",
+      "url": "https://www.stats.govt.nz/information-releases/labour-market-statistics-september-2026-quarter/",
+      "title": "Labour market statistics: September 2026 quarter",
+      "title_zh": "新西兰第三季度失业率升至5.7%，工资涨幅低于同期通胀",
+      "body": null,
+      "body_zh": "新西兰统计局11月4日公布的2026年第三季度劳动力数据，显示经季节调整的**失业率由第二季度的5.6%升至5.7%**，失业人数增加约3,000人至17.4万人。同期就业率由66.7%降至66.4%，就业人数约289.1万人；与去年同季相比，就业人数仍增加0.7%。\n\n衡量劳动力闲置程度的利用不足率维持13.8%，对应约43.8万人，除失业者外还包括工时不足的就业者及潜在劳动力。其中工时不足者约15.1万人，潜在劳动力约11.3万人。劳动参与率由70.6%降至70.4%，意味着失业率小幅上升的同时，进入劳动力市场的人口比例也有所回落。\n\n工资方面，第三季度劳动力成本指数所衡量的全行业工资及薪金率，较上年同期上涨**2.1%**，低于同期消费者价格指数的3.7%涨幅。另一项季度就业调查显示，普通工作时间平均时薪为44.86新西兰元，同比增加2.9%；前者衡量工资率变化，后者是平均收入指标，统计口径不同。",
+      "preview_zh": "新西兰统计局11月4日公布的2026年第三季度劳动力数据，显示经季节调整的失业率由第二季度的5.6%升至5.7%，失业人数增加约3,000人至17.4万人。同期就业率由66.7%降至66.4%，就业人数约289.1万人；与去年同季相比，就业人数仍增加0.7%。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-04",
+      "image_url": "https://www.stats.govt.nz/assets/Uploads/Labour-market-statistics/Labour-market-statistics-September-2026-quarter/Download-data/total-underutilisation-september-2026-quarter-seasonally-adjusted__ResizedImageWzkwMCw1NTRd.png",
+      "image_credit": "Stats NZ（新西兰统计局）：2026年第三季度经季节调整的劳动力利用不足分解图。",
+      "image_license": null,
+      "image_source_url": "https://www.stats.govt.nz/information-releases/labour-market-statistics-september-2026-quarter/",
+      "image_usage": "source_remote",
+      "reference_urls": [
+        "https://www.stats.govt.nz/news/unemployment-rate-at-5-7-percent-in-the-september-2026-quarter/",
+        "https://www.zaobao.com.sg/news/world/story20261105-9950864"
+      ],
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "year_highlight": false,
+      "month_highlight": false,
+      "politics_region": "global"
     },
     {
       "id": "article-f8a16a4de176fa02f7dd8be1",
@@ -3024,11 +3094,11 @@
       "source_name": "Netflix Tudum",
       "category": "影视",
       "url": "https://www.netflix.com/tudum/articles/north-of-north-season-2-renewal",
-      "title": "《North of North》第二季11月5日回归：北极社区的家庭与工作",
-      "title_zh": "《North of North》第二季11月5日回归：北极社区的家庭与工作",
+      "title": "The Best Is Yet to Come for Siaja in North of North Season 2, Now Streaming",
+      "title_zh": "《North of North》第二季已上线Netflix：八集北极社区喜剧与新季口碑",
       "body": null,
-      "body_zh": "【新季将上线】Netflix 官方把《North of North》第二季安排在**2026年11月5日**。Anna Lambe 饰演年轻的因纽特母亲 Siaja，她在虚构社区 Ice Cove 中处理家庭、社区工作与个人生活。CBC、APTN 与 Netflix 的合作背景，使这部剧的文化与地域视角区别于常见的大城市职场喜剧。\n\n新季公开介绍延续社区中心、亲属关系与北方冬季生活。它的看点是角色如何在彼此高度熟悉的地方争取新的空间，而不是把北极只当作风景明信片。下段口碑属于**已经推出的第一季**，只能作为追踪续季的背景，绝不能写成尚未上线第二季的评分。这里不假定新季已经获得同样评价，也不把因纽特角色的虚构经历概括成所有原住民社区的现实。平台档期以官方安排为准，地区片库仍可能有差异。\n\n【口碑截面｜2026-11-02】第一季（非待上线第二季）：Rotten Tomatoes 影评人正面比例 **100%**（23篇），观众正面比例 78%（页面显示250+份）。这是正面评价占比，不是平均分；样本与比例会变化。",
-      "preview_zh": "【新季将上线】Netflix 官方把《North of North》第二季安排在2026年11月5日。Anna Lambe 饰演年轻的因纽特母亲 Siaja，她在虚构社区 Ice Cove 中处理家庭、社区工作与个人生活。CBC、APTN 与 Netflix 的合作背景，使这部剧的文化与地域视角区别",
+      "body_zh": "《North of North》第二季已于**2026年11月5日上线Netflix，共八集、每集约三十分钟**。这一季此前已于9月在加拿大的CBC Gem与APTN+播出，本次是Netflix的上线窗口。故事继续围绕努纳武特地区虚构社区Ice Cove展开，Anna Lambe饰演的年轻因纽特母亲Siaja，试图在育儿、工作与亲密关系之间建立新的生活。\n\n新季中，Siaja希望在社区中心承担更多责任，并争取上司Helen的信任；在家里，她与母亲Neevee等家人一起照顾女儿Bun，也开始了解自己新发现的同父异母姐妹。创作者Stacey Aglok MacDonald与Alethea Arnaquq-Baril延续小社区里亲属、同事彼此熟识的喜剧结构，剧集由CBC、APTN与Netflix合作，实景拍摄包括伊魁特。\n\n加拿大媒体The Tyee文化编辑Dorothy Woodend在9月18日发表的第二季评论中给予正面评价，尤其肯定笑话、服装与人物之间的小场面。她认为，剧集能以温和幽默处理饮用水、食品价格等社区日常困难，把较沉重的问题融入具体人物和生活情境。\n\n**截至11月5日，烂番茄第二季页面仅收录两篇影评，观众评价少于五十份，尚未显示汇总分数**。现有具名评论提供了积极评价，但新季的评分样本仍很有限。",
+      "preview_zh": "《North of North》第二季已于2026年11月5日上线Netflix，共八集、每集约三十分钟。这一季此前已于9月在加拿大的CBC Gem与APTN+播出，本次是Netflix的上线窗口。故事继续围绕努纳武特地区虚构社区Ice Cove展开，Anna Lambe饰演的年轻因纽特母亲Siaja，试图在育儿、工作与亲密关系之间建立新的生活。",
       "scope": "briefing",
       "language": "en",
       "translation_status": "original_zh",
@@ -3037,20 +3107,32 @@
       "translated_at": null,
       "published_at": "2026-11-02T10:31:02.292Z",
       "date_basis": "curated",
-      "image_url": "https://dnm.nflximg.net/api/v6/s0XAg4q_jvYbSSbLvySyUsliNSg/AAAAQRzyBE-dhRBsfj3pXkFmOS956RpUPt5RqReEi9AV2lQ4VzrZui-hnBkPxcJBf2tkWX-RsrdbBYSVdBNtLdkoV9vtvhaALBbuIAT_HBpyGcLuRX7_pRFReIxMSvkSn5EC1MJFfheDUGfnltXU8H2j0wcidU0.jpg?r=b2e",
-      "image_credit": "Netflix，所述剧集官方剧照",
+      "image_url": "https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQQVXM1H1CXLh26_IGoyyysucos-KCNnGIoj78TE48K5Qm777Oia1QTPh6oxBdLp1bnYW6u2ox0n8MrmPlVd9Gsps0NKFW0iICmIkNOMqWc5wg7VcsURG8ZUdakqZNRl2HhcYVbmxjO50v9AOFV4Ammrb.jpg?r=b2e",
+      "image_credit": "Christina Ebenezer / Netflix，经Tudum本篇第二季报道刊载。",
       "image_license": null,
       "image_source_url": "https://www.netflix.com/tudum/articles/north-of-north-season-2-renewal",
       "image_usage": "source_remote",
       "reference_urls": [
-        "https://www.netflix.com/tudum/articles/north-of-north-season-2-renewal",
-        "https://www.rottentomatoes.com/tv/north_of_north/s01"
+        "https://www.netflix.com/tudum/articles/north-of-north-photos-release-date-news",
+        "https://thetyee.ca/Culture/2026/09/18/North-of-North-Subversive-Charmer/",
+        "https://www.rottentomatoes.com/tv/north_of_north/s02"
       ],
       "year_highlight": false,
       "month_highlight": true,
       "saved": 0,
       "read": 0,
-      "is_demo": 0
+      "is_demo": 0,
+      "inline_images": [
+        {
+          "after_paragraph": 2,
+          "image_url": "https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQVFtcoO1_vkjMhVpZaNuZ7ayqfijA7sJJSyMRRi-0lHU3GCSCiEJgQz1w51_LWdW7Cwx6cGo2Egm7m3dovT00B91q__EGN-XaxheELkaibosy3rlgmje9nOiJvx_GZakeaEUv1vUtwvnIWZgoEAD35I7.jpg?r=268",
+          "image_credit": "CBC／APTN／Netflix，经Tudum第二季导读刊载；Siaja的社区工作场景剧照。",
+          "image_license": null,
+          "image_source_url": "https://www.netflix.com/tudum/articles/north-of-north-photos-release-date-news",
+          "image_usage": "source_remote",
+          "caption_zh": "《North of North》第二季剧照：Siaja在社区工作场景中。"
+        }
+      ]
     },
     {
       "id": "article-b757c35e537bddcb105739e5",
@@ -12896,6 +12978,17 @@
   ],
   "sources": [
     {
+      "id": "bbc-politics",
+      "name": "BBC News",
+      "category": "时政",
+      "adapter": "briefing",
+      "feed_url": "https://www.bbc.com/news",
+      "enabled": 1,
+      "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用。",
+      "last_checked": "2026-11-05T09:12:32.239Z",
+      "last_error": null
+    },
+    {
       "id": "focus-f29521b78266",
       "name": "eToday",
       "category": "游戏",
@@ -12925,18 +13018,7 @@
       "feed_url": "https://www.netflix.com/tudum/",
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用。",
-      "last_checked": "2026-11-05T04:07:48.027Z",
-      "last_error": null
-    },
-    {
-      "id": "bbc-politics",
-      "name": "BBC News",
-      "category": "时政",
-      "adapter": "briefing",
-      "feed_url": "https://www.bbc.com/news",
-      "enabled": 1,
-      "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用。",
-      "last_checked": "2026-11-05T01:23:42.693Z",
+      "last_checked": "2026-11-05T09:12:32.239Z",
       "last_error": null
     },
     {
@@ -12992,6 +13074,17 @@
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用并保留署名。",
       "last_checked": "2026-11-05T01:23:42.693Z",
+      "last_error": null
+    },
+    {
+      "id": "focus-stats-nz-politics",
+      "name": "新西兰统计局（Stats NZ）",
+      "category": "时政",
+      "adapter": "briefing",
+      "feed_url": "https://www.stats.govt.nz/",
+      "enabled": 1,
+      "note": "已读统计局公开原页的劳动力市场数据；中文原创详报，英文逐段翻译本站详报；图表仅远程引用。",
+      "last_checked": "2026-11-05T09:12:32.239Z",
       "last_error": null
     },
     {
