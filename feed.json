@@ -1,19 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T01:23:43.320Z",
-  "edition": "早间",
+  "generated_at": "2026-11-05T04:07:48.684Z",
+  "edition": "午间",
   "latest_article_ids": [
-    "article-4684e2e591706ff956dd7550",
-    "article-0ffbcc105a5e283a50cd0e7b",
-    "article-ef4497dcc2f95d726ac49b13",
-    "article-9e49ad7916ca6612b9dfa6e7",
-    "article-27c884392a2cbbbbb440168d",
-    "article-86d5c720b5bd89c83e644ef4",
-    "article-031a31a419f57268fc228643",
-    "article-a839079dd91fee2212b9f8c5",
-    "article-adc4efaa5bcbe94a7cb3c445",
-    "article-38eadf69e106854cfe63c132",
-    "article-5abbc73b74175c4f1c1ff6bb"
+    "article-6be6d44834d7aa94fda7ee2c"
   ],
   "articles": [
     {
@@ -87,6 +77,47 @@
           "image_source_url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/",
           "image_usage": "source_remote",
           "caption_zh": "官方配置界面示意：Nano手柄连接Wi-Fi并关联Xbox账号；此项预览目前限美国。"
+        }
+      ]
+    },
+    {
+      "id": "article-6be6d44834d7aa94fda7ee2c",
+      "source_id": "v14-netflix-com-screen",
+      "source_name": "Netflix Tudum",
+      "category": "影视",
+      "url": "https://www.netflix.com/tudum/articles/trinity-release-date-cast-news",
+      "title": "Watch Gugu Mbatha-Raw and Richard Madden in the ‘Nail-Biting’ Trinity Trailer",
+      "title_zh": "《贴身保镖》主创新剧《Trinity》公布预告，七集12月1日上线Netflix",
+      "body": null,
+      "body_zh": "Netflix于11月4日公布政治惊悚剧《Trinity》的预告与档期，**七集将于2026年12月1日一次上线Netflix**。剧集由《贴身保镖》（Bodyguard）创作者Jed Mercurio编剧并担任主创，Gugu Mbatha-Raw与Richard Madden领衔主演，故事围绕核潜艇军官与美国国防部长之间的危险联系展开。\n\nMbatha-Raw饰演Katherine Decker中校，是核潜艇USS Kansas的副艇长；Madden饰演拥有科技背景的国防部长Webb Preston。两人的关系把Decker卷入代号“Trinity”的绝密项目，她必须在军人职责、个人信任和逐渐浮现的政治阴谋之间作出判断。核潜艇内部的封闭空间与五角大楼周边的权力运作，构成剧集两条相互交织的惊悚场景。\n\nMercurio在片方访谈中提到电影《No Way Out》对创作的启发，希望将高风险阴谋与海军军官的处境结合。Michael Cuesta执导前两集并任执行制片；其他演员包括饰演商业家族掌门人的Marcia Gay Harden，以及JD Pardo、Bruce Greenwood和Robert Wisdom。",
+      "preview_zh": "Netflix于11月4日公布政治惊悚剧《Trinity》的预告与档期，七集将于2026年12月1日一次上线Netflix。剧集由《贴身保镖》（Bodyguard）创作者Jed Mercurio编剧并担任主创，Gugu Mbatha-Raw与Richard Madden领衔主演，故事围绕核潜艇军官与美国国防部长之间的危险联系展开。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-04T15:45:10.000Z",
+      "image_url": "https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQWR6eaSLwudh-SlEycTHWwYZIwTRmmg5Rkze26fSkjYJGsVG1K7RZekd4_K3G7NQBEpZkFcJhZzZbcUxPRsaHYOdZxSN9EmGFY2hQ4HGUNHQ_gXrrJn6piQ-0HbPoTKgWi4GVmSCkLmcNDtAQTgU07Bn.jpg?r=f7f",
+      "image_credit": "Darko Sikman / Netflix，经Tudum本篇报道刊载；《Trinity》潜艇控制室剧照",
+      "image_license": null,
+      "image_source_url": "https://www.netflix.com/tudum/articles/trinity-release-date-cast-news",
+      "image_usage": "source_remote",
+      "reference_urls": [],
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "year_highlight": false,
+      "month_highlight": false,
+      "inline_images": [
+        {
+          "after_paragraph": 2,
+          "image_url": "https://dnm.nflximg.net/api/v6/a01MIaQTUgSJoLaS_OCn68Eg3hU/AAAAQSi8rXQNtk1yOvc6XTZKK1GieuVFMddTOCuQLqD7ssNwdQwzlsTbSlA0z9Y-TO7lkgnKoi6U0TtxS2nCuWSrWpbpo1JS7vpUYrr8WsvvfjE4B6laYqHlZMXt7gvoulwG-q2-IwhTcz21sG-fgZN6fvoH.jpg?r=8f5",
+          "image_credit": "Darko Sikman / Netflix，经Tudum本篇报道刊载；Gugu Mbatha-Raw与Richard Madden角色剧照",
+          "image_license": null,
+          "image_source_url": "https://www.netflix.com/tudum/articles/trinity-release-date-cast-news",
+          "image_usage": "source_remote",
+          "caption_zh": "《Trinity》剧照：Katherine Decker与Webb Preston，背景为剧情中的美国国会大厦。"
         }
       ]
     },
@@ -12887,6 +12918,17 @@
       "last_error": null
     },
     {
+      "id": "v14-netflix-com-screen",
+      "name": "Netflix Tudum",
+      "category": "影视",
+      "adapter": "briefing",
+      "feed_url": "https://www.netflix.com/tudum/",
+      "enabled": 1,
+      "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用。",
+      "last_checked": "2026-11-05T04:07:48.027Z",
+      "last_error": null
+    },
+    {
       "id": "bbc-politics",
       "name": "BBC News",
       "category": "时政",
@@ -13115,17 +13157,6 @@
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用。",
       "last_checked": "2026-11-04T01:22:13.586Z",
-      "last_error": null
-    },
-    {
-      "id": "v14-netflix-com-screen",
-      "name": "Netflix Tudum",
-      "category": "影视",
-      "adapter": "briefing",
-      "feed_url": "https://www.netflix.com/tudum/",
-      "enabled": 1,
-      "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，原站图片仅远程引用。",
-      "last_checked": "2026-11-04T09:19:15.383Z",
       "last_error": null
     },
     {

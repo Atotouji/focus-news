@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T01:23:51.289Z",
+  "generated_at": "2026-11-05T04:07:49.319Z",
   "translations": [
     {
       "article_id": "article-4684e2e591706ff956dd7550",
@@ -20,6 +20,17 @@
         "Microsoft began rolling out two Xbox Cloud Gaming input previews on November 4: **using a phone browser as a virtual controller for a Smart TV, and connecting the Xbox Nano Controller directly to cloud-game servers over Wi-Fi**. Both remain tests, with limits on supported devices, games and regions.",
         "The phone-controller preview supports compatible Smart TVs in countries where cloud gaming is available, using supported Android or iOS phones to display browser-based controls. Some games offer tailored layouts. It provides input when no physical controller is available; it does not establish cloud-gaming access for every TV, phone or mainland Chinese account.",
         "The Nano Controller’s Cloud Connect preview is currently US-only and works with supported Smart TVs and web experiences. Instead of routing through a Bluetooth connection to the TV, the controller connects over Wi-Fi directly to the server running the game. Microsoft says this can reduce input latency, but the announcement provides no independent millisecond measurements. Setup uses the Android Xbox beta app or the PC Accessories app; PC setup requires Xbox Insider enrollment."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-6be6d44834d7aa94fda7ee2c",
+      "source_sha256": "f97bbff0181ee43061fcbcbf074c5d37a8148ed96aaf7b4101113ca245be4944",
+      "paragraphs": [
+        "Netflix unveiled the trailer and release date for political thriller Trinity on November 4. **All seven episodes will arrive on Netflix on December 1, 2026**. Bodyguard creator Jed Mercurio writes and leads the series, starring Gugu Mbatha-Raw and Richard Madden. It centers on a dangerous connection between a nuclear-submarine officer and the US secretary of defense.",
+        "Mbatha-Raw plays Commander Katherine Decker, second-in-command aboard the nuclear submarine USS Kansas. Madden plays technology-minded Secretary of Defense Webb Preston. Their connection draws Decker into a top-secret program code-named Trinity, forcing choices between military duty, personal trust and an emerging political conspiracy. The submarine’s confined spaces intertwine with power struggles around the Pentagon.",
+        "In the studio interview, Mercurio cites No Way Out as an inspiration for combining high-stakes conspiracy with a naval officer’s predicament. Michael Cuesta directs the first two episodes and executive produces. Other cast members include Marcia Gay Harden as a business-family matriarch, JD Pardo, Bruce Greenwood and Robert Wisdom."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
