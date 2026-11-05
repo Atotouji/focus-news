@@ -1,7 +1,73 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T09:19:16.753Z",
+  "generated_at": "2026-11-05T01:23:51.289Z",
   "translations": [
+    {
+      "article_id": "article-4684e2e591706ff956dd7550",
+      "source_sha256": "047cb9af238d8f6e89cbf5fa7ffd7e2535c6ca701818c78716d7f95fab4e8795",
+      "paragraphs": [
+        "On the morning of November 5 Beijing time, GEN **defeated LYON 3-0 to reach the semifinals** of the 2026 League of Legends World Championship in Allen, Texas. Both eToday and Hupu Esports confirmed the final series result. GEN closed Game 3 in 33:29 with a 16-10 kill score.",
+        "In the deciding game, GEN fielded Kiin on Aurora, Canyon on Pantheon, Chovy on Taliyah, Ruler on Xayah and Duro on Rakan, repeatedly pressuring top lane early. LYON fought back through champions including Inspired’s Trundle and Saint’s Anivia, winning favorable midgame fights in the jungle and near dragon. At roughly 26 minutes, GEN killed three LYON players and secured Baron, regained pushing control and eventually aced its opponent to destroy the Nexus.",
+        "**GEN’s semifinal against IG is scheduled for November 8 at 6:00 a.m. Beijing time**. The two remaining quarterfinals are DK versus BLG on November 6 at 6:00 a.m. and T1 versus KC on November 7 at 6:00 a.m.; they will determine the qualifiers in the other half of the bracket. All times above are Beijing time; the local date in the United States may be one day earlier."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-a839079dd91fee2212b9f8c5",
+      "source_sha256": "c82cbd66620d7d449ab6e3ed00412349155ffd9d8b5371e76aeff4fefa172cf7",
+      "paragraphs": [
+        "Microsoft began rolling out two Xbox Cloud Gaming input previews on November 4: **using a phone browser as a virtual controller for a Smart TV, and connecting the Xbox Nano Controller directly to cloud-game servers over Wi-Fi**. Both remain tests, with limits on supported devices, games and regions.",
+        "The phone-controller preview supports compatible Smart TVs in countries where cloud gaming is available, using supported Android or iOS phones to display browser-based controls. Some games offer tailored layouts. It provides input when no physical controller is available; it does not establish cloud-gaming access for every TV, phone or mainland Chinese account.",
+        "The Nano Controller’s Cloud Connect preview is currently US-only and works with supported Smart TVs and web experiences. Instead of routing through a Bluetooth connection to the TV, the controller connects over Wi-Fi directly to the server running the game. Microsoft says this can reduce input latency, but the announcement provides no independent millisecond measurements. Setup uses the Android Xbox beta app or the PC Accessories app; PC setup requires Xbox Insider enrollment."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-38eadf69e106854cfe63c132",
+      "source_sha256": "722069ac3d21943238aa24f10388b3b2b16144268337bf3ec1dc6fa1303a0431",
+      "paragraphs": [
+        "France’s blood establishment, EFS, confirmed that cold rooms storing blood were affected by recent cyberattacks that raised temperature settings. Staff intervened to protect supplies. **EFS said no health impact had been identified and no blood products had been lost**. The BBC reported on November 4 that attacks previously associated mainly with European supermarket freezers had also affected medical facilities.",
+        "Several cybersecurity firms used decoy freezer systems, or honeypots, to observe prior scanning. Previdian saw simultaneous temperature changes across locations as evidence of planning and coordination. Lupovis said probing of its decoys focused on Europe. Sekoia noted that some scans might have been automated and not necessarily malicious.",
+        "**No formal attribution has been made**. Online claims of involvement do not establish responsibility for these waves of freezer attacks. Sekoia said it had no technical evidence of Russian-speaking groups’ involvement, and different waves may have involved separate actors or copycats. Authorities in several countries are investigating and warning affected industries."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-27c884392a2cbbbbb440168d",
+      "source_sha256": "f57d2a591a6ac061f36d668c06f7e9c402fd46b7ab684e0797cbf1d759462bd0",
+      "paragraphs": [
+        "OpenAI announced plans to acquire The Pierre Computer Company, developer of code-collaboration tools including Code Storage, Trees, Diffs and Highlights. **The transaction remains subject to regulatory and other closing conditions, and the companies will operate independently until completion**. No purchase price was disclosed.",
+        "The deal targets code storage, branch browsing and change review for parallel coding-agent work. Trees and Diffs already power Codex’s file browser and change views. OpenAI says the open-source projects will remain open source and existing Code Storage customers can continue using the service after closing while product integration proceeds."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-0ffbcc105a5e283a50cd0e7b",
+      "source_sha256": "45ecf72af0386a99836b1e4caa65b208565d72fd380b728ea1ee4ff4493b9052",
+      "paragraphs": [
+        "The IEM Beijing group stage has concluded. **The MongolZ and MOUZ earned direct semifinal places**, while NAVI, PARIVISION, FURIA and BETBOOM will start in the quarterfinals. HLTV published the full playoff bracket on November 4.",
+        "NAVI claimed the final Group A playoff berth by beating Falcons 2-1: an 11-13 loss on Ancient followed by 13-4 on Inferno and 13-3 on Mirage. NAVI’s attacking half on the decider was 12-0. b1t and w0nderful posted series Rating 3.0 figures of 1.78 and 1.58. BETBOOM beat Liquid 13-5, 11-13 and 13-11, with zorte’s five-kill round breaking an 11-11 tie in round 23 of Mirage.",
+        "In the seeding matches, The MongolZ lost Inferno before taking Cache 13-8 and Dust2 13-11 to reverse FURIA and end its seven-match winning streak. MOUZ defeated PARIVISION 13-2 and 13-9. FURIA and PARIVISION had already qualified for the final six: these losses changed their starting round rather than eliminating them.",
+        "Playoff times in Beijing: **PARIVISION versus NAVI at 2:30 p.m. and FURIA versus BETBOOM at 5:45 p.m. on November 6**. On November 7, The MongolZ will face the first quarterfinal winner at 2:30 p.m.; MOUZ will face the other winner at 5:45 p.m. The final is scheduled for November 8 at 3:30 p.m."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-86d5c720b5bd89c83e644ef4",
+      "source_sha256": "13ee59dd1ab9961913554f694f518e6d2a454cb48e9ecb09161fbbb210236a59",
+      "paragraphs": [
+        "OpenAI described a controlled Linux-security experiment conducted in mid-October. Its automated pipeline produced 2,308 candidate findings, dynamically reproduced 1,724, and generated **948 working local privilege-escalation proofs of concept** plus 291 information-leak proofs of concept. The experiment used an upcoming cybersecurity model and approximately US$1.2134 million in API credits.",
+        "These are experimental findings and validation programs: **they do not mean 948 fixes have already been merged into Linux**. Candidate patches require maintainer review. Local privilege escalation presupposes local execution access rather than remote intrusion into arbitrary Linux hosts.",
+        "A separate announcement the same day brought GPT-5.6 Cyber through Daybreak Red to approved AWS GovCloud US-East customers via Bedrock. Access requires OpenAI approval and AWS provisioning. This is restricted security-research and defensive access, not general public or worldwide developer availability."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-f9de4a42ebbb22df72a6ed9f",
       "source_sha256": "ee8ee81017d08a825019796002cbc32a0b5086846cec0919b3be016ec9b2c1f7",
@@ -42,6 +108,39 @@
         "On November 4, the Hong Kong Polytechnic University’s Department of Civil and Environmental Engineering announced its 2026 National Natural Science Foundation of China funding results. Two projects list **Yong Xia as supervisor**, with awards to postdoctoral fellow Wei Tian and research assistant professor Ye Yuan. Each receives RMB300,000 under the Young Scientists Fund, Category C.",
         "Wei Tian’s project is titled “Parametric Substructuring-Based Digital Twin-Driven Damage Detection.” Ye Yuan’s project is “Spatial-Temporal Data Representation and Physics-Enhanced Multimodal Large Model for Bridge Health Monitoring.”",
         "Across the department, 14 scholars received more than RMB4.5 million through twelve Category C Young Scientists Fund awards and two General Programme awards; ten projects were initiated through the Shenzhen Research Institute. **The RMB4.5 million-plus figure is the department-wide total**, not the amount for Xia’s two supervised projects. This is a funding announcement; experimental data and research findings for the two projects have not been disclosed."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-9e49ad7916ca6612b9dfa6e7",
+      "source_sha256": "dde7c1c6b4386f354a29aff92092cd96c78a09eaf96330eb7f9790c868069a23",
+      "paragraphs": [
+        "OpenAI released **Images 2.6** on November 4 for ChatGPT and Codex across subscription tiers on desktop, mobile and the web, with GPT-Image-2.6 Flare and Sunburst available through the API. Flare emphasizes speed; Sunburst focuses on precision and consistency across edits at medium and high quality.",
+        "The update adds GIF creation, editing through marks placed on specific image areas, and SVG export. An API complexity setting adjusts planning separately from output quality. OpenAI reports 50% faster generation overall and low-quality Flare output in as little as approximately six seconds; these are vendor-reported results, with timing dependent on settings and tasks."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-031a31a419f57268fc228643",
+      "source_sha256": "edefa1b4b108e0f50e7dd3e0deb97a3b8ac2af71c2afd519985c539ad5c1190c",
+      "paragraphs": [
+        "On November 4, Qualcomm reported fourth-quarter and full-year fiscal 2026 results for the period ended September 27. **Quarterly GAAP revenue was US$10.322 billion, down 8% year on year**. Net income of US$1.251 billion reversed a US$3.117 billion loss a year earlier. Adjusted non-GAAP net income was US$2.332 billion and earnings per share US$2.17, both down 28%.",
+        "Chip revenue diverged by business: QCT handsets generated US$5.137 billion, down 26%; automotive reached **US$1.990 billion, up 89%**; and IoT contributed US$1.888 billion, up 4%. The company rounded automotive revenue to its first US$2 billion quarter in the headline; the segment table’s precise figure remains US$1.990 billion.",
+        "Full-year GAAP revenue was US$43.120 billion, down 3%, while net income rose 146% to US$13.628 billion, including a one-time US$5.7 billion income-tax benefit. Full-year non-GAAP net income fell 15% to US$11.311 billion, moving in the opposite direction to GAAP profit. Qualcomm also announced renewed long-term patent licenses with Apple, Huawei and Transsion.",
+        "Qualcomm projects non-handset revenue growth above 60% in fiscal 2027 and targets US$5 billion in data-center revenue; these are management forecasts for the next fiscal year. Automotive and data-center expansion is changing the revenue mix, but did not fully offset this quarter’s handset decline."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-5abbc73b74175c4f1c1ff6bb",
+      "source_sha256": "6122d401d10bb08b634b9ead92569e505bf0cc1477a54d690ffeb10528c800fa",
+      "paragraphs": [
+        "The ninth China International Import Expo is scheduled for **November 5–10 at the National Exhibition and Convention Center in Shanghai**. A November 4 China News Service setup report republished by the expo bureau says total exhibition space exceeds 440,000 square meters for the first time, including more than 370,000 square meters for the business exhibition. Both exhibition space and exhibitor numbers set records for the event.",
+        "The report lists participation by 162 countries, regions and international organizations and 4,142 overseas enterprises. More than 300 participating companies are Fortune Global 500 firms or industry leaders, and over 2,000 are first-time exhibitors.",
+        "Photos from November 3 show workers adjusting displays, cleaning vehicles and testing embodied assembly robots and humanoid robots, with exhibits including an aircraft-engine model already on site. An official November 4 release said preparations were complete. On November 3, the Ministry of Commerce announced that Ding Xuexiang would attend the opening and deliver a keynote."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -91,11 +190,12 @@
     },
     {
       "article_id": "article-adc4efaa5bcbe94a7cb3c445",
-      "source_sha256": "e03ce0ec21e35f23005678c93b53a33ca499aba55e3f93dc83b71cb458b8152f",
+      "source_sha256": "18c4bd9e8c5f45cd760d7fb0c62db877d32aa2d0c2eb90e55fa3f7071a1b3680",
       "paragraphs": [
-        "In November 3 updates, BBC, CNN and the Kyiv Independent reported Ukrainian accounts that Russian bombing of a humanitarian aid site in Komyshuvakha, Zaporizhzhia region, killed **at least 33 people**, with others missing. The attack occurred on November 2. The dead included two rescue workers and four police officers. BBC also reported attacks on a Dnipro hospice, a Kharkiv hospital and other sites.",
-        "After reviewing photographs and videos, the UN Human Rights Monitoring Mission said multiple glide bombs hit a school while residents gathered for aid whose distribution time and location had been publicised. Its November 3 statement cited local reports of at least 31 civilian deaths, with **the exact civilian toll still being verified**.",
-        "Russia’s defence ministry said it targeted Ukrainian military units; BBC reported no credible evidence that the site was used by the military. The UN said the attack appeared to violate fundamental principles of international humanitarian law. Zelensky put injuries at the Kharkiv hospital at 73, mostly elderly patients. Rescue work and casualty accounting continued."
+        "Search operations following the November 2 attack on Komyshuvakha in Zaporizhzhia Oblast entered their third day. BBC and Kyiv Independent reports on November 4 put the Ukrainian-reported death toll at the aid center and shelter at **40**. Zelensky said more than 30 people might still be beneath the rubble, with some bodies unidentified. Missing or possibly trapped people are not yet confirmed fatalities.",
+        "Ukraine’s national police released bodycam footage from an officer who was killed. After the first blast, residents cross a damaged area and enter an underground shelter amid warnings of another strike; an explosion follows and the recording ends. **BBC Verify confirmed that the filming location matches emergency-service footage of the aftermath**. Police say the video records the interval between two Russian bombing waves.",
+        "A November 3 statement by the UN Human Rights Monitoring Mission said the aid-distribution location and its November 2 window of 10 a.m. to noon had been publicized. Damage in photos and videos was consistent with powerful aerial bombs. That statement cited the local authorities’ then-reported minimum of 31 civilian deaths and said exact casualties were still being verified. Russia’s defense ministry had claimed it targeted Ukrainian military units; the BBC earlier reported no credible evidence that the aid site was in military use.",
+        "Canine teams and mining-rescue specialists are involved in the search, while the threat of further strikes complicates debris removal and the search for survivors. Two rescuers and four police officers were among the previously reported dead. The UN said the attack appeared to violate fundamental principles of international humanitarian law, with casualty verification continuing."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -1860,14 +1960,14 @@
     },
     {
       "article_id": "article-ef4497dcc2f95d726ac49b13",
-      "source_sha256": "8255c7162c567ac97b88690f1a474bccad622408781e3a55c4d5b230de9780e1",
+      "source_sha256": "9e5e4ae4ee83d3ad3dee27e41d0dafcc3c2ce319f28442ad44e381ef84f452f0",
       "paragraphs": [
-        "[Domestic AI | October Important Updates Review] On October 24, Moonshot officially introduced Kimi K3.1 Pro, describing it as a 3T-level model that provides 1,000,000 token context and has entered the Kimi website, Kimi Work, Kimi Code, and API. For domestic AI progress, this also involves model size, long context, and accessible product entry points, making it more trackable than just a concept demonstration.",
-        "Official reports indicate that the high-speed mode can achieve approximately 2 to 3 times the speed, and list the results of Terminal Bench 4.0 and the internal Kimi Code Bench. These numbers come from the manufacturer's testing and cannot be overlooked the tool configuration, samples, and scoring methods, nor can they be based solely on individual results to conclude that a model is comprehensively superior to all competing models. A longer context does not necessarily mean that the model can accurately utilize all inputs.",
-        "The official plan is to open the weights on 4 November; as of 2 November, it is still in the stage of announcing the plan. Here, the original blog and official directory are retained, and subsequent steps should verify the actual download entrance, license, and model card, then update the open status."
+        "The weight-release status of Kimi K3.1 Pro has materially changed. **As checked on November 5, Moonshot’s official Hugging Face repository publicly listed 96 Safetensors weight shards**, alongside configuration, tokenizer, vision-processing components and a weight index, without an access-approval gate. The blog had previously scheduled weight release for November 4; actual file listings and sizes are now present. Repository metadata gives November 2 as its creation date, which does not by itself establish the exact time downloads first became public.",
+        "The official model card describes a natively multimodal MoE model with **2.8 trillion total parameters, 104 billion activated parameters and a one-million-token context window**. Post-trained from Kimi K3, it targets tasks including coding, 3D creation and financial research. Product and API access had already been available. The change concerns public weights for self-hosting and research; product availability and downloadable weights are distinct states.",
+        "The weights use the custom Kimi K3.1-Pro license, which allows use, modification and deployment subject to commercial conditions. An operator of a model-as-a-service business and its affiliates must enter a separate agreement before commercial use if combined revenue exceeds US$20 million over any consecutive 12 months. A commercial product or service using the model must prominently display its name if it exceeds 100 million monthly active users or US$20 million in monthly revenue. The license separately exempts internal use, official products and certified inference partners from these requirements; it is not an unconditional open license."
       ],
       "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-9ab1f8f410faf5e0d7550af0",
