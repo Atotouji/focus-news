@@ -1,7 +1,42 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T01:21:55.565Z",
+  "generated_at": "2026-11-06T04:15:15.369Z",
   "translations": [
+    {
+      "article_id": "article-581d244e79c170a93d27d94b",
+      "source_sha256": "386b60610ccfa9e363929131ef9c549d5c03af906d4328da204049478d714248",
+      "paragraphs": [
+        "At a November 5 briefing, the National Healthcare Security Administration set a goal of **nationwide direct settlement for recipients using Medical Insurance Wallet 2.0 for cross-province treatment and medicine purchases by the end of 2026**. Economic Information Daily reported the plan on November 6. Version 2.0 launched on September 29, while nationwide cross-province direct settlement remains in rollout.",
+        "The wallet uses the unified medical-insurance platform to manage virtual allowances shared from employees’ personal insurance accounts. Account holders can allocate allowances to close relatives for eligible out-of-pocket costs at designated institutions and insurance contributions. Eligibility expands beyond spouses, parents and children to include siblings, grandparents and grandchildren.",
+        "By November 4, version 2.0 had recorded 2.0261 million instances of cross-province family sharing involving RMB1.582 billion. Treatment and medicine purchases totaled RMB53.2288 million, while 727,000 resident-insurance contribution payments totaled RMB277 million. Usage counts, shared amounts and actual consumption measure different stages rather than the same use-of-funds indicator.",
+        "Nationwide, 749,500 designated medical institutions and pharmacies supported local wallet spending. Insurance contributions through version 2.0 were supported in 344 pooling areas, or 87% of the total. Further work includes assisted offline services, identity verification, family-link registration, allowance management and cross-province settlement and clearing."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-0e567b6d884b24b40ce0c5eb",
+      "source_sha256": "96ebddca0f527e06db6d2b1fc73b1c45a714705251e93a9946e4e7bba3503eed",
+      "paragraphs": [
+        "The twenty-fifth session of the Standing Committee of the Fourteenth National People’s Congress **passed the anti-cross-border corruption law on November 6**. Xinhua’s bulletin says it takes effect upon promulgation.",
+        "The law contains six chapters and forty-seven articles, addressing working mechanisms and responsibilities, case handling and international cooperation, integrity compliance, and legal liability. It places prevention and punishment of cross-border corruption and international cooperation within a dedicated legal framework.",
+        "Its stated objectives include deeper international anti-corruption cooperation, protection of national sovereignty, security and development interests, and improvements to global anti-corruption governance. The reported development is formal legislative passage, following the earlier draft-review stage."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-02502c78edc50ee084879839",
+      "source_sha256": "f01840bb0529fd4cdfdffb291999361da7a0ce793c78f44cda4971d612ef0b7a",
+      "paragraphs": [
+        "Japan’s Ministry of Health, Labour and Welfare released preliminary September labor statistics on November 6: **average total cash earnings were ¥311,409, up 4.6% year on year**. The measure is compensation before deductions such as taxes and social-insurance contributions, primarily covering regular employees, including part-time workers, at establishments with at least five employees.",
+        "Scheduled cash earnings were ¥299,151, up 3.6%. Within that figure, scheduled earnings excluding overtime-related allowances were ¥279,182, up 3.7%. Special payments were ¥12,258, up 32.6%, showing that bonuses and other one-off payments also influenced growth in total earnings.",
+        "Adjusted using the consumer-price index excluding imputed rent for owner-occupied housing, **real cash earnings rose 2.2%, their ninth consecutive positive month**. That price index rose 2.4%. Using the overall consumer-price index instead produces real-wage growth of 2.3%; the two series use different price deflators.",
+        "The release also lists total cash earnings of ¥401,722 for general workers, up 5.0%, and scheduled hourly earnings of ¥1,463 for part-time workers, up 5.4%. These are averages for different worker groups and remain preliminary figures subject to revision in the final release."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-912bbbee3439dc341fb6f020",
       "source_sha256": "38db8b14ff5839285ee751263a1a2753dfd83a72327dd290e1f1ffd6583c4e4a",
@@ -64,12 +99,12 @@
     },
     {
       "article_id": "article-adb3875b04d439409ea17f79",
-      "source_sha256": "2d404b698d884edc693544180d0a976fea7cf8d30105ac141baaf755b38850ee",
+      "source_sha256": "e633a282370eeac5150fd6464d465e465e22c20a19c7d6891ca3653a015d6f75",
       "paragraphs": [
-        "US stocks fell sharply at the November 5 close, led by technology and chip companies. Final figures from the Associated Press showed the **Nasdaq Composite down 5.5%, the S&P 500 down 4.4%, and the Dow Jones Industrial Average down 3.4%**. They closed at 24,315, 7,353.73 and 51,523.06 respectively.",
-        "The S&P 500 lost 334.89 points, the Nasdaq 1,421.52 points and the Dow 1,833.06 points. The BBC reported a roughly 12% decline in the semiconductor index. NVIDIA fell more than 9%, AMD and Micron each more than 17%, Intel 10.3%, and SanDisk more than 22%. Selling was concentrated in companies previously lifted by AI infrastructure investment.",
-        "The BBC linked sentiment to fears that AI and data-center regulation could tighten after the US midterm elections, alongside doubts about returns on large AI capital expenditures. Democratic victories strengthened those policy expectations, but campaign proposals and possible regulatory measures remain distinct from federal laws already in force.",
-        "The sell-off put pressure on chip suppliers and the data-center investment chain as markets reassessed future spending, approvals and earnings growth. The policy implications reflect market participants’ expectations. The index and individual-stock declines above refer to the completed November 5 US trading session."
+        "The US technology sell-off spread to Asia on November 6. In its **early-trading update at 10:57 Beijing time, the BBC reported that South Korea’s Kospi had fallen more than 8.5%, triggering a circuit breaker**. An AFP report carried by Lianhe Zaobao said Seoul trading was suspended for twenty minutes. These are intraday developments, not closing results.",
+        "The BBC reported that Japan’s Nikkei 225 was down about 6% and Taiwan’s Taiex more than 8.3% during the same early session. Chip-related shares were particularly weak: SK Hynix fell more than 11.5%, Samsung nearly 10%, Kioxia more than 12.6%, Tokyo Electron 9.5%, and TSMC nearly 8.5%. Those readings correspond to the reporting time and may subsequently change.",
+        "For the completed November 5 US session, final Associated Press figures showed the Nasdaq down 5.5%, the S&P 500 down 4.4% and the Dow down 3.4%, closing at 24,315, 7,353.73 and 51,523.06 respectively. NVIDIA fell more than 9%, AMD and Micron each more than 17%, and the Philadelphia Semiconductor Index more than 12%, providing the preceding-session backdrop to the Asian sell-off.",
+        "Analysts quoted by the BBC linked concerns about returns on large AI capital expenditures with fears of tighter data-center approvals and regulation after the US midterms. Campaign commitments and possible restrictions remain policy expectations, with effects dependent on subsequent legislation, approvals and corporate investment decisions."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
@@ -170,6 +205,18 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
+      "article_id": "article-596a3e67a2c5cb1a73874d45",
+      "source_sha256": "a5eaf3bb82620113aa3c46d5f284dd40a23a3cd4a160b1e60504098be56e0f80",
+      "paragraphs": [
+        "Serbia’s Republic Electoral Commission adopted the final overall report on the parliamentary election on November 5, covering the October 25 vote and repeat voting at fifty-three polling stations on November 1. **The Student List won 140 of 250 seats, while Aleksandar Vučić’s United Serbia list won 103**, leaving the student-led bloc with an absolute majority.",
+        "The commission recorded 2,354,417 votes for the Student List and 1,731,323 for United Serbia. Five minority lists shared the remaining seven seats: the Alliance of Vojvodina Hungarians and Albanian Coalition won two each, and three other lists one each.",
+        "The final report covered 8,392 polling stations, with 4,441,636 people casting ballots: 4,385,065 valid and 56,571 invalid. After the earlier publication of counts from every polling station, the new procedural development is the commission’s formal confirmation of the final results.",
+        "Radio Free Europe explains that the commission must then allocate parliamentary mandates within ten days of publication of the overall report. The new parliament must be constituted within thirty days of the final results, followed by a ninety-day period for electing a government. Formation of the new government still awaits those parliamentary procedures."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
       "article_id": "article-a839079dd91fee2212b9f8c5",
       "source_sha256": "c82cbd66620d7d449ab6e3ed00412349155ffd9d8b5371e76aeff4fefa172cf7",
       "paragraphs": [
@@ -223,6 +270,18 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-1d8a654f2ecba890169e9622",
+      "source_sha256": "8006f8198331aeeae923b5cecfebe58afde5cb3798aab149ec4b699227916832",
+      "paragraphs": [
+        "Tencent **released the full version of Hunyuan Hy4 on November 4**, adding visual understanding and computer-use capabilities to Hy4 Preview. Its announcement describes combining images, reasoning, command lines and graphical interfaces for chart analysis, visual mathematics, professional software and cross-application tasks, with specialized training for Blender and CAD.",
+        "The announcement lists Tencent Cloud TokenHub, WorkBuddy, CodeBuddy, Yuanbao, WeCom’s assistant and ima as access points. **Model weights and the system card were scheduled for release “soon”**, separately from products and APIs already available at the time. Hy4 Flash was also a future plan.",
+        "Tencent reported an average WorkBuddy internal-evaluation score of 83.18 and a 96.15% pass rate. For game development, it worked with Tencent IEG developers on UE, Unity and Godot tasks involving features, gameplay logic, state understanding and asset handling. These results and adaptation claims come from the vendor’s evaluations.",
+        "The announced API list prices were RMB6 per million input tokens, RMB18 per million output tokens and RMB0.3 per million cache-hit input tokens. Tencent Cloud TokenHub was offered at half the list price through December 31, 2026. WorkBuddy and CodeBuddy offered limited free allowances from November 4 to 15, a separate arrangement from base API list pricing."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-86d5c720b5bd89c83e644ef4",
