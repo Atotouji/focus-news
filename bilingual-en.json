@@ -1,7 +1,103 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T09:12:40.776Z",
+  "generated_at": "2026-11-06T01:21:55.565Z",
   "translations": [
+    {
+      "article_id": "article-912bbbee3439dc341fb6f020",
+      "source_sha256": "38db8b14ff5839285ee751263a1a2753dfd83a72327dd290e1f1ffd6583c4e4a",
+      "paragraphs": [
+        "The third quarterfinal of the 2026 League of Legends World Championship ended on the morning of November 6, Beijing time, with **BLG sweeping DK 3–0 to reach the semifinals**. The LPL published a qualification poster. LPL second seed BLG won all three games, eliminating LCK fourth seed DK in the quarterfinals.",
+        "In the deciding game, BLG fielded Bin on Jax, Xun on Trundle, Knight on Ahri, and Viper and ON on Lucian and Milio. Bin established a clear top-lane advantage, although an overextended chase allowed DK to counter with an ace. Xun subsequently maintained dragon control. Bin secured a triple kill in a crucial fight, BLG took Baron, and later flanks and a Baron-powered push finished the game.",
+        "BLG had lost twice in the Swiss stage: to MKOI in the opening round and 1–2 to TES in round four. Wins over TLAW and KC, followed by a 2–0 elimination-series victory against HLE, took them to the quarterfinals at 3–2. This win makes them another LPL semifinalist alongside IG.",
+        "**The next quarterfinal is T1 versus KC at 06:00 Beijing time on November 7**. Its winner is scheduled to face BLG at 06:00 on November 9. GEN versus IG, the other semifinal, is scheduled for 06:00 on November 8. These are Riot’s currently published fixtures; T1 and KC have not yet produced a winner."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-7a29b99991007e12673167bf",
+      "source_sha256": "2ec914945368ee6743124856a8f1ddc63d4ac2c354905cccb29be16631c78571",
+      "paragraphs": [
+        "Workers across France struck and marched on November 5 to demand higher wages, tax changes and better public services. An updated AFP report carried by CNA cited revised Interior Ministry figures of **about 575,000 participants nationwide, including 60,000 in Paris**. The CGT union estimated roughly 1.6 million nationally. The government and union counts use different approaches and produce different totals.",
+        "Most demonstrations were peaceful, with localized clashes in some cities. A vehicle was burned in Lyon, where police used tear gas. Police reported 448 arrests nationwide and 53 injured officers as of 18:00 French local time, equivalent to 01:00 Beijing time on November 6. Those figures do not establish the total number of injured demonstrators.",
+        "Education, transport and other public services were disrupted, and the Eiffel Tower and Arc de Triomphe closed. Students also protested over school conditions and living costs. The CFDT’s advance public-service strike notice identified purchasing power, career development and funding for public services as central demands.",
+        "The BBC reported that Prime Minister Sébastien Lecornu planned a **social conference with unions and employers on November 9**. Pay and public-spending disputes remain unresolved, while turnout, service disruption and incidents of violence differed between locations."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-d76a0c9ca448c0ab546ef1f4",
+      "source_sha256": "d072d621883cd867f4872e1e730f40548cbb4531bb8f57ca6b5b6079fbdd2f5d",
+      "paragraphs": [
+        "Microsoft announced a revised Xbox experience across PC, web and cloud gaming on November 5, **starting the PC rollout as an Xbox Insider preview**. The changes focus on loading, libraries and social navigation. The full interface is not arriving for every stable-release user that day.",
+        "Microsoft reports up to 60% faster startup, 50% faster Home, Store and Game Pass page loads, and 65% faster in-app windows in its tests. These are company measurements, with improvements varying by device, network and configuration.",
+        "The PC app reorganizes library filters and categories and moves friends and social features into primary navigation. Unified search covers installed games, add-ons and people, alongside updated cards, settings and animations. The redesigned web experience will expand over the following weeks, with early opt-in at play.xbox.com.",
+        "The cloud library displays eligible owned games alongside Game Pass titles, sortable by genre, input method and recently played. Desktop layouts add light and dark themes and five high-contrast options. Rollout also begins on supported televisions and VR headsets, with availability dependent on device support."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-27b87d65d3f99406683fa7dd",
+      "source_sha256": "4239ee7ebca1698cfff765adbc60eb83855bcec3da157280ab8fd3283e5c5a3f",
+      "paragraphs": [
+        "Google introduced **Gemini Omni 1.2 Flash on November 5, supporting videos from 3 to 15 seconds in one-second increments**, up from the previous ten-second maximum. Google says it improves character and object consistency and supports iterative edits to existing clips, reducing the need to regenerate an entire video.",
+        "The model can use reference images, short motion clips and audio. Its workflow includes 360p and 720p drafts, with upscaling to 1080p or 4K. The Gemini API price for 720p video is US$0.07 per second, which Google says is 30% below Omni 1.1. That rate cannot be assumed to cover every resolution and upscaling workflow.",
+        "Omni 1.2 Flash is generally available through the Gemini API, Google Cloud and Gemini for Business. Fifteen-second video in the Gemini app is rolling out first to Google AI Ultra users. Generated content includes SynthID marking.",
+        "Google Vids announced a separate option the same day: **users with a Google account or Workspace subscription can generate three fifteen-second videos free each month**. The Vids allowance, metered API pricing and Gemini-app Ultra eligibility are separate product rules."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-90a287db20b286d8d4c0a039",
+      "source_sha256": "4d2119c83eb220f516d1649e9d36e75e34ee23b2c5c1c63a73c4093153fe4156",
+      "paragraphs": [
+        "Nintendo announced on November 5 that its remake of The Legend of Zelda: Ocarina of Time was **released exclusively for Nintendo Switch 2, with a US official price of $59.99**. Rebuilt from the 1998 Nintendo 64 game, it has moved from an announced project to an available release.",
+        "Nintendo lists overhauled visuals, voiced cutscenes, expanded dialogue, orchestral music, and reworked camera and movement controls. Link’s adventure in Hyrule retains the shifts between his younger and adult selves and music-based puzzles as central elements.",
+        "A new Hall of Fallen Foes allows enemy rematches, while fairy thoughts add collectibles. Ocarina interactions support microphone input through humming or playing an instrument, providing another way to engage with music alongside conventional controls.",
+        "This is a commercial remake for Switch 2, distinct from running an older game through a classic-game service. The $59.99 figure is the official US-store price. Other regions’ prices, editions and associated service eligibility follow their respective stores."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-adb3875b04d439409ea17f79",
+      "source_sha256": "2d404b698d884edc693544180d0a976fea7cf8d30105ac141baaf755b38850ee",
+      "paragraphs": [
+        "US stocks fell sharply at the November 5 close, led by technology and chip companies. Final figures from the Associated Press showed the **Nasdaq Composite down 5.5%, the S&P 500 down 4.4%, and the Dow Jones Industrial Average down 3.4%**. They closed at 24,315, 7,353.73 and 51,523.06 respectively.",
+        "The S&P 500 lost 334.89 points, the Nasdaq 1,421.52 points and the Dow 1,833.06 points. The BBC reported a roughly 12% decline in the semiconductor index. NVIDIA fell more than 9%, AMD and Micron each more than 17%, Intel 10.3%, and SanDisk more than 22%. Selling was concentrated in companies previously lifted by AI infrastructure investment.",
+        "The BBC linked sentiment to fears that AI and data-center regulation could tighten after the US midterm elections, alongside doubts about returns on large AI capital expenditures. Democratic victories strengthened those policy expectations, but campaign proposals and possible regulatory measures remain distinct from federal laws already in force.",
+        "The sell-off put pressure on chip suppliers and the data-center investment chain as markets reassessed future spending, approvals and earnings growth. The policy implications reflect market participants’ expectations. The index and individual-stock declines above refer to the completed November 5 US trading session."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-bfc26278ca87f545d93125c3",
+      "source_sha256": "191f506884f6b5d6dcdf0b439a211e5832fe4ce43dc9ed6e1ffbcf63caec1e24",
+      "paragraphs": [
+        "Ubisoft released a major free update for Assassin’s Creed Valhalla on November 5, centered on the long-requested **New Game Plus mode**. PlayStation confirmed availability for PS5 and PS5 Pro; Xbox’s announcement also covers Xbox Series X|S and Xbox One.",
+        "After completing the Holy Day quest, players can restart with their existing character progression, with greater challenges in subsequent runs. A new Mithril resource upgrades Divine gear, raising its cap from level 13 to 27. Extended Progression incorporates gear upgrades, runes and masteries into power growth.",
+        "Ravensthorpe gains a stash, while the Rune Forge supports silver-funded upgrades and a new Superior tier. Ubisoft lists more than 300 engravable runes. Together, these systems expand the post-completion character and equipment loop beyond individual bug fixes.",
+        "PS5 Pro separately gains upgraded PSSR support. Ubisoft says its Quality mode delivers a 4K image at 60 frames per second. This is the vendor’s performance description; the PS5 Pro PSSR changes do not apply to Xbox, and independent media testing has not been established here."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-9434ac3945d97bda5d81dd9f",
+      "source_sha256": "d4dae07244afe4032bc1fb5f08bdc16524721efb819ab9f197fb93042b667563",
+      "paragraphs": [
+        "OpenAI released **GPT-6 Cyber on November 5, initially providing API and Codex access only to selected, approved Daybreak Red customers**. Based on GPT-6 Astra, it receives specialized training for vulnerability discovery, validation and remediation research. Broader access remains planned.",
+        "OpenAI reported an ExploitGym score of 48.5%, compared with 32.1% for GPT-5.6 Cyber. The system card classifies its cybersecurity capabilities as Critical, the same category as GPT-6 Astra. These are vendor evaluation results, rather than a vulnerability-detection rate applicable to arbitrary real systems.",
+        "In scope-control testing without an additional deployment prompt, 99.93% of tested behavior stayed within authorized boundaries; the figure was 100% with the prompt. Those results apply to the specific evaluation environment. The system card still requires identity and security approval, organizational access controls, system checks and monitoring.",
+        "The release combines frontier cybersecurity capabilities with restricted deployment: customer eligibility, operating environment and security processes determine access. A standard ChatGPT account does not automatically gain this specialized service."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-c39675d166075949710edcc3",
       "source_sha256": "95eec926e59fef575a6a91d46f480a730d87561a44a9c1e07f85a0d95b15458c",
@@ -24,6 +120,54 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-c015fed1fc92be23ce5112ff",
+      "source_sha256": "e02b5000a29fb40a9a2bf3a27cc55b9781552337a1cfa27f9eb6ef5fb4f5e048",
+      "paragraphs": [
+        "The Bank of England announced on November 5 that Bank Rate would rise from 3.75% to **4%, an increase of 25 basis points**. At its meeting ending November 4, the Monetary Policy Committee voted 8–1 for that increase. The remaining member preferred 50 basis points, taking the rate to 4.25%. All nine favored tightening, but disagreed on its size.",
+        "UK consumer-price inflation was 3.5% year on year in September. The Bank projected that it would reach **about 5% in mid-2027**, chiefly because of the continuing Middle East conflict and energy prices. That is a forecast; the published September inflation rate remains 3.5%.",
+        "The committee judged that energy costs were continuing to pass through supply chains and that activity was stronger than previously expected, warranting action against broader price pressures. Evidence of spillovers into wages and other prices remained limited. Subsequent decisions will consider inflation persistence and economic data.",
+        "The objective remains a return to 2% inflation over the medium term. The Bank committed to no fixed path for further increases; its next rate decision is scheduled for December 17."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-4d8d334a13b7d79187db2b22",
+      "source_sha256": "66254da5cc0727c87e240d282533293b56fba4162d8666c23347d31e71f208a9",
+      "paragraphs": [
+        "Independent evaluator METR published an assessment of Anthropic’s research progress on November 5. Its August 12–October 29 investigation examined pretraining, reinforcement learning, compute and model evaluations, alongside staff interviews. It considered growth on well-specified tasks and possible acceleration from AI-assisted research.",
+        "Including internal models and benchmarks, METR estimated that growth in Anthropic’s capability index, AECI, since October 2025 was **1.9 times the earlier slope, with a 95% confidence interval of 1.5–2.8 times**. A separate subjective synthesis put overall acceleration around twice the historical rate, with a plausible range of 1.3–3 times. That judgment is distinct from the statistical interval.",
+        "METR considered AI assistance the likely source of most acceleration and did not regard faster growth in training compute as the main explanation, but could not confidently establish causation. The findings concern AI assistance within human research processes; they do not establish fully autonomous recursive self-improvement.",
+        "The assessment mainly covers well-specified tasks and benchmark capabilities, potentially missing bottlenecks in open-ended research. Anthropic redacted much of the most informative evidence, preventing the public from independently examining every detail. METR’s conclusions partly depend on that unpublished material."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-850ffbfc56c1fbbd5e042b00",
+      "source_sha256": "f40ffdb62fe95a58030b2ccc3adf614ade69553ec08b0fb80ecd28224d916bb8",
+      "paragraphs": [
+        "Mistral AI introduced an expanded Studio on November 5, bringing **managed agents, workflows and applications** into one enterprise development and operating platform. The update concerns deployment and governance rather than a new open-weight model, connecting models with internal data, tools and business processes.",
+        "Managed agents support skills, code environments, subagents and hooks, with developer-defined tool, data and action boundaries. Workflows combine fixed rules, agent steps and human approvals, resume interrupted runs, and respond to enterprise-system events. A visual graph shows execution paths.",
+        "The application layer integrates hosting, authentication and access permissions. Teams can reuse approved components, move from local testing to a deployment link, and develop with Mistral Vibe. Connectors and MCP integrate enterprise resources, while OpenTelemetry records model calls, tool actions and approvals.",
+        "Mistral lists cloud, private-cloud, on-premises and hybrid deployment options, together with evaluations on enterprise datasets. Access, deployment and service scope depend on configuration and commercial arrangements. The announcement does not describe every feature as freely available to individuals."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-b1feafc8620ed538b62a3022",
+      "source_sha256": "4a606c295addbbfcd46967db8b8bdb3635442e45d5ca2bc785ac71fb376890ab",
+      "paragraphs": [
+        "NVIDIA published performance details for Vera CPUs in agent workloads on November 5, emphasizing CPU demand from tool calls, databases and code execution. The report concerns CPU–GPU coordination in agent systems and throughput under data-center power constraints.",
+        "In a comparison framed around a 100-megawatt data center, NVIDIA says Vera supports **1.6 times as many agents per watt** as its fastest x86 comparator, and twice the agent speed of its most energy-efficient x86 comparator. These figures use different baselines and cannot be multiplied or combined into a single performance ratio.",
+        "Partner Perplexity reports approximately 1.5-times-faster agentic coding, with production deployment still planned. DeepInfra reports up to 2.2-times-faster agent orchestration than its best x86 comparator in a four-architecture test. Each result concerns the partner’s own workloads.",
+        "The figures come from NVIDIA and partner companies, rather than an independent ranking across applications. They describe the role and testing progress of server CPUs in agent toolchains, not the launch of a new retail processor for personal computers."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-a839079dd91fee2212b9f8c5",
@@ -159,14 +303,15 @@
     },
     {
       "article_id": "article-5abbc73b74175c4f1c1ff6bb",
-      "source_sha256": "6122d401d10bb08b634b9ead92569e505bf0cc1477a54d690ffeb10528c800fa",
+      "source_sha256": "ccbea23c0ac0fbfc8ae0f27d32e609de535b6a8f01b8284b28af1dfb847cf97e",
       "paragraphs": [
-        "The ninth China International Import Expo is scheduled for **November 5–10 at the National Exhibition and Convention Center in Shanghai**. A November 4 China News Service setup report republished by the expo bureau says total exhibition space exceeds 440,000 square meters for the first time, including more than 370,000 square meters for the business exhibition. Both exhibition space and exhibitor numbers set records for the event.",
-        "The report lists participation by 162 countries, regions and international organizations and 4,142 overseas enterprises. More than 300 participating companies are Fortune Global 500 firms or industry leaders, and over 2,000 are first-time exhibitors.",
-        "Photos from November 3 show workers adjusting displays, cleaning vehicles and testing embodied assembly robots and humanoid robots, with exhibits including an aircraft-engine model already on site. An official November 4 release said preparations were complete. On November 3, the Ministry of Commerce announced that Ding Xuexiang would attend the opening and deliver a keynote."
+        "The ninth China International Import Expo and Hongqiao International Economic Forum **opened in Shanghai on November 5**, with Ding Xuexiang attending the opening ceremony and delivering a keynote speech. The expo runs from November 5 to 10 at the National Exhibition and Convention Center in Shanghai. The opening updates the earlier preparations and installation reports.",
+        "A China News Service report republished by the CIIE Bureau on November 4 put total exhibition space above 440,000 square meters and the business exhibition above 370,000 square meters, both firsts for the expo. It listed participation from 162 countries, regions and international organizations and 4,142 overseas companies, including more than 300 Fortune Global 500 companies and industry leaders, and more than 2,000 first-time exhibitors.",
+        "The Foreign Ministry’s November 5 account said Ding outlined four priorities: sharing markets, investment cooperation, innovation and mutual understanding. He called for stronger market connections and industrial-chain cooperation, new areas of trade, and consultation over differences and trade barriers. These were policy directions presented in the opening speech.",
+        "Ding subsequently visited the business exhibition and toured it with foreign guests. Installation photographs from November 3 had already shown aircraft-engine models, embodied robots and humanoid robots. With the expo open, attention shifts from venue preparation to exhibits, procurement and cooperation."
       ],
       "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-b8d3233e608d83579b371168",
@@ -579,14 +724,15 @@
     },
     {
       "article_id": "article-ebdc2a67c4e68e90f3e20b66",
-      "source_sha256": "eb866b9d8f6c8163e0fccc5e7090a428b5279e7061a05e7d5bfbcbc13bd14da6",
+      "source_sha256": "9eccd95afb4835e067bc6c0f6f51fc0dbf73b7d1e423888920cf674278fa055a",
       "paragraphs": [
-        "Netflix released updated casting and story information for Black Doves Season 2 on November 3, confirming that **the new season returns to Netflix on November 5**. Keira Knightley and Ben Whishaw reprise Helen and Sam, continuing the show's combination of spy thriller and dark comedy.",
-        "Returning actors include Sarah Lancashire as Mrs. Reed, Andrew Buchan as Wallace, Kathryn Hunter, Ella Lily Hyland and Gabrielle Creevy. Among the additions, Ambika Mod plays Laila, a Black Doves agent involved in Helen's mission; Sam Riley plays Patrick, an emissary from a mysterious organization; and Neve Campbell plays Cecile Mason. Babou Ceesay, Sylvia Hoeks and others also join the cast.",
-        "The new story further entangles Helen's covert work with her family circumstances, while Sam becomes involved again in dangerous relationships within the organization. Creator Joe Barton expands the pair's conflicts with old friends and enemies."
+        "**Season two of Black Doves arrived on Netflix on November 5, with six episodes of about an hour each**. Keira Knightley and Ben Whishaw return as Helen and Sam, combining espionage, family life and dark humor in a tense narrative.",
+        "Helen is both a politician’s wife and a member of a covert intelligence organization. Sam, her longtime friend and assassin partner, is drawn back into the action. The season follows an internal Black Doves conspiracy and pressure on Mrs. Reed, escalating the clash between Helen’s public life and secret assignments.",
+        "New cast members include Ambika Mod as Laila, Neve Campbell as Cecile Mason and Sam Riley as Patrick. Joe Barton remains the creator, with Julian Farino and Kieron Hawkes directing. Filming locations include London, Paris and Italy.",
+        "In his November 5 review of season two, NME critic Matt Maytum praised the leads’ chemistry, comic dialogue, action and six-episode structure, alongside an expanded role for Sarah Lancashire. He also found some developments dependent on considerable suspension of disbelief, particularly the credibility of Helen’s frequent covert missions despite her public profile. This is one critic’s assessment, not an aggregate audience score."
       ],
       "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-f762eb70e6b46fa847de8f79",
