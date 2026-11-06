@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T04:15:15.369Z",
+  "generated_at": "2026-11-06T09:11:41.626Z",
   "translations": [
+    {
+      "article_id": "article-fdf49967a23921afa46333b1",
+      "source_sha256": "41c42e496425f12d4f9983e74ac021166dd579726d9038633d67733e4a29021c",
+      "paragraphs": [
+        "Somalia’s Supreme Court ruled on November 5 that President Hassan Sheikh Mohamud’s one-year extension of his current term was unlawful. Reporting on November 6, the BBC said the court ordered political leaders to **agree on an electoral plan within thirty days and hold elections within ninety days**, challenging the existing 2027 national election timetable.",
+        "Mohamud’s four-year mandate expired in May. His government invoked constitutional amendments passed by parliament in March to extend it by a year, saying time was needed to move from clan-based indirect selection to nationwide direct voting. The court ruled that the amendments could not apply retrospectively to the current term. Opposition groups and some regional administrations had also opposed the extension.",
+        "The president had announced the dismissal of Chief Justice Bashe Yusuf Ahmed and appointed former chief justice Ibrahim Idle Suleiman as his replacement. The presidency described the change as an effort to improve judicial administration. The court separately declared the dismissal invalid, saying the president could not unilaterally replace the judicial head outside established constitutional procedures.",
+        "The electoral commission had scheduled parliamentary voting for April 15, 2027, followed by the presidential election a month later. Mohamud proposed national talks on November 14–18, but opposition leaders challenged his legitimacy to convene them. Claims that security forces entered the court or attempted to arrest judges came from political figures; AFP said it could not independently verify them."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-106be822f2849f4d4d86b569",
+      "source_sha256": "f4a8ab4c46502e75ffbe29966b258c8e628a3f85f20366f5bf4bf54665051f78",
+      "paragraphs": [
+        "BBC Verify reported on November 6 that satellite images taken in November show **substantial excavation and new buildings near Iran’s Garmdareh base by Karaj and its northern Shahroud base**. British intelligence company MAIAR, which analyzed the photographs for the BBC, said at least twelve other military sites also showed signs of repairs.",
+        "The report describes new roofs on damaged buildings at the western Kermanshah missile base, clearance of damaged structures and debris at the Parchin complex east of Tehran, and leveling and concrete reinforcement near its Taleghan 2 facility. Researchers quoted by the BBC interpreted construction at Karaj as potentially including a new entrance to an underground facility.",
+        "Former CIA analyst Jim Lamson suggested that the Shahroud excavations could relate to missile production and an effort by the Revolutionary Guards to move facilities underground. That is an expert interpretation of the images; surface construction does not directly establish the underground spaces’ actual use, equipment quantities or operational status.",
+        "Meanwhile, Trump said at the White House on November 5 that he would decide whether to strike Iran further. On November 6, Xinhua reported those remarks and relayed Axios reporting on three options: military strikes, economic pressure or an agreement. Those remain options under consideration, and the construction visible in the images does not mean a new US attack has already occurred."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-a0d3f6bf9a9de441e1fe835f",
+      "source_sha256": "7da596318202a4e4db553dceb8dca28374ee365a162a5206669d3676ab569835",
+      "paragraphs": [
+        "Macao’s Court of First Instance publicly delivered judgment on November 6 in its first case involving the national security law, sentencing **former lawmaker Au Kam San to a single term of twelve years and six months**. The court listed convictions for one count of subversion, two counts of establishing external contacts to endanger national security, and one breach-of-confidentiality count.",
+        "The individual sentences were eleven years and three months, two terms of three years and nine months, and nine months, followed by a single sentence under the rules governing multiple offenses. Two further subversion charges were dismissed because of doubts about whether the required elements were met. Another external-contact charge attracted no separate penalty because it overlapped with the more serious offense.",
+        "The court said the case involved assisting overseas organizations in collecting, preparing and disseminating information, and disclosing confidential material about casino-license renewal from a closed Legislative Assembly meeting in 2021. Prosecutors filed charges on March 27, a preliminary ruling maintained them on July 2, and the criminal trial took place on September 16 and 18.",
+        "The BBC reported that the trial was closed to the public and that Au’s wife condemned the case as groundless. Accounts also differ on legal representation: relatives previously told the media that he could not choose his own lawyer. The court said it appointed counsel because he had not retained one, that he accepted the appointment, and that regular family visits had been approved."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-581d244e79c170a93d27d94b",
       "source_sha256": "386b60610ccfa9e363929131ef9c549d5c03af906d4328da204049478d714248",
@@ -45,6 +81,30 @@
         "In the deciding game, BLG fielded Bin on Jax, Xun on Trundle, Knight on Ahri, and Viper and ON on Lucian and Milio. Bin established a clear top-lane advantage, although an overextended chase allowed DK to counter with an ace. Xun subsequently maintained dragon control. Bin secured a triple kill in a crucial fight, BLG took Baron, and later flanks and a Baron-powered push finished the game.",
         "BLG had lost twice in the Swiss stage: to MKOI in the opening round and 1–2 to TES in round four. Wins over TLAW and KC, followed by a 2–0 elimination-series victory against HLE, took them to the quarterfinals at 3–2. This win makes them another LPL semifinalist alongside IG.",
         "**The next quarterfinal is T1 versus KC at 06:00 Beijing time on November 7**. Its winner is scheduled to face BLG at 06:00 on November 9. GEN versus IG, the other semifinal, is scheduled for 06:00 on November 8. These are Riot’s currently published fixtures; T1 and KC have not yet produced a winner."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-ba623d54fc3a0d9c9d0c50c5",
+      "source_sha256": "35dab3bcbe4caa42aed71116f0f4c15263db2473adec87c63a176135ae299fa5",
+      "paragraphs": [
+        "On November 6, China’s cyberspace regulator reported a recent enforcement campaign against AI impersonation of public figures. It said platforms had **removed more than 47,000 items of unlawful or non-compliant content and taken action against 3,961 accounts**. The cumulative campaign figures cover misleading sales promotions, follower acquisition and deception of internet users.",
+        "Sales-related cases included unauthorized synthetic celebrity likenesses and voices, as well as misuse of photographs or altered likenesses of public figures’ relatives to promote products. WeChat, Douyin and Xiaohongshu were among the platforms involved, and the accounts were dealt with under applicable laws and platform rules.",
+        "Other accounts used AI effects to fabricate claims such as illnesses affecting public figures. Some impersonated the individuals in first-person opinions, personal stories or emotional appeals to attract followers. The notice also described synthetic vulgar interactions used for traffic and commercial gain, with Bilibili and Kuaishou among the platforms covered.",
+        "The regulator said platforms with prominent problems would face action under legal procedures and that platform responsibilities would continue to be enforced. The announcement reports content and account enforcement outcomes; it does not identify a common source model or provide criminal judgments or specific fines for each case."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-14ae147b686279fb3ddf1979",
+      "source_sha256": "ef45adf791b6fddde857fc49b2e717dbd028ca48914ca552c0943a2c4f212722",
+      "paragraphs": [
+        "Germany’s Federal Statistical Office released provisional figures on November 6 showing **industrial production up 0.7% month on month in September after price, seasonal and calendar adjustment**. Calendar-adjusted output was 0.4% higher year on year. The less volatile third-quarter total was still 0.4% below the second quarter.",
+        "Automotive production rose 17.1% month on month, providing the main boost. The sector’s base had been low during the preceding two months, partly because of production changeovers and factory holidays. Pharmaceuticals rose 8.0%, construction fell 2.6%, and machinery and equipment manufacturing declined 6.5% after rising 5.8% in August.",
+        "Industry excluding energy and construction grew 1.7% month on month. Capital goods, consumer goods and intermediate goods increased 3.0%, 0.8% and 0.1% respectively, while energy production fell 1.2%. Energy-intensive branches grew 0.8% during the month but were down 3.5% quarter on quarter in the third quarter and 1.9% year on year in September.",
+        "**August’s monthly production growth was revised down from an initial 2.0% to 1.0%**, mainly because construction businesses supplied additional advance VAT return data. The office also corrected a technical calculation error, revising construction and other transport equipment data back to January 2021. The resulting differences in monthly overall-index growth rates range within plus or minus 0.1 percentage points."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
@@ -99,12 +159,12 @@
     },
     {
       "article_id": "article-adb3875b04d439409ea17f79",
-      "source_sha256": "e633a282370eeac5150fd6464d465e465e22c20a19c7d6891ca3653a015d6f75",
+      "source_sha256": "5ac03a79b38d47364ce18ccfdf6c7df0e37a62136060a51e18b0dca84403310e",
       "paragraphs": [
-        "The US technology sell-off spread to Asia on November 6. In its **early-trading update at 10:57 Beijing time, the BBC reported that South Korea’s Kospi had fallen more than 8.5%, triggering a circuit breaker**. An AFP report carried by Lianhe Zaobao said Seoul trading was suspended for twenty minutes. These are intraday developments, not closing results.",
-        "The BBC reported that Japan’s Nikkei 225 was down about 6% and Taiwan’s Taiex more than 8.3% during the same early session. Chip-related shares were particularly weak: SK Hynix fell more than 11.5%, Samsung nearly 10%, Kioxia more than 12.6%, Tokyo Electron 9.5%, and TSMC nearly 8.5%. Those readings correspond to the reporting time and may subsequently change.",
-        "For the completed November 5 US session, final Associated Press figures showed the Nasdaq down 5.5%, the S&P 500 down 4.4% and the Dow down 3.4%, closing at 24,315, 7,353.73 and 51,523.06 respectively. NVIDIA fell more than 9%, AMD and Micron each more than 17%, and the Philadelphia Semiconductor Index more than 12%, providing the preceding-session backdrop to the Asian sell-off.",
-        "Analysts quoted by the BBC linked concerns about returns on large AI capital expenditures with fears of tighter data-center approvals and regulation after the US midterms. Campaign commitments and possible restrictions remain policy expectations, with effects dependent on subsequent legislation, approvals and corporate investment decisions."
+        "The final scale of the Asian technology sell-off became clearer after markets closed on November 6. In its 15:27 Beijing-time update, the BBC reported that **Japan’s Nikkei closed down 6%, while South Korea’s Kospi also ended about 6% lower**. Korean shares had fallen more than 8.5% and triggered a circuit breaker in early trading, before narrowing their losses by the close.",
+        "Chip supply chains remained under pressure. The BBC listed SK Hynix down more than 10% and Samsung down 6.4%, with Japan’s Kioxia and Tokyo Electron also sharply lower. Larger declines in the earlier reports describe intraday readings, a different stage from the closing statistics now available.",
+        "In the preceding US session on November 5, the Nasdaq fell 5.5%. The BBC estimated a roughly $2.5 trillion decline in Nasdaq market value and a combined $1 trillion loss for the Magnificent Seven; NVIDIA fell more than 9%, while AMD and Micron each dropped more than 17%. The two market-value estimates overlap and cannot be added together as the overall loss.",
+        "Investor concerns center on returns from enormous AI infrastructure investments and possible restrictions on data-center construction after the US midterms. Analysts quoted by the BBC linked the two factors. Proposals by Democratic candidates, including moratoriums on new construction, still require subsequent policy processes before becoming actual restrictions."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
@@ -963,13 +1023,15 @@
     },
     {
       "article_id": "article-801adcc147c6295b1296d623",
-      "source_sha256": "4b33f28d96cc186b6a661da2bbb3b2c34dc2b875183f555f07efc3ff768ac903",
+      "source_sha256": "a7aef4b62ea0d61f33b25a82505512ede26e3781a5de9981d4c8f795fe7ed4f8",
       "paragraphs": [
-        "The platform will launch the film \"Possible Love\" by Lee Chang-dong on November 6, 2026, entering the Netflix library. This is his follow-up feature film after \"Burn\" in 2018, with a cast including Jo Woon-ah, Seo Jung-woo, Jo In-woo, and Kao Ru-jin. This refers to the Netflix release window, and it cannot be inferred that the film had not been shown at any film festival or regional cinema prior to its release on the platform.",
-        "The official introduction centers around the intertwined lives of two couples, with desires and emotions that were previously obscured by daily relationships beginning to emerge. Its appeal mainly comes from the director's approach to handling character motivations, relational pressures, and social environments, rather than action sequences or high-concept spectacle. For fans of \"Burn,\" the sequel's focus on how it controls information disclosure and how misunderstandings between characters are integrated into the narrative will be of particular interest. Currently, there is insufficient information to replace a complete film review, so the reception of the previous film will not be directly used to score this one, and no \"full-net positive review rate\" that has not been verified will be provided."
+        "Netflix Tudum updated its film introduction on November 6, confirming that **Lee Chang-dong’s Possible Love is now streaming on Netflix**. The film opened in selected theaters on October 23 and also appeared at this year’s Venice, Toronto and New York film festivals. The current development is its streaming release.",
+        "This is Lee’s first feature since Burning in 2018. A funeral brings two married couples into each other’s lives: Jeon Do-yeon plays Mi-ok, Sul Kyung-gu her laid-off husband Ho-seok, Cho Yeo-jeong the documentary filmmaker Ye-ji, who records unemployed workers’ lives, and Zo In-sung her husband Sang-woo.",
+        "After Mi-ok agrees to be filmed, she grows closer to Ye-ji and feels drawn to Sang-woo. The film uses the households’ different economic circumstances and the documentary shoot as their point of intersection, developing a character-driven relationship drama about marriage, suppressed emotions and desire.",
+        "Netflix’s English-language page lists a runtime of two hours and forty-seven minutes and an R rating. The platform also says South Korea selected the film as its submission for the ninety-ninth Academy Awards’ international feature category. That is a national submission, not an official Oscar nomination. Catalog availability and ratings are provided by region."
       ],
       "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-3e1c5a559f033266c1700980",
