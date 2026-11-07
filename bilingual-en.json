@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T04:06:58.059Z",
+  "generated_at": "2026-11-07T09:19:04.668Z",
   "translations": [
+    {
+      "article_id": "article-40038ccc32c2313a949cf6af",
+      "source_sha256": "df42bf319955fe5dd52be2a7aa94dad250dd83b3c7d9554969fc21adb8c2d54a",
+      "paragraphs": [
+        "France has planned to deploy about **70,000 police officers and gendarmes** for nationwide demonstrations on November 7. Lianhe Zaobao, carrying an AFP report, said Interior Minister Laurent Nuñez announced the security plan. Paris is due to host an authorized union and student march, alongside a Yellow Vest gathering that police have banned but organizers continue to call for.",
+        "The authorized march is scheduled to leave Place de la République for Place de la Nation at 14:00 local time. Yellow Vest organizers are calling for a gathering at Place de la Concorde from 14:00 to 19:00, equivalent to **21:00 on November 7 to 02:00 on November 8 Beijing time**. The two events have different locations, organizers and authorization statuses.",
+        "French public broadcaster ICI reported on November 6 that the Yellow Vest coordination group said it had filed a criminal complaint against the Paris police prefect for obstructing the right to demonstrate, while still preparing to gather as planned. This is the organizers’ response to the ban; it is not a judicial finding that police acted unlawfully.",
+        "Living costs, wages and purchasing power remain central grievances. Prime Minister Sébastien Lecornu plans to meet union and employer representatives on November 9. Under the published schedules, the main Paris gatherings are still due to begin tonight in Beijing time. The nationwide security plan does not establish that violent clashes have already occurred across France."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b5b7ce5fa3b7b39380ed6224",
+      "source_sha256": "fa9505fa72a30ba6a2d8e458f4fcf99ee67c4d10cb8fbe7d0ba98ee52bc505fc",
+      "paragraphs": [
+        "China’s Ministry of Finance plans to issue **up to RMB4 billion in renminbi-denominated green sovereign bonds in Canada during the week of November 9, 2026**. Its November 5 announcement said the State Council had approved the plan and that specific arrangements would be announced before issuance. Lianhe Zaobao reported on November 7 that this would be China’s first renminbi sovereign-bond issuance in Canada.",
+        "The planned issuer is China’s central government, the denomination is renminbi and the issuance market is Canada. This differs from bonds issued by the Canadian government or renminbi bonds issued by local companies. “Green” is an explicit category of this sovereign issuance.",
+        "China already has offshore renminbi sovereign-bond channels, including its first Hong Kong issuance in 2009 and RMB3 billion in government bonds issued in London in 2016. The Canadian plan adds an issuance market, while details such as maturities, coupons, subscription arrangements and use of proceeds await the offering documents.",
+        "**What is confirmed so far is the issuance plan and the RMB4 billion ceiling.** “The week of November 9” does not specify a single issuance date, nor does the announcement say the sale has been completed or achieved any particular subscription multiple."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c5d6c7c1ee16328d9c2aac63",
+      "source_sha256": "792cf3f9e4bc2d8cfd13205135a2344e9de13c7f8b99c3431a0dd255c7595b22",
+      "paragraphs": [
+        "Netflix plans to release **Other Worlds: A Stranger Things Adventure, a live-action prequel series, in 2028**. GMA News reported on November 7 that the new series will be set in the 1950s, before both the original Stranger Things series and the stage play Stranger Things: The First Shadow.",
+        "The Duffer brothers are developing the project with longtime Stranger Things writer Kate Trefry, who will serve as co-creator, writer and showrunner. Joe Wright will direct the first three episodes, and production will take place in New Mexico in the United States.",
+        "The Duffer brothers describe a new story in the same universe, featuring a new setting, heroes and villains. **Netflix has not announced the cast**, so the original series’ actors cannot be treated as confirmed prequel cast members. The project is also not a direct continuation of the original as a sixth season.",
+        "The original Stranger Things debuted in 2016 and is set mainly in the 1980s. The prequel moves further back in time. The confirmed platform release plan is for 2028; no specific premiere date, finished-series reviews or audience sample for assessing the new show’s reception is available yet."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b3c56b010a38c5c4c1535967",
+      "source_sha256": "c8bab9ab2197a2d253dea578cfbc0b13972334fb332d21d549ed66b3a3510138",
+      "paragraphs": [
+        "Official reserve data updated by China’s State Administration of Foreign Exchange on November 7 put foreign exchange reserves at **US$3.405178 trillion** at the end of October, up from US$3.400251 trillion at the end of September. The month-on-month increase was US$4.927 billion, or about 0.14%. These figures describe changes in month-end reserve balances.",
+        "Gold holdings rose from 77.47 million ounces at the end of September to **78.30 million ounces at the end of October, an increase of 830,000 ounces**. Citing central-bank data, Lianhe Zaobao reported that this was the 24th consecutive month of gold purchases, a run beginning in November 2024.",
+        "An increase in quantity does not mean the dollar valuation also rose. The official table shows the value of gold reserves falling from US$323.517 billion at the end of September to US$306.411 billion at the end of October. Total official reserve assets, which include gold and special drawing rights, are also distinct from the foreign-exchange-reserve component.",
+        "SAFE attributed the monthly change to factors including a stronger dollar index, mixed global financial-asset prices, exchange-rate conversion and valuation changes. The US$4.927 billion increase in foreign exchange reserves therefore cannot simply be equated with the same amount of net cross-border capital inflows that month."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
     {
       "article_id": "article-5f6286e5f00f1a4ba59c6139",
       "source_sha256": "6ad99792efaed303d065a2eca38cda081d855255d9125e53ded475a93810b5e6",
@@ -16,11 +64,24 @@
     },
     {
       "article_id": "article-c04d7182f30b563bc6facf1f",
-      "source_sha256": "17fe279e193214b82f5edff6c643cd9582f67ff644bb42b3fc45fcdabff5317a",
+      "source_sha256": "d1c8d469ed593cf1a8f2c437f4d818e69654cfffd7cab35f6f75874c3aede964",
       "paragraphs": [
-        "Ukraine’s capital Kyiv came under a new missile attack in the early hours of November 7 local time. Mayor Vitali Klitschko said Russian forces were attacking infrastructure with ballistic missiles and explosions had occurred in the suburbs. Debris struck a five-story residential building in the Solomianskyi district, while the facade and windows of another residential building were also damaged.",
-        "Public statements from the Kyiv City Military Administration reported a fire in a non-residential building and damage to a kindergarten in the Solomianskyi district. **Two people were initially confirmed injured and were receiving medical assistance.** This was also the injury count in the Reuters report published at 09:40 Hong Kong time on November 7; further checks and rescue operations may change subsequent figures.",
-        "Before the attack, Volodymyr Zelenskyy said in his November 6 evening video address that Ukrainian intelligence indicated Russia was preparing new strikes against energy facilities, bridges over the Dnipro and civilian infrastructure, and that Ukraine’s air force and armed forces were preparing defenses. He again asked partner countries to deliver Patriot interceptors promptly, emphasizing that every supply arrangement and every day of deliveries mattered."
+        "Ukrainian authorities expanded their damage and casualty reports after Russia’s overnight attack on November 7. At **16:51 Hong Kong time, Kyiv’s military administration relayed President Volodymyr Zelensky’s statement that nine people had been injured nationwide, including a child**. This total covers multiple areas and has a different geographical scope from the earlier preliminary figures for Kyiv alone.",
+        "Zelensky said the attack involved 172 drones and 36 ballistic missiles, with all the missiles directed at Kyiv and the surrounding Kyiv region. Twelve other regions were also attacked in addition to the capital. These weapon totals and the distribution of strikes are figures released by the Ukrainian side.",
+        "Electricity, water and heating supplies in Kyiv were affected, and homes, the Northern Bridge and a kindergarten were damaged. The statement said substations in Kyiv region linking the Rivne and Khmelnytskyi nuclear power plants to the capital and central Ukraine were struck, along with substations in several other regions. The facilities described are transmission connections; the statement did not report the destruction of nuclear reactors.",
+        "The Associated Press had earlier reported at least five injuries in Kyiv, citing Mayor Vitali Klitschko’s warning that severe energy-supply difficulties were affecting heating and water. Rescue and repair work is proceeding where security conditions allow. Meanwhile, another round of Russian-Ukrainian-U.S. talks is planned in Abu Dhabi next week, with territorial and security disagreements still unresolved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-be598de6f5ea5290a54aac01",
+      "source_sha256": "7bc065f8b84b134d30da662b73c32bd4d69ffea8a5de1684fd3f0a2a46b80590",
+      "paragraphs": [
+        "Paraguay’s Senate voted on November 6 to impeach and remove President Santiago Peña, with **44 votes in favor and one senator absent**. Vice President Pedro Alliana then took the presidential oath before Congress. The Senate confirmed that he will complete the remainder of the current term, which ends in 2028.",
+        "The crisis stems from the collapse of Ueno Bank and frozen deposits. Regulators intervened in the bank on November 3, leaving large numbers of customers unable to withdraw savings or pensions. Peña held shares in the bank’s holding company until 2025. Those financial ties and the government’s handling of the crisis became central to Congress’s examination of his political responsibility.",
+        "Peña offered to resign on November 5, but the Senate proceeded with impeachment. The BBC and Reuters reported that he is under house arrest while a criminal investigation continues. Peña and his defense team deny wrongdoing. **His removal by Congress has taken effect; criminal liability remains subject to judicial proceedings.**",
+        "Alliana promised to restore financial stability and address depositors’ losses. The banking crisis has resulted in a change of president, but a promise of compensation does not mean customers have already been repaid. The next questions concern the disposal of bank assets, recovery of funds and the government’s specific repayment arrangements."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
@@ -38,15 +99,27 @@
     },
     {
       "article_id": "article-4f4170193f5a417cd55b6cd3",
-      "source_sha256": "553e7c26d06d88ffcc1072597358054e06a72a9bf2daa0463f3bd00aa1c0a98e",
+      "source_sha256": "cc4f5b2b582cfee35265af37eafaeb23376a065457bd74d420005a9f37d88d95",
       "paragraphs": [
-        "New Zealand entered general-election day on November 7, with more than 2,300 polling places open from 09:00 to 19:00 local daylight time, corresponding to **04:00–14:00 Beijing time**. Advance voting began October 26, so this is the final voting day rather than the first day any ballots were cast.",
-        "Citing Xinhua and the Electoral Commission, Lianhe Zaobao reported nearly 3.8 million registered voters, about 93.6% of the estimated eligible population. More than 1.66 million advance ballots had been issued by November 5, compared with over 1.37 million at the corresponding stage in 2023. Ballots issued are not the final valid-vote count or turnout.",
-        "Prime Minister Christopher Luxon’s National-led bloc seeks another term, while Chris Hipkins leads Labour’s bid to return to government. Living costs, growth, jobs and public services are central issues. Smaller parties may shape government formation under mixed-member proportional representation; close polls do not determine seats.",
-        "Preliminary counting is expected on election night, with **official results due November 27**. A September 25 Cabinet Office circular separately sets December 3 for return of the election writ and notes that recounts may delay it. Official results, confirmation of MPs and government formation are separate stages."
+        "Voting in New Zealand’s parliamentary election closed at **14:00 Beijing time on November 7**, and election-night counting is under way. An Associated Press report updated at 16:21 Hong Kong time said about one-third of votes had been counted, with both National and Labour just below 30%. The outcome remained too close to call.",
+        "The National-led bloc of incumbent Prime Minister Christopher Luxon and the Labour-led bloc of Chris Hipkins both depend on smaller parties’ performance and seat allocations. Opportunity was then slightly above the 5% party-vote threshold and could affect coalition combinations. Whether it ultimately clears the threshold still depends on the remaining count.",
+        "New Zealand uses mixed-member proportional representation: party votes determine the overall distribution of parliamentary seats, while electorate votes select local MPs. Seats determine the prospects for a majority government; the leading party’s leader does not automatically become prime minister on election night. The figures available so far are preliminary.",
+        "**Official results are scheduled for November 27**, incorporating special votes, including overseas ballots. Recounts and coalition negotiations may still follow. Tonight’s preliminary vote totals, final seats and the formation of a government are therefore separate stages."
       ],
       "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-77ee076f1f65c328cd894fd7",
+      "source_sha256": "1162bd8de7b3646a7f789e53a57a4f3be1bea768307186a7424edd979903cdf9",
+      "paragraphs": [
+        "The first CS2 semifinal at IEM Beijing 2026 concluded on November 7, with **The MongolZ defeating Natus Vincere (NAVI) 2–0** to secure the first grand-final berth. Both maps were decided in regulation, so a third map was not needed.",
+        "The opening map, Cache, finished 13–10. bLitz led The MongolZ’s output with 25 kills and 108.8 average damage per round. NAVI’s b1t and w0nderful each recorded 16 kills, but could not prevent their opponents from taking the opening map.",
+        "Inferno was closer. The MongolZ won the final three rounds to close it out 13–11. w0nderful recorded 21 kills and 13 deaths on this map, but NAVI could not level the series. Those figures apply to Inferno alone, rather than the two-map series.",
+        "**The other semifinal, MOUZ versus BETBOOM, is scheduled for 17:45 Beijing time on November 7**; its winner will face The MongolZ for the title. ESL’s official schedule lists the third-place match for 12:00 on November 8 and the best-of-five grand final for 15:30. The third-place match is best-of-three."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
       "article_id": "article-73e05271be777c2fdee1ec1c",
@@ -535,6 +608,18 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-21ef27b7b49c3e5ed71443f3",
+      "source_sha256": "c008caad75d4b7addaa7de835ffa35ba65dba25653a6fef69bab8e6a2c5f8d54",
+      "paragraphs": [
+        "Ant Ling launched **Ling-3.2-flash, a natively multimodal model**, in its November 5 platform update. Official documentation lists 560 billion total parameters, 25 billion activated parameters and a context window of one million tokens, with native image, text and video input.",
+        "The update highlights complex visual understanding, multimodal long-horizon agents, 3D understanding and interaction, and medical multimodal capabilities. These are the vendor’s stated areas of emphasis. The medical-capability description does not provide clinical-validation results and therefore does not establish certification for clinical use.",
+        "The model is available through Ant Ling’s web chat and APIs compatible with OpenAI and Anthropic protocols. Protocol compatibility makes existing calling conventions easier to connect; it does not mean either company supplies the model. The pricing page lists a limited free period covering the first two weeks after launch.",
+        "**The confirmed forms of access are the web service and API.** These release materials do not list downloadable 3.2 weights or an associated open license, and the pricing table does not yet give its regular post-promotion price separately. The 3.1 release’s weight license and pricing cannot simply be applied to the new model."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
       "article_id": "article-a839079dd91fee2212b9f8c5",
