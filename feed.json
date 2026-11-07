@@ -1,28 +1,129 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T01:17:14.107Z",
-  "edition": "早间",
+  "generated_at": "2026-11-07T04:06:57.921Z",
+  "edition": "午间",
   "latest_article_ids": [
-    "article-e800b372ca6a1dc1be591724",
-    "article-8d12dc1702d56b8c6c1be63d",
-    "article-d5764ee3d06ac915983fe52f",
-    "article-7d15d35372241976dbc45358",
-    "article-07d6e248e2b40b0db9d42e83",
-    "article-47b292a5d1f7f3dd3e0fcef7",
-    "article-80959387886cc068e761a0f3",
-    "article-08ccd15de0171433cb7c6312",
-    "article-b5ac8bbb350992e1b01e3aea",
-    "article-ef4322344dff9bc833348cb3",
-    "article-e5155488c46583cb1ea42c01",
-    "article-b0573a75fb7fa967992f182a",
-    "article-8d72e90829254c25382f4e8e",
-    "article-4fbea2f3c33df53434c797a4",
-    "article-c47f0be11a67ab3588f075d3",
-    "article-1eb34af47b1b02ba3a596e75",
-    "article-bb2f60476accc99bd99058ff",
-    "article-4f4170193f5a417cd55b6cd3"
+    "article-5f6286e5f00f1a4ba59c6139",
+    "article-493cffd68ac9b22996a5b03d",
+    "article-73e05271be777c2fdee1ec1c",
+    "article-c04d7182f30b563bc6facf1f",
+    "article-d6fd19bace15dc0197483f1a"
   ],
   "articles": [
+    {
+      "id": "article-5f6286e5f00f1a4ba59c6139",
+      "source_id": "focus-ithome-digital",
+      "source_name": "IT之家",
+      "category": "游戏",
+      "url": "https://www.ithome.com/1/023/642.htm",
+      "title": "卫冕冠军 T1 3:1 战胜 KC 跻身《英雄联盟》S16 四强，Faker 称其为半决赛对手 BLG 感到惋惜",
+      "title_zh": "LoL全球总决赛：T1以3比1淘汰KC，四强对阵全部确定",
+      "body": null,
+      "body_zh": "北京时间11月7日早间，2026英雄联盟全球总决赛最后一场八强赛结束，**T1以3比1击败Karmine Corp（KC）**，取得最后一个四强席位。Riot官方赛程已将该系列赛标记为结束；四强由LCK的GEN、T1和LPL的IG、BLG组成。\n\nT1连赢前两局。首局Peyz的芸阿娜在大龙和小龙附近团战连续完成收割，第二局T1则在前期河道交战和上路推进中建立优势。KC在第三局扳回一城：Yike的赵信拿下大龙，随后KC通过远古巨龙团战扩大优势，由kyeahoo的艾尼维亚参与收割，最终推平基地，把总比分追至1比2。\n\n第四局，Faker的安妮在小龙附近传送绕后分割战场，Peyz的厄运小姐拿到三杀，T1赢下团战并取得大龙；后续中路交战再次形成优势。T1最终推进结束系列赛。Peyz获决胜局POG，赛后数据为**11次击杀、0次死亡、5次助攻**。\n\n**两场半决赛均为北京时间06:00开始**：11月8日GEN对IG，11月9日T1对BLG，采用五局三胜制。决赛计划北京时间11月15日03:00在纽约布鲁克林举行。半决赛尚未开打，决赛队伍仍待产生。",
+      "preview_zh": "北京时间11月7日早间，2026英雄联盟全球总决赛最后一场八强赛结束，T1以3比1击败Karmine Corp（KC），取得最后一个四强席位。Riot官方赛程已将该系列赛标记为结束；四强由LCK的GEN、T1和LPL的IG、BLG组成。",
+      "scope": "briefing",
+      "language": "zh",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-07T09:42:21+08:00",
+      "image_url": "https://img.ithome.com/newsuploadfiles/2026/11/292c3850-e5cf-4c53-8a25-654d5b649405.jpg",
+      "image_credit": "英雄联盟赛事／Riot Games（IT之家报道所用第四局POG图：Peyz，厄运小姐11/0/5）",
+      "image_license": null,
+      "image_source_url": "https://www.ithome.com/1/023/642.htm",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://lolesports.com/en-GB/schedule?leagues=worlds",
+        "https://geekslands.fr/karmine-corp-eliminee-t1-worlds-2026-quart/",
+        "https://esports.op.gg/matches/32711/kc-vs-t1-2026-11-06?hl=en_US"
+      ],
+      "year_highlight": false,
+      "month_highlight": true,
+      "inline_images": [
+        {
+          "after_paragraph": 2,
+          "image_url": "https://img.ithome.com/newsuploadfiles/2026/11/eb00dfd2-872c-48c0-aee7-91e7c1e16835.jpg",
+          "image_credit": "英雄联盟赛事／Riot Games（IT之家报道所用第三局赛后数据图：KC获胜）",
+          "image_license": null,
+          "image_source_url": "https://www.ithome.com/1/023/642.htm",
+          "image_usage": "source_remote",
+          "caption_zh": "第三局赛后数据：KC用36分44秒获胜，将系列赛总比分追至1比2。"
+        }
+      ]
+    },
+    {
+      "id": "article-c04d7182f30b563bc6facf1f",
+      "source_id": "reuters-politics",
+      "source_name": "路透社（Reuters）",
+      "category": "时政",
+      "url": "https://www.gmanetwork.com/news/topstories/world/1008602/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says/story/",
+      "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
+      "title_zh": "基辅通报夜间导弹袭击：住宅和幼儿园受损，初步报告两人受伤",
+      "body": null,
+      "body_zh": "乌克兰首都基辅在当地时间11月7日凌晨遭到新一轮导弹袭击。市长克利奇科称，俄军以弹道导弹打击基础设施，首都郊区发生爆炸，碎片击中索洛米扬斯基区一栋五层住宅楼，另一栋住宅的外立面及窗户也受到损坏。\n\n基辅市军事管理局的公开通报称，索洛米扬斯基区一栋非住宅建筑起火，一所幼儿园建筑受损；**初步确认两人受伤，正在接受医疗帮助**。这也是香港时间11月7日09:40刊出的路透社报道所列伤情，现场核查和救援仍可能改变后续统计。\n\n袭击前，泽连斯基在6日晚的视频讲话中称，乌方情报显示俄军正在准备针对能源设施、第聂伯河桥梁和民用基础设施的新打击，乌克兰空军与武装部队正在准备防御。他再次向伙伴国请求及时提供“爱国者”系统拦截弹，强调每一项供货安排和每一天的交付都很重要。",
+      "preview_zh": "乌克兰首都基辅在当地时间11月7日凌晨遭到新一轮导弹袭击。市长克利奇科称，俄军以弹道导弹打击基础设施，首都郊区发生爆炸，碎片击中索洛米扬斯基区一栋五层住宅楼，另一栋住宅的外立面及窗户也受到损坏。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-07T09:40:06+08:00",
+      "image_url": "https://images.gmanews.tv/webpics/2026/11/kyiv_2026_11_07_09_37_37.jpg",
+      "image_credit": "Gleb Garanich／Reuters（原报道资料图：2026年11月2日基辅停电期间的救护车，并非11月7日袭击现场）",
+      "image_license": null,
+      "image_source_url": "https://www.gmanetwork.com/news/topstories/world/1008602/russian-forces-launch-missile-attack-on-ukrainian-capital-kyiv-mayor-says/story/",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://unn.ua/news/nichna-ataka-na-kyiv-dvoie-postrazhdalykh-i-poshkodzheni-budynky",
+        "https://t.me/s/VA_Kyiv/22463"
+      ],
+      "year_highlight": false,
+      "month_highlight": false,
+      "politics_region": "global"
+    },
+    {
+      "id": "article-493cffd68ac9b22996a5b03d",
+      "source_id": "zaobao",
+      "source_name": "联合早报",
+      "category": "时政",
+      "url": "https://www.zaobao.com.sg/news/china/story20261107-9962035",
+      "title": "何立峰与贝森特和格里尔通话 严正关切美对华经贸限制",
+      "title_zh": "中美经贸牵头人视频通话：中方关切限制措施，美方强调采购与关键矿产承诺",
+      "body": null,
+      "body_zh": "北京时间11月6日晚，国务院副总理何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话。中方通报称，双方讨论落实两国元首北京和华盛顿会晤共识及经贸磋商成果；**中方就近期美国对华经贸限制措施表达严正关切**。\n\n美国财政部通报把落实釜山经贸安排作为重点。贝森特要求中方全面、立即履行此前承诺，并对中方近期举措表达关切，表示后续进展取决于具体成果。美国贸易代表办公室另列明，格里尔重点提到农业采购、稀土及其它关键矿产领域的既有承诺。\n\n双方都强调保持直接沟通的价值。中方称将继续发挥经贸磋商机制作用，加强合作、管控分歧；美方称将继续监测承诺执行情况。**此次通话没有宣布新的关税税率、采购金额或新增协议**，双方公开表述的焦点仍是现有安排的执行与彼此提出的限制措施关切。",
+      "preview_zh": "北京时间11月6日晚，国务院副总理何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话。中方通报称，双方讨论落实两国元首北京和华盛顿会晤共识及经贸磋商成果；中方就近期美国对华经贸限制措施表达严正关切。",
+      "scope": "briefing",
+      "language": "zh",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-07T08:59:00+08:00",
+      "image_url": "https://cassette.sphdigital.com.sg/image/zaobao/358d91e253cd74c245fe23cd33687623dee1fadd77b53f7e89458c1b7328f067?f=webp&o=zbimg&oloc=se",
+      "image_credit": "新华社（联合早报刊载，2026年11月6日晚中美视频通话）",
+      "image_license": null,
+      "image_source_url": "https://www.zaobao.com.sg/news/china/story20261107-9962035",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_181968933abd4dd8afb0bdc4d86b6923.html",
+        "https://home.treasury.gov/news/press-releases/sb0684/",
+        "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/readout-ambassador-greers-call-chinas-vice-premier-he-lifeng"
+      ],
+      "year_highlight": false,
+      "month_highlight": false,
+      "politics_region": "china"
+    },
     {
       "id": "article-4f4170193f5a417cd55b6cd3",
       "source_id": "zaobao",
@@ -55,6 +156,41 @@
       "is_demo": 0,
       "year_highlight": false,
       "month_highlight": true,
+      "politics_region": "global"
+    },
+    {
+      "id": "article-73e05271be777c2fdee1ec1c",
+      "source_id": "ap-year",
+      "source_name": "美联社（AP）",
+      "category": "时政",
+      "url": "https://www.ksat.com/news/politics/2026/11/06/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/",
+      "title": "US military carries out new targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals",
+      "title_zh": "特朗普称美军再打击伊朗防空设施，卡塔尔斡旋仍在继续",
+      "body": null,
+      "body_zh": "特朗普在美国当地时间11月6日晚抵达佛罗里达州西棕榈滩后向记者表示，**美军当天对伊朗一处防空设施实施了新的有限打击**，并把行动形容为规模较小。他没有公布目标的进一步细节。伊朗国家媒体则报道，霍尔木兹海峡格什姆岛苏扎地区传出两次爆炸。\n\n军事行动发生时，外交接触仍在继续。卡塔尔埃米尔办公室6日通报，塔米姆与特朗普通话，讨论降温努力和卡塔尔推动谈判的工作；塔米姆强调继续对话、避免升级，并保障海上通航和能源供应安全。\n\n美联社援引两名中东政府官员称，伊朗正在审议卡塔尔提出的方案，内容涉及为后续核谈判铺路的安排。其中一人称，伊方仍要求美方先满足停火相关条件，再讨论核活动。**这些仍是斡旋与待议方案，尚未宣布达成新的停火协议**。",
+      "preview_zh": "特朗普在美国当地时间11月6日晚抵达佛罗里达州西棕榈滩后向记者表示，美军当天对伊朗一处防空设施实施了新的有限打击，并把行动形容为规模较小。他没有公布目标的进一步细节。伊朗国家媒体则报道，霍尔木兹海峡格什姆岛苏扎地区传出两次爆炸。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-06T22:14:38Z",
+      "image_url": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/TLX6WYBYOFCVDOPCSYHHZ7SWIE.jpg",
+      "image_credit": "Jacquelyn Martin／AP（2026年11月6日，特朗普在佛罗里达州西棕榈滩向记者讲话）",
+      "image_license": null,
+      "image_source_url": "https://www.ksat.com/news/politics/2026/11/06/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://apnews.com/article/53ed5d271b9aef6f880aebc133ea6a55",
+        "https://www.diwan.gov.qa/Briefing-Room/News/Calls/2026/november/6/hh-the-amir-receives-phone-call-from-us-president",
+        "https://dohanews.co/qatars-amir-u-s-president-discuss-regional-de-escalation-efforts-on-a-phone-call/"
+      ],
+      "year_highlight": false,
+      "month_highlight": false,
       "politics_region": "global"
     },
     {
@@ -848,6 +984,39 @@
           "caption_zh": "RTÉ都柏林总部因炸弹威胁疏散，警方到场。"
         }
       ]
+    },
+    {
+      "id": "article-d6fd19bace15dc0197483f1a",
+      "source_id": "focus-thewrap-film",
+      "source_name": "TheWrap",
+      "category": "影视",
+      "url": "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate/",
+      "title": "‘John Wick’ Animated Prequel Film Officially in the Works at Lionsgate, Keanu Reeves Returning",
+      "title_zh": "《疾速追杀》动画前传获绿灯并进入前期制作，基努·里维斯回归",
+      "body": null,
+      "body_zh": "狮门在美国时间11月5日的财报电话会上确认，**《疾速追杀》（John Wick）动画前传已获正式批准，进入前期制作**。基努·里维斯将回归为约翰·威克配音，并担任制片人。这是2025年公布开发计划之后的制作阶段推进，上映日期尚未公布。\n\n影片由Shannon Tindle执导，Ryan Firpo与Kaz Firpo编剧。Tindle此前执导并参与编剧Netflix动画电影《奥特曼：崛起》。制片阵容还包括Thunder Road的Basil Iwanyk、Erica Lee，以及系列导演Chad Stahelski；Point Grey也加入制作。\n\n故事发生在首部真人电影之前，围绕威克为了离开地下组织、与妻子海伦生活而完成的“不可能任务”展开。影片采用动画形式拓展这一段前史，**与仍在开发中的第五部真人电影属于不同项目**。",
+      "preview_zh": "狮门在美国时间11月5日的财报电话会上确认，《疾速追杀》（John Wick）动画前传已获正式批准，进入前期制作。基努·里维斯将回归为约翰·威克配音，并担任制片人。这是2025年公布开发计划之后的制作阶段推进，上映日期尚未公布。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-05T22:14:47Z",
+      "image_url": "https://www.thewrap.com/wp-content/uploads/2026/11/John-Wick-4-1.jpg?width=990&height=557&fit=bounds",
+      "image_credit": "Lionsgate／TheWrap（原报道所用真人版John Wick资料图，非动画前传画面）",
+      "image_license": null,
+      "image_source_url": "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate/",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://au.variety.com/2026/film/news/keanu-reeves-john-wick-animated-movie-prequel-42332/",
+        "https://investors.lionsgate.com/news-events/news/news-details/2026/LIONSGATE-REPORTS-RESULTS-FOR-SECOND-QUARTER-FISCAL-2027/default.aspx"
+      ],
+      "year_highlight": false,
+      "month_highlight": false
     },
     {
       "id": "article-7a29b99991007e12673167bf",
@@ -14335,6 +14504,28 @@
   ],
   "sources": [
     {
+      "id": "focus-ithome-digital",
+      "name": "IT之家",
+      "category": "数码",
+      "adapter": "briefing",
+      "feed_url": "https://www.ithome.com/",
+      "enabled": 1,
+      "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
+      "last_checked": "2026-11-07T04:06:57.827Z",
+      "last_error": null
+    },
+    {
+      "id": "reuters-politics",
+      "name": "路透社（Reuters）",
+      "category": "时政",
+      "adapter": "briefing",
+      "feed_url": "",
+      "enabled": 1,
+      "note": "公开原始报道或机构正式发布；中文为独立事实导读，非原文全文转载。",
+      "last_checked": "2026-11-07T04:06:57.827Z",
+      "last_error": null
+    },
+    {
       "id": "zaobao",
       "name": "联合早报",
       "category": "时政",
@@ -14342,7 +14533,18 @@
       "feed_url": "https://www.zaobao.com/",
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
-      "last_checked": "2026-11-07T01:17:14.018Z",
+      "last_checked": "2026-11-07T04:06:57.827Z",
+      "last_error": null
+    },
+    {
+      "id": "ap-year",
+      "name": "美联社（AP）",
+      "category": "时政",
+      "adapter": "briefing",
+      "feed_url": "https://apnews.com/",
+      "enabled": 1,
+      "note": "2026年内回顾；依据已打开的公开来源撰写原创中文报道，保留原始发布日期；非原文全文或官方背书。",
+      "last_checked": "2026-11-07T04:06:57.827Z",
       "last_error": null
     },
     {
@@ -14511,6 +14713,17 @@
       "last_error": null
     },
     {
+      "id": "focus-thewrap-film",
+      "name": "TheWrap",
+      "category": "影视",
+      "adapter": "briefing",
+      "feed_url": "https://www.thewrap.com/",
+      "enabled": 1,
+      "note": "已核读公开原页的中文原创详报及逐段英文译文；远程图片保留实际出处与署名，未推定转载许可。",
+      "last_checked": "2026-11-07T04:06:57.827Z",
+      "last_error": null
+    },
+    {
       "id": "focus-afp-cna",
       "name": "法新社（CNA转载）",
       "category": "时政",
@@ -14563,17 +14776,6 @@
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报；英文逐段翻译本站详报，图片仅远程引用原站并保留归属。",
       "last_checked": "2026-11-06T01:21:55.349Z",
-      "last_error": null
-    },
-    {
-      "id": "focus-ithome-digital",
-      "name": "IT之家",
-      "category": "数码",
-      "adapter": "briefing",
-      "feed_url": "https://www.ithome.com/",
-      "enabled": 1,
-      "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
-      "last_checked": "2026-11-07T01:17:14.018Z",
       "last_error": null
     },
     {
@@ -15039,17 +15241,6 @@
       "last_error": null
     },
     {
-      "id": "reuters-politics",
-      "name": "路透社（Reuters）",
-      "category": "时政",
-      "adapter": "briefing",
-      "feed_url": "",
-      "enabled": 1,
-      "note": "公开原始报道或机构正式发布；中文为独立事实导读，非原文全文转载。",
-      "last_checked": null,
-      "last_error": null
-    },
-    {
       "id": "capcom-expanded",
       "name": "Capcom",
       "category": "游戏",
@@ -15135,17 +15326,6 @@
       "enabled": 1,
       "note": "依据该机构或平台公开的原始报道/论文摘要整理中文AI播报稿，非全文转载。",
       "last_checked": "2026-11-02T13:15:34+08:00",
-      "last_error": null
-    },
-    {
-      "id": "ap-year",
-      "name": "美联社（AP）",
-      "category": "时政",
-      "adapter": "briefing",
-      "feed_url": "https://apnews.com/",
-      "enabled": 1,
-      "note": "2026年内回顾；依据已打开的公开来源撰写原创中文报道，保留原始发布日期；非原文全文或官方背书。",
-      "last_checked": null,
       "last_error": null
     },
     {

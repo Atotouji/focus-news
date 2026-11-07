@@ -1,7 +1,41 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T01:17:14.244Z",
+  "generated_at": "2026-11-07T04:06:58.059Z",
   "translations": [
+    {
+      "article_id": "article-5f6286e5f00f1a4ba59c6139",
+      "source_sha256": "6ad99792efaed303d065a2eca38cda081d855255d9125e53ded475a93810b5e6",
+      "paragraphs": [
+        "On the morning of November 7 Beijing time, the last quarterfinal of the 2026 League of Legends World Championship ended with **T1 defeating Karmine Corp (KC) 3–1**, securing the final semifinal berth. Riot’s official schedule marks the series as completed. The semifinalists are GEN and T1 from the LCK, and IG and BLG from the LPL.",
+        "T1 won the first two games. In Game 1, Peyz’s Yunara repeatedly finished off opponents in fights around Baron and the dragon pit. T1 built its Game 2 advantage through early river skirmishes and pressure in the top lane. KC recovered in Game 3: Yike’s Xin Zhao secured Baron, and KC extended its advantage through an Elder Dragon fight, with kyeahoo’s Anivia contributing key kills. KC destroyed the Nexus to reduce the series deficit to 1–2.",
+        "In Game 4, Faker’s Annie teleported behind KC near the dragon pit to divide the fight. Peyz’s Miss Fortune scored a triple kill, and T1 won the fight and secured Baron. Another mid-lane fight extended T1’s advantage before its final push closed the series. Peyz received the deciding game’s POG award, finishing with **11 kills, no deaths and five assists**.",
+        "**Both semifinals are scheduled to begin at 06:00 Beijing time**: GEN versus IG on November 8, followed by T1 versus BLG on November 9. Each is a best-of-five series. The final is scheduled for 03:00 Beijing time on November 15 in Brooklyn, New York. Neither semifinal has started, and the finalists have yet to be determined."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c04d7182f30b563bc6facf1f",
+      "source_sha256": "17fe279e193214b82f5edff6c643cd9582f67ff644bb42b3fc45fcdabff5317a",
+      "paragraphs": [
+        "Ukraine’s capital Kyiv came under a new missile attack in the early hours of November 7 local time. Mayor Vitali Klitschko said Russian forces were attacking infrastructure with ballistic missiles and explosions had occurred in the suburbs. Debris struck a five-story residential building in the Solomianskyi district, while the facade and windows of another residential building were also damaged.",
+        "Public statements from the Kyiv City Military Administration reported a fire in a non-residential building and damage to a kindergarten in the Solomianskyi district. **Two people were initially confirmed injured and were receiving medical assistance.** This was also the injury count in the Reuters report published at 09:40 Hong Kong time on November 7; further checks and rescue operations may change subsequent figures.",
+        "Before the attack, Volodymyr Zelenskyy said in his November 6 evening video address that Ukrainian intelligence indicated Russia was preparing new strikes against energy facilities, bridges over the Dnipro and civilian infrastructure, and that Ukraine’s air force and armed forces were preparing defenses. He again asked partner countries to deliver Patriot interceptors promptly, emphasizing that every supply arrangement and every day of deliveries mattered."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-493cffd68ac9b22996a5b03d",
+      "source_sha256": "0f20ace13c3416f2e75dfc6ba2fa2e6901dda70afcafffb67117d608d573b49c",
+      "paragraphs": [
+        "On the evening of November 6 Beijing time, Chinese Vice Premier He Lifeng held a video call with U.S. Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer. China’s account said they discussed implementing understandings reached by the two presidents in Beijing and Washington and the results of trade consultations. **China expressed serious concerns about recent U.S. economic and trade restrictions targeting China.**",
+        "The U.S. Treasury’s readout emphasized implementation of the Busan trade arrangement. Bessent called for China to fulfill its earlier commitments fully and immediately, raised concerns about recent Chinese actions, and said further progress would depend on concrete results. The Office of the U.S. Trade Representative separately specified that Greer highlighted existing commitments on agricultural purchases, rare earths and other critical minerals.",
+        "Both sides emphasized the value of direct communication. China said the trade consultation mechanism would continue to support cooperation and management of differences; the United States said it would keep monitoring implementation. **The call announced no new tariff rates, purchase amounts or additional agreement.** The public accounts focused on executing existing arrangements and the restrictions each side had raised concerns about."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
     {
       "article_id": "article-4f4170193f5a417cd55b6cd3",
       "source_sha256": "553e7c26d06d88ffcc1072597358054e06a72a9bf2daa0463f3bd00aa1c0a98e",
@@ -13,6 +47,17 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-73e05271be777c2fdee1ec1c",
+      "source_sha256": "2fffbf75218cd14b1d704aed148d3ce845aa3c4c4b0387173a7413a8825e9fb7",
+      "paragraphs": [
+        "After arriving in West Palm Beach, Florida, on the evening of November 6 U.S. local time, Donald Trump told reporters that **the U.S. military had carried out a new limited strike on an Iranian air-defense installation that day**, describing the operation as small. He gave no further details about the target. Iranian state media reported two explosions in the Suza area of Qeshm Island in the Strait of Hormuz.",
+        "Diplomatic contacts continued alongside the military action. Qatar’s Amiri Diwan said on November 6 that Emir Sheikh Tamim and Trump had discussed de-escalation and Qatar’s efforts to support negotiations. The emir emphasized continued dialogue, avoiding further escalation, and safeguarding maritime navigation and energy supplies.",
+        "The Associated Press, citing two Middle Eastern government officials, reported that Iran was reviewing Qatari proposals intended to pave the way for subsequent nuclear talks. One official said Tehran still wanted Washington to meet ceasefire-related conditions before discussing nuclear activities. **These remain mediation efforts and proposals under discussion; no new ceasefire agreement has been announced.**"
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
       "article_id": "article-7d15d35372241976dbc45358",
@@ -300,6 +345,17 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-d6fd19bace15dc0197483f1a",
+      "source_sha256": "cac7308e39fe6977f48d7f58c5a056a4b6c4d6a2bd7ad3483cbe2a3d6454d8c5",
+      "paragraphs": [
+        "During its November 5 U.S.-time earnings call, Lionsgate confirmed that **the animated John Wick prequel had been formally greenlit and entered pre-production**. Keanu Reeves will return to voice John Wick and serve as a producer. This advances the project beyond the development plans announced in 2025. A release date has not been announced.",
+        "Shannon Tindle will direct from a screenplay by Ryan and Kaz Firpo. Tindle previously directed and co-wrote Netflix’s animated film Ultraman: Rising. The producing team also includes Thunder Road’s Basil Iwanyk and Erica Lee, along with franchise director Chad Stahelski; Point Grey is joining the production as well.",
+        "Set before the first live-action film, the story centers on the “Impossible Task” Wick undertakes to leave the criminal organization and build a life with his wife, Helen. The animated format expands this part of his earlier story. **It is a separate project from the fifth live-action film, which remains in development.**"
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
       "article_id": "article-7a29b99991007e12673167bf",
