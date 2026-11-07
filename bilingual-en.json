@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T09:11:41.626Z",
+  "generated_at": "2026-11-07T01:17:14.244Z",
   "translations": [
+    {
+      "article_id": "article-4f4170193f5a417cd55b6cd3",
+      "source_sha256": "553e7c26d06d88ffcc1072597358054e06a72a9bf2daa0463f3bd00aa1c0a98e",
+      "paragraphs": [
+        "New Zealand entered general-election day on November 7, with more than 2,300 polling places open from 09:00 to 19:00 local daylight time, corresponding to **04:00–14:00 Beijing time**. Advance voting began October 26, so this is the final voting day rather than the first day any ballots were cast.",
+        "Citing Xinhua and the Electoral Commission, Lianhe Zaobao reported nearly 3.8 million registered voters, about 93.6% of the estimated eligible population. More than 1.66 million advance ballots had been issued by November 5, compared with over 1.37 million at the corresponding stage in 2023. Ballots issued are not the final valid-vote count or turnout.",
+        "Prime Minister Christopher Luxon’s National-led bloc seeks another term, while Chris Hipkins leads Labour’s bid to return to government. Living costs, growth, jobs and public services are central issues. Smaller parties may shape government formation under mixed-member proportional representation; close polls do not determine seats.",
+        "Preliminary counting is expected on election night, with **official results due November 27**. A September 25 Cabinet Office circular separately sets December 3 for return of the election writ and notes that recounts may delay it. Official results, confirmation of MPs and government formation are separate stages."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-7d15d35372241976dbc45358",
+      "source_sha256": "2b6fca8dd50569d85fc98832604b52714ef69f977f83f368687c7ce207b22f6e",
+      "paragraphs": [
+        "On November 6, Meta introduced **spaces, customizable experiences inside the Muse app**. Users describe an idea and have the agent build a gift tracker, travel board, podcast workspace or small game, then refine its appearance and behavior rather than receive only a chat response.",
+        "Spaces can live in the sidebar or main tabs and can be hidden, rearranged or scheduled. After relevant apps are connected, information such as orders and calendars can update in the background. Users can check off tasks, add notes and make edits inside a space. Meta says spaces are available immediately wherever Muse is already offered.",
+        "A separate voice-and-expressive-avatar feature was announced on November 5, with details updated November 6. It starts in the US on mobile, web and Mac. Users can interrupt spoken replies, switch between voice-only, an adjacent avatar and full screen, and choose different voices. AI glasses and Muse Charm support remain future plans.",
+        "Meta also says it is deploying specialized model versions informed by Muse Wonder and exploring sharing and collaboration for spaces. The announcement confirms personal interfaces integrated with existing connections; shared multi-user editing remains exploratory."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-b5ac8bbb350992e1b01e3aea",
+      "source_sha256": "62d9763f7da54efde87e66a3799824a917b4def866928e81451829de13bddacb",
+      "paragraphs": [
+        "On November 6, Netflix introduced The Further Mis-Adventures of Cliff Booth, **directed by David Fincher, written by Quentin Tarantino and starring Brad Pitt again**. Its English-language release announcement lists IMAX on November 25 and Netflix on December 23, without a mainland China theatrical schedule.",
+        "The story takes place in Los Angeles in 1977, eight years after the 1969 setting of Once Upon a Time in Hollywood. Alongside bartending and projection work, Cliff Booth fixes problems for Hollywood figures. A call from talent agent Karen Crosby draws him into the complicated world of television star Charlie Peters.",
+        "Elizabeth Debicki plays Karen, Scott Caan plays Charlie, and Carla Gugino and Yahya Abdul-Mateen II also appear. Fincher describes a Los Angeles crime story shaped by its people and environment, citing the 1975 film Shampoo as an inspiration for his approach.",
+        "The update accompanies a second trailer and new stills. Netflix lists a runtime of two hours and twenty-three minutes. The film awaits those release windows; the available material concerns its creators and premise, without a finished-film rating or plot-ending summary."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-ef4322344dff9bc833348cb3",
+      "source_sha256": "9c37154006f7f4535eb79d2f0fbd5d8b31ffa557716e12818dd67ddf5fa168a1",
+      "paragraphs": [
+        "tinyBuild confirmed in a November 6 PlayStation.Blog announcement that **Hozy comes to PS5 on November 9**. The cozy cleaning, renovation and interior-arrangement game has no timers or scoring pressure. This announcement specifically establishes the PS5 release.",
+        "Each space has its own atmosphere and story. Players clean and repair it before arranging a curated set of furniture and decorations. Mops, crowbars and other tools have distinct feedback; windows, lights, pianos and drawers are interactive, and music changes as a level progresses.",
+        "On PS5, DualSense haptics distinguish actions such as mopping and positioning furniture. Adaptive triggers convey resistance when lifting floorboards, and the controller speaker adds tool sounds. These are publisher-described console features; no independent performance test accompanies the announcement.",
+        "The story has nine unique levels. Game+ adds day/night variation and different furniture sets, while Sandbox opens access to every item. Eleven languages and visual and control settings are supported. Seasonal events and free and paid DLC remain plans rather than content all released simultaneously."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-47b292a5d1f7f3dd3e0fcef7",
+      "source_sha256": "bca0524f6ca28edc6ed177b40dbf0cad60f47f61065473c071d77d804db8f2e7",
+      "paragraphs": [
+        "On November 6, NVIDIA described research using its Aerial and Sionna wireless tools. It reported tenfold growth in developer adoption over the past year, more than one million downloads of its open-source 5G/6G tools, and use at over 8,000 research and academic institutions. These are vendor-compiled adoption figures.",
+        "King’s College London connected a camera-equipped robot arm to Jetson AGX Orin, transmitting compact semantic descriptions of objects, positions and relationships. NVIDIA says fruit-packing and cube-stacking experiments with introduced faults **cut task completion time by up to 52.6%** compared with periodically transmitting full images, while improving recovery from failed actions.",
+        "SoftBank integrated a neural receiver into Aerial ACAR. In controlled interference tests with a commercial 5G phone, uplink throughput exceeded a conventional receiver at all fifteen settings, with gains of up to about 60%. Related ETH Zurich work used local measurements to tune receivers and reduced block error rates by more than one-third versus selected pretrained versions.",
+        "University of Leeds researchers used ten-minute-ahead demand forecasts to guide base-station sleep decisions. Their experiment reported 45.6% lower RAN power use than a full-power baseline while maintaining connections. These findings concern particular test systems, baselines and radio conditions: progress in 6G research methods, rather than widespread commercial 6G deployment."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-8d72e90829254c25382f4e8e",
+      "source_sha256": "3af7483410c11dc679c72bb55f92f9f0c8cacca375c827da16ad7d2b01c18dc8",
+      "paragraphs": [
+        "At the November 6 US close, **the Nasdaq Composite rose 1.1%, the S&P 500 gained 0.3% and the Dow fell 0.4%**. The BBC’s closing report described a partial recovery in AI and technology shares. The Nasdaq rebound recovered only part of the preceding day’s 5.5% decline.",
+        "NVIDIA, SpaceX and Tesla regained some of the market value lost earlier. Outside the US, South Korea’s Kospi closed about 6% lower and SK Hynix fell more than 10%. Major German, French and Spanish indexes also declined, and Britain’s FTSE 100 lost 1.01%.",
+        "The US simultaneously reported 165,000 additional October jobs and unemployment of 4.1%, offering a different economic signal from the technology sell-off. The employment figures concern October, while the market moves describe the November 6 trading session.",
+        "Investors continue to assess returns on large AI infrastructure investments and potential data-center regulatory changes after the US midterms. Interviewed analysts remained cautious about whether the rebound would persist; one session’s recovery does not establish that the earlier pressures have disappeared."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-8d12dc1702d56b8c6c1be63d",
+      "source_sha256": "da57044d09af4d0de1b010efbd05da42ebf27bcfba1f21247e97da6c51fdda71",
+      "paragraphs": [
+        "In the other November 6 IEM Beijing quarterfinal, **BETBOOM eliminated FURIA 2–1**. BETBOOM won Ancient 13–5, lost Dust2 10–13, then secured the series with a 16–14 overtime victory on Nuke.",
+        "zorte’s AWP and multi-kills helped BETBOOM control Ancient. On Dust2, FalleN’s all-headshot pistol-round ace after the switch revived FURIA, before important kills from molodoy and KSCERATO sent the match to a decider.",
+        "BETBOOM reached match point at 12–7 on Nuke, but FURIA won five consecutive rounds to force overtime. In the final two-versus-two, Boombl4’s fast flank from Heaven killed the planter, preventing FURIA from planting in time and ending the match. zorte finished the series with 62 kills, 36 deaths and a 1.35 HLTV Rating 3.0.",
+        "BETBOOM faces **MOUZ in the semifinal at 17:45 Beijing time on November 7**, a rematch of their group-stage meeting. FURIA and PARIVISION are out; the tournament champion will be determined in the November 8 final."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-4fbea2f3c33df53434c797a4",
+      "source_sha256": "242d63439a17ba40c27e1195fc153c7b5d8ac93133678c7ae75c3df368807fbd",
+      "paragraphs": [
+        "On November 6, China’s commerce ministry issued Notices 57 and 56, **opening anti-dumping investigations into EU para-aramid filament yarns and ethylidene norbornene from the EU and Japan**. These proceedings examine alleged dumping and injury; no final dumping finding or new duty rate was announced.",
+        "Para-aramid filament yarn, also called aramid 1414 yarn, has high strength, modulus and heat resistance, with uses in optical-cable reinforcement, protective fabrics, tires and ropes. Sinochem High Performance Fiber Materials and Tayho Advanced Materials submitted the application on October 12.",
+        "Ethylidene norbornene, or ENB, commonly serves as the third monomer in EPDM rubber, affecting vulcanization and cross-linking, and is also used in synthetic resins. Henghe Materials submitted that application on October 9. Its geographic scope covers both Japan and the EU.",
+        "Both investigations examine dumping from July 1, 2025, to June 30, 2026, and injury from January 1, 2023, to June 30, 2026. **They normally conclude before November 6, 2027, with a possible six-month extension in special circumstances**. These are procedural arrangements, not determined monetary losses from imports."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-e800b372ca6a1dc1be591724",
+      "source_sha256": "493973a4cd9142d604f50f4e915cf87a4ce3b8e7ded9cd749804a5c6bbc1f68d",
+      "paragraphs": [
+        "In the November 6 IEM Beijing quarterfinal, **NAVI came from behind to beat PARIVISION 2–1 and reach the last four**. The maps were Mirage 14–16, Inferno 13–9 and Ancient 13–10. PARIVISION finished tied fifth–sixth.",
+        "NAVI trailed 3–9 at halftime on Mirage and recovered to force overtime, but still lost its own map pick. On Inferno, w0nderful’s defensive performance kept the team competitive before NAVI pulled ahead on attack to level the series.",
+        "The teams traded runs on Ancient, with b1t finding crucial opening kills in the final B-site attack. HLTV recorded w0nderful at 64 kills and 41 deaths across the three maps, with 85.2 ADR and a 1.54 Rating 3.0, NAVI’s standout statistical performance.",
+        "**NAVI next faces The MongolZ at 14:30 Beijing time on November 7** for a place in the final. The other semifinal pits MOUZ against BETBOOM. These are upcoming fixtures, not completed results."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
     {
       "article_id": "article-fdf49967a23921afa46333b1",
       "source_sha256": "41c42e496425f12d4f9983e74ac021166dd579726d9038633d67733e4a29021c",
@@ -110,6 +218,90 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
+      "article_id": "article-d5764ee3d06ac915983fe52f",
+      "source_sha256": "f48efd5525230f6bfa4ebccdac3233903f23178f0f0fdee87337f9724ebd9039",
+      "paragraphs": [
+        "On November 6, OpenAI and enzyme-design company Ligo introduced BioBasicsBench, with **100 routine wet-lab analysis tasks** spanning protein methods, imaging and cytometry, quantification and assays, nucleic acid methods, and molecular cloning. It uses original images, files and records from real experiments.",
+        "Tasks assess conclusions, measurements, reasoning, error detection and recognition of insufficient evidence. Expert-written rubrics undergo internal review, external review by a PhD-level laboratory scientist, and final internal review. Input categories and skill tags overlap.",
+        "OpenAI reports that at xhigh reasoning effort, **GPT-6 Astra earned 66.7% of available credit on average, versus 43.8% for GPT-5.6 Sol** and 62.0% for GPT-6.1 Sol. This is mean rubric credit, not the proportion of tasks solved completely. The evaluation covered thirty-seven model-and-effort settings, with five attempts per task per setting.",
+        "Published examples show better recognition of mislabeled controls and imaging changes caused by focal depth. Models still allow assumptions to outweigh controls or miss and double-count colonies. One counting example presented by the company overestimated the reference by about 12%, illustrating a concrete remaining failure."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-80959387886cc068e761a0f3",
+      "source_sha256": "3db48b1ab397288f99f3ed469447790a9371d33ebfe305a228f4a90b6ca5836d",
+      "paragraphs": [
+        "Research by Ed Mackay and Ajit C. Pillai of Exeter and Katherine Kwa of Southampton entered public discussion at Wind Energy Science on November 6 and **remains a preprint under review**. It studies embedded plate anchors for floating offshore turbines, tracking cyclic seabed softening, consolidation recovery and evolving anchor capacity.",
+        "The case uses a 15 MW floating turbine in about 100 m of water in the Scottish North Sea. The framework generates lifetime wind-and-wave conditions, estimates anchor loads with a probabilistic surrogate, updates soil damage and consolidation, and estimates failure probabilities across multiple twenty-year lifetimes. Its implementation resamples blocks of historical conditions and separately extrapolates extreme loads.",
+        "The authors report rapid initial strength loss under cycling followed by recovery, with less than 3.5% variation in strength evolution between environmental realizations. For the baseline load distribution, accounting for long-term hardening **reduces the anchor area needed at the same failure probability by 6–8%**.",
+        "Sensitivity cases produce reductions of up to 27% when extreme loads are more separated from frequent operational loads. That is not a universal anchor-size reduction: the benefit depends on soil-recovery parameters and the relationship between common operating loads and rare extremes. The results come from this probabilistic model and case study."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-08ccd15de0171433cb7c6312",
+      "source_sha256": "fc41bd1a9bd48a3f906c7dceb302a1430f2cd224ad60b79a716d741d223f863b",
+      "paragraphs": [
+        "A team including Sandia National Laboratories and XFlow Energy released a Wind Energy Science discussion preprint on November 6 on **vortex-induced vibration loads in parked or slowly idling turbines**. The model aims to screen cases for detailed analysis at workstation-level cost and remains under review.",
+        "It combines QBlade’s native aeroelastic response, residual forcing from fixed-body lift and drag spectra, and motion-correlated vibration growth and saturation. Sectional data calibrate the response law for an H-rotor vertical-axis turbine, while separate blade studies test a tip geometry excluded from training.",
+        "In a turbulent-inflow case with prescribed slow idling, **Hybrid VorLap raises the conditional edgewise damage-equivalent load to 2.63 times native QBlade**, but flapwise bending still governs combined longitudinal stress. Combined-stress DEL increases from 12.41 to 13.76 MPa rather than also rising by a factor of 2.63.",
+        "Comparisons with approximate normal operation show that fatigue rankings depend on wind exposure and the assumed high-cycle material law. Extreme-wind longitudinal stress changes little at the monitored sections. Quantitative application requires spectral and response-calibration data specific to the structure."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-b0573a75fb7fa967992f182a",
+      "source_sha256": "ef8e8675013b4aab7a24eaa7e2ece4d7b67bf4bb0e22198198c5e48d55f3fa58",
+      "paragraphs": [
+        "The US Bureau of Labor Statistics reported on November 6 that **nonfarm payrolls rose by 165,000 in October and unemployment edged down from September’s 4.2% to 4.1%**. Monthly payroll growth had averaged 48,000 over the preceding twelve months. Unemployment has stayed within 4.1–4.3% since March.",
+        "Professional and business services added 70,000 jobs, health care 42,000, transportation and warehousing 25,000, and manufacturing 19,000. Jobs, hours and earnings come from the establishment survey; unemployment and labor-force status come from the household survey, which measures a different population.",
+        "Average hourly earnings for private nonfarm employees rose $0.14, about 0.4%, to $38.00 and were 3.1% higher year on year. The workweek averaged 34.4 hours. Economic part-time employment increased by 339,000 to about 4.8 million, and participation was 61.9%.",
+        "**August payroll growth was revised from 133,000 to 186,000 and September from 29,000 to 60,000**, a combined upward revision of 84,000. October is preliminary; earlier figures also change with additional survey responses and seasonal adjustments."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-c47f0be11a67ab3588f075d3",
+      "source_sha256": "256688b1186f029d5156271923d316a1b9d8f5fc9e278c9cd09b22fab39d761e",
+      "paragraphs": [
+        "ARD’s November 5 DeutschlandTrend poll found that **73% understood the aims of youth protests and 22% did not**. DW reported the findings on November 6. Education investment, living costs, rents and military-service arrangements were among the concerns; protest objectives and particular actions were measured separately.",
+        "Infratest dimap randomly surveyed 1,297 eligible German voters aged eighteen or older by telephone and online from November 2–4. The published typical sampling variation is about two to three percentage points. The figures describe attitudes in that sample and period.",
+        "**Ninety-five percent considered violence against people or property unjustified as political expression**, while 89% accepted participation in authorized demonstrations. Sixty-five percent opposed temporary road blockades and 66% rejected temporary occupations of schools, universities or public offices. Sympathy with aims is therefore distinct from approval of tactics.",
+        "Eighty-two percent thought politicians addressed young people’s concerns inadequately, and 58% believed today’s young generation faces greater difficulty building wealth. Among eighteen-to-thirty-four-year-olds, 55% disagreed that anyone can become prosperous through diligence and effort, highlighting the intergenerational economic expectations behind the debate."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-1eb34af47b1b02ba3a596e75",
+      "source_sha256": "3bb84bebe4833a3bfecb8d30f8fb9246766483e2c670eb65854a371eeb4f6552",
+      "paragraphs": [
+        "An AFP report carried by Lianhe Zaobao on November 6 said lawyers for at least eighteen injured French protesters **plan a complaint to the Court of Justice of the Republic, or CJR, seeking accountability from Interior Minister Laurent Nuñez**. This is an announced legal plan, not a court finding that he committed a crime.",
+        "At a press conference, lawyer Arie Alimi alleged that the minister ordered weapons capable of causing severe permanent injuries to be used. The lawyers said about ten clients agreed to join the complaint. The CJR handles alleged offenses by ministers in the exercise of office; further proceedings depend on the applicable legal process.",
+        "The protests began with high-school students demanding better learning conditions, later encompassing living costs and challenges to policing. AFP’s count said riot-launcher rounds or grenades had seriously injured at least twenty people since mid-September, including teenagers. Those are injuries compiled in the reporting.",
+        "Citing informed sources, the report said police had opened 105 internal investigations by October 30: fifty-two involving high-school protests, forty-eight concerning October 17–18 demonstrations and five concerning October 24. Investigations and lawyers’ allegations are distinct from completed judicial findings."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-bb2f60476accc99bd99058ff",
+      "source_sha256": "8a550c646a49f4eddce4982c344e2a74e6a71a3dd820ebe2d8d16b0033a3634e",
+      "paragraphs": [
+        "European aviation faced another wave of bomb threats on November 6, the third such disruption that week. The BBC reported affected routes involving Lisbon, Rome, Prague and Sofia. Hungarian authorities said **fighter jets escorted three threatened passenger aircraft**. No explosives had been found on the relevant planes as of the report.",
+        "At least eleven flights were targeted in the Czech Republic and Bulgaria together, and France reported at least four, all landing safely. Earlier days had brought diversions, searches and military escorts. Those precautionary responses caused disruption without establishing that bombs were aboard.",
+        "The threats also reached media organizations. RTÉ’s Dublin headquarters was evacuated, with alerts at Irish Independent, Newstalk and TodayFM offices. Sky said it assessed a threat and notified authorities. Reuters reported signed emails to Irish and Bulgarian newsrooms; their authenticity and senders remain under investigation.",
+        "Ireland’s government described a possible coordinated disruption campaign but had not identified those responsible or established a specific connection between the media and aviation threats. Investigative theories, claimed email identities and verified flight responses remain separate; no responsible party has been confirmed."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
       "article_id": "article-7a29b99991007e12673167bf",
       "source_sha256": "2ec914945368ee6743124856a8f1ddc63d4ac2c354905cccb29be16631c78571",
       "paragraphs": [
@@ -189,6 +381,18 @@
         "OpenAI reported an ExploitGym score of 48.5%, compared with 32.1% for GPT-5.6 Cyber. The system card classifies its cybersecurity capabilities as Critical, the same category as GPT-6 Astra. These are vendor evaluation results, rather than a vulnerability-detection rate applicable to arbitrary real systems.",
         "In scope-control testing without an additional deployment prompt, 99.93% of tested behavior stayed within authorized boundaries; the figure was 100% with the prompt. Those results apply to the specific evaluation environment. The system card still requires identity and security approval, organizational access controls, system checks and monitoring.",
         "The release combines frontier cybersecurity capabilities with restricted deployment: customer eligibility, operating environment and security processes determine access. A standard ChatGPT account does not automatically gain this specialized service."
+      ],
+      "method": "machine_translation",
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-07d6e248e2b40b0db9d42e83",
+      "source_sha256": "e4b3df3c9bfcb10555a721523ecd341686010f061bf3a8003dcd31bae48ce60d",
+      "paragraphs": [
+        "Huawei unveiled the **Qingyun HM650 HarmonyOS desktop series** at its November 5 office-industry summit, targeting fixed workstations and centralized management in government, finance and energy. IT Home reported that day that the desktops use the Kirin X90 processor, with ten cores and twenty threads in the HM650.",
+        "Huawei’s specification page lists HarmonyOS V1.0 Enterprise Edition and LPDDR5 memory, with SSD storage, optional hard drives on some models and an optional DVD-RW drive. The chassis measures 293 × 93 × 315.5 mm and weighs about 3.6 kg without the optical drive and hard disk.",
+        "The front has one USB-C and three USB-A ports; the rear adds four USB-A ports, gigabit Ethernet, HDMI and DisplayPort, among other connections. Enterprise features emphasize centralized deployment, unified authentication, staged upgrades and lifecycle management. System-level Xiaoyi supports documents, meetings and research; effectiveness claims come from the vendor.",
+        "**The official purchase guide places the products in enterprise and government sales channels and gives no uniform retail price**, stating that they are not sold through e-commerce or physical experience stores. It lists October 15 at 10:00 as the formal sales start, preceding the November 5 summit announcement. Those are separate milestones."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
@@ -2141,14 +2345,15 @@
     },
     {
       "article_id": "article-e5155488c46583cb1ea42c01",
-      "source_sha256": "62fd74a673453ce905189775a74273b8aee448b78ba2cf5dd81f43a4b4ea86d6",
+      "source_sha256": "5401eb52c211120df5a9bdfd71c1d785fa8246171b3c009acd10d07c29f1839b",
       "paragraphs": [
-        "The \"Yan Yun Sixteen Sounds\" plan will launch a narrative chapter on the \"Hutuo battlefield\" on November 13, shifting the focus from individual journeys to wartime frontier areas. On October 27, the developer's introduction will use the \"Zhongdu Bridge battle,\" the plight of the displaced, and the choices of front-line soldiers as the main narrative threads for the new content.",
-        "The scene design emphasizes mud, steel, and war relics, presenting different situations through side characters and environmental storytelling: there are soldiers facing orders, civilians and rescuers in times of war. The team hopes to concretely unfold the meaning of \"heroism\" through guardianship, sacrifice, and partnership, rather than just through martial performances.",
-        "The original text also introduces the technical performance and adaptation arrangements for the PlayStation platform, and reviews the team's announced user base and awards. User numbers are statements from the developers and cannot directly replace active users or payment performance; the overall quality of the new chapter's tasks must wait until the actual open release to be evaluated."
+        "Where Winds Meet added details through Xbox Wire on November 6: **the Hutuo anniversary update reaches Xbox Series X|S on November 13 Pacific time**, centered on the Battle of Zhongdu Bridge. The narrative date announced October 27 remains in place; the new information concerns Xbox adaptation and staggered content.",
+        "The region combines frontline fighting, displaced civilians and companions’ choices in its quests, with boss encounters including Xiao Han and tabletop modes called Horse Racing Chess and Jianghu Tactics. The announcement separately schedules **Dual Spears, choreographed and motion-captured with Yuen Woo-ping, for November 26**, rather than making everything available on the thirteenth.",
+        "The Xbox version supports Smart Delivery, HDR and AMD FSR 2. The publisher describes Series X output upscaled from 1080p to 4K and Series S output from 900p to 2K, alongside larger interface text and memory optimization. Those are upscaled-output descriptions, not claims of native 4K rendering.",
+        "Anniversary events also offer a selectable free outfit and draw resources, separately from the map, quest and martial-art release schedule. No precise November 13 update time is supplied, so the Pacific date is not converted into an allegedly confirmed Beijing launch hour."
       ],
       "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-fd42536d8173737e68458187",
