@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T04:17:28.268Z",
+  "generated_at": "2026-11-08T09:15:40.335Z",
   "translations": [
+    {
+      "article_id": "article-1a2dc5338119a14b9e684afb",
+      "source_sha256": "12d07e3be0b684908c55b759c27765f56cd26dbe931fe09f461c9fcc15fdbfed",
+      "paragraphs": [
+        "Shanghai Micro Electronics Equipment Group displayed a model of its next-generation general-purpose front-end dry-lithography platform at this year’s China International Import Expo. The transparent cutaway presents optical paths and internal electromechanical layouts and supports **i-line and KrF technologies**. The exhibit is a platform model.",
+        "SMEE says the standardized architecture includes high-precision projection optics and illumination, high-speed dual wafer stages and a reticle stage, integrated material handling, and alignment and leveling sensors, with independently controlled core technology chains. Dual wafer stages allow exposure and preparatory work to be arranged in parallel, improving equipment utilization.",
+        "According to the company’s public account, multiple domestically produced front-end dry-lithography systems are operating on Chinese logic and memory production lines, supporting wafer processing totaling more than ten million wafers with equipment availability exceeding 92%. These are manufacturer-disclosed operating and delivery figures. The public material does not list model-specific reporting periods, customers or independent comparative tests.",
+        "The disclosure is limited to i-line and KrF dry-lithography platforms. It does not publish the status of ArF immersion or EUV equipment or customer-production-line validation for a new machine model."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-24a82320a21df257bc88396b",
+      "source_sha256": "8e889922f4fdb4c88ecb7c35e078cf99ffd9ce3aac8e531247a0bb941c1c59a5",
+      "paragraphs": [
+        "Adora Magic City docked at Shanghai’s Wusongkou International Cruise Terminal at 05:30 on November 8, joining Adora Flora City, which had relocated from Waigaoqiao Shipbuilding on November 7. It was the terminal’s first simultaneous berthing of **two domestically built large cruise ships**, as the second vessel moves from construction and delivery toward voyage testing.",
+        "Under the announced plan, Adora Flora City will **depart on November 9 with nearly 3,000 passengers** for its first test voyage after delivery, reaching Guangzhou’s Nansha International Cruise Home Port on November 12. This is a post-delivery test voyage, with the dates and passenger number remaining planned arrangements.",
+        "Wusongkou remains a major Chinese cruise gateway. In the first three quarters of 2026, it accounted for 55% of national cruise-ship calls and 76% of arriving and departing passenger traffic. A previous single-day arrival of 5,900 foreign passengers set a Shanghai cruise-port record. The simultaneous berthing comes as large-cruise-ship supply and home-port operations expand."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b7ec3eaee02528ba4a5c3e8a",
+      "source_sha256": "dbe9a868c76ca9dce2a4455ea63bc2e5f58986bcd6d84ab94d13752ef2f10914",
+      "paragraphs": [
+        "Sony updated the official PlayStation Blog on November 6 to announce **a delay to the PULSE Elevate wireless speakers**. The company said ongoing quality testing had identified a production issue, prompting it to postpone the launch previously scheduled to begin on November 12, 2026. No replacement date has been announced.",
+        "First revealed in September 2025, PULSE Elevate is positioned for desktop and portable gaming audio. Each speaker combines a planar magnetic driver with a woofer, while the right speaker includes a microphone with AI-enhanced background-noise rejection. These are official product specifications; the delay notice does not identify the component affected by the production issue.",
+        "The speakers use PlayStation Link with compatible PS5, PC, Mac and PlayStation Portal devices and can simultaneously receive music or voice audio from another Bluetooth device. They include rechargeable batteries and charging docks. Some audio settings are adjustable through PS5 or PC system menus, with Sony specifying that PC settings options will be available after launch.",
+        "Regional recommended prices announced in August included $219.99, €219.99, £199.99 and ¥37,980 including Japanese tax. Sales channels and regional availability differ between the black and white versions. Those are the previously announced regional recommended prices; actual availability following the delay still awaits an official update."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c372c5573194db7d67faccae",
+      "source_sha256": "aeef8b7c7996678ad9270fa3e42d6272b0cf5116ce4e68849b4c85c757932ec7",
+      "paragraphs": [
+        "The Saudi-led coalition said it intercepted multiple missiles launched by the Houthis toward Saudi Arabia on November 8. Saudi Gazette cited the coalition spokesman that morning as saying air defenses destroyed **three ballistic missiles and two cruise missiles** in successive incidents. One ballistic missile targeted the Eastern Province and two targeted Riyadh, while the cruise-missile interceptions involved Riyadh and southern regions.",
+        "A Reuters journalist heard explosions in Riyadh. Civil Defense issued a security alert and subsequently announced an all-clear. AFP separately cited witnesses as saying a Saudi Aramco office building in the King Abdullah Financial District was damaged. The coalition’s interception totals and the witness accounts describe different aspects of the events. The scale of the building damage and the precise mechanism that caused it have not been fully independently verified.",
+        "A day before the missile attacks, Houthi-controlled media and health authorities said Saudi air strikes on al-Shariyah, east of Sanaa, killed at least 33 people and injured 39, including women and children. The BBC reported footage of rescuers recovering bodies from rubble and injured people being taken to hospital. The overall casualty figures and attribution of the attack still rely primarily on Houthi statements.",
+        "Saudi Arabia has led a coalition supporting Yemen’s internationally recognized government since 2015. A 2022 truce had reduced the fighting, but the Yemen front escalated again as the wider Middle East conflict expanded in 2026. The Houthis have attacked Saudi airports, ports and energy facilities, while the coalition has continued strikes on targets in Yemen."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b73ec3167c9ce9f8b2db86ff",
+      "source_sha256": "32b1586dcfdf163c2a671d4472693c8e75680f034cad48d42eb654d4255380e0",
+      "paragraphs": [
+        "The CS2 third-place match at IEM Beijing 2026 concluded on November 8 Beijing time, with **NAVI defeating BETBOOM 2–0**, winning Mirage 13–6 and Ancient 13–9. NAVI finished third, while BETBOOM ended the event in fourth place.",
+        "On Mirage, NAVI established a 9–3 defensive-half lead and extended it to 11–3 after switching sides. BETBOOM briefly responded with three consecutive rounds, but b1t and w0nderful combined for 39 kills on the map to help NAVI close it out. Ancient was closer: NAVI opened 6–1, before BETBOOM reduced the halftime deficit to 5–7 and won the first three rounds after the switch to move ahead. NAVI then regained control with four consecutive rounds.",
+        "Across the series, b1t recorded 37 kills and 19 deaths with a 1.57 HLTV Rating 3.0. w0nderful added 38 kills and 22 deaths with a 1.41 series rating. His overall rating across 17 maps at the tournament was 1.42. The latter is the event-wide figure.",
+        "According to HLTV’s post-match report, this was NAVI’s first Big Event top-four finish since winning IEM Atlanta roughly six months earlier. They will skip BLAST Rivals in Hong Kong, making Beijing their final event before the Singapore Major, where they begin in Stage 2."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ba328d4780e810246cb1341f",
+      "source_sha256": "e3e77b46f2284fa714620684fe985b245a67833afb71372e4b7d42a218dfa634",
+      "paragraphs": [
+        "The China Enterprise Reform and Development Society released its Global Energy Transition Report 2026 in Beijing on November 7. The society said **coal-fired power accounted for 49.7% of China’s electricity generation in the first half of 2026, falling below 50% for the first time**, as its role shifts toward system balancing and supply security. The percentage is calculated from generated electricity; installed capacity uses a different statistical measure.",
+        "The report’s 2025 figures put China’s renewable electricity generation at 3.99 trillion kWh, or 38.3% of total generation, with the increase in renewable output covering the growth in total electricity consumption. Beijing Daily’s account of the launch also cited the report as putting China’s contribution to global renewable-capacity additions at 63.6%. Electricity output and new installed capacity are different measures.",
+        "For global emissions, the report put energy-related carbon dioxide emissions in 2025 at 38.4 billion tonnes, up 0.4%, the slowest increase since 2021. Within that total, China’s emissions fell 0.5% and US emissions rose 2.4%. These figures concern 2025, not the first half of 2026.",
+        "The report forecasts **approximately $940 billion in Chinese energy investment in 2026**. Electricity demand from AI and data centers is influencing investment choices, while technology companies use power-purchase agreements, acquisitions and self-built generation to secure supplies. The annual investment figure is a forecast, distinct from a statistical total of investment already completed."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ce04e5eede126b9852dbb001",
+      "source_sha256": "16b48eab0dc08060987dd108b31e43c746ae9af8175da3064a54c56c79c8931c",
+      "paragraphs": [
+        "An earthquake struck western Shizuoka Prefecture, Japan, at **01:04 local time on November 8, equivalent to 00:04 Beijing time**. In a bulletin issued at 03:05, the Japan Meteorological Agency gave provisional figures of magnitude 5.7 and a depth of 41 km, revising the initial depth estimate of about 40 km. Chita in Aichi Prefecture recorded “upper 5” on Japan’s seismic-intensity scale, a measure of ground shaking distinct from magnitude. The agency said the earthquake posed no tsunami risk.",
+        "A Zaobao report published at 12:02 on November 8 said at least 24 people were injured across Shizuoka and Aichi, with some hurt in falls while evacuating or getting up. Shizuoka’s second damage report, covering the situation at 16:00 local time, confirmed three people with minor injuries in Hamamatsu, Kakegawa and Mori. That prefecture-only figure is distinct from the total across both prefectures.",
+        "The earthquake initially caused train delays or suspensions. Shizuoka’s 16:00 report said all rail services in the prefecture were operating normally, with no reported power outages, communications failures or water interruptions. No abnormalities were detected at the Hamaoka nuclear power plant’s units, and monitoring stations showed no radiation changes.",
+        "The meteorological agency’s preliminary interpretation places the earthquake within the Philippine Sea Plate. Although the epicenter lies within the assumed source region of a major Nankai Trough earthquake, the agency said the size of this event did not indicate any unusual change in interplate locking along the trough."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-ea09604e9e9acaae334b4b6f",
       "source_sha256": "897280dfcde6de0b2351f14d80f34b9208a5bd9e1983217fa39938986ac551d6",
@@ -52,12 +135,12 @@
     },
     {
       "article_id": "article-bcc676a14cba33a779620956",
-      "source_sha256": "c1b72c947cf8c247f374cc5462b622f2d728d131a44064b2d2eb6713795507b5",
+      "source_sha256": "a0112e46eb4e214139be61a1d313337429fc1ad763276ac8881454120d83f164",
       "paragraphs": [
-        "Krakow’s city government said a shooting around 15:00 local time on November 7 in the Old Town’s Main Market Square area left **six people dead and 15 injured**. The dead were four women and two men. Police shot, wounded and arrested the 25-year-old Polish suspect. The BBC’s figure of 16 people taken to hospital includes the suspect himself.",
-        "Police said the man drove into the square and fired at people from several locations before exchanging gunfire with responding officers. Two officers were seriously injured during the arrest. A number 1 tram was also hit and its driver’s cab window shattered; the city government said neither passengers nor the driver were injured.",
-        "Prime Minister Donald Tusk later said police had found the bodies of two women and a man at the suspect’s home in Ostrowiec Świętokrzyski. The Associated Press cited him as saying they were close relatives of the suspect. That location was reported separately from the square, where six people were killed.",
-        "The interior minister said early findings indicated radical, ultranationalist views and possible inspiration from far-right ideology. The specific motive remains under investigation. Krakow has declared **mourning from November 8 through November 11**. The square and nearby streets were temporarily closed while police and rescue teams dealt with the scene."
+        "Authorities have confirmed further identities in the November 7 Krakow shooting case. The BBC’s update says the six people killed in the square included **a British citizen**. On November 8, Polish police confirmed that the three additional people found dead at the suspect’s home in Ostrowiec Świętokrzyski were his parents and 21-year-old sister. Deaths at the two locations are reported separately.",
+        "Four women and two men were killed in the square. Krakow’s city government continues to list 15 injured people. The BBC’s total of 16 taken to hospital includes the suspect, who was shot by police. Those hospitalized also include two officers and five foreign nationals, with the foreign injured coming from Austria, Britain, Germany, Portugal and Russia.",
+        "The 25-year-old Polish suspect was subdued after the shooting and remains in hospital following surgery for a gunshot wound. Police said he was not a soldier, had no previous criminal record and held a firearms permit. Authorities’ preliminary assessment is that far-right and ultranationalist ideas influenced him, while the specific motive remains under investigation. One officer involved in the arrest was in an extremely critical condition.",
+        "The attack occurred around 15:00 local time on November 7 in the Main Market Square area. A number 1 tram was also hit, but neither its passengers nor its driver were injured. Krakow declared mourning from November 8 through November 11, and roads in the area had been closed for investigation and emergency work."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -215,6 +298,19 @@
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7723ccbf8c3a4f1abae0737e",
+      "source_sha256": "bf9f022cc4193cc5ff9360ddcb09c9a05cca45dbd7df17ec557cdf9d208490e5",
+      "paragraphs": [
+        "NASA announced a set of contracts and mission updates for Moon Base transportation, robotics and infrastructure on November 7. Eight companies—Blue Origin, Firefly Aerospace, Intuitive Machines, ispace-U.S., Lockheed Martin, Northrop Grumman, SpaceX and Voyager—became eligible to compete for lunar deliveries under the new CLPS 2 framework.",
+        "**CLPS 2 is a ten-year, multiple-award contract framework with a combined ceiling of $10 billion**. That ceiling is not money already spent in full. NASA also increased the existing CLPS 1.0 ceiling from $2.6 billion to $4.2 billion. The original contract runs through November 2028, with an additional five-year period for completing awarded deliveries.",
+        "The newly announced six-wheeled PROMISE rover will be managed and built by JPL using spare flight components and engineering test models from Curiosity and Perseverance. Nuclear power is intended to support operations through long lunar nights and in permanently shadowed regions. Instruments include a drill to investigate resources about one meter below the surface, spectrometers, temperature and radiation sensors, and cameras. The mission also plans to demonstrate radiation-tolerant computing and autonomous sensing.",
+        "NASA is targeting **a launch in late 2028 and an 18-month mission**. Blue Origin received a $94 million base contract to deliver the rover to the lunar South Pole, with an optional additional amount of up to $140 million based on performance. The launch date and mission duration are plans.",
+        "For the transportation network, NASA separately awarded six task orders to three companies, worth approximately $1.3 billion combined, for launch, deep-space transfer and related demonstrations under the VADR framework, whose total ceiling is $5 billion. The miniCAST lunar power and communications tower effort will initially procure solar, storage and wireless-power components for integration and testing at Marshall Space Flight Center. A separate solicitation for fully integrated power systems is planned for early 2027."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-73e05271be777c2fdee1ec1c",
@@ -631,6 +727,19 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+    },
+    {
+      "article_id": "article-434aef3d4bb223f9917e4c96",
+      "source_sha256": "8f31bcd5de82748aeea65491349816b8b9b28b2145ee5b142f4e253cafa1304f",
+      "paragraphs": [
+        "Researchers from Tsinghua University, the Institute of Automation of the Chinese Academy of Sciences, and the Shanghai Qizhi Institute introduced HITCH in a preprint submitted on November 5. The framework lets a vision-language model control a humanoid through interfaces that can measure the scene. Using Qwen3.8-27B, it learns how to position the body, crouch, reach and look, then transfers those body-operation skills to new tasks.",
+        "The model can select target points in head-camera images and receive their corresponding 3D positions. The execution interface converts commands for the pelvis, torso, hands, walking and gaze into whole-body motion. The team generated trajectories with teacher policies over five base-task categories, including pick-and-place, carrying, navigation, opening drawers or cabinet doors, and opening room doors, and fine-tuned the model on them.",
+        "Across six selected SIMPLE simulation tasks with 30 evaluation episodes each, the model trained only on the base tasks achieved a 51.1% success rate. Adding **five demonstration trajectories per new task raised it to 95%**. On four selected HumanoidArena tasks excluded from task training, the base-task-trained model achieved 42.5%. The benchmarks differ in task selection, scenes and success criteria.",
+        "The physical G1 experiments were more limited. The robot used rubber hands without finger control and held a box between its palms. The model was trained without real images, ran on a remote server and exchanged observations and commands with the robot over Wi-Fi. It completed **13 of 20 box-carrying trials and six of ten obstacle-navigation trials**.",
+        "Removing active 3D position measurements reduced the base-task-trained model’s SIMPLE success rate from 51.1% to 2.8%. The current planner does not support some actions, including sitting, kicking a ball and stepping over obstacles, and physical testing covered only carrying and navigation. The paper’s 95% figure applies to few-shot training on the specified simulation tasks."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-9434ac3945d97bda5d81dd9f",
