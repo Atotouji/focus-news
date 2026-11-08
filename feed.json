@@ -1,20 +1,61 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T01:21:36.037Z",
-  "edition": "早间",
+  "generated_at": "2026-11-08T04:17:28.132Z",
+  "edition": "午间",
   "latest_article_ids": [
-    "article-f0cc29e7d6d9fa4a1b19c664",
-    "article-d7840cd1378728858924bd76",
-    "article-bcc676a14cba33a779620956",
-    "article-0fd700b21f788ebecb7eec4b",
-    "article-186a15260b6b76cdc14f3ff8",
-    "article-51dc1d2f6b3bd6dfbc4a53cc",
-    "article-c12c28f7937ec14856f369ff",
-    "article-b1d5926d71d154910bf17998",
-    "article-4f4170193f5a417cd55b6cd3",
-    "article-40038ccc32c2313a949cf6af"
+    "article-ea09604e9e9acaae334b4b6f",
+    "article-be598de6f5ea5290a54aac01",
+    "article-1611fc6e815d1417fe8d137b",
+    "article-baeb958ddc2f9e36b4affc13",
+    "article-fd2e433408d0bccfb3155ff2",
+    "article-7876251db412b954ce588f7b"
   ],
   "articles": [
+    {
+      "id": "article-ea09604e9e9acaae334b4b6f",
+      "source_id": "zaobao",
+      "source_name": "联合早报",
+      "category": "时政",
+      "url": "https://www.zaobao.com.sg/news/china/story20261108-9965659",
+      "title": "中国多地寒潮大幅降温 河北秦皇岛发布暴雪红色预警",
+      "title_zh": "寒潮继续南下：多地预报降温6至10℃，秦皇岛凌晨发布暴雪红色预警",
+      "body": null,
+      "body_zh": "中央气象台11月8日06时继续发布寒潮蓝色预警。08时天气公报预计，**8日08时至10日08时，中东部多地气温将下降6至10℃**；陕西中部、河南西南部、山东中南部及江淮、江南、华南部分地区降温10至12℃，局地超过14℃。这是未来两天的降温预报。\n\n此前一天，内蒙古、山西北部、河北、北京、天津及辽宁南部等地已经出现雨雪，部分地区达到大雪或暴雪。秦皇岛市气象台于8日00时22分发布暴雪红色预警，预计青龙、卢龙、抚宁、昌黎、海港区北部和山海关区6小时降雪量达到15毫米以上；当时预报至当天14时，全市中南部仍有3至10毫米、北部2至5毫米降雪。\n\n全国预报显示，8日08时至9日08时，河北东北部、辽东半岛、川西高原北部部分地区有中到大雪，局地暴雪，降水量10至12毫米；云南西部和中部、广西南部部分地区则有50至80毫米降雨。冷空气南下过程中，北方降雪与南方降雨并存。\n\n中央气象台预计，10日早晨最低气温0℃线将南压至陕西南部、华北南部至黄淮东南部一带。同期近海大风也较明显：8日08时至9日08时，部分海域风力7至8级、阵风9级，局部海域可达9级、阵风10至11级。",
+      "preview_zh": "中央气象台11月8日06时继续发布寒潮蓝色预警。08时天气公报预计，8日08时至10日08时，中东部多地气温将下降6至10℃；陕西中部、河南西南部、山东中南部及江淮、江南、华南部分地区降温10至12℃，局地超过14℃。这是未来两天的降温预报。",
+      "scope": "briefing",
+      "language": "zh",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-08T10:41:07+08:00",
+      "image_url": "https://image.nmc.cn/product/2026/11/08/WEBU/SEVP_NMC_WEBU_SFER_EME_AGLB_LNO_P9_20261108080000000_base64_1.jpg?v=1794094946826",
+      "image_credit": "资料图（相关主题，非该报道原图）：中央气象台，2026年11月8日08时发布的全国降温预报（11月8日08时至10日08时）",
+      "image_license": null,
+      "image_source_url": "https://www.nmc.cn/publish/weather-bulletin/index.htm",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://www.nmc.cn/publish/weather-bulletin/index.htm",
+        "https://cj.sina.com.cn/articles/view/2868676035/aafc85c301901zguu"
+      ],
+      "year_highlight": false,
+      "month_highlight": true,
+      "politics_region": "china",
+      "inline_images": [
+        {
+          "after_paragraph": 2,
+          "image_url": "https://image.nmc.cn/product/2026/11/08/WEBU/SEVP_NMC_WEBU_SFER_EME_AGLB_LNO_P9_20261108080000000_base64_4.png?v=1794094947909",
+          "image_credit": "资料图（相关主题，非该报道原图）：中央气象台，全国降水量预报（2026年11月8日08时至9日08时）",
+          "image_license": null,
+          "image_source_url": "https://www.nmc.cn/publish/weather-bulletin/index.htm",
+          "image_usage": "source_remote",
+          "caption_zh": "中央气象台11月8日08时至9日08时降水量预报；毫米为降水量，不能直接换算为积雪厚度。"
+        }
+      ]
+    },
     {
       "id": "article-f0cc29e7d6d9fa4a1b19c664",
       "source_id": "focus-ithome-digital",
@@ -189,6 +230,39 @@
       ],
       "year_highlight": false,
       "month_highlight": true
+    },
+    {
+      "id": "article-1611fc6e815d1417fe8d137b",
+      "source_id": "zaobao",
+      "source_name": "联合早报",
+      "category": "时政",
+      "url": "https://www.zaobao.com.sg/news/china/story20261107-9963622",
+      "title": "河北保定在建项目桥体脱落四人伤 两人伤势严重",
+      "title_zh": "保定跨高速在建桥梁顶推时桥体脱落，4人受伤、2名工人伤势较重",
+      "body": null,
+      "body_zh": "河北保定市清苑区政府11月7日通报，一处跨沧榆高速的在建项目在钢桁架顶推作业过程中发生桥体脱落。初步核实，**3名施工人员和1名过往货车司机受伤，其中2名施工人员伤势较重**，伤者均已送医。\n\n通报标明的地点为沧榆高速沧州方向K105+550处。清苑区消防救援部门于当天10时50分接到报警，随后卫健、应急、公安、消防等部门参与人员救治、交通疏导和隐患排查；10时50分为接警时间。\n\n区政府当日公告称，现场正在清理处置，以尽快恢复高速通行，事故原因调查和善后工作仍在进行。公告没有公布桥体脱落的具体技术原因，也未给出事故责任认定。",
+      "preview_zh": "河北保定市清苑区政府11月7日通报，一处跨沧榆高速的在建项目在钢桁架顶推作业过程中发生桥体脱落。初步核实，3名施工人员和1名过往货车司机受伤，其中2名施工人员伤势较重，伤者均已送医。",
+      "scope": "briefing",
+      "language": "zh",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-07T16:50:00+08:00",
+      "image_url": null,
+      "image_credit": null,
+      "image_license": null,
+      "image_source_url": null,
+      "image_usage": null,
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://news.bjd.com.cn/2026/11/07/12021764.shtml"
+      ],
+      "year_highlight": false,
+      "month_highlight": false,
+      "politics_region": "china"
     },
     {
       "id": "article-40038ccc32c2313a949cf6af",
@@ -447,10 +521,10 @@
       "category": "时政",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
       "title": "Paraguay's president impeached and under house arrest after bank collapse",
-      "title_zh": "巴拉圭总统佩尼亚遭弹劾罢免，阿利亚纳宣誓接任",
+      "title_zh": "巴拉圭前总统佩尼亚被提出刑事指控，法院下令审前羁押",
       "body": null,
-      "body_zh": "巴拉圭参议院11月6日以**44票赞成、1人缺席**通过弹劾，罢免总统圣地亚哥·佩尼亚。副总统佩德罗·阿利亚纳随后在国会宣誓接任总统；参议院公告确认，他将完成本届至2028年的剩余任期。\n\n危机源于Ueno银行倒闭及存款被冻结。监管部门11月3日接管该行，大量储户无法提取存款或养老金。佩尼亚曾持有该银行控股公司的股份，直至2025年；有关利益关系及政府处理危机的方式，成为国会追究其政治责任的重点。\n\n佩尼亚5日曾提出辞职，但参议院继续推进弹劾程序。BBC与路透社报道，他目前被软禁，相关刑事调查仍在进行；佩尼亚及其辩护方否认违法。**国会罢免已经生效，刑事责任尚待司法程序认定。**\n\n阿利亚纳接任后承诺恢复金融稳定、处理储户损失。银行危机已经转化为执政层更替，但补偿承诺尚不等于储户已获赔；后续关键在于银行资产处置、资金追回及政府公布的具体偿付安排。",
-      "preview_zh": "巴拉圭参议院11月6日以44票赞成、1人缺席通过弹劾，罢免总统圣地亚哥·佩尼亚。副总统佩德罗·阿利亚纳随后在国会宣誓接任总统；参议院公告确认，他将完成本届至2028年的剩余任期。",
+      "body_zh": "巴拉圭前总统圣地亚哥·佩尼亚在11月6日被参议院弹劾罢免后，案件进入刑事程序的新阶段。检方于**当地时间11月7日对他提出背信及利用职务为私人谋利等指控**；在约三小时讯问后，法院下令审前羁押，他被关押在首都亚松森的总统护卫队设施。\n\n案件围绕Ueno银行危机展开。BBC报道，佩尼亚曾持有该银行所属公司的股份，直至2025年。检方指称，2023年至2026年间，公共机构及退休金机构的资金被存入银行，银行又违规向所属经济集团的关联企业放贷。上述内容属于检方指控，佩尼亚此前否认有不当行为，刑事责任尚待法院裁判。\n\n巴拉圭《ABC Color》报道，前央行行长卡洛斯·卡瓦略也被提出背信、利用职务为私人谋利等指控，另涉及制作内容虚假的公共文件。检方表示，目前调查事实尚不符合犯罪结社罪的构成；调查人员仍在分析已收集的证据。\n\n原副总统佩德罗·阿利亚纳已于11月6日宣誓接任总统，并将在原任期内执政至2028年。他7日表示，政府会采取紧急经济措施保障养老金和年度奖金发放。社会保障局称，约9万名登记退休人员计划于**11月17日**领取养老金及年度奖金，属于尚待执行的支付安排。",
+      "preview_zh": "巴拉圭前总统圣地亚哥·佩尼亚在11月6日被参议院弹劾罢免后，案件进入刑事程序的新阶段。检方于当地时间11月7日对他提出背信及利用职务为私人谋利等指控；在约三小时讯问后，法院下令审前羁押，他被关押在首都亚松森的总统护卫队设施。",
       "scope": "briefing",
       "language": "en",
       "translation_status": "original_zh",
@@ -458,10 +532,10 @@
       "translation_model": null,
       "translated_at": null,
       "published_at": "2026-11-07T01:07:56.654Z",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/961/cpsprodpb/7662/live/965f6020-da39-11f1-959c-e95bd2c2a35f.jpg",
-      "image_credit": "AFP／Getty Images（佩德罗·阿利亚纳宣誓就任）",
+      "image_url": "https://cassette.sphdigital.com.sg/image/zaobao/9c5da8bfa72334198b3574a614f935fb2bedfaf5fc0c060d7b91f57b2c117010?f=webp&o=zbimg&oloc=se",
+      "image_credit": "资料图（相关主题，非该报道原图）：AFP，经联合早报刊载；佩尼亚（右）2026年11月7日到检察机关接受讯问",
       "image_license": null,
-      "image_source_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+      "image_source_url": "https://www.zaobao.com.sg/news/world/story20261108-9965850",
       "image_usage": "source_remote",
       "saved": 0,
       "read": 0,
@@ -469,7 +543,9 @@
       "reference_urls": [
         "https://www.fbcnews.com.fj/world/paraguay-swears-in-new-president/",
         "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/senado-destituye-a-santiago-pena-por-juicio-politico.html",
-        "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html"
+        "https://www.senado.gov.py/index.php/menu-dircom/sub-menu-noticias-presidencia/pedro-alliana-juro-como-nuevo-presidente-de-la-republica.html",
+        "https://www.zaobao.com.sg/news/world/story20261108-9965850",
+        "https://www.abc.com.py/nacionales/2026/11/07/santiago-pena-se-expone-a-15-anos-de-carcel-segun-hechos-imputados-por-fiscalia/"
       ],
       "year_highlight": true,
       "month_highlight": true,
@@ -1451,6 +1527,39 @@
       ]
     },
     {
+      "id": "article-fd2e433408d0bccfb3155ff2",
+      "source_id": "focus-huawei-japan-prtimes",
+      "source_name": "华为日本（PR TIMES刊载）",
+      "category": "数码",
+      "url": "https://prtimes.jp/main/html/rd/p/000000643.000024671.html",
+      "title": "8,000円台で最大52dBのノイズキャンセリングと高音質LDACに対応！最大80時間のロングバッテリーを実現した『HUAWEI FreeBuds SE 5 MAX』を発売",
+      "title_zh": "华为FreeBuds SE 5 MAX在日本上市：含税8580日元，黑蓝两色11月20日发售",
+      "body": null,
+      "body_zh": "华为日本11月6日宣布推出FreeBuds SE 5 MAX真无线耳机，**日本市场建议价为含税8580日元**。白色当天开始销售，黑色和蓝色于同日开启预约，计划11月20日发售。此次公告对应日本市场，颜色之间的供货时间不同。\n\n续航规格需要区分耳机与充电盒：关闭主动降噪时，厂商标称耳机单次最长10小时、配合充电盒累计80小时；开启降噪时分别为7小时和57小时。华为实验室的续航条件包括AAC编码、50%音量等设定，关闭降噪的测试使用Mate 80 Pro；80小时不是耳机单次连续播放时长。\n\n耳机采用约10毫米动圈，新增LDAC编码支持，最高传输码率990kbps，需兼容设备及相应设置。主动降噪标称峰值52dB，属于特定频率和实验室条件下的数据。降噪提供多种固定强度及自动适应环境的动态模式，另支持环境声透传。\n\n连接方面支持两台设备多点连接，可在手机、电脑等设备间切换。单耳重量约4.3克，配有三种尺寸耳塞，耳机本体具备IP55防尘防水规格，充电盒不在该防护等级范围内；厂商另标称快充10分钟可播放最长4小时。",
+      "preview_zh": "华为日本11月6日宣布推出FreeBuds SE 5 MAX真无线耳机，日本市场建议价为含税8580日元。白色当天开始销售，黑色和蓝色于同日开启预约，计划11月20日发售。此次公告对应日本市场，颜色之间的供货时间不同。",
+      "scope": "briefing",
+      "language": "ja",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-06",
+      "image_url": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/headphones/freebuds-se-5-max/images/hero/huawei-freebuds-se-5-max-kv.jpg",
+      "image_credit": "资料图（相关主题，非该报道原图）：HUAWEI日本官网，FreeBuds SE 5 MAX官方产品图",
+      "image_license": null,
+      "image_source_url": "https://consumer.huawei.com/jp/audio/freebuds-se-5-max/",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://consumer.huawei.com/jp/audio/freebuds-se-5-max/",
+        "https://www.ithome.com/1/023/768.htm"
+      ],
+      "year_highlight": false,
+      "month_highlight": false
+    },
+    {
       "id": "article-d6fd19bace15dc0197483f1a",
       "source_id": "focus-thewrap-film",
       "source_name": "TheWrap",
@@ -2076,6 +2185,50 @@
       "month_highlight": false
     },
     {
+      "id": "article-7876251db412b954ce588f7b",
+      "source_id": "focus-sony-china",
+      "source_name": "索尼中国",
+      "category": "数码",
+      "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2026/20261105-3.html",
+      "title": "索尼携12项首发首秀亮相2026进博会，与中国共创全新体验与长期价值",
+      "title_zh": "索尼进博会展示驾驶接管预警与晕车风险评估，车联网预警推进至车载部署",
+      "body": null,
+      "body_zh": "索尼在11月5日发布的2026进博会公告中，展示索尼中国研究院的两项移动出行成果：**基于视觉语言模型的驾驶接管危险预警，以及融合双路视觉信息的乘客眩晕风险评估**。两者在本届展会作为研发方案亮相，分别处理自动驾驶交接与座舱体验问题。\n\n驾驶接管方案分析道路场景，在自动驾驶接近能力边界时，分级提示驾驶员准备接管、主动接管或紧急接管。视觉语言模型用于理解场景和组织提示，为接管时机判断及人机交互设计提供支持；公告没有给出统一的量化准确率或量产车型名单。\n\n眩晕方案使用车前道路与座舱屏幕两路视频，分别反映车辆运动和乘客观看的娱乐内容，再评估两者共同带来的晕车风险。它关注车辆运动与视觉内容的组合影响，向车企提供优化座舱体验的技术依据。\n\n同场还有一项明确的部署进展：去年以PC演示的透视车联网预警系统，今年已推进至车载算力平台，并开始与汽车供应链企业合作。索尼称，新部署降低了预警显示时延；系统通过语义通信传递被遮挡行人、车辆等关键信息，再由车载端还原显示，帮助驾驶员识别视线盲区。",
+      "preview_zh": "索尼在11月5日发布的2026进博会公告中，展示索尼中国研究院的两项移动出行成果：基于视觉语言模型的驾驶接管危险预警，以及融合双路视觉信息的乘客眩晕风险评估。两者在本届展会作为研发方案亮相，分别处理自动驾驶交接与座舱体验问题。",
+      "scope": "briefing",
+      "language": "zh",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-05",
+      "image_url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2026/20261105-3/_jcr_content/detail/image_1653050211.img.jpg/1793884596306.jpg",
+      "image_credit": "索尼中国研究院：基于视觉语言模型的驾驶接管危险预警方案，2026年进博会官方技术展示图",
+      "image_license": null,
+      "image_source_url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2026/20261105-3.html",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://www.ithome.com/1/023/849.htm",
+        "https://www.ithome.com/1/023/860.htm"
+      ],
+      "year_highlight": false,
+      "month_highlight": false,
+      "inline_images": [
+        {
+          "after_paragraph": 3,
+          "image_url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2026/20261105-3/_jcr_content/detail/image_478727781.img.png/1793884560468.png",
+          "image_credit": "索尼中国研究院：融合双路视觉信息的车载乘客眩晕检测方案，2026年进博会官方技术展示图",
+          "image_license": null,
+          "image_source_url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2026/20261105-3.html",
+          "image_usage": "source_remote",
+          "caption_zh": "双路视觉方案将车前道路与座舱娱乐屏幕的视频信息结合，评估车辆运动与屏幕内容共同带来的晕车风险。"
+        }
+      ]
+    },
+    {
       "id": "article-a839079dd91fee2212b9f8c5",
       "source_id": "noon-xbox-wire",
       "source_name": "Xbox Wire",
@@ -2113,6 +2266,52 @@
           "image_source_url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/",
           "image_usage": "source_remote",
           "caption_zh": "官方配置界面示意：Nano手柄连接Wi-Fi并关联Xbox账号；此项预览目前限美国。"
+        }
+      ]
+    },
+    {
+      "id": "article-baeb958ddc2f9e36b4affc13",
+      "source_id": "focus-arxiv-apple-halo",
+      "source_name": "arXiv（HALO研究团队）",
+      "category": "AI 新闻",
+      "url": "https://arxiv.org/abs/2611.06908",
+      "title": "Perceptive Humanoid Motion from Simulation",
+      "title_zh": "苹果团队HALO：仿真训练的人形机器人在360次真实任务中取得91%成功率",
+      "body": null,
+      "body_zh": "苹果研究团队在11月4日提交arXiv的预印本《Perceptive Humanoid Motion from Simulation》中提出HALO系统，让人形机器人依据自身摄像头和自然语言指令，在未预先扫描的室内环境中完成找目标、坐下、开门、弯腰、爬行及推箱等动作。项目页和代码仓库已公开。\n\n系统把任务分成三层：视觉语言模型约每两秒拆解一次指令；运动生成器以约3Hz频率规划未来5秒的全身动作；底层跟踪器以50Hz结合深度图和本体感知执行。训练主要使用**1000个程序化生成住宅中的300小时仿真任务数据**，将语言、第一视角图像和人体运动联系起来。\n\n真实机器人采用Unitree G1，背负64GB内存的Mac mini M4 Pro，并以机载Jetson Orin NX运行底层控制。默认任务编排模型为4位量化的Qwen3.6-35B-A3B，在Mac mini本地运行，可在不联网时操作；系统也允许选用云端模型接口。\n\n作者在6个未建图、训练未见的真实环境中，对6类单项任务各进行10次测试，合计**360次，平均成功率91%**。成功标准包含完成任务且不跌倒、不被卡住。弯腰任务为100%，坐下为85%，推箱为88%，这些结果对应论文指定的环境和任务。\n\n更长的组合任务难度明显提高：团队在1个真实环境中测试3种任务序列、每种10次，平均成功率为70%；最复杂的“弯腰—前往目标—推箱”成功率为50%。论文记录的失败包括弯腰后头部朝向使箱子离开视野，以及接触和遮挡造成的感知困难，说明单项动作表现尚不能直接外推为任意家庭任务能力。",
+      "preview_zh": "苹果研究团队在11月4日提交arXiv的预印本《Perceptive Humanoid Motion from Simulation》中提出HALO系统，让人形机器人依据自身摄像头和自然语言指令，在未预先扫描的室内环境中完成找目标、坐下、开门、弯腰、爬行及推箱等动作。项目页和代码仓库已公开。",
+      "scope": "briefing",
+      "language": "en",
+      "translation_status": "original_zh",
+      "translation_error": null,
+      "translation_model": null,
+      "translated_at": null,
+      "published_at": "2026-11-04T18:55:33Z",
+      "image_url": "https://arxiv.org/html/2611.06908v1/figures/teaser.jpg",
+      "image_credit": "Siyuan Hu等，《Perceptive Humanoid Motion from Simulation》图1：HALO真实环境机器人任务示例",
+      "image_license": null,
+      "image_source_url": "https://arxiv.org/html/2611.06908v1",
+      "image_usage": "source_remote",
+      "saved": 0,
+      "read": 0,
+      "is_demo": 0,
+      "reference_urls": [
+        "https://arxiv.org/html/2611.06908v1",
+        "https://apple-aiml-research.github.io/ml-halo/",
+        "https://github.com/apple-aiml-research/ml-halo",
+        "https://www.ithome.com/1/023/767.htm"
+      ],
+      "year_highlight": false,
+      "month_highlight": true,
+      "inline_images": [
+        {
+          "after_paragraph": 2,
+          "image_url": "https://arxiv.org/html/2611.06908v1/autonomy_stack.png",
+          "image_credit": "Siyuan Hu等，《Perceptive Humanoid Motion from Simulation》图2：HALO三层自主控制架构",
+          "image_license": null,
+          "image_source_url": "https://arxiv.org/html/2611.06908v1",
+          "image_usage": "source_remote",
+          "caption_zh": "HALO以视觉语言模型拆解任务，运动生成器规划全身动作，底层跟踪器结合深度与本体感知执行。"
         }
       ]
     },
@@ -15046,6 +15245,17 @@
   ],
   "sources": [
     {
+      "id": "zaobao",
+      "name": "联合早报",
+      "category": "时政",
+      "adapter": "briefing",
+      "feed_url": "https://www.zaobao.com/",
+      "enabled": 1,
+      "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
+      "last_checked": "2026-11-08T04:17:28.034Z",
+      "last_error": null
+    },
+    {
       "id": "focus-ithome-digital",
       "name": "IT之家",
       "category": "数码",
@@ -15075,7 +15285,7 @@
       "feed_url": "https://www.bbc.com/news",
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
-      "last_checked": "2026-11-08T01:21:35.362Z",
+      "last_checked": "2026-11-08T04:17:28.034Z",
       "last_error": null
     },
     {
@@ -15084,17 +15294,6 @@
       "category": "游戏",
       "adapter": "briefing",
       "feed_url": "https://www.hltv.org/",
-      "enabled": 1,
-      "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
-      "last_checked": "2026-11-08T01:21:35.362Z",
-      "last_error": null
-    },
-    {
-      "id": "zaobao",
-      "name": "联合早报",
-      "category": "时政",
-      "adapter": "briefing",
-      "feed_url": "https://www.zaobao.com/",
       "enabled": 1,
       "note": "已读公开原页后的中文原创详报，英文为本站详报逐段译文；未知许可图片仅远程引用，托管论文图逐图核实CC BY并保留署名。",
       "last_checked": "2026-11-08T01:21:35.362Z",
@@ -15277,6 +15476,17 @@
       "last_error": null
     },
     {
+      "id": "focus-huawei-japan-prtimes",
+      "name": "华为日本（PR TIMES刊载）",
+      "category": "数码",
+      "adapter": "briefing",
+      "feed_url": "https://prtimes.jp/main/html/searchrlp/company_id/24671",
+      "enabled": 1,
+      "note": "已核读公开原页的中文原创详报及逐段英文译文；图片仅远程引用，保留实际出处与署名，未推定转载许可。",
+      "last_checked": "2026-11-08T04:17:28.034Z",
+      "last_error": null
+    },
+    {
       "id": "focus-thewrap-film",
       "name": "TheWrap",
       "category": "影视",
@@ -15417,6 +15627,28 @@
       "enabled": 1,
       "note": "已核读公开原页的中文原创详报及逐段英文译文；远程图片保留实际出处与署名，未推定转载许可。",
       "last_checked": "2026-11-07T09:19:03.322Z",
+      "last_error": null
+    },
+    {
+      "id": "focus-sony-china",
+      "name": "索尼中国",
+      "category": "数码",
+      "adapter": "briefing",
+      "feed_url": "https://www.sony.com.cn/newscenter.html",
+      "enabled": 1,
+      "note": "已核读公开原页的中文原创详报及逐段英文译文；图片仅远程引用，保留实际出处与署名，未推定转载许可。",
+      "last_checked": "2026-11-08T04:17:28.034Z",
+      "last_error": null
+    },
+    {
+      "id": "focus-arxiv-apple-halo",
+      "name": "arXiv（HALO研究团队）",
+      "category": "AI 新闻",
+      "adapter": "briefing",
+      "feed_url": "https://arxiv.org/abs/2611.06908",
+      "enabled": 1,
+      "note": "已核读公开原页的中文原创详报及逐段英文译文；图片仅远程引用，保留实际出处与署名，未推定转载许可。",
+      "last_checked": "2026-11-08T04:17:28.034Z",
       "last_error": null
     },
     {
