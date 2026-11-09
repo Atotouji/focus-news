@@ -1,7 +1,102 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T09:15:40.335Z",
+  "generated_at": "2026-11-09T01:28:41.803Z",
   "translations": [
+    {
+      "article_id": "article-a32771a8dbf631c1f5fb47f3",
+      "source_sha256": "af190a1849b0f0939837ce828fa1c2d814992f34ee1a04e002bf182575314ce7",
+      "paragraphs": [
+        "According to IT Home’s November 9 report, Tencent Yuanqi’s previously announced business-adjustment schedule provides for **public application access, data reads and writes, API calls and console services to end that day**. Agents distributed through Yuanqi to channels including WeChat official accounts, service accounts and customer service will also stop responding to conversations.",
+        "The shutdown is phased: creation of new agents and distribution of API keys stopped on October 29, while November 9 is the termination date for existing services. Launched by Tencent in May 2024, Yuanqi was a one-stop agent creation and distribution platform supporting prompts, plugins, knowledge bases and workflows.",
+        "Data exports have a separate post-shutdown window. The arrangements allow requests through a data-export console, with **no new export requests accepted after January 9, 2027**. User data will be deleted as scheduled except for logs and other records that laws and regulations require to be retained.",
+        "Unused resources or balances in resource packages purchased on Tencent Cloud through the old entry point can be eligible for refunds according to actual usage. Tencent lists its Agent Development Platform, ADP, and WeChat official-account intelligent replies as alternatives. These are separate products, and the arrangements do not state that existing applications will migrate automatically."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-76ccdd6626e6a5f19031bb36",
+      "source_sha256": "0644bf981cd7837c9dc1998c5fd9a47bea400a894187135bfbf2ad6718307e8c",
+      "paragraphs": [
+        "The Zaporizhzhia nuclear power plant lost all external power on November 8 after damage to the 330-kilovolt Ferrosplavna-1 transmission line. Xinhua reported early on November 9 that **repairs restored the line on the evening of November 8, reconnecting the plant to external power and returning backup diesel generators to standby**.",
+        "The plant’s press office said protection equipment disconnected the damaged line and diesel generators immediately supplied equipment needed for safe operation. Management reported normal safety-system operation, no breaches of operating limits or conditions, and normal radiation levels at the site and in the monitoring area. These operational claims come from plant management.",
+        "Xinhua separately cited the International Atomic Energy Agency’s statement that this was the plant’s **27th loss of external power since the full-scale escalation of the Russia–Ukraine conflict**. On-site experts said fuel stocks at the time could keep emergency diesel generators running for about two weeks. Director General Rafael Grossi stressed the importance of restoring grid connections and increasing diesel reserves.",
+        "The plant has been under Russian control since 2022 and has experienced repeated external-power outages. This update concerns restored electricity for safety equipment; it does not establish that the reactors have resumed commercial power generation. The cited statements do not independently establish the specific cause of damage to the line."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d0612e29a21eef13958f90bf",
+      "source_sha256": "b6ad40f9de810c60f10deb796f72fb82189c62fffc882cdd66d5e1332ff97eb4",
+      "paragraphs": [
+        "Xinhua reported that at **04:24 Beijing time on November 9**, a Long March 12 rocket lifted off from the Hainan Commercial Space Launch Site, placing the Satellite Internet Low-Orbit Group 29 satellites into their planned orbit and completing the launch successfully.",
+        "IT Home says the Fifth Academy of China Aerospace Science and Technology Corporation led development of the satellites. CASC’s commercial rocket company led development of the rocket, undertaken by its Eighth Academy. The mission is part of a low-orbit satellite-internet deployment. “Low-Orbit Group 29” is a mission-batch designation and does not by itself mean 29 satellites were launched.",
+        "Long March 12 has a four-meter-diameter body and is approximately 62 meters long. Its published design capabilities include lifting at least six tonnes to a 700-kilometer sun-synchronous orbit. That describes the rocket’s capability, rather than this mission’s actual orbital altitude or total payload mass. The brief launch announcement does not specify the satellite count or a commercial service activation date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1069919706c861a1d2936c5f",
+      "source_sha256": "1da7ce1edf16719d0468c9de0c36cb71f3b582a0009f3201d1b495e5eff3da59",
+      "paragraphs": [
+        "Two passenger trains collided in Al-Ayyat, Giza province, Egypt, on November 8. **As checked on the morning of November 9 Beijing time, BBC reported at least seven deaths and more than 100 injuries; local outlet Egyptian Streets cited an updated Health Ministry count of seven deaths and 112 injuries.** The earlier tally of four deaths and 88 injuries has been superseded by subsequent updates.",
+        "Railway authorities said a train traveling from Giza to Fayoum struck the rear of another traveling in the same direction from Cairo to Aswan, between Kafr Ammar and Al-Raqqa stations. BBC reported that the train struck was stationary on the tracks. Several carriages derailed and fell down an embankment, and one train driver was among those killed.",
+        "Nearby hospitals heightened their readiness, treating injuries including broken bones and head trauma. Railway authorities deployed emergency crews and cranes to clear the wreckage. Services between Giza and Upper Egypt were temporarily suspended, with no timetable announced for restoration. The Red Crescent provided assistance to affected people and their families at the scene.",
+        "President Abdel Fattah al-Sisi ordered a swift investigation and accountability for negligence. Prosecutors have opened an inquiry, while the specific technical cause and responsibility remain undetermined. The available casualty figures come from updates issued on the day of the accident and may change as rescue and medical operations progress."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0d1d7f1d79f1e51e6f015d7b",
+      "source_sha256": "7441774a88d6658b81da30021c7c870924d6d9a3b977abdc7513e1c803f6312b",
+      "paragraphs": [
+        "A fire broke out at Haosheng International Apartments on Liuxiang Street in Yingze district, Taiyuan, Shanxi, at 16:59 on November 8. The district’s Yingze Fabu official account reported that evening that **38 people were taken to hospital, of whom five died**. CCTV and Lianhe Zaobao carried the notice; the 38 includes those who died.",
+        "The official response timeline states that open flames were extinguished at 19:00 and the search concluded at 20:30. Treatment and assistance for those affected are continuing. The cause remains under investigation, with no final finding on responsibility announced.",
+        "Lianhe Zaobao cited The Beijing News as reporting that emergency-management officials initially located the fire on the fifth and sixth floors. Nearby businesses described a residential main tower and a nine-story annex used mainly for commercial activities. Smoke from the annex also affected the main tower, prompting some residents to evacuate. These on-site accounts have a different evidentiary scope from the official casualty notice.",
+        "The casualty figures are from the notice issued on the evening of November 8. The ignition material, mechanism of spread and condition of firefighting facilities remain to be established by the accident investigation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e47963e18341dbc345374e86",
+      "source_sha256": "dd2b28351b07d9d690b3264d3a07a47533d50be93070322f6fcd9f98c7ac3390",
+      "paragraphs": [
+        "A Shanghai Jiao Tong University team has built the AI-native biomolecular laboratory platform AutoDNA, also called Siyuan No. 1. IT Home introduced the system on November 8; its peer-reviewed paper was published in **Nature on November 4**, rather than on the day of the report. The work combines computer systems and biomolecular engineering from teams including Haibo Chen, Zhaoguo Wang, Chunhai Fan and Fei Wang.",
+        "The platform divides experiments into tasks such as literature retrieval, reagent selection, protocol design, code generation, hardware execution and result analysis, coordinated by multiple agents. Instrument capabilities are packaged as uniformly callable services, while scheduling manages equipment status and experimental timing. The hardware supports micrometer-scale positioning and microliter liquid handling, and integrates control terminals based on OpenHarmony.",
+        "The paper’s publicly available abstract reports orchestration of more than 20 instrument types across over 11,000 steps, covering synthesis, transcription, amplification and sequencing. Across four representative applications, the authors report enzymatic DNA synthesis yields matching expert-optimized results, a **3.2-fold** acceleration in concurrent protocol execution, a DNA storage cycle that exactly recovered the original digital content, and identification and validation of a clinically detected KRAS G13D mutation.",
+        "People still replenish reagents and labware and maintain the hardware. The reported yields, speedup and mutation detection are experimental validations for tasks selected by the authors. The public publisher page provides the abstract and figures; the full paper text requires a subscription."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e84be55c49101d767ba57a15",
+      "source_sha256": "41d7fb44fdbc38c0e1bfcb32805f819e0f0fafabad04275ff8c2348f74945ae7",
+      "paragraphs": [
+        "ASUS has added a **24GB RAM and 1TB storage configuration of its Snapdragon-powered Lingyao 16 Air for China, listed at RMB 12,499 in IT Home’s November 8 report**. This is a listing for an additional configuration. The reported product price is separate from local subsidies, coupons or prices for other configurations.",
+        "The series corresponds to ASUS’s official UX3607 product page and offers a Snapdragon X2 Elite Extreme processor with up to 18 CPU cores and an NPU rated at 80 TOPS. It has a 16-inch 2.8K 120Hz OLED display, a body weighing approximately 1.2 kilograms and measuring about 13.9 millimeters thick, and a 70Wh battery.",
+        "The advertised battery life of around 21 hours comes from specified tests. ASUS’s footnotes list 48GB RAM and 2TB storage test units for the relevant video and web-browsing tests, at 150-nit brightness and with different network conditions by scenario. Those results are not independent measurements of the new 24GB/1TB version in everyday use.",
+        "The report establishes the China-market SKU and listing status, but does not provide an independently verifiable, uniform in-stock delivery date. The product page covers options across the series, so memory, storage and sales region must be matched to each SKU. This update does not introduce a new processor architecture or relaunch the entire series."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3c9939d3d05500bf3b02f84c",
+      "source_sha256": "922276e0ae9641b4c76930ecf264d7627efa7875bcdd821a0582d7a0515d0144",
+      "paragraphs": [
+        "MOUZ **defeated The MongolZ 3–0 to win IEM Beijing 2026** in the final concluded on November 8, taking Mirage 13–5, Dust2 13–6 and Inferno 13–4. This was their second title of 2026, following BLAST Bounty in August.",
+        "MOUZ did not drop a map throughout the event, beating TYLOO, BETBOOM, PARIVISION and The MongolZ, with two victories over BETBOOM. They regained control after a brief deficit on the opening map of the final, built an advantage with consecutive rounds on Dust2, and established a 9–3 attacking-half lead on Inferno before completing the sweep.",
+        "xertioN recorded 47 kills and 32 deaths in the final with a 1.44 HLTV Rating 3.0. Spinx contributed 46 kills, 27 deaths and a 1.35 rating. HLTV also awarded xertioN the tournament MVP, his first such award.",
+        "The MVP report lists xertioN’s overall tournament rating as 1.28 and his playoff rating as 1.53. Those figures cover different scopes from his 1.44 rating in the final alone. HLTV identified his playoff performance as decisive in the award selection; teammate torzsi finished the tournament with a 1.33 overall rating."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-1a2dc5338119a14b9e684afb",
       "source_sha256": "12d07e3be0b684908c55b759c27765f56cd26dbe931fe09f461c9fcc15fdbfed",
@@ -39,12 +134,12 @@
     },
     {
       "article_id": "article-c372c5573194db7d67faccae",
-      "source_sha256": "aeef8b7c7996678ad9270fa3e42d6272b0cf5116ce4e68849b4c85c757932ec7",
+      "source_sha256": "911e6e8379ec02e59c5a593247fad52ed6371deb68d4b5380900ed17b531db65",
       "paragraphs": [
-        "The Saudi-led coalition said it intercepted multiple missiles launched by the Houthis toward Saudi Arabia on November 8. Saudi Gazette cited the coalition spokesman that morning as saying air defenses destroyed **three ballistic missiles and two cruise missiles** in successive incidents. One ballistic missile targeted the Eastern Province and two targeted Riyadh, while the cruise-missile interceptions involved Riyadh and southern regions.",
-        "A Reuters journalist heard explosions in Riyadh. Civil Defense issued a security alert and subsequently announced an all-clear. AFP separately cited witnesses as saying a Saudi Aramco office building in the King Abdullah Financial District was damaged. The coalition’s interception totals and the witness accounts describe different aspects of the events. The scale of the building damage and the precise mechanism that caused it have not been fully independently verified.",
-        "A day before the missile attacks, Houthi-controlled media and health authorities said Saudi air strikes on al-Shariyah, east of Sanaa, killed at least 33 people and injured 39, including women and children. The BBC reported footage of rescuers recovering bodies from rubble and injured people being taken to hospital. The overall casualty figures and attribution of the attack still rely primarily on Houthi statements.",
-        "Saudi Arabia has led a coalition supporting Yemen’s internationally recognized government since 2015. A 2022 truce had reduced the fighting, but the Yemen front escalated again as the wider Middle East conflict expanded in 2026. The Houthis have attacked Saudi airports, ports and energy facilities, while the coalition has continued strikes on targets in Yemen."
+        "Further information has confirmed damage to the Saudi Aramco office tower in Riyadh’s King Abdullah Financial District. BBC’s late November 8 update cited the Saudi Energy Ministry as describing only “minor damage” and **no deaths or injuries**. Footage authenticated by BBC Verify showed substantial damage to at least one floor and shattered windows on multiple levels.",
+        "In a statement on the afternoon of November 8, the Houthis claimed multiple operations against Saudi targets including the financial district, Riyadh’s airport, Aramco oil-storage facilities and Abqaiq. Their descriptions of successful hits, fires and losses remain the group’s claims and have not been independently confirmed target by target. BBC noted that the statement did not name the Aramco tower directly.",
+        "The Saudi-led coalition had earlier said air defenses intercepted three ballistic missiles and two cruise missiles involving Riyadh, the Eastern Province and southern regions. The interception account, footage of building damage and the Houthi target list do not constitute a completed technical attribution. The weapon responsible for the damage and the full scale of losses remain to be verified.",
+        "A day earlier, Houthi-controlled media and health authorities said a Saudi air strike on al-Shariyah, east of Sanaa, killed at least 33 people and injured 39, including women and children. BBC reported footage from the rescue scene. Those casualty figures and attribution of the strike primarily come from the Houthi side and concern a different location from Saudi Arabia’s report of no casualties at the damaged tower."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -110,6 +205,30 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-e68539633591cd5be6cb5f6d",
+      "source_sha256": "a8a156703ba940df63f36e4a9ec5e8f476a0ebe3f2bdd4e4d9684a14673bc977",
+      "paragraphs": [
+        "NVIDIA’s board announced on November 8 that it was **initiating an independent investigation** following recent reports that founder and CEO Jensen Huang had been the target of a foreign intelligence effort. A committee of independent directors will oversee the investigation, assisted by outside independent counsel.",
+        "The board said U.S. national and economic security was paramount to the interests of NVIDIA and its shareholders. It currently has no reason to believe national security or NVIDIA secrets were compromised, but the inquiry will examine all available information. It added that Huang fully supports the review and has committed to cooperating, and that the board retains confidence in him and his leadership team.",
+        "The company also publicly released Huang’s letter to employees that day. He admitted an extramarital affair and apologized, accepting responsibility for his personal conduct and supporting the board’s independent investigation. BBC and Lianhe Zaobao reported that he continues to lead the company during the inquiry; no CEO replacement has been announced.",
+        "The intelligence-related allegations and the personal conduct he acknowledged are separate factual matters. The announcement establishes the investigation process and the company’s current position. **It does not establish that company secrets were leaked or provide investigative findings.** The board said it would issue further updates as appropriate."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-143f53c29ea3c352a9fac800",
+      "source_sha256": "07b4f753bbfc84d30160bbcbf2fd36cf071d623684c8b589aceea92da643b58a",
+      "paragraphs": [
+        "French Foreign Minister Jean-Noël Barrot said in an interview with RTL and other media on November 8 that **France and Europe would send representatives to the Russia–Ukraine talks scheduled for November 10–11 in Abu Dhabi, United Arab Emirates**. The U.S.-mediated round had previously been described as working-level talks among the United States, Russia and Ukraine.",
+        "Barrot said France would ensure Europe’s voice was heard, but did not identify the French representative. NPR noted that it also remained unclear whether European officials would negotiate directly or participate as observers. The French statement therefore does not establish that all parties have agreed on the full seating arrangements or negotiating authority.",
+        "Kremlin spokesman Dmitry Peskov had opposed European involvement, saying the trilateral format was already agreed, while acknowledging that subsequent security discussions would eventually require Europe. Ukrainian President Volodymyr Zelenskyy wants European allies involved in the peace process. U.S., European, Ukrainian and NATO officials held preparatory coordination in Brussels on November 5.",
+        "The U.S. agenda includes postwar security arrangements, de-escalation and humanitarian action. This is a renewed U.S. effort to bring Russia and Ukraine into talks after February’s Geneva meeting, with major gaps remaining over territory and security guarantees. What is confirmed is the meeting and France’s stated intention to participate, rather than a comprehensive ceasefire or peace agreement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-b1d5926d71d154910bf17998",
       "source_sha256": "a074d274970527982801c6d05ffb97eefd2b385f5a6bd3040c4b6064645997e7",
       "paragraphs": [
@@ -123,12 +242,12 @@
     },
     {
       "article_id": "article-0fd700b21f788ebecb7eec4b",
-      "source_sha256": "82180f7e2435b73dda02d011d9aacf3fd5379f73e5332a8cf7f0d4718c367a4f",
+      "source_sha256": "25d60b9d8f9ef0766a702bfb5f2b9c698264d466a9ec4bb7fd703ecf7909dade",
       "paragraphs": [
-        "Israeli President Isaac Herzog announced on the evening of November 7 that opposition leader and former military chief **Gadi Eisenkot would receive the first opportunity to form a coalition government**. NPR reported that the formal mandate ceremony is scheduled for 17:00 local time on November 8, or 23:00 Beijing time that day. Benjamin Netanyahu remains caretaker prime minister in the meantime.",
-        "Following the parliamentary election, Netanyahu’s Likud and its right-wing and ultra-Orthodox allies held 53 seats, Eisenkot’s bloc held 48, and two Arab-led alliances held 19 between them. The Knesset has 120 seats and a majority requires 61; neither main bloc can reach that threshold alone.",
-        "The president’s office said Eisenkot received recommendations from 67 lawmakers during party consultations, compared with 46 for Netanyahu. Those recommendations indicate who has a stronger prospect of receiving the mandate, but still have to translate into coalition agreements. Cooperation with Arab parties and the ability to attract other factions remain central points of negotiation.",
-        "**Once formally tasked, Eisenkot will have 28 days to form a government, with a possible 14-day extension.** If he fails, the president can ask another lawmaker to try; if all attempts fail, Israel could hold another election."
+        "Israeli President Isaac Herzog **formally tasked Yashar leader Gadi Eisenkot with forming a new government at 17:00 local time on November 8, or 23:00 Beijing time**. CCTV reported the formal mandate, following the November 7 announcement that a ceremony would take place on November 8. The former military chief now has the first opportunity to form a government; he has not thereby become prime minister.",
+        "After consultations with parliamentary parties, factions representing 67 seats recommended Eisenkot, those representing 46 recommended incumbent Prime Minister Benjamin Netanyahu, and a faction with seven seats made no recommendation. The Knesset has 120 seats and a majority requires 61. Recommending a candidate is a separate step from agreeing on coalition policies and cabinet positions.",
+        "The previously certified election results gave Netanyahu’s bloc of right-wing and ultra-Orthodox allies 53 seats, Eisenkot’s bloc 48, and Arab-led parties a combined 19. Neither major bloc holds a majority alone. Cross-party cooperation, military service and religious issues may still affect negotiations. Netanyahu remains caretaker prime minister until a new government is formed.",
+        "Eisenkot has **28 days to form a government, with a possible extension of up to 14 days** at the president’s discretion. If he fails, the president can give another lawmaker 28 days. If that attempt also fails, at least 61 lawmakers can jointly nominate a third candidate for a 14-day attempt. Formation of a new government can only be established after negotiations and parliamentary procedures are completed."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
