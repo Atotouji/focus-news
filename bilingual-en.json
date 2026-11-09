@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T01:28:41.803Z",
+  "generated_at": "2026-11-09T04:20:15.887Z",
   "translations": [
+    {
+      "article_id": "article-b4a550b4a1e9ba74035d31fc",
+      "source_sha256": "39e11cd13df3758e49f89f565193f5f6ba2dd819599edc22d17688ede93148be",
+      "paragraphs": [
+        "Parts of Indonesia’s Batam Island have experienced continuing tap-water disruptions, and dozens of residents recently protested outside the Nongsa Digital Park data-center complex. IT Home’s November 9 report and SBS’s November 8 report cite AFP reporting that residents suspect expanding data centers are linked to shortages affecting cooking, bathing and small businesses.",
+        "The local utility attributed the disruption to **a prolonged drought lowering Nongsa Reservoir levels, compounded by an electrical fault in the water-supply system**. That explanation and residents’ suspicions about data-center use are different kinds of claims. The reports do not provide a water-use audit attributing the entire supply deficit to data centers.",
+        "Batam, near Singapore, has become a destination for regional digital-infrastructure investment. Some data centers use water-intensive cooling. In September, local authorities required developers to build seawater-desalination facilities to supply cooling water and reduce pressure on local sources. That is a construction requirement, rather than confirmation that every project is complete and operating.",
+        "The reports also describe operators proposing closed-loop cooling and water reuse, while the utility pursues supply-system and reservoir-capacity improvements. Household water difficulties coexist with disputes over resource allocation amid industrial expansion; actual improvement still depends on construction and restoration of supply."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d695250ded67036981df26fe",
+      "source_sha256": "2b232ef5cf86f1f17312c1e4fbf051d97881ff38449d3eccc48f0e9bfed4e696",
+      "paragraphs": [
+        "On National Fire Prevention Day, November 9, China’s National Fire and Rescue Administration released fire data for the first ten months of 2026. Statistics reported by CCTV and relayed by IT Home show **696,000 reported fires nationwide in January–October, down 7.0% year on year**. The period ends in October and does not include November incidents.",
+        "Residential properties recorded 239,000 fires, 1,093 deaths and 1,150 injuries, accounting for 34.3% of all fires, 71.2% of fire deaths and 63.3% of injuries. **Homes remain the setting where fire casualties are most concentrated.**",
+        "Electrical causes accounted for 228,000 fires, or 32.7% of the total, causing 467 deaths, 580 injuries and RMB 2.79 billion in direct property losses. Electrical faults were the leading cause. The report also lists careless use of fire, smoking, residual ignition sources and improper production operations among causes.",
+        "Eastern regions accounted for 43.3% of fires, while rural areas recorded 416,000, or 59.8% of the national total. February’s 128,000 fires were the highest monthly count in the ten-month period. The report also notes more fires from daytime to early evening, with fewer but more deadly fires at night."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d9053e03cdba25106ad6a6d0",
+      "source_sha256": "71b165ec7120aec384b67811f925487b0211fcb3f9498e3f9d564f41ae17d30d",
+      "paragraphs": [
+        "China’s Ministry of Public Security announced on November 9 that **five traffic-administration reforms will be introduced from December 1**. They cover one-stop online registration for new imported passenger cars, removal of paper business-license submissions, online services for companies, online temporary plates for test vehicles, and an intelligent-service pilot. The Beijing News obtained the arrangements from the ministry’s traffic-management bureau, and IT Home also reported the detailed measures.",
+        "Registration of new imported passenger cars will add shared pre-inspection information to existing exchanges of sales-invoice, purchase-tax and insurance data, enabling number selection and registration through the Jiaoguan 12123 app. Companies will be able to use electronic business licenses for transactions such as new registrations and used-car transfers, reducing paper submissions.",
+        "Companies with electronic business licenses will be able to register enterprise accounts in Jiaoguan 12123 and check vehicle status, violations, accidents and service notices for themselves and their branches. Vehicle manufacturers will be able to apply for temporary test-vehicle plates through the Internet Traffic Safety Comprehensive Service Management Platform, reducing in-person applications.",
+        "The Jiaoguan Xiao’an intelligent service, which combines questions with transaction handling, is a **city-limited pilot**, initially covering centrally administered municipalities, provincial capitals, autonomous-region capitals and separately planned cities. It is not a simultaneous rollout to every city. The traffic-management bureau said supporting rules and information-system upgrades would accompany implementation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-07b4db08b49ef049f763e239",
+      "source_sha256": "821393db115846a030cb1e97e4de7095cf2208ba19e8b30bed457a1c7def4aaa",
+      "paragraphs": [
+        "The second semifinal of the 2026 League of Legends World Championship concluded on the morning of November 9 Beijing time, with **BLG defeating T1 3–1 to reach the final**. The official LoL Esports schedule now lists the completed result and final pairing: BLG will face GEN, who previously swept IG 3–0. T1 finish in the semifinals, ending their title defense after three consecutive championships.",
+        "BLG won the opening game, T1 tied the series at 1–1, and BLG then took the next two games. Bin’s K’Sante and Knight’s Orianna helped BLG build an advantage in midgame fights in Game 1. T1 responded in Game 2 through performances including Oner’s Lee Sin, Doran’s Olaf and Faker’s Syndra.",
+        "In Game 3, BLG expanded their advantage through a top-lane fight, Dragon Soul and Baron to reach match point. In Game 4, ON’s Seraphine and Xun’s Skarner supplied crowd control in key engagements. T1 won a fight and secured Baron, but BLG countered in later fights and ultimately destroyed the Nexus. The post-game screen shows a Game 4 duration of 37 minutes and 47 seconds.",
+        "**The official final is scheduled for November 14 at 19:00 UTC, equivalent to 03:00 Beijing time on November 15, as a best-of-five.** The finalists and start time are confirmed; the champion has yet to be decided."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-aaa6cf65550e45187700231e",
+      "source_sha256": "09afcd3529db7101dcc4bb0222ccbba2be845a084ce6293dd7505905d1f50271",
+      "paragraphs": [
+        "China’s National Bureau of Statistics released October price data on November 9: the **consumer price index rose 0.7% year on year and was unchanged month on month**, while core CPI excluding food and energy rose 0.8% year on year. The **producer price index rose 5.7% year on year and 0.7% month on month**. Lianhe Zaobao reported that the annual PPI increase exceeded the 5.3% economist-survey forecast, while CPI fell short of the 0.8% forecast.",
+        "Food prices fell 2.9% year on year, while non-food prices rose 1.5%. Fresh vegetables fell 16.9%, subtracting approximately 0.31 percentage points from CPI; pork fell 8.6%. Transportation and communications rose 5.5%, healthcare rose 2.4%, and housing fell 0.3%, showing differing price pressures across consumption categories.",
+        "Industrial price increases were concentrated in production materials, which rose 7.4% year on year. Mining rose 27.9%, raw materials 11.6% and processing 3.5%, while consumer goods at the factory gate fell 0.1%. Within industrial purchasing prices, fuel and power, chemical raw materials, and nonferrous metal materials and wires rose 18.6%, 16.8% and 16.7%, respectively.",
+        "For January–October on average, CPI rose 0.9% and PPI rose 2.7% from the same period a year earlier. These year-to-date averages cover a different statistical period from October’s monthly annual and sequential changes. The NBS notes that CPI moved to a 2025 base year in 2026, with corresponding changes to classifications, representative items, collection outlets and category weights."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-07cfd2db462dffdc49dcd9e7",
+      "source_sha256": "a930fd2ce21792ce8c37a0e36605d359604f504f53765029f52327bfae2afdd5",
+      "paragraphs": [
+        "China’s Customs Tariff Commission issued Announcement No. 6 of 2026 on November 9, providing that **from 13:01 Beijing time on November 10, the suspension of the 24% additional tariff on U.S.-origin goods will continue for two months, while the 10% additional tariff remains**. The announcement date and effective date are November 9 and November 10, respectively.",
+        "The adjustment applies to measures established in the Commission’s Announcement No. 4 of 2025 concerning additional tariffs on imports originating in the United States. It concerns the additional-tariff component covered by that measure. The retained 10% is not a uniform replacement for all taxes and duties that may apply.",
+        "The announcement says the State Council approved the measure to implement the consensus reached at the Chinese and U.S. leaders’ Washington meeting. Xinhua Finance cited the Commission’s office as saying China would monitor subsequent U.S. actions and adjust relevant tariff countermeasures as circumstances warrant. That is a statement about potential future policy, rather than a further adjustment already in force.",
+        "Lianhe Zaobao also reported that the two countries’ lead economic and trade officials held a video call on the evening of November 6 to discuss implementation of previous agreements and mutual concerns. The newly announced measure extends the suspension of part of the additional tariff, while retaining another part; it does not remove all bilateral trade restrictions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5b372cbfe6616a5a1a7e0c02",
+      "source_sha256": "1c55d6bc70f9b5b602b902088d2ac69925dca3a66dafa1b4b7613ede67814706",
+      "paragraphs": [
+        "LG AI Research announced on November 9 that **K-EXAONE 2.5 is available free through the EXAONE API Platform**. Developers, companies and research institutions can obtain an API key and use it for service development and research. Version 2.5 is positioned as a technology-validation model, with further training applied to the version released in August.",
+        "The official API documentation describes a text-only model with a maximum context of **524,288 tokens**. Input tokens and the configured maximum generation length together must fit within that limit. The API uses an OpenAI-compatible format and offers low, high and max reasoning-effort settings. The announcement opens hosted API access and does not announce downloadable version 2.5 weights.",
+        "LG’s self-reported scores on public datasets are 74.6 on AutomationBench-Openset, 59.2 on SWE-Bench Pro, 78.0 on BrowseComp and 77.3 on Claw-Eval. The company says these results make its agentic performance competitive with open-weight models such as DeepSeek-V4.1-Flash and GLM-5.3. These are LG’s tests, rather than independent comparative findings.",
+        "Free access is still rate-limited. The public documentation says calls can be limited by second, minute and day, with a 429 error when limits are exceeded and remaining allowances reported in response headers. Its example values are not presented as fixed allowances guaranteed to every user. The announcement does not give an end date for free access."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-34ff9f2f2fd123dbcaab8c61",
+      "source_sha256": "6580d7219497fd2c89ac0dacd4ab76db7744e3d998d0cabbb016849516c80af9",
+      "paragraphs": [
+        "Sony Interactive Entertainment announced the Japanese-only Midnight Black PlayStation Portal Player in Japan on November 9, with a **tax-inclusive suggested retail price of JPY 39,980 and a December 10 release date**. Reservations will begin progressively from 10:00 Japan time on November 13, or 09:00 Beijing time. This is an announcement and preorder schedule, rather than current retail availability.",
+        "The model is restricted to use in Japan, supports Japanese as its only system language, and requires a PlayStation account whose country or region is set to Japan. It includes one month of PlayStation Plus Premium. This is not a general-purpose version announced for China, and the account rules for other global Portal models should not be assumed to apply.",
+        "It retains an eight-inch 1080p 60fps LCD and features such as haptic feedback and adaptive triggers in supported games. Cloud streaming requires Premium and can run supported PS5 games without owning a PS5 console. Remote Play connects to the user’s own PS5, which must be powered on or in rest mode and paired with the device.",
+        "Sony is changing the product name from “Remote Player” to “Player,” reflecting the broader uses enabled by cloud streaming since 2025. **The new model also adds onboard storage** for future features, but the announcement does not disclose its capacity or the relevant feature details. It does not establish that local installation of PS5 games has been enabled."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9f35db9318a0aa5f7b53c212",
+      "source_sha256": "87853d609e45d2cbe6ce94b42b909119cf50988a762d51e8e8224ac5b1b0dbc8",
+      "paragraphs": [
+        "Japan Investment Corporation and Mitsui Chemicals announced on November 9 that a share-transfer agreement for JSR has been signed, with Mitsui Chemicals and the Development Bank of Japan participating in the acquisition. **The stated transaction value is JPY 1.84 trillion, with completion targeted for the second half of fiscal 2027**. The agreement has been signed; closing has not occurred.",
+        "Mitsui Chemicals’ disclosure breaks the amount into JPY 1.3921 trillion of equity value, including a JPY 200 billion DBJ investment, and JPY 447.9 billion of interest-bearing debt and other items. The final acquisition consideration remains subject to adjustments at closing. The JPY 1.84 trillion is therefore not entirely an equity cash payment to the seller.",
+        "JSR’s businesses include photoresists and other semiconductor and optical materials. JIC says combining JSR’s photoresists with Mitsui Chemicals’ pellicles and back-end materials could broaden coverage across fabrication stages and strengthen joint research. These are anticipated synergies described by the parties, rather than additional revenue or technological achievements already realized.",
+        "The transaction requires procedures under Japanese and overseas competition and foreign-investment rules. Mitsui Chemicals plans to consolidate JSR as a subsidiary. DBJ’s ordinary shares are expected to convert to nonvoting preferred shares after the transaction, giving Mitsui Chemicals all voting rights. The announcement states that the time needed for regulatory procedures may change the completion schedule."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-a32771a8dbf631c1f5fb47f3",
       "source_sha256": "af190a1849b0f0939837ce828fa1c2d814992f34ee1a04e002bf182575314ce7",
@@ -51,12 +159,12 @@
     },
     {
       "article_id": "article-0d1d7f1d79f1e51e6f015d7b",
-      "source_sha256": "7441774a88d6658b81da30021c7c870924d6d9a3b977abdc7513e1c803f6312b",
+      "source_sha256": "5c46225f78748a2efc489e209fdaf1de28b9d808ec7a39328f385f18b1e24741",
       "paragraphs": [
-        "A fire broke out at Haosheng International Apartments on Liuxiang Street in Yingze district, Taiyuan, Shanxi, at 16:59 on November 8. The district’s Yingze Fabu official account reported that evening that **38 people were taken to hospital, of whom five died**. CCTV and Lianhe Zaobao carried the notice; the 38 includes those who died.",
-        "The official response timeline states that open flames were extinguished at 19:00 and the search concluded at 20:30. Treatment and assistance for those affected are continuing. The cause remains under investigation, with no final finding on responsibility announced.",
-        "Lianhe Zaobao cited The Beijing News as reporting that emergency-management officials initially located the fire on the fifth and sixth floors. Nearby businesses described a residential main tower and a nine-story annex used mainly for commercial activities. Smoke from the annex also affected the main tower, prompting some residents to evacuate. These on-site accounts have a different evidentiary scope from the official casualty notice.",
-        "The casualty figures are from the notice issued on the evening of November 8. The ignition material, mechanism of spread and condition of firefighting facilities remain to be established by the accident investigation."
+        "At around 11:00 on November 9, Xinhua cited relevant Shanxi authorities as saying the fire at Haosheng International Apartments on Liuxiang Street in Yingze district, Taiyuan, **had killed 14 people**. The Paper explicitly republished Xinhua’s update, and Lianhe Zaobao also reported the new toll. The previous evening’s five deaths were an earlier count that has now been revised upward.",
+        "The fire began at 16:59 on November 8. Yingze district’s evening notice said open flames were extinguished at 19:00, the search ended at 20:30, and 38 people were taken to hospital, including the five deaths recorded at that time. The November 9 update does not provide revised cumulative hospital or injury figures, so subtracting 14 from 38 would not establish the current number of injured people.",
+        "Lianhe Zaobao previously cited The Beijing News as reporting that emergency-management officials initially located the fire on the fifth and sixth floors. Nearby businesses described a residential main tower and a nine-story commercial annex. Smoke from the annex also affected the main tower, prompting some residents to evacuate. These on-site accounts do not replace the final accident investigation.",
+        "As of midday on November 9, public reports continued to describe treatment of the injured and assistance for those affected, with the cause under investigation. No formal investigative findings have established the ignition material, mechanism of spread or condition of firefighting facilities."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
