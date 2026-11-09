@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T04:20:15.887Z",
+  "generated_at": "2026-11-09T09:13:55.856Z",
   "translations": [
+    {
+      "article_id": "article-1db04d5b973dbc68e0c599ba",
+      "source_sha256": "7609c810b6b839baa99ac92c98950594bf4982d169cde3cead4e8070561e1632",
+      "paragraphs": [
+        "A migrant boat sank off Kébémer in Senegal’s northern Louga region. **The latest verified toll is at least 34 deaths and one survivor, with the number missing still undetermined.** BBC reported the figures on November 9, citing Senegalese news agency APS and the Interior Ministry. Senegal’s public broadcaster RTS had already relayed an APS update on November 8 saying additional recovered bodies brought the toll to 34.",
+        "The Interior Ministry’s November 8 notice describes an earlier count as of the evening of November 7: 21 bodies and one survivor. Continued searches and recovery subsequently produced the newer count of 34. These are successive figures for the same accident and must not be added together. The total number aboard has not been reliably established, so the complete missing-person count cannot be calculated from known deaths and survivors.",
+        "RTS says Louga’s governor visited relevant sites on November 8 to oversee identification and preservation of bodies. The ministry announced search-and-rescue efforts, assistance to survivors and support for families, with the minister scheduled to visit on November 9. The announced visit does not establish that it has taken place, and the accident’s cause remains subject to further investigation.",
+        "BBC describes the boat as heading for Spain’s Canary Islands, while the Senegalese notice describes passengers attempting irregular migration. The Interior Ministry says it will strengthen cooperation with neighboring countries against networks organizing dangerous crossings and support young people’s employment and socioeconomic inclusion. These are the government’s announced directions for follow-up action."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2866a5e2d02cdd309b49bed3",
+      "source_sha256": "e7ced3a8505f873ca8b0861669ddaba1ea05955df307ef4a4c66491126110420",
+      "paragraphs": [
+        "QwenWork released version 2.0 on November 9, extending its positioning from an individual assistant toward a Team Agent. National Business Daily and IT Home report that **team Collaboration, human–AI co-creation, an asset space, automatic tasks and cross-device connectivity are fully available in the client**. This is the availability reported by the product provider, rather than an independent productivity test.",
+        "Collaboration spaces let multiple people and digital employees work on projects together. They can associate information from several DingTalk groups, documents, AI spreadsheets and AI meeting notes, with parallel conversations, task management and assignment. Digital employees use the space’s context to organize progress, summarize agreements, and create and follow up on tasks, bringing group-chat and document information into one collaboration.",
+        "**Automatic Tasks initially supports event triggers**, including messages from specified people, mentions of the user in specified groups, and approval tasks. After users configure event subscriptions and handling rules, the Agent starts work when those conditions are met. This differs from scheduled tasks that run only at preset times.",
+        "Human–AI co-creation connects conversation, previews and artifact editing. Users can select document paragraphs, spreadsheet cells, slides or app regions and submit multiple revision notes together. Online documents, AI spreadsheets and Yida applications support simultaneous work by multiple people and Agents. The asset space stores generated or uploaded images, documents, spreadsheets, presentations, webpages, apps and local files, with viewing, search and sharing."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e7d9d2bdf55e895da06d098c",
+      "source_sha256": "766c9ec673dddfa1f91003b235197d7cad034791264b7ff1b6ce5369505c8d99",
+      "paragraphs": [
+        "The Cyberspace Administration of China’s **Internet New Technology and New Application Information Service Filing System officially launched on November 9**, providing a unified entry point for filings involving generative AI, algorithms, deep synthesis and blockchain. Jiangsu’s cyberspace authority republished the China Cyberspace Administration notice that day, specifying the launch date and system name.",
+        "The former Internet Information Service Algorithm Filing System and Blockchain Information Service Filing Management System stopped operating at the same time. The new platform supports online submission and searches of filing information. IT Home reports that public searches can use an entity name, filing name or filing number.",
+        "The announced change consolidates filing entry points and service platforms. The notice does not announce the removal of filing requirements in these fields or new approval deadlines or fees. The new entry point and the retirement of the old systems take effect on the same day."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ac0c3bd270ba9eadad94aadb",
+      "source_sha256": "85f641102b3a0b20a91fffe234f692305cdfe117b6d0471c06809054c2ee13fd",
+      "paragraphs": [
+        "IT Home reported an Alibaba Cloud announcement on November 9 increasing Token Plan personal-subscription allowances: **Lite rises from 11,500 to 20,000 Credits, Essential from 25,500 to 45,000, and Standard from 45,000 to 80,000**. Their monthly fees remain RMB 39, RMB 79 and RMB 139, respectively. The allowance increases are approximately 73.9%, 76.5% and 77.8%.",
+        "**Pro changes from RMB 499 per month with 180,000 Credits to RMB 312 with 200,000 Credits**, reducing its monthly fee by approximately 37.5% and increasing its allowance by about 11.1%. Dividing monthly fees by monthly Credits gives unit-allowance cost reductions of roughly 42.5%–43.8% across the four tiers. That measures subscription Credits, rather than a uniform cut in every model’s token-priced API rates.",
+        "The announcement says new allowances will take effect progressively from November 9, with existing subscribers’ current-cycle total allowances topped up to the new standard. Existing Pro subscribers retain their current-cycle price, with the new price applying from the next subscription cycle; upgrades and renewals use the new price. Public help and promotional tables still contain pre-adjustment figures, so the phased rollout should not be described as a simultaneous completed switch for every account.",
+        "Alibaba Cloud’s official documentation limits the personal plan to China North 2, Beijing. Credits cover model and built-in-tool consumption, with actual deductions varying by model, token usage, reasoning mode and tool calls. The permitted scope is interactive use in compatible AI-coding and Agent tools, excluding custom application backends, automation scripts and noninteractive batch calls."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-b4a550b4a1e9ba74035d31fc",
       "source_sha256": "39e11cd13df3758e49f89f565193f5f6ba2dd819599edc22d17688ede93148be",
@@ -64,12 +111,13 @@
     },
     {
       "article_id": "article-07cfd2db462dffdc49dcd9e7",
-      "source_sha256": "a930fd2ce21792ce8c37a0e36605d359604f504f53765029f52327bfae2afdd5",
+      "source_sha256": "3ccfb23213b3116cdf4c96a7d36d1b3437f95c29873bc184f68b60475e5af56c",
       "paragraphs": [
-        "China’s Customs Tariff Commission issued Announcement No. 6 of 2026 on November 9, providing that **from 13:01 Beijing time on November 10, the suspension of the 24% additional tariff on U.S.-origin goods will continue for two months, while the 10% additional tariff remains**. The announcement date and effective date are November 9 and November 10, respectively.",
-        "The adjustment applies to measures established in the Commission’s Announcement No. 4 of 2025 concerning additional tariffs on imports originating in the United States. It concerns the additional-tariff component covered by that measure. The retained 10% is not a uniform replacement for all taxes and duties that may apply.",
-        "The announcement says the State Council approved the measure to implement the consensus reached at the Chinese and U.S. leaders’ Washington meeting. Xinhua Finance cited the Commission’s office as saying China would monitor subsequent U.S. actions and adjust relevant tariff countermeasures as circumstances warrant. That is a statement about potential future policy, rather than a further adjustment already in force.",
-        "Lianhe Zaobao also reported that the two countries’ lead economic and trade officials held a video call on the evening of November 6 to discuss implementation of previous agreements and mutual concerns. The newly announced measure extends the suspension of part of the additional tariff, while retaining another part; it does not remove all bilateral trade restrictions."
+        "Several Chinese departments announced extensions on November 9 to suspensions of certain U.S.-related trade measures. The Customs Tariff Commission’s Announcement No. 6 of 2026 provides that **from 13:01 Beijing time on November 10, the 24% additional tariff remains suspended for two months while the 10% component stays in place**. This concerns the additional rates under Announcement No. 4 of 2025; the retained 10% is not a uniform rate for all applicable taxes and duties.",
+        "The Ministry of Transport’s Announcement No. 90 of 2026 extends the suspension of special port fees for U.S.-related vessels and their implementing rules, together with the investigation into effects on shipping, shipbuilding and related supply chains’ security and development interests, **until January 10, 2027**. It covers Announcements Nos. 54 and 55 of 2025 and implementing document No. 59 of 2025, rather than abolishing all port charges.",
+        "The Commerce Ministry separately announced in the afternoon that measures under the Unreliable Entity List mechanism’s April 4, 2025 Announcement No. 7, covering 11 U.S. entities, would remain suspended for two months from November 10. Chinese companies may apply to trade with those entities, with approval still subject to a lawful review of whether conditions are met.",
+        "Another statement concerns the Commerce Ministry’s Announcement No. 21 of 2025, covering 16 U.S. entities on the export-control list. Those measures also remain suspended for two months from November 10. **Exports of dual-use items to those entities still require applications, review and licenses**. Suspending the specified announcement does not remove dual-use export administration.",
+        "Tariffs, port fees and the two entity-related measures are governed by separate announcements with differing scopes and start and end formulations. Officials describe them as implementing leaders’ meeting or eighth-round trade-talk agreements. The extensions announced on November 9 do not remove all bilateral trade restrictions or establish that a new comprehensive trade agreement has entered into force."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -106,6 +154,42 @@
         "Mitsui Chemicals’ disclosure breaks the amount into JPY 1.3921 trillion of equity value, including a JPY 200 billion DBJ investment, and JPY 447.9 billion of interest-bearing debt and other items. The final acquisition consideration remains subject to adjustments at closing. The JPY 1.84 trillion is therefore not entirely an equity cash payment to the seller.",
         "JSR’s businesses include photoresists and other semiconductor and optical materials. JIC says combining JSR’s photoresists with Mitsui Chemicals’ pellicles and back-end materials could broaden coverage across fabrication stages and strengthen joint research. These are anticipated synergies described by the parties, rather than additional revenue or technological achievements already realized.",
         "The transaction requires procedures under Japanese and overseas competition and foreign-investment rules. Mitsui Chemicals plans to consolidate JSR as a subsidiary. DBJ’s ordinary shares are expected to convert to nonvoting preferred shares after the transaction, giving Mitsui Chemicals all voting rights. The announcement states that the time needed for regulatory procedures may change the completion schedule."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3d7aaab50d1518401308d641",
+      "source_sha256": "6febf0c71a4ca8bdfcff43775757fa1c2b653a7caa781fe1d74ac65ffaa06042",
+      "paragraphs": [
+        "ByteDance’s Seed team introduced **Seedream 5.5 for image generation and editing** on November 9, focusing on iterative editing, transparent assets and more realistic images and text. Its demonstration applies 100 successive edits to one person’s image, using each preceding output as the next input. The team says unedited areas can remain stable at the pixel level, reducing accumulated color shifts, detail loss and degradation.",
+        "The model supports **native RGBA output**, directly generating images with an alpha channel and fully or partially transparent areas. Official examples include feather edges, textured lettering and separate character assets intended for layout and compositing. Demonstrations involving people, flowers and interiors also show how the model handles changing occlusion, contact, perspective and lighting during edits.",
+        "On MagicArena, the Seed team had experienced image-generation evaluators assess usability rates and mean opinion scores across e-commerce, marketing, film and television, gaming, office productivity and fashion design. The company reports improvements over 5.0 Pro in all six categories, with usability in film and television and office productivity more than doubling. In a separate paired-preference evaluation, image-to-image realism reached a GSB score of +55.62% against the previous version. That figure is not an accuracy rate or a general success rate.",
+        "Tests covering Chinese, English and densely arranged small text reportedly reduced severe text corruption to 0.4% and minor corruption to 1.7%. These are Seed’s evaluations and do not establish performance across every real-world task. The product page provides trial and API entry points, but the announcement does not specify API pricing, regional eligibility or downloadable weights. Seedream 5.5 Pro is described as a forthcoming version."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8a51216eaa74efa92e8b5dcb",
+      "source_sha256": "254fe7efefd0fdfe9f51f70950914a4380d9f16eb3c9f1f40edda35fd24b067e",
+      "paragraphs": [
+        "NVIDIA, Korean AI-chip company Rebellions and SK Telecom announced a collaboration to connect Rebellions’ Rebel R200 neural processing units to NVIDIA infrastructure through NVLink Fusion and the MGX rack architecture. Korea’s Ministry of Science and ICT supports the collaboration. SKT plans to deploy the systems in its AI data center, linking them with proprietary models such as A.X K2 and public-facing services.",
+        "The companies plan to explore **disaggregated inference, using NVIDIA GPUs for prefill and Rebellions NPUs for decode**. Prefill processes the input context, while decode generates the output incrementally. The partners aim to improve throughput and energy efficiency by assigning stages to suitable processors. MGX provides common design elements for rack dimensions, power and cooling, while NVLink supplies high-speed connections within the rack.",
+        "R200 remains a next-generation processor under development, targeting inference workloads including multitrillion-parameter mixture-of-experts models. The announcement says **the systems are expected to be ready for deployment in 2028**. It does not announce volume deliveries or provide independently verifiable R200 throughput, power-consumption or price figures.",
+        "The same round of Korean collaboration announcements includes NVIDIA B200-optimized Dynamo deployment recipes for SKT’s A.X K2, LG’s K-EXAONE 2.0, Upstage’s Solar Open 2 and Motif-3. NVIDIA claims up to twice the performance from these recipes. That is a vendor claim about B200 software deployment, rather than a result from the future R200 systems. Dynamo is an open-source distributed inference-serving framework; the models’ weight licenses apply separately."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-01c2b0431fa7a4eeda592c61",
+      "source_sha256": "0f9318d43fa70739d2ce44b1a9616a3f38da7101d2f65ac7ac36f5d4038d6bb2",
+      "paragraphs": [
+        "Rakuten Group and AST SpaceMobile announced on November 9 that they **agreed on November 6 to establish Rakuten AST**, with incorporation planned for that month. Rakuten will hold 51% of voting rights and AST’s Japanese subsidiary 49%, with legal capital of JPY 100 million. The Japanese project will connect commercially available smartphones to low-Earth-orbit satellites for everyday coverage and emergency resilience.",
+        "The venture’s project was selected under Japan’s Ministry of Internal Affairs and Communications J-LEO satellite-infrastructure program. It is expected to receive **up to JPY 148 billion in support** over approximately three years through fund administrator CIAJ. That is a support ceiling and expected funding arrangement, rather than money fully received on the announcement date. The official release says the grant follows the venture’s establishment.",
+        "Rakuten AST and AST will deploy and manage satellites compatible with mid-band spectrum, targeting network construction and the start of Japanese domestic operations by the end of March 2029. Plans include emergency roaming among operators during disasters and ground-based base-station equipment intended to let Japanese operators manage the network autonomously. Construction and operational implementation remain ahead.",
+        "AST will provide satellites and core technology, while the partners also plan to explore AI spectrum management and edge computing. Separately, Rakuten says commercial-environment testing of satellite-to-phone service under its existing 2020 strategic partnership is planned within 2026. That test and the new J-LEO venture’s 2029 network target are different arrangements and do not establish a full commercial launch this year."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -159,12 +243,12 @@
     },
     {
       "article_id": "article-0d1d7f1d79f1e51e6f015d7b",
-      "source_sha256": "5c46225f78748a2efc489e209fdaf1de28b9d808ec7a39328f385f18b1e24741",
+      "source_sha256": "01dbac7e4961dbe2be479b2b67aa97fac92ee413177c5a4f5479dab7d71799a0",
       "paragraphs": [
-        "At around 11:00 on November 9, Xinhua cited relevant Shanxi authorities as saying the fire at Haosheng International Apartments on Liuxiang Street in Yingze district, Taiyuan, **had killed 14 people**. The Paper explicitly republished Xinhua’s update, and Lianhe Zaobao also reported the new toll. The previous evening’s five deaths were an earlier count that has now been revised upward.",
-        "The fire began at 16:59 on November 8. Yingze district’s evening notice said open flames were extinguished at 19:00, the search ended at 20:30, and 38 people were taken to hospital, including the five deaths recorded at that time. The November 9 update does not provide revised cumulative hospital or injury figures, so subtracting 14 from 38 would not establish the current number of injured people.",
-        "Lianhe Zaobao previously cited The Beijing News as reporting that emergency-management officials initially located the fire on the fifth and sixth floors. Nearby businesses described a residential main tower and a nine-story commercial annex. Smoke from the annex also affected the main tower, prompting some residents to evacuate. These on-site accounts do not replace the final accident investigation.",
-        "As of midday on November 9, public reports continued to describe treatment of the injured and assistance for those affected, with the cause under investigation. No formal investigative findings have established the ignition material, mechanism of spread or condition of firefighting facilities."
+        "CCTV reported on the afternoon of November 9, citing relevant Taiyuan authorities, that the Haosheng International Apartments fire **had killed 14 people and left 25 receiving hospital treatment, including 16 in generally stable condition and nine with more serious injuries**. Hospitals are continuing intensive treatment efforts. Phoenix explicitly republished the CMG reporter’s update, adding hospital information after the morning increase in the death toll.",
+        "The fire began at 16:59 on November 8 on Liuxiang Street in Yingze district, Taiyuan. That evening’s local notice said open flames were extinguished at 19:00, the search ended at 20:30, and 38 people had been taken to hospital, including five deaths then recorded. The 25 people in hospital reported the following afternoon are a newer treatment count and cannot simply be added to or subtracted from the earlier hospital total to derive unreported figures.",
+        "Jiemian cited The Beijing News as saying emergency-management officials initially located the fire on the fifth and sixth floors. Businesses on the first three floors were mainly training institutions, the fifth through seventh floors were unused areas, and the eighth and ninth floors housed a hotel. These are preliminary checks and reported building-use details. Final findings on the ignition material and mechanism of spread have not been published.",
+        "As of the public updates on the afternoon of November 9, treatment and assistance for those affected continued, with the cause under investigation. This November 8 fire is a different accident from the March 2026 high-rise fire elsewhere in Taiyuan; their casualties and on-site accounts are separate."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -362,12 +446,12 @@
     },
     {
       "article_id": "article-bcc676a14cba33a779620956",
-      "source_sha256": "a0112e46eb4e214139be61a1d313337429fc1ad763276ac8881454120d83f164",
+      "source_sha256": "dd29a4c9a8891ae1437bfcec172f11eafeba5324b87fd3a06f293bda8844ac9c",
       "paragraphs": [
-        "Authorities have confirmed further identities in the November 7 Krakow shooting case. The BBC’s update says the six people killed in the square included **a British citizen**. On November 8, Polish police confirmed that the three additional people found dead at the suspect’s home in Ostrowiec Świętokrzyski were his parents and 21-year-old sister. Deaths at the two locations are reported separately.",
-        "Four women and two men were killed in the square. Krakow’s city government continues to list 15 injured people. The BBC’s total of 16 taken to hospital includes the suspect, who was shot by police. Those hospitalized also include two officers and five foreign nationals, with the foreign injured coming from Austria, Britain, Germany, Portugal and Russia.",
-        "The 25-year-old Polish suspect was subdued after the shooting and remains in hospital following surgery for a gunshot wound. Police said he was not a soldier, had no previous criminal record and held a firearms permit. Authorities’ preliminary assessment is that far-right and ultranationalist ideas influenced him, while the specific motive remains under investigation. One officer involved in the arrest was in an extremely critical condition.",
-        "The attack occurred around 15:00 local time on November 7 in the Main Market Square area. A number 1 tram was also hit, but neither its passengers nor its driver were injured. Krakow declared mourning from November 8 through November 11, and roads in the area had been closed for investigation and emergency work."
+        "Police in Krakow, Poland, confirmed on November 9 that the **24-year-old suspect in the November 7 Main Market Square shooting died in hospital early on November 9**. The city government’s notice and a new BBC report both record the development. He had been shot during police intervention and taken to hospital in critical condition.",
+        "The city’s update lists six deaths and 15 injuries from the square attack, including two injured police officers. BBC’s figure of 16 people taken to hospital includes the suspect and therefore differs from the count of 15 other injured people. The six people killed were four women and two men, including a British national and an Austrian woman. Police also found the bodies of the suspect’s parents and 21-year-old sister at his home; the two locations are counted separately.",
+        "The shooting began around 15:00 local time on November 7. Officers exchanged fire with the suspect, and BBC cited officials as saying he was shot approximately three minutes after the attack started. Officials had provisionally linked him to far-right and ultranationalist ideas, while the specific motive remains subject to investigation. His death does not establish that every circumstance has been resolved.",
+        "BBC reports that two surgeons eating nearby helped at the scene. One used his hand to stem a seriously injured officer’s bleeding until an ambulance arrived. Both injured officers reportedly emerged from comas on November 8. The square reopened after the cordon was lifted that evening, while city mourning and the investigation continued."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1065,15 +1149,15 @@
     },
     {
       "article_id": "article-596a3e67a2c5cb1a73874d45",
-      "source_sha256": "a5eaf3bb82620113aa3c46d5f284dd40a23a3cd4a160b1e60504098be56e0f80",
+      "source_sha256": "dbd62629a92459f5d175d8a9896a9e959629f0780ea370a5130c9899012f7b41",
       "paragraphs": [
-        "Serbia’s Republic Electoral Commission adopted the final overall report on the parliamentary election on November 5, covering the October 25 vote and repeat voting at fifty-three polling stations on November 1. **The Student List won 140 of 250 seats, while Aleksandar Vučić’s United Serbia list won 103**, leaving the student-led bloc with an absolute majority.",
-        "The commission recorded 2,354,417 votes for the Student List and 1,731,323 for United Serbia. Five minority lists shared the remaining seven seats: the Alliance of Vojvodina Hungarians and Albanian Coalition won two each, and three other lists one each.",
-        "The final report covered 8,392 polling stations, with 4,441,636 people casting ballots: 4,385,065 valid and 56,571 invalid. After the earlier publication of counts from every polling station, the new procedural development is the commission’s formal confirmation of the final results.",
-        "Radio Free Europe explains that the commission must then allocate parliamentary mandates within ten days of publication of the overall report. The new parliament must be constituted within thirty days of the final results, followed by a ninety-day period for electing a government. Formation of the new government still awaits those parliamentary procedures."
+        "The first sitting of Serbia’s new National Assembly is scheduled for **November 17 at 10:00 local time, or 17:00 Beijing time**. Speaker Ana Brnabić announced the arrangements on November 8, with confirmation on both parliamentary and government websites. The Electoral Commission had adopted the final-results report on November 5: the Student List won 140 of 250 seats and the bloc led by Aleksandar Vučić 103.",
+        "The new development concerns parliamentary procedure after final counting. Brnabić said the Electoral Commission adopted the allocation of mandates and the relevant report on November 6 and submitted them to the Assembly, fulfilling the conditions for convening its first sitting. It will verify MPs’ mandates, elect the Speaker and Deputy Speakers, appoint the Secretary General, and elect members of working bodies and standing international delegations.",
+        "The sitting will take place in the Grand Hall of the National Assembly building in Belgrade. Until a new Speaker is elected, the oldest MP, Professor Stojan Radenović, will preside. These are arrangements to constitute the 15th legislature: **the meeting date is confirmed, but a new government has not thereby been formed**.",
+        "Voting took place on October 25, followed by repeat voting at 53 polling stations on November 1. The final report lists 4,385,065 valid votes and 56,571 invalid votes, including 2,354,417 for the Student List and 1,731,323 for Vučić’s bloc. Minority lists received the remaining seven seats."
       ],
       "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-21ef27b7b49c3e5ed71443f3",
