@@ -1,7 +1,123 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T09:13:55.856Z",
+  "generated_at": "2026-11-10T01:22:09.872Z",
   "translations": [
+    {
+      "article_id": "article-67ccbb8d211c3dae86593b59",
+      "source_sha256": "14a520cc601f60291af9adb947353b1187f376e1b8aa73aa099e592424c28764",
+      "paragraphs": [
+        "Meta introduced **Muse Ember** for high-volume agent tasks, adding it to every Muse Code subscription plan and the Meta Model API. It accepts text, images, audio and video and targets repeated coding subtasks, tool calls, document summarization and extraction. Larger Muse Wonder or Muse Spark models can handle overall planning and difficult reasoning while Ember executes smaller tasks.",
+        "The official developer announcement distinguishes input lengths: **up to 200,000 input tokens, prices are $0.10 per million input tokens and $0.50 per million output tokens; above that threshold, they are $0.30 and $1.50**. The one-million-token context window reported by IT Home therefore does not mean the entire window receives the lowest rates. The release provides API and subscription access, without announcing downloadable weights.",
+        "Meta presents an Artificial Analysis Intelligence Index score of 36 and estimates model cost at approximately $0.13 per index task at max reasoning effort. Its table reports 37.8 on AutomationBench-AA and 40.9 on Terminal-Bench 4.0, but 27.2 on FrontierCode 2.0-AA, below the listed Haiku 5.5 score of 34.9. This illustrates task-specific trade-offs rather than superiority on every measure.",
+        "One official example migrates 16 lexers from a Python syntax-highlighting project to Rust in parallel, using a larger model for planning and smaller models for execution and checking. This is a vendor-demonstrated workflow. Actual cost and reliability still depend on context length, tool execution, retries and acceptance criteria."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d5c491a541e65c461c18f1ee",
+      "source_sha256": "4e01e9c2e62972de0c3899375872bd5ab5c415d2597cd3f3c84f3214dddd5fbe",
+      "paragraphs": [
+        "IT Home reported on November 10 that Valve has added **Steam Deck average frame rates and frame-rate histograms** to the Steam store and client beta. The store information appears under Steam Deck Compatibility and Learn More, with corresponding information in the beta client’s library. It covers tested games rated Verified, Playable and Unsupported, with data already displayed for thousands meeting sample requirements.",
+        "Statistics come from Steam Deck players who voluntarily enable anonymous frame-rate reporting and are subject to a minimum sample threshold. The cited explanation says only data under default frame-rate limits are included: 90 FPS for OLED and 60 FPS for LCD models. **Samples are not separated by players’ chosen in-game graphics settings**. The same average can therefore reflect different settings, scenes and distributions, rather than standardized hardware benchmarking.",
+        "Histograms show sample proportions by frame-rate range, supplementing averages with information about lower-frame-rate performance. Compatibility ratings still follow their existing test rules; the added information does not automatically turn an Unsupported rating into Verified.",
+        "Valve also plans to accumulate more anonymous desktop-client frame-rate data as groundwork for other devices. The current display concerns Steam Deck. Comparable information for PCs and other hardware remains a future direction rather than a completed general rollout."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8434ec38f1ec63c99b23948a",
+      "source_sha256": "7e8c4c5b2eb95fe9d60cf640634933a3c4571cf976170aa5863f6ee68a3ad432",
+      "paragraphs": [
+        "CCTV reported on November 10 that the offshore main bridge of the Xiamen section of the Xiamen–Kinmen Bridge was closed in the early hours after the final steel box girder was installed. This marks **completion of the offshore main bridge’s principal structure** and the start of finishing work before opening. It does not mean the whole project is open to traffic or that a drivable link between Xiamen and Kinmen has been completed.",
+        "The final steel box girder weighs 3,318 tonnes and was lifted by a 5,500-tonne-class floating crane. Closure precision required control around a reference temperature of 22°C, followed by synchronized jack adjustments. The last closure was at the non-navigation-span bridge east of the Liuwudian navigation channel.",
+        "The offshore main bridge is approximately 14.2 kilometers long and consists of 12 bridge sections, including the Guanyinshan interchange main bridge and the Liuwudian and Jintong navigation-channel bridges. The Xiamen-section project totals about 19.6 kilometers, including offshore main and branch bridges and land tunnels. Its main route is 17.34 kilometers, with eight lanes across the sea and a design speed of 100 km/h. These lengths refer to different project scopes.",
+        "Deck, electromechanical and traffic-safety works continue. The reported target is to open the offshore main bridge by year-end, improving connections from Xiamen Island to Dadeng Island and toward Xiang’an International Airport. Actual access remains subject to subsequent acceptance and an official opening announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-caa9073cefb43725f1a58e80",
+      "source_sha256": "27581478f34eafe0b00ebb65e85bdf9bf6fd909489ddf563406cb644ba653243",
+      "paragraphs": [
+        "OpenAI announced on November 9 that **ChatGPT Enterprise is available through AWS Marketplace**, using existing AWS billing, with eligible spending counting toward AWS commitments.",
+        "Features and updates match direct purchases. Healthcare and Financial Services offerings also serve eligible customers, with eligibility confirmed by the companies’ account teams. No universal new discount was announced."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bfba74fdc28fbe1a40c8c6dc",
+      "source_sha256": "cb92bfdd7a34658bc8c9e87b8bab832186e14a0dfd2b5f8d880caa64c94bacc9",
+      "paragraphs": [
+        "An explosion and fire struck the HABAŞ steelworks in Aliağa, İzmir province, western Turkey, around midday on November 9. **As checked on the morning of November 10, both the BBC and Euronews report at least 17 workers dead**; the BBC also reports 12 injured. The health minister said a critically injured worker had died, raising the president’s earlier death toll of 16 to 17.",
+        "The provincial government’s initial statement places the incident at approximately noon local time, or 17:00 Beijing time. Its preliminary assessment says an overhead crane broke and fell into an electric arc furnace during liquid-steel casting. The company says the incident occurred during scheduled furnace maintenance. These accounts describe an initial sequence, rather than a final determination of every technical cause and responsibility.",
+        "The province initially reported three deaths, 14 injuries and ten people trapped. Figures changed as rescue and treatment progressed and must not simply be added to later death tolls. Images show smoke and emergency vehicles at an industrial facility. Witness descriptions of earthquake-like shaking do not establish an earthquake.",
+        "Investigation and search operations continue. Euronews reports five people detained and four prosecutors assigned to the investigation; detention is not a conviction. The disaster occurred in a major Turkish steel and port-industrial district and involves lifting equipment and high-temperature steelmaking facilities during maintenance."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bddb26cd28dd950c6a4db280",
+      "source_sha256": "4ba8ad498991e12779ecbe185561ab82bd08637fb0b41e9065336d47fd84cd22",
+      "paragraphs": [
+        "HLTV’s November 9 Counter-Strike world-ranking update puts **MOUZ first with 912 points, two ahead of FURIA’s 910**, after a rise of three places. Vitality is third on 836 and Spirit fourth on 777. The new development is a ranking change, rather than another tournament win.",
+        "MOUZ had already won IEM Beijing without dropping a map; this update incorporates recent results into HLTV’s rankings. HLTV says the team reached first in the global Valve Regional Standings in late October, meaning it now leads both major systems for the first time since June 2024. HLTV and VRS use different methodologies, and points cannot be transferred between them.",
+        "Beijing was MOUZ’s second title of the season after BLAST Bounty Season 2 in August. The team also finished second at BLAST Open Porto and ESL Pro League 24 and third at PGL Masters Bucharest. xertioN and torzsi are the remaining members of the roster that topped the rankings in June 2024.",
+        "In the same update, The MongolZ climbs five places to tenth and TYLOO four to thirtieth. MOUZ is due to attend BLAST Rivals before the Singapore Major. Current rankings and participation plans are not qualification or championship results for those future events."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-86c789f54f491937945703c8",
+      "source_sha256": "268df944186ea622f2f567dabdcabb358a9f273ad491cb436e87bbec638bc42d",
+      "paragraphs": [
+        "Following a social conference in Paris on November 9, France’s government announced it would bring forward the minimum-wage adjustment from January to **December 1, 2026**, increasing the SMIC by **1.6%**. This is an announced future standard, rather than a rate already paid for November.",
+        "Business France’s public explanation gives **EUR 1,897 gross and approximately EUR 1,502 net per month** for full-time work of 35 hours a week. Lianhe Zaobao, citing Reuters, reports a net monthly increase of about EUR 24. The minimum wage had risen by about EUR 35 in June. Gross pay and net pay after social contributions are different measures and cannot be added or used interchangeably.",
+        "Labor Minister Jean-Pierre Farandou confirmed the accelerated adjustment. It remains below union demands: the CFDT sought a EUR 100 monthly net increase, while the CGT sought 10%, or roughly EUR 150 a month. Prime Minister Sébastien Lecornu announced the measures after meeting union and employer representatives, with living costs and purchasing power central to negotiations.",
+        "Business France also notes changes to income or salary thresholds for some talent residence permits linked to the SMIC, including entrepreneur, French Tech founder and company-officer categories. Its monthly figures refer to a 35-hour full-time job and do not directly describe every part-time worker’s take-home pay."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-952d2516af2e905436adea3b",
+      "source_sha256": "0deea75517c1416fb047881092bb26fb30cca2d3a8b2e082d29b77f0a39822d3",
+      "paragraphs": [
+        "OpenAI described Control Room on November 9. Deployed internally across research infrastructure, it checks task authorization at the inference layer.",
+        "It blocks further output within **35 seconds** of a stop instruction; the process may remain alive. Fail-closed operation covers frontier-model research, with remaining workloads due over the following days."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e9950a58c8925934c58a1e8f",
+      "source_sha256": "d06acc4e25d25f04f051639ccc4a512830cdb9926156d0fc765c948ca5f9c167",
+      "paragraphs": [
+        "Google announced **TPU 8tx and TPU 8i Max system configurations** on November 9, joining the 8t and 8i unveiled in April to form a four-system eighth-generation portfolio. Google emphasizes adjustments to packaging, memory, networking and security, rather than describing both additions as entirely new chips designed from scratch.",
+        "TPU 8tx uses the same silicon as 8t and pairs it with **fifth-generation AMD EPYC host CPUs** for confidential inference, small-scale training and agent execution in government and regulated enterprises. It aims to protect and isolate data and model weights even while they are in use. The low-latency Boardfly network supports multistep agents. Google claims up to twice as low latency compared with 8t; this is a vendor claim.",
+        "TPU 8i Max combines **two 8i chips in one package** for workloads involving many collaborating agents, whole codebases or long videos requiring large contexts. Google says compute, SRAM and HBM bandwidth double relative to a single 8i, with more silicon in the existing rack footprint. These are specifications and design claims, rather than independent application measurements.",
+        "Google also highlights PyTorch and an open software ecosystem to reduce barriers to TPU adoption. IT Home’s account of Bloomberg’s interview with Amin Vahdat says the new configurations are expected to reach the market next year, so the announcement does not establish broad immediate supply. April’s 8t training-performance and 8i inference-price-performance figures should not be presented as new measurements of these configurations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5f96200ead468b1eb2c4522f",
+      "source_sha256": "3a99b3736ce926679803ee0d18cec46d7cce0f4c36b2bf2e07c9d336923ec751",
+      "paragraphs": [
+        "The leadership of Germany’s CDU formally nominated Bavarian parliament speaker **Ilse Aigner** for federal president on November 9. Chancellor and CDU leader Friedrich Merz appeared with her at a Berlin press conference. The CDU’s announcement says the Federal Convention is scheduled to vote on **January 30, 2027**. This is a nomination; Aigner has not been elected or taken office.",
+        "The 61-year-old belongs to the CSU, the CDU’s Bavarian sister party, which already supports her candidacy. DW reports that governing partner the SPD has indicated support for a jointly agreed conservative nominee. The CDU, CSU and SPD hold a majority in the Federal Convention, and some Greens may also support her. This gives her strong prospects but remains an assessment of a future vote.",
+        "The Federal Convention has 1,260 members, comprising Bundestag members and delegates chosen by the states. President Frank-Walter Steinmeier’s second five-year term ends next March. The president is Germany’s head of state, normally performing cross-party representative, unifying and constitutional duties, distinct from the chancellor’s role leading the government.",
+        "Aigner previously served as federal agriculture minister and a Bavarian minister and has led the state parliament since 2018. She says she wants to bridge divisions and reach people who feel overlooked; these are the candidate’s political positions. If elected, she would become Germany’s first female president, rather than its first female head of government."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-1db04d5b973dbc68e0c599ba",
       "source_sha256": "7609c810b6b839baa99ac92c98950594bf4982d169cde3cead4e8070561e1632",
@@ -190,6 +306,65 @@
         "The venture’s project was selected under Japan’s Ministry of Internal Affairs and Communications J-LEO satellite-infrastructure program. It is expected to receive **up to JPY 148 billion in support** over approximately three years through fund administrator CIAJ. That is a support ceiling and expected funding arrangement, rather than money fully received on the announcement date. The official release says the grant follows the venture’s establishment.",
         "Rakuten AST and AST will deploy and manage satellites compatible with mid-band spectrum, targeting network construction and the start of Japanese domestic operations by the end of March 2029. Plans include emergency roaming among operators during disasters and ground-based base-station equipment intended to let Japanese operators manage the network autonomously. Construction and operational implementation remain ahead.",
         "AST will provide satellites and core technology, while the partners also plan to explore AI spectrum management and edge computing. Separately, Rakuten says commercial-environment testing of satellite-to-phone service under its existing 2020 strategic partnership is planned within 2026. That test and the new J-LEO venture’s 2029 network target are different arrangements and do not establish a full commercial launch this year."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a989f1582084d0cf153c32d2",
+      "source_sha256": "a794cc654fa305552ed815aed08f80bd294a15963435c2e56729d3c3659e0b65",
+      "paragraphs": [
+        "Anthropic released **Claude Fable 5.2 and Claude Mythos 5.2** on November 9, improving coding, reasoning and vision. They share an underlying model, but Fable has stronger cybersecurity and biology safeguards and is available for general use. Mythos targets organizations approved through cybersecurity or life-sciences verification programs; the new version does not open access to everyone.",
+        "Standard pricing is **$8 per million input tokens and $40 per million output tokens**. Optional fast mode costs $16 and $80, respectively. Anthropic says output can be up to 30% faster than version 5.1, while fast mode can generate tokens up to 2.5 times as quickly as standard mode. These claims concern generation speed, rather than equivalent reductions in an entire complex task’s duration.",
+        "Fable 5.2 is available through the Claude Platform and channels including AWS, Google Cloud and Microsoft Azure, with the platform identifier claude-fable-5-2. Fast mode covers Claude Code, the Claude Platform and the specified Google Cloud and Microsoft Foundry hosting channels. Mythos fast mode remains limited to verification-program organizations. Claude Security for Claude Enterprise can also use the model family, including Mythos 5.2.",
+        "The release presents prerelease experiments in code migration, electronic-device design and formal mathematics. On FrontierCode 2.0, version 5.2 scores 49.1% at Xhigh reasoning effort, against 32.4% for version 5.1, according to Anthropic’s specified evaluations. Its Fermat’s Last Theorem example formalizes an existing proof rather than claiming a newly discovered proof. These demonstrations do not establish that all research or engineering work can be completed without human review."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c4652db63a2f873df76057b7",
+      "source_sha256": "95e19fc887eed964a84033c980fc1894549e3def9f75191e54ee5f89e88ccbe5",
+      "paragraphs": [
+        "Meituan’s LongCat team announced **open weights for LongCat-2.5** on November 9. The official Hugging Face repository provides a model card, file access and deployment guidance. The model had already appeared in online products earlier in November; the new development is weight availability, rather than a new date for the earlier API launch.",
+        "The native multimodal mixture-of-experts model has 1.6 trillion total parameters, with roughly 48 billion activated per token. It targets long-horizon agents, complex codebases, full-project builds, creative design and 3D tasks. The model card describes converting native-resolution visual features into discrete tokens processed with text in a shared semantic space. Thinking and non-thinking modes are supported.",
+        "The weights include an **MIT license**, permitting use, modification and redistribution, including commercial use, subject to conditions such as retaining copyright and license notices. Open weights do not mean that all training data and the complete training pipeline are public. The model card links to NPU deployment and SGLang-FluentLLM and describes W4A4 expert-weight and activation quantization; this does not establish that ordinary consumer computers can run the model.",
+        "The team reports 88.4 on Terminal Bench v2.1 and 38.5 on v4.0, which use their respective task versions and evaluation setups and are not directly comparable. The card distinguishes quoted external results from internal measurements and labels unstarred scores as in-house and indicative only. Long-context capability, quantized throughput and agent deliverables likewise depend on specific evaluation conditions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-02a4c1ebebdc739d053948b2",
+      "source_sha256": "89c0ad7c38a03135e22b6c8174c977957d5576345168410a9709ef06dd1c2517",
+      "paragraphs": [
+        "The Mobile Intelligent Terminal Ecosystem Alliance announced on November 9 that **OPPO, vivo, Xiaomi and Honor are introducing Android Developer Verification, or ADV, for sideloaded apps in mainland China**, with mutual recognition of verification results. The mechanism links developers with their applications to improve traceability of malicious, impersonating or fraudulent apps.",
+        "Under the announcement, platforms automatically submit apps already registered and listed through the four developer platforms, without a separate application for that situation. Unverified apps display an “unverified” prompt during sideloading and require manual confirmation to continue installation. This adds source warnings and confirmation, rather than announcing a blanket ban on every unlisted app.",
+        "The arrangement concerns the four manufacturers’ mainland-China platforms and should not be generalized to all Android devices, overseas models or Google services. Verified developer identity also does not guarantee every aspect of an app’s behavior is safe. Each developer platform provides its own submission procedure; the announcement does not specify a date when every existing handset will receive a corresponding system update."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bc9cc02cb41bd2cd720261aa",
+      "source_sha256": "042629b373ff3ecf539c148c456f982f593d4ba11ef72683d0b70978d4012e73",
+      "paragraphs": [
+        "Greece’s coast guard reported on November 9 that a Morocco-flagged cargo ship rescued 18 people about 15 nautical miles, or 28 kilometers, south-southwest of Kaloi Limenes, Crete. Coast-guard crews then found **13 bodies** in the same migrant boat. One rescued person was confirmed dead after transfer to the Moires health center, bringing **this boat’s death toll to 14**.",
+        "The coast guard says the bodies included 12 men and one woman. Three other rescued people, including a minor, went to hospital, while 14 survivors were transferred to temporary shelter in Rethymno. The case involved 31 people: the 18 initially rescued were not all confirmed survivors, and the earlier single-boat toll of 13 is outdated.",
+        "The AP’s updated November 9 report also describes a separate weekend incident in which 28 Sudanese people were rescued, eight bodies recovered and two people reported missing. Together, the two incidents caused at least 22 deaths over three days. Sudanese nationality pertains to the other boat; identities, nationalities and specific causes of death in Monday’s case had not been announced.",
+        "More than 180 people were found and rescued from three additional boats that day in separate operations and should not be added to the single-boat count. The International Organization for Migration says increasing arrivals along the eastern Libya–Crete route and gaps in rescue capacity intensify humanitarian risks. Death and missing-person counts reflect the reports read for this November 10 morning edition."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-efa11d663af404c693fa527e",
+      "source_sha256": "367bcdf5bf14feb14036d1061052f06c44d035b0037844c0c0ecd8db5d642826",
+      "paragraphs": [
+        "**Casualties: Unknown**, developed by Orsoniks and published by Oro Interactive, officially launched on Steam on November 9. The store lists a Windows version with Simplified Chinese interface and subtitles but no Chinese voice acting. A free demo has a separate entry. Full release and demo availability are distinct; this is not merely an announcement or an Early Access launch.",
+        "The 2D pixel-art game depicts harsh survival in alien caves, with 11 layers, three characters with different playstyles and approximately 300 discoverable items. Its central systems simulate cardiovascular and limb damage, connecting bandaging, infection, blood loss and consciousness. Mood can also affect survival, while crafting and plant resources support exploration and emergency treatment.",
+        "Characters can develop intelligence, strength and resilience, and loot and danger values can be adjusted from the main menu. The store identifies mature themes including violence, dismemberment and self-harm. Its design emphasizes unforgiving survival simulation rather than relaxed sightseeing. These gameplay descriptions come from the developer’s store material.",
+        "The mainland-China store checked on the morning of November 10 lists a regular price of RMB 78 and an introductory price of **RMB 66.30 through November 23**. The same page shows 767 user reviews with 97% positive. This is Steam’s proportion of positive user reviews, not an average score or independent critics’ aggregate; the sample and proportion will change as reviews arrive."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -398,24 +573,24 @@
     },
     {
       "article_id": "article-e68539633591cd5be6cb5f6d",
-      "source_sha256": "a8a156703ba940df63f36e4a9ec5e8f476a0ebe3f2bdd4e4d9684a14673bc977",
+      "source_sha256": "a68a87f924e6055f1d39343369ad1fa3c058fb76bf4d29de89baba249d75b817",
       "paragraphs": [
-        "NVIDIA’s board announced on November 8 that it was **initiating an independent investigation** following recent reports that founder and CEO Jensen Huang had been the target of a foreign intelligence effort. A committee of independent directors will oversee the investigation, assisted by outside independent counsel.",
-        "The board said U.S. national and economic security was paramount to the interests of NVIDIA and its shareholders. It currently has no reason to believe national security or NVIDIA secrets were compromised, but the inquiry will examine all available information. It added that Huang fully supports the review and has committed to cooperating, and that the board retains confidence in him and his leadership team.",
-        "The company also publicly released Huang’s letter to employees that day. He admitted an extramarital affair and apologized, accepting responsibility for his personal conduct and supporting the board’s independent investigation. BBC and Lianhe Zaobao reported that he continues to lead the company during the inquiry; no CEO replacement has been announced.",
-        "The intelligence-related allegations and the personal conduct he acknowledged are separate factual matters. The announcement establishes the investigation process and the company’s current position. **It does not establish that company secrets were leaked or provide investigative findings.** The board said it would issue further updates as appropriate."
+        "NVIDIA’s independent investigation announced on November 8 continues into reports that CEO Jensen Huang was targeted by a foreign intelligence operation. An independent-director committee oversees the review with outside independent counsel. The board says it currently has no reason to believe US national security or company secrets were compromised and retains confidence in Huang and his team. **No investigative conclusion or CEO replacement has been announced.**",
+        "The new development is President Donald Trump’s November 9 statement that he spoke to Huang that day and that the FBI was investigating. In the BBC’s direct reporting, Trump did not specify when the investigation began or its scope. **The FBI declined to comment to the BBC.** Its involvement must therefore be attributed to the president, rather than presented as an investigative finding publicly confirmed by the FBI.",
+        "In a company-published letter, Huang admitted an extramarital affair, apologized and pledged to cooperate with the board’s review and protect NVIDIA and US national security. Acknowledging a relationship does not acknowledge another person’s intelligence status or a leak. The BBC reports that China’s foreign ministry rejected the espionage allegations as groundless; identity and security-risk claims remain disputed and under investigation.",
+        "The BBC also reports that several congressional committees requested a closed-door briefing from Huang next week about NVIDIA’s counterespionage protocols and relevant contacts, but his attendance is unclear. The confirmed change is public presidential discussion of a federal investigation and congressional inquiries, not proof that company technology was stolen or any person convicted."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-143f53c29ea3c352a9fac800",
-      "source_sha256": "07b4f753bbfc84d30160bbcbf2fd36cf071d623684c8b589aceea92da643b58a",
+      "source_sha256": "83b26e2318857da8218f47526bf1cd119cabe54c9f06d37caedd150244e503c5",
       "paragraphs": [
-        "French Foreign Minister Jean-Noël Barrot said in an interview with RTL and other media on November 8 that **France and Europe would send representatives to the Russia–Ukraine talks scheduled for November 10–11 in Abu Dhabi, United Arab Emirates**. The U.S.-mediated round had previously been described as working-level talks among the United States, Russia and Ukraine.",
-        "Barrot said France would ensure Europe’s voice was heard, but did not identify the French representative. NPR noted that it also remained unclear whether European officials would negotiate directly or participate as observers. The French statement therefore does not establish that all parties have agreed on the full seating arrangements or negotiating authority.",
-        "Kremlin spokesman Dmitry Peskov had opposed European involvement, saying the trilateral format was already agreed, while acknowledging that subsequent security discussions would eventually require Europe. Ukrainian President Volodymyr Zelenskyy wants European allies involved in the peace process. U.S., European, Ukrainian and NATO officials held preparatory coordination in Brussels on November 5.",
-        "The U.S. agenda includes postwar security arrangements, de-escalation and humanitarian action. This is a renewed U.S. effort to bring Russia and Ukraine into talks after February’s Geneva meeting, with major gaps remaining over territory and security guarantees. What is confirmed is the meeting and France’s stated intention to participate, rather than a comprehensive ceasefire or peace agreement."
+        "Ahead of the November 10–11 Abu Dhabi talks, the United States, Russia and Ukraine remain divided over security arrangements and territory. In a pre-talks report on November 10, the BBC quoted US officials saying the sides had privately shown “a little bit of flexibility.” This is **the US characterization of their negotiating attitudes**, rather than an agreed territorial compromise. The report still describes the meeting as forthcoming and does not confirm that it has opened.",
+        "European participation remains disputed. French Foreign Minister Jean-Noël Barrot said on November 8 that France and Europe would send representatives. On November 9, Kremlin spokesman Dmitry Peskov said this round would involve Russia, Ukraine and the United States, without European officials, noting that Kyiv and Washington have their own channels with Europe. A US official told the BBC that Washington would propose a multilateral format including Europeans and seek Russian agreement.",
+        "A central dispute concerns Donetsk: Russia demands that Ukraine relinquish the areas it still controls, while Kyiv seeks to freeze the contact line and retain those areas for its future security. US officials view territorial arrangements and postwar security architecture as interdependent. Possible discussions include security consultations, crisis hotlines and reciprocal de-escalation measures; these remain topics and proposals.",
+        "This is another US effort to convene trilateral negotiations after February’s Geneva talks. Russian attacks on Ukraine continue, and Europeans demand a role in discussions affecting their security. **As checked for this November 10 morning edition, no comprehensive ceasefire, peace agreement or final participation arrangement agreed by all sides has been announced.**"
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1420,14 +1595,15 @@
     },
     {
       "article_id": "article-039eeeb95278a513425bf59c",
-      "source_sha256": "0da42aed54f4ee95e2b941e13615620428365abfae7e5fb5c21a5bbd93ecc02f",
+      "source_sha256": "46b7de4999e4f0c7a50e54c6ffff62418bb494396efa1e1216e25f162c13d83d",
       "paragraphs": [
-        "PlayStation Blog announced on November 3 that PS5 pre-downloads for Grand Theft Auto VI will begin at **local midnight on November 10** for players who have pre-ordered. The release date remains November 19. Pre-downloading prepares files before unlock; it does not make the game playable on November 10.",
-        "The announcement requires at least **212GB of free PS5 storage**. This is a requirement in the PS5 preparation notice, not a PC specification or a universal download size for other platforms. Local midnight also represents different moments across regions.",
-        "The update focuses on launch preparation and edition contents. The Ultimate edition lists extra vehicles, weapons and clothing for Jason and Lucia’s story, with further details promised nearer November 19."
+        "Grand Theft Auto VI has entered pre-download. IT Home reported and tested on November 9 that **the PS5 version was available to preload in the GMT+8 Asia-Pacific region, with a 209.758 GB download**. PlayStation’s earlier official schedule specified November 10 at local midnight for preorder customers. The reported observation and official plan should remain distinct, rather than implying every region opened simultaneously.",
+        "PlayStation asks PS5 users to reserve **at least 212 GB of free storage**. That is a preparation and installation requirement, while IT Home’s 209.758 GB figure is one observed download size; they measure different things and do not contradict each other. Actual size may vary with region, language packs and later updates, while download time depends on the network.",
+        "IT Home says Xbox Series X|S preloading is scheduled for November 10 at 00:00 GMT, or **08:00 Beijing time on November 10**. Passing that scheduled time does not establish actual availability for every Xbox account. The directly read hands-on evidence in this edition concerns PS5.",
+        "The official release date remains **November 19**. Preloading does not allow early play. Inferences about high-frame-rate modes, upscaling or other features from extracted encrypted files are not official performance commitments in this announcement. The PS5 preparation notice also does not establish a PC release or PC requirements."
       ],
       "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-9f0851e59a48e384cec67cfa",
@@ -5424,94 +5600,6 @@
         "[2024 Representative Works Review | Public Abstract] Müller et al. used three common boundary layer parameterizations in WRF to simulate the marine typhoon Megi, comparing wind speed, wind shear, and wind direction variations across the rotor height in the eye wall and peripheral regions. All three schemes could reasonably reproduce the track and overall structure, but the local wind field used for load assessment was not entirely consistent.",
         "Median wind speed at hub height differed by up to 15% among the schemes. Although the median simulated wind-shear exponent did not exceed the then commonly used IEC value of 0.11, up to 43.6% of the wind profiles in the eyewall exceeded it. Wind veer was less sensitive to the boundary-layer scheme. Wind shear and veer showed pronounced spatial organization along rainbands, implying that a turbine's location can experience rapid changes in wind profile over a short period.",
         "This study separates the average quantity from the local exceedance probability: a lower median does not rule out strong load segments. The results indicate that sensitivity analysis for specific typhoons and model scenarios cannot be used to conclude that all typhoons have the same shear ratio, nor can differences in meteorological simulations be directly converted into the extent of structural damage. Figure 1 shows the nested computational domain of the paper and its position as the storm moves."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b7fb691a16e76d4db19e61dd",
-      "source_sha256": "6b0bb55a8dc489cbc2f27e05524bafa06b6638b53ce769c9137911eadcf83db7",
-      "paragraphs": [
-        "[2024 March Methods Representative Works Review | Public Abstract] Zuo et al. focused on seismic vibration control of wind turbine tower structures, studying the KDamper that incorporates negative stiffness elements into traditional tuned mass dampers. The motivation was that the installation space for the wind turbine nacelle and hollow tower is limited, and traditional devices relying on larger added mass may encounter difficulties in layout and connection.",
-        "The author used the NREL 5 MW wind turbine as a prototype and constructed the tower as a multi-degree-of-freedom model. The KDamper was integrated into the structure, and the parameters were optimized based on the H₂ criterion. Subsequently, the KDamper was compared with traditional TMD in the frequency domain, and the control effectiveness and robustness to parameter variations were tested using a series of earthquake records. The public abstract report indicated that the KDamper demonstrated better control performance and robustness compared to the schemes being compared.",
-        "The conclusions point to the established dynamic model and controller design, and the abstract does not provide a unified vibration reduction percentage that can be extended to any turbine unit, nor does it complete the verification of the simultaneous effects of typhoons, waves, and earthquakes. Its relationship with subsequent studies on the seismic resistance of wind turbines is to provide a control scheme to address the limitations of space and mass. [2024 March Research Review]"
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-bd34480fe8672a0e209148ad",
-      "source_sha256": "c95cc3947cc5c458e96348eb8afb867e6974b69707cbe369231ac670168db175",
-      "paragraphs": [
-        "[2022 Representative Works Review | Public Abstract Reading] Ren et al. established a finite element model of a 5 MW Spar-type floating wind turbine and a ship to study the dynamic response and structural damage during collision. The model used ANSYS/LS-DYNA; the dynamic behavior of the wind turbine was compared with that of FAST and a eight-degree-of-freedom MATLAB model, while the ship model was compared with empirical relationships.",
-        "Within the analyzed range of initial velocity, the peak collision force, platform displacement, and tower top displacement increase approximately linearly with the ship's initial speed. The maximum acceleration at the tower top remains above 0.2g, indicating that the working condition of the machinery may still be affected even if the entire machine does not collapse. The collision primarily causes local indentation of the Spar, with the initial kinetic energy of the ship converting into plastic deformation energy of the wind turbine and dissipation in the water.",
-        "An outcome directly related to the modeling choice is that when the ship's bow is considered as a rigid body, the overall dynamic response of the wind turbine can be more accurately predicted, but the estimation of local platform deformation is insufficient. Therefore, overall displacement verification and local damage verification cannot be mutually substituted. These results are findings from simulations specific to a Spar wind turbine and certain speed conditions. This study is based solely on the public abstract from Aarhus and does not include details such as the ship's hull dimensions, fracture parameters, or equipment failure probabilities."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6297b2c9e2a0bffc182db0f6",
-      "source_sha256": "0b79638ff99b67da3c193b445a1ff169ab3ca643edd12b71afb0d203e8ebea5b",
-      "paragraphs": [
-        "[2022 Methods Representative Works Review | Public Abstract] Kitahara and Ishihara focused on the seismic soil-structure interaction of wind turbine support structures, proposing an extended complex modal superposition response spectrum method. The study targeted a non-classical damping system composed of the foundation and tower, aiming to analyze and estimate the maximum shear force and bending moment while maintaining efficiency, rather than idealizing the base of the tower as a completely fixed boundary.",
-        "In addition to the method of modal combination, the paper also provides an empirical relationship for the modal damping ratio and allows for a damping threshold to improve the prediction of the base shear force; the tower bending moment calculation further takes into account the rotational inertia of the rotor–nacelle and the additional load from the P–Δ effect. The authors first demonstrate the method on a 2 MW wind turbine with two types of foundation supports, and then conduct parametric analysis by altering the tower geometry and soil conditions.",
-        "The essence of the paper is to clarify which dynamic terms enter the simplified seismic calculation, rather than proposing a general vibration-damping device. The public abstract does not extend the verification scope to soil liquefaction, tsunamis, or ship collisions, so this external extrapolation is also not made here. For research on multiple loads such as wind, waves, and earthquakes, it can serve as a background method for seismic input and foundation damping processing. Figure 1 shows the earthquake soil-structure interaction model used in the paper."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2044a94c95c456373ec2bd97",
-      "source_sha256": "300570e82e0285bb308af876c6cdb0c94e08d3b20c4376358c92969903a69157",
-      "paragraphs": [
-        "[Representative paper retrospective | Online in 2022, journal volume in 2023 | Public abstract and openly available paper excerpts] Kuznecovs and colleagues propose a combined framework for ship-to-ship collision consequences, covering damage stability, residual hull load-bearing capacity and pollutant-liquid leakage. The example is a hypothetical collision involving a chemical tanker at a route crossing in the Kattegat, not a retrospective attribution of responsibility for a real accident.",
-        "The process first uses nonlinear finite element analysis to determine the shape, size, and location of the breach, and then passes the results to the damage stability and structural integrity module. The METOCEAN module provides input on the sea conditions at the incident location, SIMCAP calculates water ingress and liquid outflow, URSA evaluates structural adequacy, Seatrack Web estimates oil slick drift, and finally, different limit states are compared to assess the consequences of the incident against mitigation costs.",
-        "The open method section explains that this version of the framework is still not fast enough for calculation and is mainly used for pre-incident preparedness analysis under assumed accidents and locations, and cannot be used as a real-time rescue command tool once deployed. Its contribution is to demonstrate how local breaches continue to affect the entire ship, personnel, and the marine environment, rather than replacing the severity of the accident with a single maximum contact force. In the study of ship collisions, in addition to energy dissipation, the spatial position of the damage and the watertight boundaries are also important outputs that need to be retained."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-9fe7dbab0531dfee419c778f",
-      "source_sha256": "44482ee6afa66752fe4b3cfe762e82a774c182e5b38d92c9ce9f7ff86d8b2dce",
-      "paragraphs": [
-        "In 2022, Zhang and Hu added wind, wave, and mooring loads into the LOADUD user subroutine of LS-DYNA to calculate local deformation and six-degree-of-freedom overall motion of a ship collision with an offshore wind turbine. The aerodynamic forces used a simplified model considering the pitch strategy, while the hydrodynamic forces were based on potential flow and linear wave kinematics, and the mooring forces were represented linearly.",
-        "The solver first verifies through free decay, wave-only, and wind-only comparisons, and then compares impact speed, tower flexibility, ship deformability, and wave action. The results show that high-speed impact may directly lead to tower collapse; under wave conditions, even if the structure does not collapse at the time of collision, the residual strength of the damaged structure may be insufficient to resist subsequent wind loads.",
-        "The author also compared with previous decoupled models: for low-speed collisions, the external dynamic response is relatively consistent, but in cases of severe deformation or high-speed collisions, some decoupling assumptions fail, leading to limited results. For the study of ship-offshore wind turbine multi-hazard analysis, this research clearly distinguishes the resistance during the contact phase and the post-impact environmental load requirements. The introduction is based on the abstract of public institutions, retaining the simplified conditions of aerodynamic, hydrodynamic, and mooring models, and does not refer to the method as an accurate full-physical model under any sea conditions."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d0a94d7fafd6a6e373134859",
-      "source_sha256": "471dc888c7e101c90e82a97d96a260dfa345a936927660662414140b6bd139a1",
-      "paragraphs": [
-        "[2021 Retrospective of Representative Works | Public Abstract Review] Hörteborn and Ringsberg combined AIS data with ship maneuvering simulators to analyze the risk of collision between ships and fixed infrastructure. The method first identified events from the large Belt ship traffic service area data, then simulated three scenarios that could lead to bridge collisions: drifting, sharp turning, and passing over the turning point without turning, and conducted extensive calculations and parameter sensitivity analysis using the Monte Carlo method.",
-        "The institution's summary report states that the calculated probability of a ship collision in the set scenario for the Great Belt Bridge is 0.007, with drifting events dominating. The representative vessel corresponding to the 1000-year collision energy is a 178-meter-long oil tanker with a deadweight of 57,870 DWT and a speed of 14.6 knots. This combination describes the design scenario in this assessment, not a single actual incident that has already occurred.",
-        "The study also analyzes the mitigating effect of reducing ship speed and adjusting traffic separation schemes. It links the abnormal navigation process with the final impact energy, providing more specific inputs for subsequent structural calculations. The current reading is based on the institution's summary, and the summary does not clearly expand the entire statistical window of 0.007, so it is not additionally rewritten as a uniform annual failure rate. For other bridge areas, the traffic composition, drift time, and local current conditions still require re-identification."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b25eed483a983a3e616a8b78",
-      "source_sha256": "c12830795574a88ab523a0012c3022523c3093d5de73a88e11423a8b7556e085",
-      "paragraphs": [
-        "【2020 Representative Works Review | Public Abstract and Author Selection Excerpts】Pedersen, Chen, and Zhu proposed a design process for preventing ship collisions with bridge piers and bridge towers: first, clarify the risk acceptance criteria, then calculate the hazardous encounters in the bridge area and the probability of collisions caused by human and technical errors, thereby determining the design ship that each bridge pier must be able to withstand.",
-        "The structural analysis section calculates the force-displacement relationship of the bow impact rigid wall for different ship types and tonnages, and establishes an empirical relationship for the maximum bow impact force based on this. The authors compare the new relationship with existing expressions for ice zone strengthened ships and design standards, while also providing a local pressure-area relationship for the bulbous bow impact, which is used to distinguish overall load requirements from local contact pressure.",
-        "The key feature of this work is to connect traffic risks with structural resistance, rather than first selecting the largest ship and then only calculating a peak force. The author's draft also emphasizes that bridge construction will alter navigation organization, and impact assessments must take this change into account. The bow resistance here originates from the scenario of rigid wall collapse and cannot be directly used as a complete response for flexible bridge piers, oblique collisions, or floating bridges; the deformation of the impacted structure and the hydrodynamic forces still require corresponding models. This work did not include the author's comparison with the old standards, and it was not stated that all current standards have become obsolete."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-5e8c5368f345ae027363bd88",
-      "source_sha256": "8882e1f1ada80d70cf51dcab695e8d051f3823d6870c617fe37012743164a105",
-      "paragraphs": [
-        "[Zhang et al. 2020, 2021 representative works review | public abstract reading] Zhang et al. combined the external dynamic model of ship–semi-submersible wind turbine collision with their self-developed DARwind time-domain program to study the system response of a 5 MW Spar wind turbine. The cases were respectively conducted under calm water, only wave, and combined wave and wind conditions, focusing on the response changes of the platform, mooring, tower, blades, and nacelle.",
-        "In calm water, ship collision significantly affects the motion of the platform and the mooring response; under only wave conditions, waves have a dampening effect on some parts of the platform motion, but the tower vibration and tower top deformation are still sensitive to collision. After adding wind, the increments of heave and pitch caused by collision are relatively small, but there is a significant change in the initial yaw. The increments in tip vortex motion in the direction of flap and pitch are also different.",
-        "The cabin acceleration analysis shows that even when the structure is not severely damaged, internal equipment may still be unable to function normally due to the acceleration induced by impact. The value of this paper lies in incorporating the continuous dynamic response after a short contact into the safety evaluation, rather than using the local damage at the moment of impact to judge the operational status. Based on the institutional summary, it is not considered that the external dynamic method adopted is fully reconstructed to represent the local shell fracture, and it is also not considered that the inhibitory effect in individual environmental conditions can be generalized to reduce the collision risk overall."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
