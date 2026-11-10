@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T01:22:09.872Z",
+  "generated_at": "2026-11-10T04:17:18.703Z",
   "translations": [
+    {
+      "article_id": "article-c3459d772f5c3c544ea60b54",
+      "source_sha256": "8e429387303646751962578872409947c451efecd64cb3ef6e1a3d26ccb2e124",
+      "paragraphs": [
+        "Huawei announced preorder arrangements for its MateBook Fold S compact foldable HarmonyOS computer on November 10: **preorders open at 10:08 Beijing time on November 14**. Official promotional images also confirm the Live mini display and three finishes: Cloud Blue, Sky White and Phantom Black. This is an advance preorder announcement; that opening time had not yet arrived on November 10.",
+        "Official images carried by IT Home show a separate small display remaining visible on the outside when the device is folded. An earlier teaser video posted by Richard Yu showed a design resembling a phone’s rear display. The report lists a 14.7-inch unfolded screen. Further details of the small display’s interactions await official clarification.",
+        "As of this announcement, Huawei had not disclosed the specific processor, memory and storage configurations or price. The preorder notice also did not provide a verifiable date for in-stock delivery. The confirmed information concerns the appearance and preorder timing of this HarmonyOS foldable computer for China; overseas availability and regional specifications remain unspecified."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-be0830caf6c519ebb59d439e",
+      "source_sha256": "41f7ea367f90ec90f815f19284018b64e597560106415a72e9042300294a3c30",
+      "paragraphs": [
+        "Lithuanian President Gitanas Nausėda said on November 9 that the Foreign Ministry had briefed him on discussions with the Taiwanese Representative Office in Lithuania about a possible name change, and that the matters were coordinated with him. Asked whether he supported renaming it, he said he would wait and see, **first awaiting this week’s meeting with diplomats from mainland China**. He did not announce a decision to rename the office.",
+        "Reports carried by Lithuanian public broadcaster LRT also recorded Prime Minister Mindaugas Sinkevičius saying it was premature to discuss renaming before talks had taken place and that Lithuania was open to dialogue with Beijing without preconditions. Lianhe Zaobao reported that mainland Chinese diplomats were expected on November 11–12 for meetings with Lithuania’s Foreign Ministry and some lawmakers.",
+        "Foreign Minister Kęstutis Budrys described media reports that his ministry had sought a name change in September as inaccurate, without elaborating. Taiwan had previously expressed no intention to rename the office. Lianhe Zaobao cited a November 10 response from Taiwan’s foreign affairs authorities saying there was currently no plan to change it. Coordinated discussions, media disclosures and formal renaming therefore remain distinct developments.",
+        "Diplomatic relations deteriorated after the office opened under the Taiwanese name in 2021. LRT noted that relations were never formally severed, although diplomatic representation stalled. Lithuania’s stated aim is to restore normal diplomatic representation while maintaining ties with Taiwan. No outcome from the upcoming talks or jointly announced arrangement is yet available."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b357820380f5d7b386ee7909",
+      "source_sha256": "ac8af83bd9f207fb2a801e88535e6916d8df6f608bcd920c014f9355c3dc38f6",
+      "paragraphs": [
+        "China’s customs authority released October merchandise trade figures on November 10. In US dollar terms, exports reached **US$412.3 billion, up 35.2% year on year**, while imports rose 41.6%. The cumulative trade surplus for January–October was approximately US$1.04 trillion. That surplus covers the first ten months, rather than October alone.",
+        "In renminbi terms, January–October trade totaled **RMB44.81 trillion, up 20% year on year**. Exports were RMB25.99 trillion, up 17.6%, and imports were RMB18.82 trillion, up 23.6%. These cumulative growth rates differ from the October dollar figures in both reporting period and currency.",
+        "Customs statistics published by CCTV News and explicitly republished by Eastmoney also show October trade of RMB4.87 trillion, up 31.2%. Exports were RMB2.79 trillion, up 28.7%, and imports were RMB2.08 trillion, up 34.7%. By October, both imports and exports had recorded double-digit year-on-year growth for six consecutive months.",
+        "Lianhe Zaobao, citing a Reuters poll, also reported that October’s dollar import growth exceeded the forecast of 32% and September’s actual 31%. The published figures measure merchandise trade values and year-on-year changes; the rise in export value alone does not separate the contributions of quantities, prices and exchange rates."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5ab21819f023367ad00d8156",
+      "source_sha256": "a8c3f9eff167ecf5f6d6fc132b9cffdf757eb130d60291a45370814b473cb984",
+      "paragraphs": [
+        "On November 10, Robbyant announced the LingBot-Touch tactile representation model and accompanying open resources. Its official project page lists **4,983 hours of real tactile data, 464,431 recorded episodes and approximately 1.33 billion frames**, covering magnetic, piezoresistive and visuotactile sensing. The aim is to let different dexterous hands reuse contact information without developing a separate tactile understanding module for each sensor.",
+        "The model uses JEPA-style prediction in latent space. Each modality first passes through a dedicated tokenizer, taxel geometry is mapped into a common space, and a shared Transformer extracts spatiotemporal contact features. The official Tiny encoder has **5.46 million parameters**. Its visuotactile interface accepts decoded deformation or intensity measurements, rather than raw RGB images.",
+        "The team reported 26 physical manipulation tasks on Sharpa Wave and XHand dexterous hands, including turning pages, unscrewing bottle caps and identifying mahjong tiles. IT Home, citing the team’s results, reported average success-rate gains of approximately 14–26 percentage points over no-touch baselines across four action policies. XHand’s sensor model was absent from the pretraining data; the experiment froze the tactile encoder while still training the downstream action policy on demonstrations from that hand.",
+        "The code repository and model collection are public. The Tiny model card specifies the Apache 2.0 license and provides encoder weights with matching configurations. The repository says weight access requires an account with the necessary permission. The public inference release does not include the complete training pipeline, optimizer states or training logs. These success rates come from developer testing and remain bounded by the reported sensor layouts, hardware and tasks."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0585a161a6c53b45097997f2",
+      "source_sha256": "1c0486b2fb5b9a29252717ec720ed52916adf920b72a4abf50ac391e8e4daa1a",
+      "paragraphs": [
+        "Speaking at the White House on November 9, Donald Trump said the war with Iran was effectively over from a military perspective and described further US strikes as unlikely. He nevertheless retained the option of renewed force, saying US forces could act if needed. **This was the US president’s assessment of the military situation, rather than a mutually confirmed agreement ending the war.**",
+        "The BBC reported that Trump declined to declare the war formally over, citing the possibility of future Iranian action against Gulf allies. He said the United States was maintaining the present situation, with the naval blockade continuing. His assessment that further strikes were less likely was not accompanied by an announcement lifting the blockade.",
+        "Trump met Qatar’s prime minister that day and expressed optimism about mediation to end the conflict. Lianhe Zaobao’s account, drawing on AFP and Xinhua, cited an Iranian official denying substantive negotiations. The two sides’ public descriptions of diplomatic progress still differ substantially. This round of statements was not accompanied by jointly announced comprehensive ceasefire terms, an implementation timetable or a monitoring mechanism."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ea4494eacc32e5e51023b37e",
+      "source_sha256": "b0bed998a5371b27d4cd94386da59cd82743683018e435bcdb9838e9707b644b",
+      "paragraphs": [
+        "Lenovo launched its Wanquan hybrid token factory brand in Zhangjiakou on November 10, announcing a plan to use a reference project there as the starting point for AI inference and agent services in multiple locations. Its three-layer approach comprises AI infrastructure such as servers, storage and networks, a middle layer of intelligent cloud and token factories, and enterprise agent solutions and services above it.",
+        "According to the launch plans, Zhangjiakou aims to establish **a 15,000P heterogeneous computing cluster and an approximately 100MW intelligent computing center in 2027**, producing more than 2 quadrillion tokens annually, with peak output of 200 million tokens per second and more than 100,000 concurrent users. These are company targets for future scale, rather than capacity accepted and operational on November 10. The report also does not specify the computational precision represented by P.",
+        "Lenovo also proposed a new-media token factory and AI film and television innovation center with Mango TV in Changsha, covering scripts, storyboards, image and video generation, and rendering. The Changsha project’s cost reductions, shorter production cycles and monthly finished-content volumes are targets. The announcement provides no independent tests showing those targets have already been achieved.",
+        "The substantive developments are the public brand and project rollout, the reference project’s location, and more explicit expansion plans. The vendor also presented throughput, cost and energy-efficiency claims, but token output varies with models, input and output lengths, and computing precision. The available public material does not provide a uniform, reproducible benchmark."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7cebdf7992375cd77c81411b",
+      "source_sha256": "0f44500306f636cdddfaed1acaff128e12438e652fe54770cbb8f68cd468ec5e",
+      "paragraphs": [
+        "Qantas told staff on November 10 that it plans to **outsource 850 local corporate roles to Accenture**, with most work moving to India and some remaining with teams in Australia. CEO Vanessa Hudson said in an internal email that the changes would begin in mid-2027, initially affecting finance, procurement, people and marketing functions.",
+        "The BBC reported that Qantas linked the multiyear agreement to IT modernization, reducing duplication and accelerating AI investment. Hudson said annual technology spending exceeded A$1 billion and that more than 1,000 legacy applications had not been designed to work together. Those figures and the rationale for reform come from the company’s communication to staff.",
+        "Qantas said work taken over by Accenture would be further transformed through automation and AI over time. It would seek to redeploy affected employees where possible, including into new Australian roles, and was consulting unions and staff. The announcement concerns outsourcing and future organizational changes, rather than 850 jobs already eliminated that day. It does not claim that AI will immediately replace every role."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-67ccbb8d211c3dae86593b59",
       "source_sha256": "14a520cc601f60291af9adb947353b1187f376e1b8aa73aa099e592424c28764",
@@ -68,6 +149,18 @@
         "MOUZ had already won IEM Beijing without dropping a map; this update incorporates recent results into HLTV’s rankings. HLTV says the team reached first in the global Valve Regional Standings in late October, meaning it now leads both major systems for the first time since June 2024. HLTV and VRS use different methodologies, and points cannot be transferred between them.",
         "Beijing was MOUZ’s second title of the season after BLAST Bounty Season 2 in August. The team also finished second at BLAST Open Porto and ESL Pro League 24 and third at PGL Masters Bucharest. xertioN and torzsi are the remaining members of the roster that topped the rankings in June 2024.",
         "In the same update, The MongolZ climbs five places to tenth and TYLOO four to thirtieth. MOUZ is due to attend BLAST Rivals before the Singapore Major. Current rankings and participation plans are not qualification or championship results for those future events."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-18fbc524dfafd75b2b946d32",
+      "source_sha256": "c53b3338cec0d9765dca3a1d308584fcaf4152f5737707e180a48612d26e61a8",
+      "paragraphs": [
+        "Nintendo’s US website announced on November 9 that Nintendo eShop on Nintendo Switch and Nintendo Switch 2 will add **digital gifting between family group members on November 16**. Eligible purchases include digital games, DLC and upgrade packs; not every product qualifies.",
+        "Senders will select Give as a Gift on a product page in the console’s eShop, choose a recipient and one of their linked systems from their Nintendo Account family group, select wrapping, and pay. A family group can contain up to eight members. Supervised accounts cannot send digital gifts, and purchases are limited within a given period; the notice does not specify the numerical limit.",
+        "**Gifts are sent immediately after purchase.** Recipients can accept them from the HOME Menu. The announcement does not offer scheduled delivery for a chosen future date. System version 23.5.0 or later is required. That version was released on November 9, but the gifting feature is still scheduled to open on November 16.",
+        "This announcement comes from Nintendo’s US site and confirms the feature and conditions announced for that region. It does not promise a simultaneous rollout in every territory. It extends gifting of newly purchased digital content within a family group, rather than allowing ownership of every previously purchased game to be transferred."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -370,6 +463,53 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-4dba725286c389982530e773",
+      "source_sha256": "d40f0079882ab4da92c54ee3017261e21001aa5f745f696a87097948cc5356d4",
+      "paragraphs": [
+        "In a November 9 notice, Sega said unauthorized access to outsourced email provider ARARA exposed some newsletter records for Sega and SEGA Fave products. The confirmed scope is **2,196,044 email addresses, including 92,273 records that also contain information associated with email delivery**. The latter is a subset of the former and must not be added as another independent group of affected accounts.",
+        "The notice lists 11 relevant mailings between July 2 and October 28, 2026, covering CHUNITHM, Ongeki, maimai, Tokyo Game Show and online prize draws. Eleven refers to the listed mailings, rather than 11 different services. The precise contents of the associated delivery information are still being checked with ARARA.",
+        "Sega said the confirmed leaked data does not include names, dates of birth, gender, postal addresses, telephone numbers, credit-card details or login passwords. **SEGA Account uses a separate email delivery system, so its registered email addresses are outside this incident’s scope.** As of November 9, the company had not confirmed misuse of the leaked records. It suspended relevant mailings through ARARA pending information and security checks.",
+        "The investigation timeline says Sega initially received a no-leak response on October 29, learned of email-address exposure on November 3, and conducted further checks and obtained a formal report on November 5–8. The notice explicitly distinguishes this incident from a separate intrusion into SEGA Fave’s arcade network servers. The online prize-draw service’s maintenance at that time was part of safety checks associated with the latter incident."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-efd278ab82a4951f8a33a7c6",
+      "source_sha256": "d34eea2886817333cbfc4ae7775d1ac146ae0e2236c1fa3a82a0af2b81ef63d6",
+      "paragraphs": [
+        "In an attribution statement on November 9, France’s foreign ministry said refrigeration controllers used at more than 700 major retail locations in France were attacked **overnight on October 11–12**, causing equipment damage, fires and food losses. France estimated food losses at tens of millions of euros; this is the French authorities’ estimate.",
+        "The French government attributed the destructive operation to the SHAHID KAVEH cyber unit, which it linked to the Islamic Revolutionary Guard Corps’ electronic and cyber center. France’s C4 cyber crisis coordination body published a technical report in parallel. **This is the French government’s attribution finding.** The operation occurred in October; the statement does not attribute every November refrigerator incident across Europe to the same actor.",
+        "The ministry said it would summon Iran’s ambassador and propose new sanctions on implicated Iranian entities and individuals to European partners. These are planned diplomatic and sanctions measures, rather than an announcement that the EU has already adopted the new sanctions. Lianhe Zaobao also reported a lack of public independent evidence sufficient to establish a single operational chain linking refrigerator attacks in different countries and on different dates."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a38e8333ef55c6e595c30392",
+      "source_sha256": "b1ee8c55815838aa1a94c5feeb16ec5f87be6bbcfe94e2debf3be5483b64cd31",
+      "paragraphs": [
+        "Adobe and Disney announced a multiyear strategic alliance at Adobe MAX on November 9, naming Adobe an Official AI Innovation Partner of The Walt Disney Company. The arrangement includes early access to Firefly, Firefly Foundry for customized models, Premiere and Photoshop, together with dedicated engineering and research support across parks, cruises, film innovation labs and sports content.",
+        "The companies plan artist-led use of proprietary generative models tailored to Disney’s character attributes, environments and visual styles. Adobe said Walt Disney Imagineering Research & Development is already using Foundry in park development, including converting hand-drawn sketches into fully rendered 2D concept art and generating images consistent with particular brands and franchises.",
+        "StudioLAB will work with Adobe on internal creative workflows, while ESPN Edge will explore sports fan engagement and new uses of archival footage. The announcement says co-innovation projects are already underway, with other activities and experiences rolling out over the multiyear term. It does not provide launch dates for every project.",
+        "**The announcement does not open Disney character models to the public or grant general rights to use its characters.** Descriptions of commercially safe and production-ready output are Adobe’s claims about the customized workflows. The companies already had a longstanding relationship; this expands their technical and business cooperation rather than marking Disney’s first use of Adobe tools."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1068278eb7a02a06b7a02937",
+      "source_sha256": "970b29b02d9a99c5e34bab2c70e3cda60f7b824bf0c8ecda499225de342622c3",
+      "paragraphs": [
+        "On November 9, Infineon announced that its Villach fab in Austria had processed **functional power devices on 300-millimeter silicon-carbide (SiC) wafers**, using existing silicon manufacturing equipment. The company described this as the first such milestone in a full-scale semiconductor fab environment; that first-in-industry characterization comes from the vendor’s announcement.",
+        "The larger wafer increases the processing area available per wafer. Infineon estimates approximately 2.3 times as many chips per wafer as on 200-millimeter wafers. This is neither a disclosed yield increase nor a 2.3-fold improvement in device performance. At Dresden, Germany, it also demonstrated the feasibility of 300-millimeter SiC Cold Split wafer separation, claiming less material loss and shorter processing time than conventional wire sawing.",
+        "**Successful fabrication of functional devices does not yet mean high-volume production of 300-millimeter SiC.** Infineon said it would plan the technology and ramp timing with customers and partners while continuing its 200-millimeter SiC roadmap. The announcement supplies no formal 300-millimeter SiC mass-production date, yield or new-device pricing.",
+        "The company plans to display the wafer at electronica in Munich on November 10–13. SiC serves efficient power conversion in applications including electric vehicles, energy storage, industrial drives and AI data-center power systems. Infineon’s earlier announcement of approximately €1.1 billion for a 300-millimeter GaN facility concerns a different wide-bandgap material; that amount is not a SiC mass-production investment figure for this announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-a32771a8dbf631c1f5fb47f3",
       "source_sha256": "af190a1849b0f0939837ce828fa1c2d814992f34ee1a04e002bf182575314ce7",
       "paragraphs": [
@@ -478,11 +618,12 @@
     },
     {
       "article_id": "article-24a82320a21df257bc88396b",
-      "source_sha256": "8e889922f4fdb4c88ecb7c35e078cf99ffd9ce3aac8e531247a0bb941c1c59a5",
+      "source_sha256": "4a0f59cd66b9661bc1788ea614d3277e3160aa9adba42737de870053c5dc5926",
       "paragraphs": [
-        "Adora Magic City docked at Shanghai’s Wusongkou International Cruise Terminal at 05:30 on November 8, joining Adora Flora City, which had relocated from Waigaoqiao Shipbuilding on November 7. It was the terminal’s first simultaneous berthing of **two domestically built large cruise ships**, as the second vessel moves from construction and delivery toward voyage testing.",
-        "Under the announced plan, Adora Flora City will **depart on November 9 with nearly 3,000 passengers** for its first test voyage after delivery, reaching Guangzhou’s Nansha International Cruise Home Port on November 12. This is a post-delivery test voyage, with the dates and passenger number remaining planned arrangements.",
-        "Wusongkou remains a major Chinese cruise gateway. In the first three quarters of 2026, it accounted for 55% of national cruise-ship calls and 76% of arriving and departing passenger traffic. A previous single-day arrival of 5,900 foreign passengers set a Shanghai cruise-port record. The simultaneous berthing comes as large-cruise-ship supply and home-port operations expand."
+        "China’s second domestically built large cruise ship, Adora Flora City, **departed Shanghai’s Wusongkou International Cruise Terminal on November 9** for its first post-delivery trial operation voyage. It is scheduled to reach Guangzhou’s Nansha International Cruise Home Port on November 12. Xinhua confirmed the actual departure on the evening of November 9, moving the earlier planned departure into the implemented stage.",
+        "The voyage tests and adjusts maritime operations, navigation safety, product services, ship–shore coordination and shipwide information systems. Simulated operations also put accommodation, dining, entertainment, shopping and leisure services through stress tests. The focus is interdepartmental coordination and responsiveness, rather than an announcement that the commercial season has already begun.",
+        "After reaching Guangzhou, the ship will continue preparations for home-port berthing, port-clearance coordination and maiden-voyage service procedures. The published schedule places a second trial voyage on **November 14–16** and the start of its maiden season from Guangzhou on November 22. Both subsequent milestones remain planned.",
+        "On November 8, Adora Magic City and Adora Flora City had docked simultaneously at Wusongkou for the first time. Flora City’s actual departure advances post-delivery operational verification. Completing trial operations, preparing for the maiden voyage and beginning formal commercial operations remain separate stages."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -4073,45 +4214,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-1e599897591a233f265f955c",
-      "source_sha256": "092688e0bbad9a170351f1223a9a95d22d00705340ca25a3b96722093a1f4ab1",
-      "paragraphs": [
-        "Ace Combat 8: Wings of Theve uses first-person cutscenes, radio communications, and character interactions to bring players closer to the pilot's perspective. An official experience article on 25 September explains that the protagonist remains silent but plays a crucial role in the story.",
-        "The plot begins with the rescue at sea and the boarding of the aircraft carrier, incorporating the tension between the battlefield situation, propaganda image, and the actual personal capabilities of the characters. Players not only receive target orders in the air but also gain insight into the crew and the personnel on board from their own perspective, understanding the circumstances beyond the mission itself.",
-        "This approach continues the series Strangereal World but changes how players engage with war stories."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-851add08d85479b3159bc72b",
-      "source_sha256": "ecf91cd3e09092f82dd1895aa99e74f66f99a387000fd9e0527f966929dcf727",
-      "paragraphs": [
-        "Luma Island announced an expansion to PS5, focusing on preserving the rhythm of different players exploring and building together. Feel Free Games introduced the news on 24 September, stating that the PC version will be released as early as November 2024; this announcement is part of a platform expansion, not the initial release.",
-        "Players start from an old van and a ruined farm, where they can plant, raise animals, decorate, and get to know the town residents, and choose their growth direction from eight different professions. Luma magic companions will accompany the adventure, and beyond the farm, there are also unexplored island regions to discover.",
-        "The game offers different difficulty levels and various activities, aiming to allow players of different experience levels to participate at their own pace. When the official reviews the player base for the PC version, they provide cumulative numbers, which do not equate to the number of players online at the same time. This article records the specific composition of the PS5 plan and the game, as well as the regional release and version details, which will continue to be subject to official updates."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-e379d53e84c21c20e79f6e0f",
       "source_sha256": "fa1b6ae42e7dec4b1aff9e0c079970cdce2f7e93609cf5da8ae73e82a6a5c07f",
       "paragraphs": [
         "On September 23, Qualcomm announced the early developer preview of the Snapdragon X2 series for Linux, targeting version maintainers, kernel developers, and hardware adaptation teams. The official has already validated some work on a user space based on Debian 13 \"Trixie\" and a customized kernel, while advancing upstream support for the SoC, reference hardware, and drivers. This is not intended for general users, nor is it a fully functional stable Linux distribution that can be installed and used immediately.",
         "The preview description divides the work into three stages: hardware base support, additional function verification, and near-production quality. Support for Adreno GPU and Hexagon NPU is still being advanced, and the ability of the real notebook to boot is just the beginning, requiring gradual verification of peripherals, power consumption, stability, and performance. Developers can build the kernel, device tree, and boot image from publicly available source code, and then check the actual functions on the target machine, providing feedback on issues specific to the device.",
         "Its significance is to enable Linux adaptation not only to remain within the internal demonstrations of the vendors, but also to be continued by the community through mainline patches and public information. The official clearly stated that the goal is not to immediately commit any distribution to fully support all X2 notebooks, but to provide the foundation for distributions to adopt. During the demonstration at the summit from September 22 to 24, the team also hopes to discuss which features have been integrated and which are still not completed; users who are preparing to buy a Linux computer should continue to wait for specific models' compatibility records."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d9001e0789f00165dcd87034",
-      "source_sha256": "a0f95ce52b64b4f3990e09d8e746ba73819f2d9bb2123982174d0f523b147ce5",
-      "paragraphs": [
-        "Fading Echo announced the release of the PS5 on 22 September, with the protagonist's water-like ability used for movement, combat, and puzzles. Emeteria introduced that players take on the role of One, navigating through the fractured world of Corel, which is plagued by Paradox.",
-        "In the game's setting, water is called Æther. The protagonist can not only control water but also transform it into flowing masses, accumulating momentum, passing through pipes and narrow passages, or using the terrain to leap toward enemies. These actions are not merely tools for travel but can also be converted into positional advantages in combat.",
-        "The work also incorporates elements of reaction and real-time switching into exploration, allowing the same scene to potentially yield different solutions. The announcement emphasizes ability combinations and experimental space, and the initial operational performance still requires independent testing; water shape traversal can transform environmental opportunities into new offensive angles, connecting levels and combat."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -4139,17 +4247,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-6bf26506d43393de61623b34",
-      "source_sha256": "bc066910795a59fef00ab6f78724676b7cf88b576401b7d917adc5bb914fcff5",
-      "paragraphs": [
-        "Silent Hill: Townfall combines a first-person perspective with the use of a handheld CRTV device, changing how players recognize threats. An official article on 21 September explains its horror experience around vision, sound, combat, and composition.",
-        "Players cannot observe threats around the character as easily as in a third-person perspective, and threats from the sides and rear require more attention. The screen uses a wider cinematic aspect ratio, allowing the horizontal composition and limited vertical field of view to work together in the design of a sense of pressure.",
-        "CRTV can adjust frequency to help determine the position of nearby enemies and simultaneously displays the device's view and the surrounding environment when the player holds it; haptic feedback also provides additional clues. Close-range defense allows ordinary objects and the approaching monsters to create an intuitive sense of distance. This article records the design features and does not break down each promotional point into a separate news story, nor does it consider individual typos in the title as another work."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-49dd88dd94502c214e2af479",
       "source_sha256": "0bdf7fdc9adfb98f190bbae6625b96cf006eaac9f1c20f80bde3e9ca2e4bb47f",
       "paragraphs": [
@@ -4161,78 +4258,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-9d7e9c6d6870563af3909bb4",
-      "source_sha256": "4509601e15dae34ce1a1c5df0fc70c995f914c13db89fd58a0e3a3b62d599fa4",
-      "paragraphs": [
-        "\"Shape of Dreams\" launched on September 17 for the PS5 and simultaneously released the \"The Starless Path\" anniversary update. The developers introduced nine Travelers and dynamically changing dream regions for each round, allowing both single-player and up to four-player online cooperation to participate.",
-        "The structure is built from the core abilities of Memories and the essences inserted within them. A single skill can be modified into a chain attack or can form new cycles by surrounding it with effects such as reducing the cooldown based on hit count. The official total number of ability components exceeds 200, with the key being mutual rewriting rather than simply stacking damage numbers.",
-        "Each character can choose between different active and passive base options at the start, with long-term progress accumulated through their own star maps. In co-op mode, independent builds such as freezing, grouping enemies, and increasing damage can complement each other; the game also supports cross-platform teaming with PC and other consoles at launch. The game places each round of experimentation alongside continuous growth, and the news retains version and platform context."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6c42e3fcd04ba818934e6138",
-      "source_sha256": "8d2d168311ca0ca176c0fe16bb9e3ad2bee5d13c3fb62983bd8df35422ac97c6",
-      "paragraphs": [
-        "\"Final Fantasy VII Revelation\" is positioned as the final installment of the remastered trilogy, with the official announcement of the 2027 PS5 release plan on 8 April. On 17 September, reports based on a limited playtest at the 2026 Tokyo Game Show indicate that it cannot be considered as the complete game having been released.",
-        "The demonstration focused on the whirlwind maze, showcasing Vincent and Cid joining the new operational squad, as well as the FITS system and new combat content. The team advanced through an environment composed of cliffs, storms, and cloaked figures, with terrain traversal also incorporated into exploration.",
-        "This experience provides only part of the combat and main story segments, and the complete plot, length of the gameplay, and performance are not covered by this playtest. The news has named it separately as \"Final Fantasy Resonance,\" distinguishing it from the existing \"Remake\" and \"Rebirth,\" to avoid mixing news about different products into a single generalized \"Final Fantasy update\" category."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d345a31d488aaff0668f9efb",
-      "source_sha256": "a43e58752bfb3082b4f7af560f22381f686a2341e078c502eb87f6c74a02ead5",
-      "paragraphs": [
-        "The official position of \"Monster Hunter Wilds: Ascendance\" is as a major expansion for 2027, adding new story content, regions, monsters, and master ranks. The Tokyo Game Show experience released on 16 September introduced Chatacabra, a new monster named Araketa, and tasks related to the Fire King Dragon.",
-        "The new mechanism, Boost Action, is activated through a dedicated device and enhances weapon movements for a certain period of time. It can be used during the gaps between consecutive attacks or after an attack. The scale increases over time and with hits, and during the boosted state, a Focus Strike can be used to damage the opponent. Additionally, it can continue to generate resource gains.",
-        "This design connects sustained attacks, wound treatment, and the timing of bursts, with the specific actions of different weapons still needing to be examined individually. The article is based on the exhibition demonstration rather than the final complete expansion; the master rank and new regions cannot be written as free functions automatically obtained by the current base game."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-370fdd62aa2329ddc499fbbc",
-      "source_sha256": "ad8ef20f2c093b0725bd21b4ac1d7f9d1afe3ff6b88b71b0cc416e5b6d067c2c",
-      "paragraphs": [
-        "Mega Man: Dual Override has confirmed Proto Man as its second playable character, with release planned for spring 2027. In a September 16 developer introduction, his short-range, high-damage weapon and shield moves were described as distinct from Mega Man's medium- and long-range style.",
-        "After defeating the leader, Bruce unlocks new shield-related moves that can be combined with attacks and movements according to instructions; frequent use accumulates heat, so strong attacks require temperature management. The game also features over 50 Custom Chips, allowing characters to adjust active abilities and passive effects.",
-        "Override can temporarily break through role restrictions, but after the period ends, it becomes more vulnerable, forming an exchange between burst gains and subsequent risks. Here, \"spring\" refers to the official window, which does not add specific days; Bruce's independent growth cannot simply be equated to the system where the M. C. R. copies the leader's weapon."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-a3c8e138d995ff558ec9129c",
       "source_sha256": "f4f4e2edc141b2d4ecca7ee55b22bdbdf365d0897b665a70b979c320b51d1896",
       "paragraphs": [
         "Anthropic has launched a beta version of the Life Sciences Verification Program (LSVP), allowing verified life science organizations to apply for more suitable biosafety setups for research purposes. The company aims to reduce the false positives of standard biosafety measures for legitimate drug discovery, research, and manufacturing activities, while maintaining review for high-risk applications. Applications involve research qualifications, safety controls, and ethical oversight, and initially focus on teams and institutions rather than individual packages.",
         "The plan is divided into two scopes: Standard Use grants teams daily research permissions, typically renewed annually; High-risk additional permissions are for specific projects and require additional reviews, usually renewed every six months. The available scope varies depending on the model, and Mythos has more restricted permissions in high-risk projects. Relevant capabilities can be accessed through approved first-party APIs and team or corporate products, and the announcement does not extend equivalent permissions to all third-party platforms.",
         "The method of protection has shifted from single real-time interception to offline monitoring combined with cross-session activities, with marked activities retained for 30 days; organizational administrators need to respond to alerts, and other categories of security controls remain effective. The update on 30 September states that the current form is used to express interest and is not a complete application. The plan changes the research access and management mechanisms, and is not a guarantee of project outcomes, drug efficacy, or regulatory approval."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e6d9fc646c26323bbcf8726d",
-      "source_sha256": "0c4f372f3b46c84bab10197fdb761fc9be335248538c8121cb890798922fbf44",
-      "paragraphs": [
-        "Hyper Games' \"Moomintroll: Winter's Warmth\" begins with Moomin waking up from hibernation, and the official announcement scheduled its release on PS5 on September 18. On September 16, an article distinguished it as a separate work from the team's previous \"Snufkin: Melody of Moominvalley.\"",
-        "Winter has not yet left, family members are still asleep, and the protagonist hopes to bring spring back and longs for friends Snufkin to return to the valley. The adventure of solving puzzles and adapting to a strange season unfold together, and the atmosphere is not solely light-hearted, preserving loneliness and sorrow as well.",
-        "The team also returned to the creative background of Tove Jansson's original work, introducing the origins of characters such as Too-Ticky and the emphasis on companionship and care in the story. These cultural insights help understand the adaptation direction rather than inventing new Moomin settings. This article retains the real date of release for 2026 as a look-back, without using \"soon to be released,\" and avoids the long-term coverage of a window that has already passed."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-837a53a20566e5266cfb7613",
-      "source_sha256": "8044e73a86db9ed213882a5ea6abf45d64a201f21554484c5bc854368a0dcce3",
-      "paragraphs": [
-        "The announcement of the release plan for \"Wo Long 2: Wings of Ember\" on 4 March 2027 indicated that the open alpha testing would be limited to 30 September. This 16 September message, when reviewed in November, must distinguish between the future official version and the already past alpha testing window.",
-        "The demo includes part of the Changban level, combining a Three Kingdoms battlefield and historical figures with supernatural enemies. Combat continues to center on transitions between attack and defense, deflection and the martial techniques of different weapons, with an emphasis on freer movement and linking actions together.",
-        "The playtest can only reflect part of the levels in the current version, and cannot be used to confirm the entire content of the final version. This round of alpha playtest has already ended."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -5363,17 +5394,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-41dbf48a467f4289a3432bd5",
-      "source_sha256": "c01858c4fcb882db8805398f1746cc436da3c25cf71810bd139d59abce3714db",
-      "paragraphs": [
-        "[Project Review December 2025] Larian's official page for \"Divinity\" confirmed that the team developing \"Baldur's Gate 3\" is returning to the Rivellon world, with the announcement emphasizing new powers and a broader role-playing space. The official press release directory marks the project package as December 2025.",
-        "The project's identity is clear, but the page reviewed does not provide a confirmed release date or complete platform list. Larian's statements about scale and depth describe its development ambition, rather than establishing that the game has already surpassed Baldur's Gate 3. Sharing a studio also does not mean every rule, class or combat mechanic will carry over unchanged. This is an introduction to a project for continued tracking, not a fabricated hands-on review.",
-        "Subsequent substantial news should include actual demonstrations, early access, or official release schedules, core system explanations, and reliable media experiences. This article does not download large news media packages and only normally reads the official website and public directories; the accompanying images use the actual promotional images displayed on the project's official website and retain the original site links."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-b53eaaf0cec5c0b065dafcda",
       "source_sha256": "5bd8afad5df598da57fa40d37a81193ad92b73feae19ea3f52a061cc20c885ca",
       "paragraphs": [
@@ -5567,17 +5587,6 @@
         "[2025 representative paper retrospective | Public-abstract guide] Hörteborn and colleagues propose the medium-fidelity STAPS model of ship-traffic collision probability, incorporating maneuverability and motion physics into Monte Carlo simulations and comparing it with the lower-fidelity IWRAP Mk II. The study addresses ship-impact scenarios in bridge design, focusing on how model simplifications alter estimated accident probabilities.",
         "A comparison of the two cases shows that both the duration of the error and the routing layout significantly affect the results. In the baseline scenario, the ship collision probability given by IWRAP Mk II is about 4.5 times that of STAPS. The authors therefore believe that the simpler IWRAP is suitable for early design screening, while STAPS is more appropriate for subsequent stages that require more detailed scenarios.",
         "The multiplier here belongs to the specific case under study and cannot be considered a general reduction factor. In the estimation of collision probability, factors such as how far a ship can continue to navigate after entering an abnormal state, how it is affected by the environment, and whether the route through the bridge area allows for avoidance, may all alter the final collision scenario. The value of the study on ship-bridge and offshore structure collision prevention lies in providing a framework for comparing the accuracy of probabilistic models; it does not replace the calculation of structural collision consequences. A single lower contact probability does not equate to the risk of collapse being satisfied by the criteria."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-740d4ec4200121977286b41f",
-      "source_sha256": "83568695567af8ce329a225344bf906408cf09524cf7236f9616a0bcb7af7791",
-      "paragraphs": [
-        "[2024 official release preview] On December 13, 2024, CD PROJEKT RED officially announced \"The Witcher IV\" with a cinematic trailer confirming the game. The core direction already announced is a single-player open-world role-playing game featuring Ciri as the protagonist, opening a new chapter in the Witcher series. It is not a map expansion for \"The Witcher 3,\" and it cannot be considered that every scene in the trailer is a playable real-time gameplay scene.",
-        "The official announcement collaborates with Platige Image to complete the project, primarily focusing on establishing characters, the atmosphere of the world, and the identity of the project. The change of the protagonist implies a shift in the narrative perspective and the role of the character, but specific task structures, combat systems, and the range of player choices still need to be verified against the actual development documents released later. This initial announcement is insufficient to confirm any online-spread release date or platform list.",
-        "After the real-time demo, official development progress, and official release dates change, they are considered as independent important news updates; do not replace the game development facts with actors, character appearances, or unverified arguments."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
