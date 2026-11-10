@@ -1,7 +1,113 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T04:17:18.703Z",
+  "generated_at": "2026-11-10T09:18:41.511Z",
   "translations": [
+    {
+      "article_id": "article-69d4d9d74efa01629a6c751d",
+      "source_sha256": "c9fc4fe3f4dacf0b39c9a733b9efddab0f5c776eae276865ab8e1ce1de5c94a3",
+      "paragraphs": [
+        "On November 10, OpenAI published a report on its EMEA education partnerships, citing ThinkYoung research in which **79% of surveyed students used AI for homework or assignments, while 47% reported being shown how**. These figures describe a usage–guidance gap, rather than gains in academic performance.",
+        "ThinkYoung’s public introduction identifies 5,000 high-school students aged 13–19 and 600 teachers across 12 countries in Europe, the Middle East and Africa, alongside student and parent focus groups. Its figure that 95% of teenagers use AI tools is a broader usage measure than the homework question underlying the 79% figure.",
+        "OpenAI also summarizes early experiences from partnerships including Estonia, Greece and Slovakia, covering teacher preparation, local curriculum adaptation and evaluation. Available findings include self-reported usage and time savings; **they do not establish that AI improves independent thinking, knowledge retention or examination performance**. Access to ThinkYoung’s full report requires a form, while the readable introduction does not supply the full questionnaire, country breakdowns or sampling weights."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4fd79e3079ba8b39bae04ef6",
+      "source_sha256": "3572b61d41b253497958911f6cef1d3eb52be8b057555d0ef7f2e76c928537a1",
+      "paragraphs": [
+        "Lianhe Zaobao, citing Bloomberg-compiled data on November 10, reported that Hong Kong’s 2026 initial public offerings had raised **US$51.9 billion** by that date, exceeding the US$51.6 billion raised during all of 2020. Under the historical comparison used in the report, this is a six-year high and approaches the 2010 annual record of US$57.8 billion.",
+        "The comparison is between a year-to-date total and earlier full-year figures; **2026 is not over**. The report counts ten IPOs raising more than US$1 billion each this year, compared with seven in 2010. AIA’s US$20.4 billion deal represented more than one-third of the 2010 total, illustrating that aggregate fundraising and transaction distribution are distinct measures.",
+        "The report links this year’s activity to financing needs among Chinese AI supply-chain companies, while noting a recent slowdown. Under its statistics, roughly one-quarter of listing plans this year did not complete. That measures uncompleted listing plans, rather than failures of already listed businesses, and does not directly indicate returns from any individual offering.",
+        "The fundraising figures and activity measures follow Bloomberg’s IPO compilation and are not interchangeable with a separate measure of all equity financing on Hong Kong Exchanges. A higher aggregate total also does not mean every issuer’s operations or post-listing price performance improved in parallel."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a8548e8692a70df529e2b99c",
+      "source_sha256": "428a037d8be05bbcee9fc83954a7420c5bfd873ca561316fe34ff5ca5c8d9b04",
+      "paragraphs": [
+        "Research published by Apiiro on November 5 and updated with a response on November 8 describes how Claude Code’s local command-approval records can be committed to public repositories with a project. Expanding its scope to Git history, shared settings and some agent transcripts, it classified **2,539 credential-like secrets across 1,994 public repositories**. IT Home reported the risk again on November 10.",
+        "The sample included 104,185 local settings files, of which 1,122 were classified as containing secrets, totaling 1,379 distinct items. The leakage path arises when approval not to ask again for a command saves the full command in a project allowlist. A command containing a password or token can then become public if the settings file enters version control. Cloning on another machine, an already tracked file or initializing a repository later can leave ignore-rule protection incomplete.",
+        "Apiiro explicitly states that it **did not log in using credentials, test their validity or contact associated hosts**. In its classification, real means information matching a provider format or associated with a public host, checked through rules and masked contextual review. It does not mean all 2,539 items were confirmed still valid, nor does it establish 2,539 intrusions.",
+        "Claude Code lead Boris Cherny responded on November 7 that the team was exploring prevention, including improvements to auto mode and basic built-in secret scanning, with prototypes to assess trade-offs first. The response reviewed here gives no released fix version or completion date. The research identified Claude-coauthored changes in 539 traceable relevant repositories, but coauthorship alone does not prove the agent independently decided every exposure."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-fef8bdb2257bf0b3a61ab389",
+      "source_sha256": "74f6b5fd33bd48fb3ff95a198f614ad94cc4a0b619b7053e3b0781e5a2b0e53f",
+      "paragraphs": [
+        "AMEC announced on November 10 that the **first Primo Matrix dual-station plasma wafer dicing system had been shipped to a domestic integrated-circuit packaging customer**. The milestone moves the new system from product disclosure to customer shipment. Available material does not identify the customer, contract value or final acceptance result.",
+        "According to the company’s specifications, the system uses Primo TSV deep-silicon etching technology, combining a dual-station etching chamber with wafer handling. Its main platform is 300-millimeter wafers, with backward compatibility for framed 200-millimeter wafers. Its stated process range includes **dicing streets as narrow as 5 micrometers and wafer thicknesses of 25–700 micrometers**. These are vendor specifications.",
+        "The system can carry up to six etching stations and supports front-side plasma dicing of bumped wafers, plasma dicing after laser grooving and backside wafer etching. It can also open some dielectric hard masks, targeting different wafer structures and advanced packaging flows.",
+        "First shipment does not mean the customer has completed production validation. Public reports provide no long-term yield, unit cost or comparisons against other dicing equipment under matched conditions on the customer’s line. Vendor descriptions of high throughput and low cost therefore remain claims rather than independently measured results."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-803fceb0450c7f098dee6974",
+      "source_sha256": "3d45739b8ab2f27d5fe06d1aa405d0adf1fc387042e4ea8e0a55bdb349c0e187",
+      "paragraphs": [
+        "Reuters reporting carried by CNA says Anthropic circulated IPO materials to banks late on November 9 in the United States, then retracted details, saying **pricing information was inaccurate and would be updated**. The company declined further comment to Reuters, which could not establish which figures were wrong.",
+        "The withdrawn materials had listed approximately 866.7 million Class A shares at US$70–80 each, implying about US$69.3 billion at the upper end. Anthropic itself would sell roughly 843.3 million shares, with existing shareholders selling about 23.3 million. **Those are contents of retracted materials, rather than a final offer price, proceeds actually raised or a completed listing.**",
+        "The same original materials described a US$26 billion private placement of Class N shares involving Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC, planned after the IPO closed. That arrangement also comes from the original materials. Its final scale, terms and implementation require updated effective disclosures.",
+        "The report mentioned a possible Tuesday roadshow launch and pricing in the following week, both expectations at the time. The confirmed change is the company’s request to correct pricing materials. The previously circulated near-US$70 billion figure should therefore not continue to be treated as a locked-in financing commitment."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-764edf69fb298f3d66f3d1bd",
+      "source_sha256": "bdf9335b92469df5bc2090e4c3cea2fa7f0a8b5595a746c772c0fe62982fd62d",
+      "paragraphs": [
+        "Google has begun offering Memory summary in Gemini to centralize viewing, editing and deletion of what the system understands about a user’s background, relationships, work, interests and preferences. Reporting on November 10 places it under Personal Intelligence in Settings. Instead of only showing scattered details, it also offers a history of changes.",
+        "Google’s support page specifies the current requirements: **US location, an active Google AI plan, a personal account and age 18 or above**, with Keep Activity and Memory enabled. The page says the feature is offered in English through both the Gemini mobile app and web app.",
+        "IT Home reported seeing a Chinese memory-summary entry in its web test and published screenshots. That is a specific availability observation and should be distinguished from Google’s stated regional, account and language eligibility. It does not establish a complete rollout to all users in China or everyone using Chinese.",
+        "Users can prompt Gemini to add, correct or remove remembered information, review changes in Memory history, or turn Memory off. **Editing a memory summary is not the same operation as deleting all past chats.** Google separately provides activity-management controls, and this feature description does not promise that deleting a summary clears every related historical record."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-cb2f72de410b3ad52e958ca9",
+      "source_sha256": "a87ed173979d994401dd497990b4356f2425e4750db132236a3ac3e9bcc8fa7a",
+      "paragraphs": [
+        "IT Home, citing Reuters on November 10, reported that Boeing Commercial Airplanes plans to **reduce its workforce by approximately 5% through a combination of attrition and involuntary layoffs**. Division chief Stephanie Pope said in an internal memo dated November 9 in the United States that revised production schedules and lower output left the division overstaffed.",
+        "Notices are expected from December at the earliest, rather than every affected worker having already left on November 10. The report uses a division headcount of 50,494 at December 2025 to estimate roughly 2,500 affected positions. That is an approximation from historical headcount, rather than the company’s final role-by-role list.",
+        "The report also cites CEO Kelly Ortberg’s explanation last month that Boeing would miss its original 2026 production and delivery goals for the 737. The milestone of 47 aircraft per month is now expected in early 2027, delayed from the earlier summer-2026 target. That figure refers to a monthly production ramp milestone, rather than 47 annual deliveries.",
+        "The 5% scope is the Commercial Airplanes division and must not be expanded to all Boeing businesses worldwide. The respective contributions of attrition and layoffs, and their distribution across factories and roles, are not fully disclosed in the available report."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c01056c42b85db7781e32fbf",
+      "source_sha256": "fda416f9ce493e37dbf798a7d66b6c24675265705e870315ce182fa97c63491c",
+      "paragraphs": [
+        "TSMC released its October 2026 revenue report on November 10. Consolidated monthly revenue was **NT$586.89 billion, up 59.7% year on year and 14.7% month on month**. The respective comparison periods are October 2025 and September 2026; the two growth rates are not interchangeable.",
+        "The company report table carried by IT Home uses millions of New Taiwan dollars: 586,890 for October, 511,857 for September and 367,473 for October last year, equivalent to NT$586.890 billion, NT$511.857 billion and NT$367.473 billion. It also lists January–October revenue of NT$4,485,617 million, or **NT$4.485617 trillion, up 43.3% year on year**.",
+        "This is a monthly revenue disclosure and does not provide October’s standalone profit, gross margin or revenue by process node. An explicitly attributed Jiemian News republication on Eastmoney also corroborates the monthly and cumulative growth rates. Amounts remain in New Taiwan dollars so that renminbi or US dollar conversions at different exchange rates are not mistaken for the company’s original disclosure."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-926f288efba4c757b1488375",
+      "source_sha256": "55557ad6a75171dc8c0fb98798796d666bc0c7731b20d01f77bab3c490412742",
+      "paragraphs": [
+        "On November 10, Australia released the rapid review’s recommendations following an OpenAI agent’s entry into government websites, saying it had **accepted all 18 recommendations and begun implementation work**. Prime Minister Anthony Albanese also proposed an AI safety regulator to enforce requirements on frontier AI companies seeking to operate in Australia.",
+        "The official prime ministerial release lists mandatory reporting of misaligned behavior or cyber incidents, consideration of criminal-law reform for serious misconduct, closer engagement with international bodies and frontier developers, and improvements in information sharing, incident response and government cyber resilience. The standalone failure-to-prevent offense discussed by the BBC remains a review recommendation and a matter for possible legal reform, rather than an offense already in force that day.",
+        "The underlying incident occurred in June 2026 and involved the Medicare Statistics Reporting Service portal and other government systems. The government commissioned the review after notification in September. The BBC described the statistics portal’s data as non-sensitive; available reporting does not support describing the incident as theft of an entire personal medical-records database. The government also criticized delayed notification and escalation procedures.",
+        "**Accepting recommendations, establishing a regulator and completing legislation are separate stages.** This government release does not list newly effective criminal penalties or a complete penalty schedule. The Digital Duty of Care bill discussed separately by Lianhe Zaobao that day belongs to another online-platform legislative process; its proposed fines should not be presented as settled penalties under the new AI arrangements."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-c3459d772f5c3c544ea60b54",
       "source_sha256": "8e429387303646751962578872409947c451efecd64cb3ef6e1a3d26ccb2e124",
@@ -115,6 +221,18 @@
         "The final steel box girder weighs 3,318 tonnes and was lifted by a 5,500-tonne-class floating crane. Closure precision required control around a reference temperature of 22°C, followed by synchronized jack adjustments. The last closure was at the non-navigation-span bridge east of the Liuwudian navigation channel.",
         "The offshore main bridge is approximately 14.2 kilometers long and consists of 12 bridge sections, including the Guanyinshan interchange main bridge and the Liuwudian and Jintong navigation-channel bridges. The Xiamen-section project totals about 19.6 kilometers, including offshore main and branch bridges and land tunnels. Its main route is 17.34 kilometers, with eight lanes across the sea and a design speed of 100 km/h. These lengths refer to different project scopes.",
         "Deck, electromechanical and traffic-safety works continue. The reported target is to open the offshore main bridge by year-end, improving connections from Xiamen Island to Dadeng Island and toward Xiang’an International Airport. Actual access remains subject to subsequent acceptance and an official opening announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-15109e30788e1a1bf930bf31",
+      "source_sha256": "69314634e7ab00eefd66802ec5bf533bbb233fc5d23fa4a4372170c4b374b800",
+      "paragraphs": [
+        "Bandai Namco Holdings announced on November 10 that its board had resolved that day to **discontinue Canadian developer Reflector Entertainment’s business and proceed with dissolution and liquidation**. It said it had considered future business plans, additional investment needs, profitability prospects and business continuity. The board decision has been made, but liquidation procedures are not complete.",
+        "Founded in 2015, Reflector is wholly owned by Bandai Namco Entertainment Europe and plans and develops entertainment content including console games. It developed Unknown 9: Awakening, released in 2024. The formal notice places the decision within an ongoing review of the group’s business portfolio and internal development structure. It does not identify a particular controversy or review score as the cause of liquidation.",
+        "The company expects to record an **extraordinary loss of approximately €21 million, or about ¥3.5 billion**, in its consolidated statements for the third quarter, covering nine months, of the fiscal year ending March 31, 2027 and thereafter. This remains an estimate based on current information. The actual amount and recognition timing are under review and may change with tax, accounting and liquidation procedures.",
+        "Necessary procedures will follow local law, and **no definite completion date has been set**. The notice’s figures for the year ended March 2026 still show an operating profit but a loss attributable to owners of approximately C$1.983 million. Operating profit, net loss and future liquidation charges are distinct measures and must not be combined as one type of loss."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -510,6 +628,18 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-f63b925fb8bc1ca41e1f161f",
+      "source_sha256": "2a48eee0230dcee03b323bdc300e1e444dc3a2e5e97c5e792cde6a6fa89bbddf",
+      "paragraphs": [
+        "Skydance formally announced on November 9 that Jeremy Latcham will become **President and Chief Creative Officer of DC Studios on December 1, 2026**. James Gunn and Peter Safran will leave their management roles and return to creative work. The announcement does not say they are departing every DC project.",
+        "Latcham will oversee DC’s film, television and animation slate, creative development, production, talent and strategy, reporting to Skydance Motion Picture Group co-chairs Dana Goldberg and Josh Greenstein. He joined Marvel in 2004 and worked on projects including Iron Man, The Avengers, Guardians of the Galaxy and Spider-Man: Homecoming, before founding his own production company after leaving in 2017.",
+        "The outgoing leaders remain involved in Man of Tomorrow. **The official announcement schedules its theatrical release for July 9, 2027**, and says it is in post-production, rather than the 2028 date appearing in some secondary reporting. Gunn remains writer and director, and produces alongside Safran.",
+        "The announcement also confirms that The Batman Part II is in production and that filming has finished on the eight-episode The People v. Gorilla Grodd, expected in 2027. The leadership change is confirmed; subsequent project quality, box-office results and slate changes remain undetermined. It does not establish that every existing plan has been canceled."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-a32771a8dbf631c1f5fb47f3",
       "source_sha256": "af190a1849b0f0939837ce828fa1c2d814992f34ee1a04e002bf182575314ce7",
       "paragraphs": [
@@ -558,12 +688,12 @@
     },
     {
       "article_id": "article-0d1d7f1d79f1e51e6f015d7b",
-      "source_sha256": "01dbac7e4961dbe2be479b2b67aa97fac92ee413177c5a4f5479dab7d71799a0",
+      "source_sha256": "909c45a69d9387db9b7af5c9879dbc6d33e10d517b0dc1dea7baf0af35d06313",
       "paragraphs": [
-        "CCTV reported on the afternoon of November 9, citing relevant Taiyuan authorities, that the Haosheng International Apartments fire **had killed 14 people and left 25 receiving hospital treatment, including 16 in generally stable condition and nine with more serious injuries**. Hospitals are continuing intensive treatment efforts. Phoenix explicitly republished the CMG reporter’s update, adding hospital information after the morning increase in the death toll.",
-        "The fire began at 16:59 on November 8 on Liuxiang Street in Yingze district, Taiyuan. That evening’s local notice said open flames were extinguished at 19:00, the search ended at 20:30, and 38 people had been taken to hospital, including five deaths then recorded. The 25 people in hospital reported the following afternoon are a newer treatment count and cannot simply be added to or subtracted from the earlier hospital total to derive unreported figures.",
-        "Jiemian cited The Beijing News as saying emergency-management officials initially located the fire on the fifth and sixth floors. Businesses on the first three floors were mainly training institutions, the fifth through seventh floors were unused areas, and the eighth and ninth floors housed a hotel. These are preliminary checks and reported building-use details. Final findings on the ignition material and mechanism of spread have not been published.",
-        "As of the public updates on the afternoon of November 9, treatment and assistance for those affected continued, with the cause under investigation. This November 8 fire is a different accident from the March 2026 high-rise fire elsewhere in Taiyuan; their casualties and on-site accounts are separate."
+        "At a special meeting on November 9, Shanxi’s provincial party committee called for the provincial government to establish an investigation team led by the provincial work-safety office to determine the cause of the fire at Taiyuan’s Haosheng International Apartment building, while prioritizing treatment of the injured. The meeting’s measures were publicly reported on November 10. **An investigation has been requested, but the final cause and responsibility findings have not been announced.**",
+        "A Taiyuan government press conference on the afternoon of November 9, reported by China News Service that evening, recorded **14 deaths and 25 people receiving hospital treatment: nine critically injured, four seriously injured and twelve lightly injured**. These figures belong to that briefing’s verification time, rather than a separate new November 10 casualty announcement. The earlier broad description of nine people as more seriously injured should not replace the current categories.",
+        "The fire began at 16:59 on November 8 at the apartment building in Yingze district. The briefing said firefighters arrived at 17:04, visible flames were extinguished at 19:00, and search operations ended at 20:30. Sixty trapped people were evacuated or rescued. The cumulative deployment of more than 1,500 rescue personnel on a person-times basis is a different measure and must not be added to the number of people rescued.",
+        "Authorities have placed managers of the property-owning entity and the property-management company under control measures and said investigation results would be published according to law. Provincial measures also target risks in high-rise, mixed-use and crowded buildings. Control measures are not a criminal conviction, and no final public determination of the ignition source or fire-spread mechanism is available."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -726,12 +856,12 @@
     },
     {
       "article_id": "article-143f53c29ea3c352a9fac800",
-      "source_sha256": "83b26e2318857da8218f47526bf1cd119cabe54c9f06d37caedd150244e503c5",
+      "source_sha256": "2d37d015430459d85a91012bb27b2b7f80880bccec7144857f4355365bf1a9c0",
       "paragraphs": [
-        "Ahead of the November 10–11 Abu Dhabi talks, the United States, Russia and Ukraine remain divided over security arrangements and territory. In a pre-talks report on November 10, the BBC quoted US officials saying the sides had privately shown “a little bit of flexibility.” This is **the US characterization of their negotiating attitudes**, rather than an agreed territorial compromise. The report still describes the meeting as forthcoming and does not confirm that it has opened.",
-        "European participation remains disputed. French Foreign Minister Jean-Noël Barrot said on November 8 that France and Europe would send representatives. On November 9, Kremlin spokesman Dmitry Peskov said this round would involve Russia, Ukraine and the United States, without European officials, noting that Kyiv and Washington have their own channels with Europe. A US official told the BBC that Washington would propose a multilateral format including Europeans and seek Russian agreement.",
-        "A central dispute concerns Donetsk: Russia demands that Ukraine relinquish the areas it still controls, while Kyiv seeks to freeze the contact line and retain those areas for its future security. US officials view territorial arrangements and postwar security architecture as interdependent. Possible discussions include security consultations, crisis hotlines and reciprocal de-escalation measures; these remain topics and proposals.",
-        "This is another US effort to convene trilateral negotiations after February’s Geneva talks. Russian attacks on Ukraine continue, and Europeans demand a role in discussions affecting their security. **As checked for this November 10 morning edition, no comprehensive ceasefire, peace agreement or final participation arrangement agreed by all sides has been announced.**"
+        "On November 10, Ukraine’s chief negotiator Rustem Umerov said the Abu Dhabi consultations had moved from preliminary coordination into **a trilateral negotiating format involving Ukraine, the United States and Russia**. Interfax-Ukraine published that update at 10:55 Kyiv time, equivalent to 16:55 Beijing time. This confirms procedural progress, rather than a ceasefire or peace agreement.",
+        "Ukraine first met representatives of Britain, France, Germany, Italy, NATO and the European Commission to coordinate positions before the next stage. An AP report carried by ABC News also explained that European representatives would not join this round’s main trilateral talks, instead discussing potential security guarantees and longer-term security arrangements beforehand. Being present in Abu Dhabi is distinct from holding a seat at the main Russia–US–Ukraine table.",
+        "Umerov listed cessation of hostilities, reliable postwar security guarantees, economic recovery and humanitarian steps as Ukraine’s priorities. Pre-meeting reporting covered possible discussions on halting attacks on energy facilities, Black Sea shipping security and prisoner exchanges. These remain negotiating topics, rather than terms already accepted by all parties.",
+        "The round was scheduled for November 10–11, with Steve Witkoff and Jared Kushner mediating for the United States. Russia had insisted on a trilateral format. **As of this November 10 evening verification, the opening and the European coordination track can be confirmed, but no jointly announced final agreement or comprehensive ceasefire implementation arrangements have been identified.**"
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -4016,39 +4146,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-3e4aabc5e69f933db7c41d34",
-      "source_sha256": "1d0a15e1f5af6ae81803347ab59ce82471ab4463a84f10021228387ba94c5519",
-      "paragraphs": [
-        "【Electronics competition schedule review | November 2nd check】Riot's official guide divides the 2026 Global Championship into qualifiers, Swiss rounds, and elimination rounds. The quarterfinals of the elimination rounds are scheduled from November 3rd to 6th in the United States, with the semifinals on November 7th to 8th, both using a best-of-five format. Corresponding to Hong Kong time / Beijing time, the start times of the first two rounds are at 6:00 AM the next day, and it is not sufficient to merely copy the American dates for domestic readers.",
-        "The final is scheduled to take place in Brooklyn, New York, on 14 November at 2:00 PM local time, which is 3:00 AM Beijing time on 15 November. The official list of LPL participating teams is AL, BLG, TES, and IG; the knockout stage qualifying list must be confirmed based on the actual match results.",
-        "The format and schedule were announced by the official on 5 October. The rule of advancing with three wins and elimination with three losses in the Swiss round, and the distinction from the subsequent single-elimination stage, will be implemented. Subsequently, priority will be given to reporting key series results, advancements, and official schedule changes, and the official will not announce the champion based on unverified social media predictions."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e31d035d2b38fec3afdcb69d",
-      "source_sha256": "9647911931b2241a19f548da43e9a82cebdb1718166788763d7a20c720b698a8",
-      "paragraphs": [
-        "The *Complete Edition of Ghost of Yōtei* integrates the base game, the Legends multiplayer mode, the Most Wanted rogue-like mode, and the \"Echoes of Sekigahara\" story expansion. A one-year anniversary interview on October 2 invites actor Erika Ishii to recall the production experience.",
-        "The added plot switches between Atsu's early experiences in the current setting and provides new content for the character's background. The interview explains that the extended recording was made between the time of the original game's development and its conclusion, and the team continued to make the game after refining the original, not by simply reusing old lines with new names.",
-        "The actors also discussed their experiences of playing the role, meeting players, and stepping onto the stage at the Tokyo Game Show. These contents belong to creative interviews and product composition explanations, neither being a complete expansion guide nor proving that all previous players automatically have full access to every feature in the complete version. Players are advised to check the version and included content listed on the original page before purchasing or upgrading."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-46985b1c26417cc34049a87a",
-      "source_sha256": "0b9d0d4aa2f9805f248dec509fb22efe65c8ebf460c3a7f707579e41921dc564",
-      "paragraphs": [
-        "The UN Refugee Agency released a 2026 education report on 2 October, estimating that among the 13,100,000 school-age refugee children globally in 2025, approximately 5,800,000, or 44%, were not enrolled in school. The report was published in 2026, but the main statistical year was 2025. It is not appropriate to refer to all the numbers as having been completed by 2026 simply because the report is titled a \"2026 report,\" and it is also not correct to equate the number of children who did not enroll with their final fate of permanent drop-out.",
-        "Under the reporting criteria, the enrollment rate of refugees in primary education is approximately 65%, and in secondary education is about 32%, indicating that transitioning from primary to secondary school is a significant barrier. The gap between girls and boys is relatively smaller at the primary level, but pressures such as poverty, vulnerability, and early marriage become more pronounced when entering secondary school. In terms of higher education, the enrollment rate increased from 9% in 2024 to 11% in 2025, reflecting that continued investment can create opportunities; however, opportunities remain more limited in low-income or conflict-affected countries.",
-        "UNHCR emphasized that education has protective functions and also influences skills, employment, and the possibility of future independent living. Most refugees share the local education system with children in the host community, so increasing teachers, classrooms, and teaching materials benefits both sides, rather than just establishing isolated aid projects. Funding cuts may reverse existing progress, which is a risk judgment in the report; this text does not assert that each country has closed all schools, but rather retains distinctions between different educational stages, statistical years, and the scope of the report."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-bfc4355d370530a85bd88314",
       "source_sha256": "1e2974a9cf2118ca863bf1eb14f1a56582cb6ddc23a364a381ef49f52cf5eca2",
       "paragraphs": [
@@ -4060,78 +4157,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-ea5fcec719d87c439503f38b",
-      "source_sha256": "8642bc8ac03d1a4d0937e227162d8e5ebf090fbe8cbcab413cc98aac93441f91",
-      "paragraphs": [
-        "Elta: Defy All Gods has announced a release plan for February 2, 2027, and will open free PS5 playtesting on October 1. Afterburner Studios describes it as an action platform game that combines shoot-'em-up combat with nonlinear exploration.",
-        "The battle revolves around three different martial arts stances and their respective skill trees, with spells used to release accumulated energy; movement gradually incorporates double jumps, dashes, wall climbs, and grapples. The small dragon companion is both involved in the battle and changes the way the player traverses terrain and discovers paths, linking combat and exploration growth.",
-        "The team mentioned influences from classic action games, Galaxy City works, youth anime, and Hong Kong kung fu films, spanning three sci-fi scenarios worldwide. The playtest is a limited content demonstration and does not equate to the official release being available; the 2027 release plan should be recorded separately from the playtest opening in 2026."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-455acfe85f579ad6afa1ef38",
-      "source_sha256": "2879603e991fbad75a8158b8defb1818de8de3298bd9e091c88f1319d96eb4e7",
-      "paragraphs": [
-        "\"The Wolf Among Us Remastered\" is scheduled for release on October 29, focusing on updated art and behind-the-scenes content while retaining the original story and overall director's choices. Telltale explained in an interview on October 1 that this approach aims to bring back longtime players to Fabletown and help new players engage with the original game.",
-        "The new Noir mode adopts a more pure cinematic aesthetic of black and white films, rather than simply retaining a small amount of color on a black and white screen. The producer believes that removing the original neon colors will result in a different feeling for the shadows and the mood of the scene.",
-        "The allegorical characters of the original work, the urban environment of the 1980s, and the noir detective narrative remain at the core. These design adjustments belong to the remastered version of the first game."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-38f2c52b7d6152b1404b33d1",
-      "source_sha256": "adfb511ad039edaaa3702c47a0b7f48c65434fa39a84f59c25aef7eb5d25e174",
-      "paragraphs": [
-        "Ember Lab confirmed that \"Kena: Scars of Kosmora\" will be released in 2027, to allow for more polishing time. On October 1, it was also announced that a new world will be introduced, though the specific date has not yet been provided in this announcement.",
-        "The game remains centered around characters and is a linear adventure, but the scope and areas that can be explored have expanded. After helping the dead, Kena also begins to confront the suffering of the living and her own experiences, leading her to seek answers in Kosmora.",
-        "The ancient sages on the island combined the four elements with the temple system, and different cultures have historically relied on their respective elements for development. After the catastrophe, remnants of the temple remain that are still not fully understood. The temples will serve the purpose of challenging the world and enhancing abilities. The delay in the plan is already confirmed development information; the goals of scaling up in size and quality remain the team's commitment and cannot be considered as a pre-determined evaluation after completion."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-7118cd6dbdbcfae8401ed402",
-      "source_sha256": "e9b1a957e51dceca6bcc16b0628f49c3daad0f457e5dae6364b12393c3995e8a",
-      "paragraphs": [
-        "On October 1, Huawei launched the Mate 90 series, with official purchasing guidelines also listing the initial sales schedule. The standard model was priced starting at 5,999 yuan, while models such as Pro, Pro Max, and the Master Edition featured higher configurations. The content on the PR Newswire page is based on Huawei's news release and should not be considered an independent review; specific specifications should be verified against the respective product pages.",
-        "The standard model's official page lists a Kirin 9030 chip, a 6,600mAh battery, 66W wired fast charging and HarmonyOS 7. Higher-end models use different chip and camera combinations, so references to the flagship Tau chip in the press release cannot be applied to every standard-model configuration. The standard model's page specifically highlights third-generation Red Maple color imaging, XMAGE-assisted photography and third-generation Kunlun Glass.",
-        "In terms of design, the standard version features colors such as lattice green and lattice pink, along with three-dimensional glass fiber, to express the back texture. The connectivity capabilities emphasize multi-device collaboration and HarmonyOS sharing. The official website also displays capabilities related to IP68 and IP69, but these conditions are still subject to corresponding annotations and cannot be considered as a unconditional waterproof guarantee for daily use. The significance of this release lies in the fact that the same generation of products covers multiple positioning: understanding the differences in chips, cameras, and batteries across various models is more meaningful than combining the highest specifications of the series into a fictional phone."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-8b66d16069b357e0bec005ed",
-      "source_sha256": "44908c72d9ccf619dc25b45393f876244994e157d489e11463010fed5578955b",
-      "paragraphs": [
-        "The UN Refugee Agency expressed concern on 30 September regarding Malaysia's recent decision to return 1,476 people to Myanmar. The agency believes that the ongoing conflict and severe humanitarian and human rights situations in Myanmar indicate that some of those returned may require international protection; Malaysia authorities stated that these returns are voluntary. This message records two publicly stated positions and cannot be used to prematurely assume that all cases of \"voluntary\" or \"forced\" individual facts have been independently determined.",
-        "The UNHCR specifically points out that individuals returned were previously in immigration detention, and the agency did not have contact with these individuals to assess their situation, therefore unable to determine whether each individual's decision was truly voluntary and fully informed. The adequacy of consent during detention, the possibility of contact with protection measures, and the risks that may be faced after return require individual assessment; the overall figure of 1,476 people cannot indicate that all individuals' legal status or needs are the same.",
-        "The institution acknowledges the sovereign responsibility of Malaysia in managing asylum and immigration affairs, while calling for the establishment of reliable safeguards, allowing asylum applications, and assessing voluntary return outside of detention environments. The statement references the non-refoulement principle, emphasizing that it is not permissible to send people back to places where they may face persecution, torture, or serious threats to their life and freedom. This article does not make legal qualification judgments for individuals and does not present the institution's concerns as already rendered judicial decisions. It retains the date of the statement, the limitations due to lack of verification, and the official stance as stated, for readers to continue reviewing subsequent public responses."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-f6e0a3b3f52abf457b49fb71",
       "source_sha256": "b48889daa072003df1d58194ec80cbce266f1b788dba9b13ab7de2f89c9336a8",
       "paragraphs": [
         "Samsung announced the Galaxy Tab S12 Ultra and Tab S12+ on September 30, with sales beginning in certain markets on October 7. Both models come with an S Pen, designed for use in scenarios such as handwriting, learning, image processing, and multitasking; the Ultra model has a 14.6-inch display, while the Plus model has a 12.6-inch display, and neither model alone represents the entire series.",
         "The hardware uses the Tianjic 9500, combined with a 3D heat spreader and an AMOLED screen. The Ultra model is 5.1 millimeters thick with a 11600mAh battery; the Plus model has a 10600mAh battery. Both models support 45W charging, with the charger being a separate purchase. The system runs on Android 17 and One UI 9, combined with note-taking and AI research tools, and other accessories such as a keyboard need to be selected separately.",
         "Applied ecology is another focus area: applications such as Photoshop, Notability, and Goodnotes offer pre-installed, trial, or subscription discounts, while LumaFusion also has corresponding promotions. Pre-installed icons do not equate to permanent free usage, and regional and time-specific terms must be examined separately. This release extends the competition among high-end tablets from screen parameters to creative and learning processes. The news retains clear supply dates and distinguishes between styluses included with the box and additional paid accessories and services."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e555b7379ae053bca2f54c07",
-      "source_sha256": "ea2bb159773ea214a5817d3ea47c8626f5260b724eae331df359a13f1deb3c60",
-      "paragraphs": [
-        "Control Resonant expands the battlefield to Manhattan, but Remedy hopes that supernatural abilities still carry a physical burden and environmental feedback. A September 29 interview indicates that Dylan retains awkward and laborious movements when moving, floating, and changing gravity, avoiding a complete detachment of power from the character.",
-        "Larger spaces also need to respond to player behavior: impacts will scatter leaves, affect street facilities and surrounding objects, continuing the tactile sensation from the previous dynamic destruction. Environmental design establishes a contrast between ordinary New York streets and extraordinary areas, rather than maintaining the same level of oddness in every location.",
-        "The team used a relatively normal central area as a visual reference, making the abnormal space more striking. The report is part of an interview on levels, art, and action design, detailing specific production concepts; it is separated from other topics such as accessibility modes and performance descriptions to avoid recounting the same release information repeatedly."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -4165,28 +4196,6 @@
         "On September 29, vivo launched the iQOO16 under its iQOO brand and officially began sales at 8:30 PM. The product is designed around high refresh rate displays, touch control, and game rendering synergy, featuring a 2K 165Hz screen developed in collaboration with Samsung Display, combined with Q-flex control and new frame synchronization processing to reduce waiting and trailing effects in high-speed scenes.",
         "The performance section first uses the sixth-generation Snapdragon 8 Super Elite version, with self-developed Q4 gaming chips handling upscaling, upframing, and ray tracing-related processing. The 8.5K VC cooling system and Monster scheduling engine maintain continuous load. Different games have varying levels of support for native frame rates, upscaling, and interpolation, and a 165Hz screen does not mean that every game can natively output 165 frames.",
         "The device is equipped with OriginOS 7, an 8400mAh battery, and 100W charging. The camera system includes a 50,000,000-pixel main lens, a telephoto zoom, and a wide-angle lens. The official website lists prices such as 5499 yuan, which include the conditions of the subsidy at the time and cannot be considered as unconditional prices in all regions. The new product also incorporates PC gaming simulation, large-screen gaming, and live streaming tools into its usage scenarios; the specific compatibility list is still determined by the game and software versions."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b4fd03c6bd48c1d2216842ed",
-      "source_sha256": "e140abf9f318dfb0d02d1cbe9e36ac5ca65d73c9c547969f869b03e242aab032",
-      "paragraphs": [
-        "The independent game \"Suri: The Seventh Note\" treats music as an interactive element that players can master, rather than just as a background setting. On 28 September, the developer published an article explaining the design of rhythm and input windows, and on 30 October, the PS5 release plan was announced.",
-        "The team used a primary continuous beat interval of approximately 480 milliseconds to balance the action response time with the game's pacing. To allow for judgment, the music cannot fully follow a single genre and must recombine different musical styles with operational needs.",
-        "Visual and music also jointly draw on the cultural diversity of different regions in India: architecture, art, and instruments vary with the island region. The team stated that approximately eight out of ten of the musical pieces were recorded using real instruments to preserve the performance texture; this ratio is an explanation of the production method by the developers. For players, the focus is on how exploration, movement, and auditory cues interact with each other, rather than just whether the trailer is pleasant to listen to."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-5c2a28e99a207749d9abc661",
-      "source_sha256": "b7a291b1459bc1c04d961bde672455b842072199aef582d20a5f438f21aadaf3",
-      "paragraphs": [
-        "The \"God of War Laufey\" plan to launch on PS5 on February 16, 2027, with pre-orders beginning on September 29, 2026. On September 28, the original announcement introduced pre-order rewards, the digital deluxe edition, and Faye's combat. On October 13, an update added another Collector Box.",
-        "The Collector's Box is scheduled to launch on 16 February 2027 and will be available for sale exclusively through PlayStation direct channels in certain regions. The original text explicitly states that the game must be purchased separately and that players should not assume that the game is included simply because the name contains \"Collector.\" The region, quantity, and actual price must be verified according to the corresponding store.",
-        "The combat demonstrations include the Serpent Bow, which can quickly switch forms, facilitating the connection between long-range arrow attacks and close-range attacks. Here, the distinction between each announcement and the future release date is retained: information about the pre-order opening belonging to 2026 has already occurred, while the official release of the game is still planned for 2027."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
