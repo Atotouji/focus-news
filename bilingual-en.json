@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T01:30:00.308Z",
+  "generated_at": "2026-11-11T04:19:26.032Z",
   "translations": [
+    {
+      "article_id": "article-3e185e5477291550990d8a71",
+      "source_sha256": "b906c9e6d668c060d15ea3735ddbd2044c305c39261306529f32f367374a8a09",
+      "paragraphs": [
+        "On November 11, the 26th session of the Standing Committee of Jiangxi’s 14th People’s Congress appointed Chen Yongqi vice governor and acting governor. The Beijing News reported the decision citing Jiangxi’s legislature, and Lianhe Zaobao subsequently confirmed it. **The administrative office conferred in this decision is acting governor**, a different procedure from election as governor.",
+        "Chen had already been appointed Party secretary of the provincial government on October 24. That internal Party appointment and the administrative appointment by the legislature’s standing committee occurred on different dates. Lianhe Zaobao reported that he transferred from Tibet to become Jiangxi’s deputy provincial Party secretary in December 2024, after holding posts including Tibet’s Party standing committee member and organization department chief and executive vice chairman of the regional government.",
+        "His public biography states that he was born in November 1967, is from Huairen in Shanxi, holds a postgraduate qualification and a doctorate in philosophy, and is an alternate member of the 20th Central Committee. The appointment follows former governor Ye Jianchun’s investigation in August and the acceptance of his resignation in September; the predecessor’s investigation and this appointment have separate announcement dates."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8c4c12e0a9da3b4f3cc8efdb",
+      "source_sha256": "48a12d1191e2c7beb82dd259da3ed4bfcd88b20d2a58ecfb605e0e0914d6bbf4",
+      "paragraphs": [
+        "Shanghai’s development and reform, transport and finance authorities announced revised on-street parking charges, **effective November 18, 2026**. A vehicle parked for no more than 15 minutes at a time can receive up to two free stays per workday and three on weekends, public holidays and adjusted days off. The policy concerns on-street parking facilities, rather than a universal free first 15 minutes in commercial garages and private car parks.",
+        "The short-stay exemption applies to on-street facilities charging by time, but not temporary facilities charging per visit. Once a stay exceeds 15 minutes, charging starts from the time of entry, including the first 15 minutes. Time-based billing units will shorten to 15 minutes at smart on-street facilities and 30 minutes at the smaller number of manually operated facilities.",
+        "Daytime charging areas will be divided into four categories instead of three, with tiered prices based on duration. The Paper gives an example for a smart on-street space in a Category 1 area: a 45-minute stay falls from RMB15 to RMB12, while two hours rises from RMB35 to RMB36 and three hours from RMB55 to RMB60. Short and long stays can therefore see charges move in opposite directions.",
+        "Night parking will switch to time-based charges with a cap. Eligible nearby residents can apply for monthly parking, with Category 4 monthly charges falling from RMB200 to RMB150; the resident night-and-holiday monthly rate does not cover workday daytime parking. At the end of October, Shanghai had 49,600 chargeable on-street spaces, about 90% in smart parking facilities."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-100fdf10a41dbce557fb78a3",
+      "source_sha256": "6d8623ddfc6024e3a1e105726b540971245682652180874b800302003bcbb0c7",
+      "paragraphs": [
+        "On November 11, Alibaba previewed the next Qwen generation, Qwen4, and opened early access to its flagship Qwen4-Max model. Official QwenCloud documentation lists the model identifier as qwen4-max-preview. **Access is currently restricted to Token Plan subscriptions, with no pay-as-you-go option.** The status of the full Qwen4 release is distinct from this limited preview.",
+        "The documentation sets the preview period from 10:00 on November 11 through 24:00 on November 25, Beijing time. It says the model will not change during that period and will be retired when the preview ends. Developers can access it through individual or team Token Plans. IT Home also reported integration into Qwen’s office product, Qoder, the Qwen app and QwenStudio.",
+        "The model supports text generation, image and video understanding, deep reasoning, function calling, web search and structured outputs for coding, office work, frontend design and complex agent tasks. Its context window is 1M tokens, with a maximum output of 393,216 tokens shared between reasoning and the final answer; the entire allowance is not available for the visible answer alone.",
+        "Its interfaces are compatible with OpenAI Chat Completions, Responses and Anthropic Messages, and thinking is enabled by default. The announcement describes capabilities, specifications and access methods; it does not announce an accompanying release of model weights or a license for them. Promotional currencies and plan prices on different regional subscription pages also do not translate directly into a single model unit price."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e85877f775e75fa015c29b24",
+      "source_sha256": "33bcae9a5e8b43e37df4ef6b6a96101f9abe72874373157c99b646c6e13becf9",
+      "paragraphs": [
+        "On November 11, Huawei announced that the Stelato V8 and Xingmang brand event would take place at **14:30 on November 20, Hong Kong and Beijing time**. Richard Yu then publicly stated that Huawei’s new “OSTA Xingmang” sub-brand would make its first appearance at the event, confirming the name and debut schedule.",
+        "The device label on Yu’s public Weibo posts now shows OSTA O1 Pro. IT Home also reported information about a wide-format slab phone’s appearance, storage configurations and colors, but those configuration lists came from a technology blogger rather than official launch specifications. The confirmed elements are the brand and event time; phone pricing, full hardware specifications and actual sales arrangements remain to be announced by Huawei.",
+        "The same event also includes the Stelato V8. An event announcement, previously opened test drives and vehicle presales represent different stages. The event date does not establish that every product will be available for immediate delivery, and the OSTA brand’s debut likewise does not mean that its phone is already formally on sale."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-0e365028518c38e91ece0fda",
       "source_sha256": "bba6f3b9a4f70b86b6aed701a7c379c49b94cc24b0453d007d9b6c1cb82ffe61",
@@ -9,6 +55,18 @@
         "MiniMax has released H3-Image with a public weights repository containing Safetensors weights and inference configurations, rather than merely announcing a future release. It supports text-to-image generation, reference-based generation and editing, with **up to 16 reference images**. The model card lists the main BF16 model at about 68.65 GB, alongside an optional prompt-expansion model.",
         "MiniMax says it generates 4096 × 4096 images, about 16 megapixels, in under 10 seconds under its deployment conditions. The model card describes six sampling steps without post-generation upscaling and approximately 16-megapixel output across aspect ratios. Hosted access is offered through the API, MiniMax Code and Hailuo. Speed, relative cost and image-quality advantages are vendor claims, not local benchmarks for arbitrary graphics cards.",
         "The weights use the **MiniMax-H3-Image Community License, rather than a geographically unrestricted Apache or MIT license**. The terms exclude the EU, U.K., South Korea and U.S.; deployment there requires separate authorization, and use and redistribution conditions also apply. Public downloads, self-hosting and unrestricted use are different concepts. Model-example images in the repository do not automatically carry a verified open image license."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3b9c3405b6d2be347e7916cb",
+      "source_sha256": "5c846da0ac6d257ce3b356a87e0afc8c12e53e564e8586b585f3a76239d89161",
+      "paragraphs": [
+        "A city bus caused a chain collision during the morning commute on November 11 in Bundang District, Seongnam, Gyeonggi Province, South Korea. Driven by a man in his 60s, it struck vehicles waiting at a traffic signal at about 07:34 local time, or 06:34 Beijing time, and stopped after hitting the median barrier. Reports list four buses, one truck and 27 passenger cars among the vehicles struck, totaling 32.",
+        "Aju Press, part of the Aju Business Daily group, cited police and fire authorities in a report published at 10:36 local time as saying **57 people were injured, nine seriously**. Yonhap’s earlier 10:10 local-time report counted 48 injured, six seriously, and said none of those injuries was life-threatening at that time. Injury statistics remain subject to updates; the earlier non-life-threatening assessment applied to the 48 casualties counted then.",
+        "Yonhap reported that the collision extended over roughly 100–150 meters. Traffic in both directions was temporarily blocked, and restrictions were lifted after damaged vehicles were removed. With several buses involved, passengers with abrasions and other injuries could continue to be registered; the available figures should not be treated as a final tally.",
+        "The driver’s breath test detected no alcohol. He told police the brakes had not worked, and investigators planned to examine possible drug use and vehicle defects. **Brake failure remains the driver’s account, rather than a published technical finding.**"
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -64,6 +122,18 @@
         "On November 10, AMD announced **general availability of its Zen 6-based sixth-generation EPYC server SP7 processors**, with systems shipping from leading server OEMs and ODMs. The portfolio addresses enterprise services, HPC, AI agents and GPU host nodes. This announcement concerns the server family, distinct from the separately announced embedded SP7 products.",
         "AMD divides CPU roles in agent infrastructure into general-purpose services, GPU host nodes and agent sandboxes. High-frequency host-node products reach up to 5.3 GHz, with AMD claiming up to 1.8 times the LLM output throughput of previous-generation EPYC. This is a vendor comparison under specified configurations and workloads, not an 80% gain in every application.",
         "Availability differs across deployments: on-premises systems are shipping, Azure HDv2 remains in preview, some new Azure and OCI cloud instances are due for general availability later, and Meta is validating platforms ahead of deployment at scale. AMD also describes liquid-cooled, air-cooled and local-GPU-inference Helion rack options. Product launch, customer validation and broad cloud availability remain separate stages."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a1c64da99a43b6d798817855",
+      "source_sha256": "1c9f12d41e95444960609a9d32a68ffe07103fd9f3e24115c90218cd89290c8d",
+      "paragraphs": [
+        "Microsoft formally released .NET 11 on November 10, covering the runtime, languages, SDK, web stack and cross-platform application framework. **It is a Standard Term Support (STS) release with two years of support**; .NET 10 remains a supported Long Term Support (LTS) option. Both follow the same quality and servicing policies, with support duration as the main difference.",
+        "Projects targeting .NET 11 use C# 15 by default. Union types and closed hierarchies allow the compiler to check possible result types and whether pattern matches cover all cases. The SDK enables a Native AOT command-line host and keeps the MSBuild server warm between commands to reduce repeated startup overhead. The separate C# memory-safety work remains in preview.",
+        "ASP.NET Core gains asynchronous validation, OpenAPI 3.2 by default and SignalR authentication refresh, while .NET MAUI makes CoreCLR its default runtime. The libraries add Zstandard compression, process APIs and JSON capabilities, and runtime work continues to reduce overhead from bounds checks, branches and interface calls.",
+        "AI applications can combine model-access libraries, MCP tools and Agent Framework, but the Blazor AI components package remains experimental and prerelease throughout .NET 11. AG-UI hosting integration has also not become stable. Android Native AOT and some vector-search APIs retain experimental labels as well; the framework’s formal release does not automatically make these separate features stable."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -452,6 +522,89 @@
         "Mozilla’s completed release notes now confirm that **Firefox 160.0 reached the Release channel on November 10**. Picture-in-Picture gains speeds from 0.25× to 2×, visible when the player is medium-sized or larger. Mini Window places a whole tab or selected page area in an always-on-top window, but Mozilla still describes it as an early version being refined.",
         "Other changes include dragging history entries from the sidebar to the tab strip, distinguishing Paste and Search from URL navigation based on clipboard content, and making MathML in saved PDFs accessible to assistive technology. Sites repeatedly asking to handle mail or other links can be blocked with Never allow and managed in Settings. WebGL on macOS now uses Metal, with effects dependent on the site and workload.",
         "The web platform adds SpeechRecognition for on-device real-time transcription in 40 languages. Fixes also address macOS downloads, default applications and freezing during intranet authentication. French tab grouping in Smart Window remains a progressive rollout. This confirms stable-channel availability, rather than treating beta timing or every gradually released feature as earlier universal availability."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c859626df807995ef6d98808",
+      "source_sha256": "1048de7ddb7b8d17c852f7ecb92bac44ad51512546a8e32c523d53f1f5ce9b70",
+      "paragraphs": [
+        "In prepared remarks for the National Committee on U.S.-China Relations gala in New York on November 10, U.S. Treasury Secretary Scott Bessent said Washington was establishing a new dialogue with China on advanced artificial intelligence risks and a direct channel for promptly notifying each other of serious incidents involving their models. Using the Trump administration’s term “superintelligence” (SI), he described managing shared risks and preventing misunderstandings between the two systems as the dialogue’s aims.",
+        "The remarks said the two sides expected to exchange practices for evaluating and testing advanced models before release and for keeping human judgment in control of the technology. **The direct notification channel was described as being established.** The speech supplied no operating procedures, activation date or joint technical standards, and announced neither completed joint model tests nor a binding safety agreement.",
+        "Bessent also said he would accompany Trump to Shenzhen the following week for a meeting with Xi Jinping. Lianhe Zaobao, citing Reuters, reported that the meeting was planned on the sidelines of the November 18–19 APEC leaders’ summit. These were publicly stated agenda priorities ahead of the meeting; subsequent arrangements and actual outcomes remained to be announced.",
+        "On trade, Bessent reiterated the aim of a constructive relationship grounded in balance and reciprocity and said the U.S. objective was to reduce risks. He also said the countries’ interests and approaches would not always coincide: cooperation on AI risks would coexist with technological competition."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a662a41addefba898ae9446c",
+      "source_sha256": "b163aa278f1a739522fb0424b8f181885c0cab92a0f62074d954e09cf6908094",
+      "paragraphs": [
+        "On November 10, Arm announced Cortex-M42 and added it to the Flexible Access and Total Access portfolios for cost- and area-sensitive uses such as wearables, industrial IoT and connectivity controllers. The release is **processor IP** for chip designers, rather than a complete chip or device already on retail sale.",
+        "Built on Armv8.1-M, Cortex-M42 combines Helium vector extensions with a compact AHB-based design to ease upgrades from Cortex-M4 and M33 microcontroller designs and strengthen local machine learning and digital signal processing. Arm claims up to three times Cortex-M33’s vector compute capability and twice its vector power efficiency. These are vendor comparisons of specific capabilities, rather than equivalent gains for entire applications or devices.",
+        "Listed uses include audio processing, keyword spotting, sensor analysis, condition monitoring and detecting abnormalities in robot motors and joints. In the robotics example, Arm explicitly describes local signal processing and wear monitoring, without performing safety-critical motion control.",
+        "As of November, Flexible Access had 319 active members and had enabled more than 500 distinct chip tape-outs, while Total Access had 60 partners and had supported more than 600 projects. These are statistics for the programs as a whole, rather than tape-outs or shipments already achieved by Cortex-M42."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-282995a7bf2e9e8cf49d9305",
+      "source_sha256": "0017ae812aa18c66d81dc1a747bf6efa8579c1f742ae28248e5669107df8dcb5",
+      "paragraphs": [
+        "On November 10, Microsoft announced that Automatic Super Resolution (Auto SR) was leaving preview on ROG Xbox Ally X and Ally X20 and expanding to selected Windows Copilot+ PCs powered by AMD Ryzen. **Battery-powered handheld play, use on the built-in screen and support for a 1080p base resolution have begun rolling out**, within the supported-device range.",
+        "A new Performance Mode raises the frame-rate ceiling to up to 120 FPS, and compatibility with Auto HDR is also being added. Microsoft specifies that both features will arrive gradually through subsequent Windows updates. Its Rocket League demonstration on an Ally X at 720p with High in-game graphics settings averaged 70 FPS in Quality Mode and 115 FPS in Performance Mode. Those vendor results apply to the stated device and settings.",
+        "The earlier Xbox Insider preview worked only while docked; it can now be used directly on the handheld’s internal display. With a 1080p base resolution, connection to a higher-resolution display can improve detail through upscaling to 1440p. Microsoft also notes that 1080p internal-screen performance may not be optimal compared with other configurations.",
+        "The features depend on the latest Game Bar, Windows 11 updates and the Auto Super Resolution package. Auto HDR expands some games without native HDR to HDR displays. The combinations available on a device depend on whether it has received the compatibility update and whether an HDR screen is in use."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-77c719d8ae71944c78a570eb",
+      "source_sha256": "0fd07f4bcd7a58e5695de90677975109894d80330404f76f8742e33021e4edcd",
+      "paragraphs": [
+        "On November 10, Apple announced optional sign-language interpretation in the Apple TV app beginning November 13, alongside the global streaming premiere of Being Heumann. Directed by CODA filmmaker Siân Heder and starring Ruth Madeley, the film tells the true story of disability-rights activist Judy Heumann.",
+        "The initial supported titles also include F1, with American Sign Language (ASL) and British Sign Language (BSL). Way of the Warrior Kid and Greyhound are planned to follow later this year. **The feature applies to selected titles, rather than automatically translating every film into every language.** Supported content will carry a dedicated icon and can be found using sign-language search terms.",
+        "Apple says Deaf and native signers helped design and test the experience, with each film’s interpretation individually crafted for its narrative and emotion. Daniel Durant, who appears in Being Heumann, also directed that film’s sign-language interpretation. This production approach differs from automatically generating a signing video from subtitles.",
+        "Requirements are iOS, iPadOS, macOS, tvOS or visionOS 27.2 or later, or a supported third-party device running the latest app software. November 13 is the announced launch date, so the feature is still forthcoming. Regional catalogs, device software versions and individual title support together determine availability."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dd6a0b0ce874d906daa0685d",
+      "source_sha256": "a4d2baceb8c839b2edaab01d7e118e5314c06657c09f32ce6def843136dc27f6",
+      "paragraphs": [
+        "Éric Zemmour, leader of the French far-right party Reconquête, announced on TF1 television on the evening of November 10 that he would run in the 2027 presidential election. Euronews and Lianhe Zaobao both reported the announcement. His party’s website also published his candidacy statement that day and advertised a campaign-launch meeting in Toulon on November 21.",
+        "Zemmour placed immigration at the center of his campaign, proposing to reduce France’s immigrant population by two million by the end of the next five-year term and to expel foreigners unemployed for more than six months, among other measures. **These are campaign proposals, rather than French immigration policies already in force.** His description of the campaign as a response to France’s “decline” is his political assessment and campaign language.",
+        "Zemmour previously ran in the 2022 presidential election, taking about 7% of the first-round vote and finishing fourth. The new announcement marks his return to the contest, rather than completion of every legal candidacy check, support beyond his party or any voting result. The substantive development at this stage is his public declaration and the launch of campaign activity."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ad19eec80821c4086a03456a",
+      "source_sha256": "885e09243626ec10ad65af543fb128b2663c1fa4d424b753379d983d45bb957a",
+      "paragraphs": [
+        "On November 10, Deutschlandfunk cited Der Spiegel as reporting that Germany’s armed forces had been ordered to stop using previously purchased commercial small drones from major Chinese manufacturers and replace them as quickly as possible with German or European products. Lianhe Zaobao relayed the same reporting via Reuters on November 11, concerning military sites including barracks and training grounds.",
+        "The reports attribute the move to defense officials’ data-security concerns, including the possibility that exercise information, images of military facilities and weapons-system data could be sent to China. This is the reported risk assessment. **The articles do not provide a technical finding that a particular model has transmitted data to intelligence agencies**, nor establish the same behavior for every Chinese drone.",
+        "Deutschlandfunk also said the military planned restrictions on cars made by Chinese manufacturers entering barracks, citing concerns about vehicle sensors recording sensitive information. Its account describes the drone-use requirement and the vehicle restriction plan with different status language; it does not establish that every measure is already in force.",
+        "The reported measures concern German military procurement, use and access to military facilities. They do not announce a nationwide ban on civilian sales or use of Chinese drones and cars. The reports give no single completion date for replacing all existing equipment or a specific implementation date for vehicle-access restrictions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-15cd76535090928df813fdd6",
+      "source_sha256": "32326b5b1779b86766237344fee91ebeb3aa20816f785eb4603ed9d88f3dde18",
+      "paragraphs": [
+        "Russia’s independent newspaper Novaya Gazeta held its final editorial meeting in Moscow on November 9, and staff left the office they had used for about 29 years. NPR’s on-site reporting and Meduza’s November 10 account both describe packing up the office, taking down portraits of murdered colleagues and readers gathering to say farewell. Founded in 1993, the paper closed after about 33 years.",
+        "Editor-in-chief Sergei Sokolov had announced the decision to stop work in October. He said official pressure had made it impossible for the paper to publish, raise money or rent an office normally, or to protect journalists from the risk of imprisonment. **These are the newspaper’s and staff’s allegations about the cause of closure.** Kremlin spokesman Dmitry Peskov denied government responsibility, describing it as a normal process of media competition and turnover.",
+        "Novaya Gazeta has long reported on corruption, human rights and war. Several journalists and collaborators associated with it were killed, including Anna Politkovskaya in 2006. Co-founder and former editor Dmitry Muratov, a 2021 Nobel Peace Prize laureate, continued outside the office on November 9 to call for attention to political prisoners, civilian evacuations and an end to the bombing of Ukrainian cities.",
+        "After the full-scale war against Ukraine began, some staff went into exile while the team remaining in Russia continued working under censorship laws. At the farewell, Sokolov said the journalists were still there and were considering future forms of work. That is an intention to continue, rather than an announcement that publication has already resumed."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -859,6 +1012,18 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-708c7713bb2c69be9c7e4677",
+      "source_sha256": "b781d9f4a9cb9b430e875d380b4d3c8f7cd296f1fb173c67968d580513f2636d",
+      "paragraphs": [
+        "AMD introduced the Instinct Coder 355 enterprise AI coding platform on November 9, combining servers, the GLM-5.3 model and Spectro Cloud management software. Everyday code generation, testing, documentation and review are intended to run locally by default. Administrator policies can still route justified requests to approved external models, so the platform does not keep every request permanently on premises.",
+        "The Supermicro configuration uses eight Instinct MI355X GPUs with 288GB of HBM3e each, two 64-core EPYC 9575F processors, 3TB of DDR5 memory and about 63.36TB of storage. The vendor lists capacity for up to 85 developers per node, with 50 concurrent users. On November 10, Spectro Cloud separately announced that a Dell PowerEdge configuration could be ordered through its channels; the two server configurations must be distinguished.",
+        "The claim of roughly 98% of frontier-model performance comes from a specific leaderboard cited by AMD: on the September 1 update of Vals AI’s SWE-bench Verified, GLM-5.3 and Claude Opus 5 resolved 95.4% and 97.0% of tasks using the same Mini-SWE-agent harness. **The 98.4% figure is the ratio of those scores**, rather than an independently measured accuracy for this server across all coding tasks.",
+        "The roughly 75% reduction in total cost of ownership is also an AMD modeling estimate. It assumes 85 developers previously spending $2,000 each per month, a $590,000 server amortized over three years, continued external API costs equal to 10% of the original budget, and $50,000 in annual data-center operating costs, producing an annual cost of about $513,500. Changes in utilization, model selection and external request routing would change the result."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-a32771a8dbf631c1f5fb47f3",
       "source_sha256": "af190a1849b0f0939837ce828fa1c2d814992f34ee1a04e002bf182575314ce7",
       "paragraphs": [
@@ -907,12 +1072,13 @@
     },
     {
       "article_id": "article-0d1d7f1d79f1e51e6f015d7b",
-      "source_sha256": "909c45a69d9387db9b7af5c9879dbc6d33e10d517b0dc1dea7baf0af35d06313",
+      "source_sha256": "cd0cd590930c58475bb8eb9f42a9dd3a57c8ebf0effaad0dc13ae0d0de5f4f38",
       "paragraphs": [
-        "At a special meeting on November 9, Shanxi’s provincial party committee called for the provincial government to establish an investigation team led by the provincial work-safety office to determine the cause of the fire at Taiyuan’s Haosheng International Apartment building, while prioritizing treatment of the injured. The meeting’s measures were publicly reported on November 10. **An investigation has been requested, but the final cause and responsibility findings have not been announced.**",
-        "A Taiyuan government press conference on the afternoon of November 9, reported by China News Service that evening, recorded **14 deaths and 25 people receiving hospital treatment: nine critically injured, four seriously injured and twelve lightly injured**. These figures belong to that briefing’s verification time, rather than a separate new November 10 casualty announcement. The earlier broad description of nine people as more seriously injured should not replace the current categories.",
-        "The fire began at 16:59 on November 8 at the apartment building in Yingze district. The briefing said firefighters arrived at 17:04, visible flames were extinguished at 19:00, and search operations ended at 20:30. Sixty trapped people were evacuated or rescued. The cumulative deployment of more than 1,500 rescue personnel on a person-times basis is a different measure and must not be added to the number of people rescued.",
-        "Authorities have placed managers of the property-owning entity and the property-management company under control measures and said investigation results would be published according to law. Provincial measures also target risks in high-rise, mixed-use and crowded buildings. Control measures are not a criminal conviction, and no final public determination of the ignition source or fire-spread mechanism is available."
+        "A Xinhua follow-up published on the evening of November 10 detailed the mixed-use layout and past fire-safety penalties at Taiyuan’s Haosheng International Apartments. At a November 9 briefing, a city fire official said plentiful combustible interior materials had accelerated upward fire spread through passages and produced large amounts of toxic smoke. Inadequate initial emergency action and delayed reporting made rescue and evacuation harder.",
+        "As of that November 9 briefing, the fire had killed **14 people and left 25 in hospital, including nine in critical condition**. It began at 16:59 on November 8; open flames were extinguished at 19:00 and the search ended at 20:30, with 60 people evacuated or rescued. Xinhua also reported that 13 people were rescued or evacuated from outdoor platforms, a location-specific count within the overall rescue total.",
+        "The complex has a 41-story main tower and a nine-story podium combining training centers, hotels, shops and esports businesses. Xinhua’s site visits found training providers mainly on the podium’s first three floors, vacant fifth to seventh floors, and hotels on the eighth and ninth. The complicated layout and dispersed occupants required room-by-room searches, with some locked guestroom doors prolonging the operation.",
+        "Penalty records examined in the report show that the Liunan branch of property operator Taiyuan Anhuaxin Property and Hotel Management Co. was fined RMB5,000 in 2023 for insufficient hydrant-system pressure and another RMB5,000 in 2025 for failing to keep fire-safety equipment fully functional. One survivor described abnormalities involving alarms and sprinklers; that is a witness recollection, while the specific equipment failures remain subject to investigation.",
+        "Relevant managers of the building owner and property company have been placed under control. Shanxi’s provincial Party committee called for the provincial government to establish an investigation team led by the provincial work-safety office. A reprint of Shanxi Daily’s account dates the relevant meeting to November 9, while Xinhua’s follow-up gives November 10. The investigation requirement and response arrangements are clear; the final cause of ignition and findings on responsibility have not been published."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3791,39 +3957,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-9b9ad378ff1778bf3df1f91f",
-      "source_sha256": "2c1e31c496714ba37a4c06f06e8b0bb652fa4ac9dea685c75003c337ec59771f",
-      "paragraphs": [
-        "The second DLC of \"Marvel Cosmic Invasion,\" \"The Siege of Castle Doom,\" is planned to be released on 10 November. The developers have announced two playable characters: the Invisible Woman and the Doctor Doom, and have introduced a repeatable level mode designed around the End Times Castle.",
-        "The new mode creates pressure through two progress systems: a siege meter is advanced when heroes lose, and batteries collected from victories can be used to create stable devices and delay the Doctor's plan for destruction. Players also have to navigate between different themed doors, facing environmental changes such as castle traps, weather, and moving platforms.",
-        "Growth is divided into offensive, defensive, and tactical branches, with each character independently obtaining enhancements, and when working together, they need to coordinate their gear. Completing challenges can also unlock equipment, events, fixes, and color variations. The official states that the number of encounters has significantly increased, but the actual performance of the levels is still to be demonstrated in the official version."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-c6c75fecb3ac7fbb0c7bcde0",
-      "source_sha256": "faabe7e0801237ec7a5ec39087939d9e850c85b91060a70685e61832a1c2cb2a",
-      "paragraphs": [
-        "\"Free Day\" event for \"Far Cry 2\" took place on 26 October, with rewards and in-game decorations related to the game's anniversary. According to Arrowhead's announcement, the super destroyer will temporarily appear with flags, carpets, and party decorations, and community events will be scheduled.",
-        "The game reward for participants is the AR-23L Liberator Legacy replica rifle, which is described as drawing design inspiration from weapons used during the first Galactic War. The reward will be distributed after the event concludes, and players must log in according to the activity requirements to claim it; the announcement does not mean that players can automatically receive the reward at any time point upon entering the game.",
-        "The official also provides party materials, small games, and related information, with some community games limited to official Discord members. The news date uses the real world's 2026, while 2186 in the activity text belongs to the game's setting and cannot be confused with a real year. This content is for a festival event and is separate from the separately sold war bonds."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ef16c2b24909654b9332687b",
-      "source_sha256": "2972547d9270a8750ec237ce279ff6ae37b476e3a88cee2699789448e05e2401",
-      "paragraphs": [
-        "The election court of São Paulo state, Brazil, issued a statement on October 25, updated on October 26, confirming that after nationwide ballot counting, Luiz Inácio Lula da Silva received more than 64,250,000 votes, accounting for 51.79% of the valid votes, while Flávio Bolsonaro received more than 59,820,000 votes, accounting for 48.21% of the valid votes. Vice President candidate Alckmin was also re-elected. This is the result of the completed October 25 final election, not the first round still to be held in November.",
-        "Official data also highlights regional differences: in the state of São Paulo as a whole, Flávio received the majority; in São Paulo City, Lula led. The results in the state and its capital moved in different directions, reminding readers not to equate the support of a single city or region with the national result. The proportion of valid votes is also different from the proportion among all registered voters, as abstentions, blank votes, and invalid votes use different statistical methods and cannot be directly combined.",
-        "An analysis by AP on October 26 notes that the results have implications for U.S.-China relations, tariffs, critical minerals, and regional diplomacy; discussions of these consequences still fall under the realm of policy forecasting. The election fraud allegations have not yet provided evidence. The judgment of the results is based on the statistics of the electoral authorities, and the judgment of future foreign and economic policies will continue to observe the specific actions of the new term. One cannot equate the political slogans after the victory with the already signed international agreements."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-9a064d95901e645ea065cfa7",
       "source_sha256": "a5d948332c07146c2ce7401525a041049cf3f273693bd004939e3ec2f48bac20",
       "paragraphs": [
@@ -3857,39 +3990,6 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-9ab1f8f410faf5e0d7550af0",
-      "source_sha256": "bc3e6760060badcd200bfc07d47d6eddaa918333e0c7f125be228a292cfc0add",
-      "paragraphs": [
-        "The World Health Organization's 23 October outbreak update stated that the Ebola disease caused by the Bundiburiu virus is still spreading in the Democratic Republic of the Congo and has expanded to more regions. According to data as of 20 October, 9,704 confirmed cases and 4,687 deaths have been reported in 66 health zones across eight provinces of the Democratic Republic of the Congo. These are cumulative reports as of the specific date and are not real-time data as of 2 November; the crude case fatality rate cannot be directly used as a certain risk for individuals after infection.",
-        "As of October 20, Kenya reported nine cases, one of which resulted in death, with all new cases epidemiologically linked to the first imported case; at that time, the WHO did not find evidence of wider spread beyond the cluster. On October 20, Nigeria confirmed one imported case in Abuja, and the national disease control agency's report on October 24 also recorded isolation care and contact tracing. Imported cases in different countries and community-wide spread cannot be considered the same state.",
-        "The World Health Organization emphasized cross-border surveillance, laboratory testing, early detection, and infection control, and did not recommend that travel or trade restrictions be implemented in affected countries based on this notice. The candidate vaccine trial launched on 23 October aims to generate evidence on safety and efficacy, and cannot be interpreted as the vaccine having been fully validated or providing certain protection. This article focuses on public health response and the status of evidence, and does not provide individual diagnostic or medication recommendations; subsequent cases and risk levels still need to be verified by the relevant authorities in the new notice."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-3644197654694ae689db46f1",
-      "source_sha256": "bab24c7ffb06cc05d88282a9be48c39788d6f3e2f173f7a69cdb269b9d486a11",
-      "paragraphs": [
-        "The photography mode of \"Marvelous Wolf\" allows for the setting of five independent light groups and the adjustment of color, intensity, distance, and light source type. The official guide released on 22 October focuses on demonstrating how to compose scenes in narrative and action sequences, belonging to the functional introduction of the already released game.",
-        "Players can assign direction keys as shortcuts for the photography mode in the settings, and they can also slow down the game to capture action moments. The camera can be tilted to create horizontal, angled, or vertical compositions; the photography interface can be switched to the other side of the screen, reducing obstruction of the subject.",
-        "After passing through the gate, players can choose chapters to return to locations within the story and reshot scenes. The guide also reminds that the example images involve some clothing and mid-content, which may contain spoilers. These five sets of lights are virtual photography tools within the game."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ead20c2e065471438a2a4d4a",
-      "source_sha256": "4692883a567bf3fb55053366d65070728be88dff0cfb318df11a571b37ac935a",
-      "paragraphs": [
-        "In an interview on 22 October, Crystal Dynamics and Flying Wild Hog explained that the character design for \"Tomb Raider: Legacy of Atlantis\" is based on the recognizability of Lara from 1996, while enhancing geometric details, materials, and animation. This time, the goal is not to simply replace the character with another realistic face.",
-        "The team reviewed the first-generation polygon models, works from the PS2 era, and later survival trilogy, explaining how each generation added expression within the existing outline. Hair style is a typical example: in the past, hair was generally summarized with large geometric blocks, but now, multi-layered semi-transparent hair pieces are used to organize hair strands, and then the movement of bangs, ponytails, and braids is processed.",
-        "The challenges of the concept design lie in making the details more believable while allowing players to immediately recognize Lara. The article focuses on the evolution and production methods of the character design, without providing enough data to confirm the quality of all levels or the final performance. It is saved as part of the development progress, separated from the remastered collection and other \"The Legend of Zelda\" projects, without confusing product names."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-42dc5172617fe2e4460c7062",
       "source_sha256": "a90d77c966e0455044e96cea7b8a97a7069d0cd328eac551b5a59b4de3b8ea76",
       "paragraphs": [
@@ -3912,39 +4012,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-04293c8361c850f3b04bf393",
-      "source_sha256": "4578f827797e639fec1eeac83569bf742f2adc206a248cf6c87862b5b8218af9",
-      "paragraphs": [
-        "The \"Isles of Abyss\" expansion of \"Seven Days\" advances survival building from land to the water's surface, with the official introducing five new marine areas. A PlayStation announcement on 21 October sets 22 October as the open target and showcases environments and enemies designed around the abnormal ocean.",
-        "In the setting, the ocean is not just a background for passage but a vast entity that responds to the player's actions; lighthouses and ghost ships constitute its different manifestations. Sea fog, the Black Tide, and regional anomalies are associated with the high tower leader, and exploration requires gradually understanding the rules of each sea area.",
-        "Players can start from a simple raft and build mobile offshore fortresses equipped with workshops, cannons, and survival facilities. They can also form fleets with friends to face dangers using different hull configurations. The release dates vary by region due to time zone differences, and the actual version should be confirmed based on the platform's announcement and the client software."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-48906437f8f16de1bf6f3c13",
-      "source_sha256": "2b8d988c40a6d85f34484442281c0045789b8cbb81e214d9ff2a3d8a6ac9e6c2",
-      "paragraphs": [
-        "PlayStation Indies' Halloween feature showcases different horror-game mechanics through nine independent games, rather than simply compiling jump scares. Published on October 21, it covers narrative, cooperative play, exploration and horror-themed strategy as an editorial selection.",
-        "CloverPit traps players in a confined space, using slot machines, increasing debt, and combinable charms to create a rogue-like loop. Aside from random outcomes, the synergy of charms and long-term resource selection affects the next attempt, resulting in a sense of unpredictability coexisting with strategic space within the genre.",
-        "\"Escape the Backrooms\" focuses on exploring abnormal spaces and multi-player communication, allowing players to act alone or collaborate with friends. Close-range voice communication can help teams communicate but may also alert hostile entities. In such topics, \"must-play\" is determined by the editor, not a unified score; the content, platform, and purchase conditions of each game should still be confirmed on their respective pages."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-066b2d83b82d5f29ebc206d2",
-      "source_sha256": "1777c5023776efe45df0bb67fe6ca6641f066feff93ba4067cb01602de1b1158",
-      "paragraphs": [
-        "The new project from Like Dragon Studio, \"Stranger Than Heaven,\" combines the protagonist's life spanning half a century with combat, city exploration, and performance activities. A playtest report on 21 October selected chapters such as the prologue, Kōkō, Wuchu City, and Osaka to demonstrate part of the chapter experience.",
-        "The combat system uses shoulder buttons and a trigger to organize actions on the player's left and right sides, requiring players to alternate between attacking and defending in the direction of the incoming attack. Single-handed weapons are faster but make the other side more reliant on bare hands; heavy weapons like hammers have slower recovery but are suitable for dealing with groups of enemies. This difference affects positioning and rhythm.",
-        "The story begins with the 1915 San Francisco and the journey to Japan, with the city streets, ports, and steel industry forming the backdrop of the era; music composition and stage production are also incorporated into the gameplay. The report does not cover the entire fifty-year storyline, and therefore limited playtesting cannot be considered as a complete final review. For players familiar with the Dragon series, it is worth noting how the input methods and daily life narratives of the new independent IP are integrated."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-ba1634ffabcbcf85f90911da",
       "source_sha256": "1cb2dcf8d1a1d459ddfe8a31dfd54addf93e30d520b0d15ecd311a6d1cf218f1",
       "paragraphs": [
@@ -3956,67 +4023,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-7882190073aefde52a8ab79e",
-      "source_sha256": "9541e2725cac6eae9aa50fc76876060a19155c20243f8ae8aaae53ba5f8615ab",
-      "paragraphs": [
-        "The Visions system of \"Final Fantasy Resonance\" transforms the series' classic characters into equipable and trainable companion allies. An article on 20 October explains that after players interact with character stories in the Crystal Temple, they can assign the corresponding companion to their team.",
-        "Visions provide spells and attacks and can also improve basic attributes such as health and speed. The report records 26 companions to find across the game, including early Warriors of Light, Terra, Sephiroth and Lightning. Moves and musical elements from their respective games help keep each character recognizable.",
-        "The mastery level increases as the battle progresses, gradually unlocking new passive abilities and techniques. For example, the initial abilities of Noctis differ from the resource gains of its ultimate techniques, meaning that equipment choices are not merely one-time summoning performances. The article explains the system based on trial play and final version experience, not generalizing the numerical gains of a particular character as the optimal solution for all equipment combinations. It is also separately archived from the Final Fantasy VII project."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-9ed7840aae49f050dcb1dfa4",
-      "source_sha256": "782d045995e075c01080be900d7ca8bb9b2bb0986f61c4cfa95ffe4f256885d3",
-      "paragraphs": [
-        "In the routine press conference held by the United Nations Office in Geneva on 20 October, a spokesperson for OCHA in Kabul warned that even if harvests and market supplies improve in Afghanistan, families may still face hunger due to insufficient income, employment, and services. According to the analysis of the press conference from 9 to 10 October, 15,900,000 people are at risk of crisis or more severe levels of acute food insecurity, and the outlook may continue to worsen during the winter when food is scarce. \"Having food\" and \"being able to obtain food steadily\" are not the same thing.",
-        "Speakers linked prolonged drought, depletion of household assets, basic service accessibility, and nutritional conditions: a better harvest cannot immediately repair the losses accumulated over many years. Excluding women and girls from secondary education, employment, and economic life also affects household income, maternal and child health, and the future supply of professionals. The figures regarding the gap in teachers and female health workers by 2030 are conditional predictions and cannot be regarded as the number of people who have already been reduced today.",
-        "Institutions have called for continued humanitarian assistance before winter and investment in rural livelihoods, agriculture, water systems, health, and nutrition services. Emergency food aid can alleviate immediate survival pressures, while restoring income and public services determines whether families can reduce their long-term reliance on emergency assistance. This is also why the institution lists emergency relief and livelihood recovery side by side: the former protects immediate survival, while the latter influences families' ability to withstand the next shock. These statistics and judgments are based on the report date of 20 October."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-8045a0fa82c5fd541477c1e7",
-      "source_sha256": "437cd01b3044257bd9d6610b0b9b8d86ffd2039e3990284f9636b62f1544a86a",
-      "paragraphs": [
-        "The United Nations Children's Fund (UNICEF) issued a statement on 20 October from Aden, Yemen, warning that the escalation of the conflict in Taiz and the shortage of diesel threaten the water supply system that serves approximately 3,000,000 people, including at least 1,600,000 children. Since this round of escalation in September, it is estimated that about 120,000 people have fled to Taiz, with many families having been displaced multiple times before. Threatening the water supply does not mean that all the pumping stations in the city have been shut down; the statement emphasizes that the continuity of service is deteriorating.",
-        "Taiziz and Yenching are key corridors that have been disrupted by fighting, making it harder for food and fuel to enter, leading to price increases. According to agencies, since the current escalation, the cost of transporting water has risen to about three times the original, and diesel shortages also affect the continuous operation of pumps. The WFP had warned that in some affected areas, flour reserves are nearly depleted. Food shortages and difficulties in accessing safe drinking water will exacerbate each other, increasing the risk of malnutrition, diarrhea, and cholera, and cannot be viewed as a temporary water shortage crisis alone.",
-        "Among the children screened by UNICEF within the year, more than 52,000 were found to have acute malnutrition; the population screened does not equate to a random sample of all children, and therefore the institution does not directly estimate the prevalence rate across the entire city. The institution supplies diesel to maintain water supply while also providing emergency drinking water, sanitation, and therapeutic food. It calls on warring parties to protect civilian infrastructure and allow aid safe access. This article retains the data and risk boundaries as stated by the institution and does not attempt to assign responsibility for each unverified roadblock or attack that has not yet been independently verified."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-cb0bf0e1617ea81085ee0137",
       "source_sha256": "b2a8957c442969e00d609ce71745c13b21612492886ffb7566437e761b354ace",
       "paragraphs": [
         "On October 20, Mistral released the Voxtral 3 speech model series and a speech intelligence agent SDK, targeting customer service, help desks, virtual assistants, and hands-free operation scenarios. It integrates transcription, understanding, tool calling, and speech synthesis into a real-time streaming process, aiming to complete multiple tasks during a call rather than simply converting speech into text.",
         "The language ranges of different capabilities within the series are not the same. Transcription supports over 50 languages, including speaker differentiation, keyword context bias, and turn-ending detection; Mini TTS 3 synthesis supports over 35 languages and more than 50 dialects, allowing adjustment of speech rate, intonation, and emotion based on context. Professional Pro Voice is adapted using about 30 minutes of audio to reproduce specific speaking styles, belonging to another professional capability.",
         "The model can be used through Mistral's European hosted API or through self-deployment by an organization, allowing the location and retention of audio processing to be determined by deployment conditions. The official provides a comparison of multilingual transcription and speaker recognition, but the actual performance is still affected by noise, accent, and professional terminology. The more significant product changes in the new version are the integration of voice and business system operations, enabling developers to connect the four disjointed processing chains without having to assemble them separately."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2cd8f4456393a7a17795bc77",
-      "source_sha256": "818bfbb68c7b0e522f2edd52b8f4220a962a6053e84d1b440d99cd329a2d4c36",
-      "paragraphs": [
-        "AMD expanded the FSR upscaling 4.1 support range on October 20, with the Adrenalin Edition 26.10.1 driver. Machine learning super-resolution is no longer limited to the original RX 9000 series, this round covering RX 6000, Ryzen AI Max, part of the Ryzen AI 9 notebook, and Z2 series handheld platforms.",
-        "The RX 6000 uses an optimized INT8 model, while some more compact platforms use more efficient implementations. The common goal is to reconstruct clearer images from low-resolution inputs, but different devices do not run identical computational versions. The game itself also needs to be appropriately integrated, with higher frame rates, image reconstruction, and input response being different metrics.",
-        "The official also announced support for Vulkan and improvements in frame generation rhythm, and stated that support for the Xbox Series X|S is coming, meaning the console portion belongs to a future plan rather than being fully completed by October 20. The significance of this news lies in the expansion of software support, which extends the usage of existing hardware; the final release date for the handheld remains likely to be determined by the main console manufacturers, and it should not be assumed that the functions are available simply because the CPU is part of the Z2 series."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-5af78f2320cdec30b59046fa",
-      "source_sha256": "38e92d02c22a96249c98370ce4cd757bebf1b8133714d48c0ecff16709529b8d",
-      "paragraphs": [
-        "AMD and Intel announced on 20 October that they plan to focus the optimization of PyTorch for x86 CPUs on oneDNN, reducing the burden on developers to maintain two separate acceleration paths. AMD will integrate ZenDNN optimizations into oneDNN while continuing to optimize for its own processors; this collaboration was recommended by the x86 ecosystem advisory group.",
-        "oneDNN is an open-source deep-learning library governed by the UXL Foundation. A shared interface can help application developers deploy, maintain and update software across CPUs from different vendors without reorganizing low-level code for each brand. AMD has also joined UXL's steering group; the collaboration remains based on public libraries and the community framework.",
-        "Both companies mentioned AI Compute Extensions, which are designed to accelerate matrix multiplication and are planned to be integrated into PyTorch through subsequent oneDNN updates. This is part of the future software and instruction set roadmap, and it cannot be interpreted as all existing CPUs currently supporting the new instructions. The key point of this announcement is to reduce software fragmentation and provide a unified maintenance approach, rather than indicating that the two companies are merging their hardware products or providing any unified acceleration factor for arbitrary models on arbitrary CPUs."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
