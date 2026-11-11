@@ -1,7 +1,117 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T09:18:41.511Z",
+  "generated_at": "2026-11-11T01:30:00.308Z",
   "translations": [
+    {
+      "article_id": "article-0e365028518c38e91ece0fda",
+      "source_sha256": "bba6f3b9a4f70b86b6aed701a7c379c49b94cc24b0453d007d9b6c1cb82ffe61",
+      "paragraphs": [
+        "MiniMax has released H3-Image with a public weights repository containing Safetensors weights and inference configurations, rather than merely announcing a future release. It supports text-to-image generation, reference-based generation and editing, with **up to 16 reference images**. The model card lists the main BF16 model at about 68.65 GB, alongside an optional prompt-expansion model.",
+        "MiniMax says it generates 4096 × 4096 images, about 16 megapixels, in under 10 seconds under its deployment conditions. The model card describes six sampling steps without post-generation upscaling and approximately 16-megapixel output across aspect ratios. Hosted access is offered through the API, MiniMax Code and Hailuo. Speed, relative cost and image-quality advantages are vendor claims, not local benchmarks for arbitrary graphics cards.",
+        "The weights use the **MiniMax-H3-Image Community License, rather than a geographically unrestricted Apache or MIT license**. The terms exclude the EU, U.K., South Korea and U.S.; deployment there requires separate authorization, and use and redistribution conditions also apply. Public downloads, self-hosting and unrestricted use are different concepts. Model-example images in the repository do not automatically carry a verified open image license."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-950307beac7237f94ad26f8e",
+      "source_sha256": "3c6aff8d1bd541cb5c72dd4256f81de75c146b6cef68ea1dd9b6295dcb8ff4fe",
+      "paragraphs": [
+        "On November 11, IT Home cited Bloomberg’s report that Sony PlayStation had canceled Haven Studios’ team-based heist shooter Fairgame$. An internal email quoted in the report said testing showed operational readiness and community-engagement strengths, but mixed player feedback and retention fell short of the project’s targets, leading the company to stop development.",
+        "A Sony spokesperson said **the cancellation would not cause layoffs at Haven Studios**. The team will shift toward collaboration with other PlayStation Studios developers while exploring creative opportunities. The canceled project was still in development; this is not an announcement that the studio has closed, and no replacement title or release date was disclosed.",
+        "The email also cited the challenging PvP shooter market. Test results and market conditions are the company’s explanation, not public sales figures or a consensus review score. This is a substantial development cancellation rather than a delay, routine maintenance or shutdown of a released game."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f42cf267b40e9b5c184baffc",
+      "source_sha256": "755cf992f6fbb48435bef79cce18a20bd39ef32658959ab61ca139b73be18643",
+      "paragraphs": [
+        "Xbox Wire confirmed on November 10 that Football Manager 27 on PC and Football Manager 27 Console on Xbox Series X|S are **fully released and available with Game Pass**. The November 3 Launch Preview advertised for pre-purchasers was an earlier access stage, distinct from the November 10 release.",
+        "Both PC and console editions add Tactical Tweaks for quick team and individual adjustments from the touchline without repeatedly opening the full tactics menu. Player instructions can specify late arrivals, direct attacks on the defensive line and near-post or far-post movement. Lighting, shadows and weather change during a match, giving the same kickoff time different conditions across seasons.",
+        "The PC edition’s Tactical Effectiveness links training with players’ understanding and execution. Console introduces match-preparation messages with up to three separate sessions. Both include Shuffle Draft for 2–32 players, using simultaneous draft picks in league or knockout formats and allowing AI opposition. These are developer-and-platform descriptions of features and release status, not independent assessments of stability or overall quality."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d2cb458382e2b59123ed538f",
+      "source_sha256": "f0089abc035d3a3dcbb6619e93bcf28a54a21fa7d8628582d806fe232321568a",
+      "paragraphs": [
+        "Google began the November Pixel Drop on November 10, with updates continuing for several weeks. Gemini Intelligence expands to eligible Pixel 10 models, including Rambler for tidying dictated text, proactive suggestions and multistep app tasks. **Pixel 10a is excluded from this support.** Task automation expands to the U.K., India and Japan, subject to country, language, age and usage conditions.",
+        "Create My Widget turns descriptions into personalized widgets using information from mail, calendars and Search, with a rollout over the next few weeks. Pixel Watch versions remain upcoming. Conversation summaries add German, French, Spanish, Italian, Hindi and Traditional Chinese. The more conversational Call Screen on Pixel 11 is restricted to supported U.S. models; features across devices should not be presented as one package available on every Pixel.",
+        "The announcement also schedules Pixel Tag availability for November 11 at U.S. prices of $29.99 each or $99.99 for four, not Chinese pricing. Google Fi’s dual-5G network switching separately requires Pixel 9 or newer with Fi active on eSIM and other non-Fi SIMs disabled, with market and coverage limits. Phone-assisted watch unlocking and wrist widgets also have later rollout schedules."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-cb7d3720ede0b59ec95d88ce",
+      "source_sha256": "ba94c3407d6c34c2d459d4ee36e75234afda5f181fb42377b693aac65e9fe532",
+      "paragraphs": [
+        "On November 10, Obsidian announced Side Effects Guaranteed, the first story DLC for The Outer Worlds 2, scheduled for **December 2**. Part two of the expansion is planned for spring 2027. A distress signal from a derelict ship leads into an abandoned settlement and a power struggle within Sub Rosa. This is an announcement of content and timing, not a release that has already happened.",
+        "The DLC adds Elysium Valley, quests, five weapons, perks and flaws, raises the level cap to 36 and introduces a radio station with 20 songs. Revealed weapons include the Immobilizer, which suspends targets, and the 1/6 Resolver, whose sixth shot has special impact. These are substantial combat and story additions rather than routine bug fixes.",
+        "The expansion triggers before the main story’s point of no return, with a main-menu shortcut using a level-27 preset character whose skills and perks can be assigned. A simultaneous update for base-game players adds respec options and customization of skill points per level. The story DLC is included in the Premium Edition and corresponding upgrade. Base-game changes and paid-expansion entitlements are separate."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2c177b9d21085eb9c728b7c4",
+      "source_sha256": "14f65bd787be48eb02d5e9996628a37ff105666ef058374aac9fd35cfb3926b5",
+      "paragraphs": [
+        "On November 10, AMD announced **general availability of its Zen 6-based sixth-generation EPYC server SP7 processors**, with systems shipping from leading server OEMs and ODMs. The portfolio addresses enterprise services, HPC, AI agents and GPU host nodes. This announcement concerns the server family, distinct from the separately announced embedded SP7 products.",
+        "AMD divides CPU roles in agent infrastructure into general-purpose services, GPU host nodes and agent sandboxes. High-frequency host-node products reach up to 5.3 GHz, with AMD claiming up to 1.8 times the LLM output throughput of previous-generation EPYC. This is a vendor comparison under specified configurations and workloads, not an 80% gain in every application.",
+        "Availability differs across deployments: on-premises systems are shipping, Azure HDv2 remains in preview, some new Azure and OCI cloud instances are due for general availability later, and Meta is validating platforms ahead of deployment at scale. AMD also describes liquid-cooled, air-cooled and local-GPU-inference Helion rack options. Product launch, customer validation and broad cloud availability remain separate stages."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-76a2354e4cd9be5c03e2216e",
+      "source_sha256": "66fea5fcdbdcb356f6cc3e57c030e73c7b3e8c8da675a7defd38b1307b656f29",
+      "paragraphs": [
+        "The 39th Golden Rooster Awards were announced in Xiamen on the evening of November 10. **Nanjing Zhaoxiangguan won best feature and earned Gao Ye best actress; Tony Leung Ka-fai won best actor for Bu Feng Zhui Ying.** Zheng Dasheng won best director for Mi Dang, and Wan Li won best new director for Zhen Er Yu Long.",
+        "Gei A Ma De Qing Shu received both the special jury prize and best screenplay, while Cai Rou Hun Tun won best small- and medium-budget feature. Lang Lang Shan Xiao Yaoguai won best animation, Chuang Wai Shi Lan Xing best documentary/science-education film, Ma Lan Hua Kai De Sheng Yin best children’s film, and Gu Yan Wu best opera film. Sentimental Value won best foreign-language film.",
+        "Technical awards went to Dong Jinsong for cinematography on Kuang Ye Shi Dai, Wang Yanwei for sound on Biao Ren: Feng Qi Da Mo, Wang Jing for art direction on De Xian Jin Zhi, Gao Xiaoyang for music on Wan Tong Shu and Huang Zenghongchen for editing on Fei Xing Jia. These are this jury’s awards, not audience ratings or new release dates, and do not imply that all winning films premiered in 2026."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b146c032780360dd6aa1c9c6",
+      "source_sha256": "f2ab99b8bed8ca40a669965ba3e98a33462d830115ce9dd3a829f7a3c7bdc78f",
+      "paragraphs": [
+        "In a November 10 Hong Kong exchange announcement, Alibaba said it had received confirmation that it could proceed with a proposed separate T-Head listing under PN15. T-Head **submitted its A1 listing application confidentially on September 11**, rather than first filing on November 10. The entity is T-Head (Shanghai) Technology Co., Ltd., wholly owned by Alibaba at the announcement date.",
+        "The proposed global offering comprises a Hong Kong public offer and an H-share placement to institutional and professional investors. Offering size, structure and the reduction in Alibaba’s ownership have not been finalized. Alibaba expects T-Head to remain a subsidiary after completion and believes a separate listing would aid valuation and independent access to capital and bank credit. Those are the company’s assessment of potential benefits.",
+        "**Permission to proceed with the spin-off is not final listing approval or completed fundraising.** The announcement identifies outstanding conditions including exchange Listing Committee approval, relevant CSRC filing and final decisions by both companies. Completion and timing are not assured. A listing application also does not establish the performance or manufacturing readiness of T-Head’s chips."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-834e77898424289a18922840",
+      "source_sha256": "a679cc67a759394db6f0f980a1a84207ab7d75f4ccd6d648ff27e17c8bb41e7f",
+      "paragraphs": [
+        "On November 10, PlayStation.Blog detailed **Marathon’s substantial Symbiosis update, due December 8**. Fungal growth and alien life transform Perimeter, adding playable spaces such as the underground Burrows and submerged Reservoir, with the Tick Queen beneath the surface.",
+        "Phase one of Expedition is PvE-only, structured around three successive runs. Players can go alone or with a crew through combat and environmental challenges without PvP threats, using Flash Boosts to shape a run’s build. Deathmatch is an experimental beta with short 3v3 point-scoring matches without risking permanent loadouts. Other additions include the Limbo social space, firing ranges, a dueling pit, the Bishop shell, a flamethrower and a new revolver.",
+        "An **Open Play Week is scheduled for December 8–15**, alongside the update, and has not begun. The announcement confirms cross-play and cross-save for the existing PS5 version, but cross-save requires the appropriate game on each platform, network accounts and a linked Bungie account. Console online play also has paid-subscription requirements. The activity week does not imply permanent free ownership."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-991ad48e8559b2fefa9ff7bc",
+      "source_sha256": "a1cfc84e058fce8344ddaa99d7aed969e971041ca6037e63827839089dcdd49a",
+      "paragraphs": [
+        "On November 10, OpenAI introduced Businesses in ChatGPT in beta. Through Business Hub, companies can claim and verify their organization, update product pricing and availability, and view aggregated mentions, website clicks and discovery topics. Eligible businesses where ChatGPT is available can apply to claim their profiles. **Business Agents initially support eligible U.S. ecommerce and online-service businesses only.**",
+        "Verified businesses can build, test and launch an agent. Users choose to enter that conversation from a business profile to ask about products or services. Companies can also sponsor their agent as a ChatGPT Ads destination. OpenAI says commercial conversations and sponsored placements will be clearly labeled and distinguished from the user’s original conversation and ChatGPT’s independent answers.",
+        "Business Hub provides aggregated insights only after thresholds are met. OpenAI says it does not share users’ ChatGPT conversations or Business Agent chats with businesses. Expansion to more markets, categories and tools for complex organizations remains planned; this launch does not open business agents or advertising in every country."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-69d4d9d74efa01629a6c751d",
       "source_sha256": "c9fc4fe3f4dacf0b39c9a733b9efddab0f5c776eae276865ab8e1ce1de5c94a3",
@@ -51,12 +161,11 @@
     },
     {
       "article_id": "article-803fceb0450c7f098dee6974",
-      "source_sha256": "3d45739b8ab2f27d5fe06d1aa405d0adf1fc387042e4ea8e0a55bdb349c0e187",
+      "source_sha256": "6183b628abc5c86b5760c6718f6c183a0ba8c742f5fb0da7e08fb9ff5301bdf5",
       "paragraphs": [
-        "Reuters reporting carried by CNA says Anthropic circulated IPO materials to banks late on November 9 in the United States, then retracted details, saying **pricing information was inaccurate and would be updated**. The company declined further comment to Reuters, which could not establish which figures were wrong.",
-        "The withdrawn materials had listed approximately 866.7 million Class A shares at US$70–80 each, implying about US$69.3 billion at the upper end. Anthropic itself would sell roughly 843.3 million shares, with existing shareholders selling about 23.3 million. **Those are contents of retracted materials, rather than a final offer price, proceeds actually raised or a completed listing.**",
-        "The same original materials described a US$26 billion private placement of Class N shares involving Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC, planned after the IPO closed. That arrangement also comes from the original materials. Its final scale, terms and implementation require updated effective disclosures.",
-        "The report mentioned a possible Tuesday roadshow launch and pricing in the following week, both expectations at the time. The confirmed change is the company’s request to correct pricing materials. The previously circulated near-US$70 billion figure should therefore not continue to be treated as a locked-in financing commitment."
+        "After withdrawing an earlier set of pricing materials, Anthropic formally announced its proposed IPO roadshow on November 10. The new announcement specifies **825 million Class A shares at an expected $70–$78 per share**. Multiplying the base share count by that range implies a total offering of about $57.75–$64.35 billion. This is a proposed transaction size, not final pricing or funds already received.",
+        "The company is offering 801,351,354 shares and existing stockholders are offering 23,648,646. Anthropic will not receive the selling stockholders’ proceeds. It also expects to grant underwriters a 30-day option for up to 123,750,000 additional shares, excluded from the base calculation above. It has applied to list on the Nasdaq Global Select Market under ANT.",
+        "The company says the registration statement has been filed with the SEC but **has not become effective; securities cannot be sold or subscriptions accepted before effectiveness**. The previously circulated roughly 866.7 million shares, $70–$80 range and $69.3 billion maximum came from withdrawn materials and are not the current proposal. A roadshow launch does not complete a listing. Final pricing, share numbers and closing remain subject to later disclosure."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -233,6 +342,116 @@
         "Founded in 2015, Reflector is wholly owned by Bandai Namco Entertainment Europe and plans and develops entertainment content including console games. It developed Unknown 9: Awakening, released in 2024. The formal notice places the decision within an ongoing review of the group’s business portfolio and internal development structure. It does not identify a particular controversy or review score as the cause of liquidation.",
         "The company expects to record an **extraordinary loss of approximately €21 million, or about ¥3.5 billion**, in its consolidated statements for the third quarter, covering nine months, of the fiscal year ending March 31, 2027 and thereafter. This remains an estimate based on current information. The actual amount and recognition timing are under review and may change with tax, accounting and liquidation procedures.",
         "Necessary procedures will follow local law, and **no definite completion date has been set**. The notice’s figures for the year ended March 2026 still show an operating profit but a loss attributable to owners of approximately C$1.983 million. Operating profit, net loss and future liquidation charges are distinct measures and must not be combined as one type of loss."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-fa2da62c3f2441633d0b6bf1",
+      "source_sha256": "ea69448e219fcea88a381f69b81fe9604fb18e12518765682dc88cbc364d4871",
+      "paragraphs": [
+        "October data released by the U.S. Bureau of Labor Statistics on November 10 showed that seasonally adjusted CPI-U **rose 0.4% month on month**, below September’s 0.6%. The core index excluding food and energy rose 0.3%, matching August and September. NPR reported that the overall monthly increase was still above prior market expectations.",
+        "Shelter rose 0.3%, accounting for more than 30% of the overall monthly increase. Food rose 0.5%, with food at home up 0.4% and meals away from home up 0.5%. Energy rose 0.7%. Gasoline increased 1.0% after seasonal adjustment but fell 0.7% without adjustment. Separately, NPR cited AAA’s national regular-gasoline average of $3.98 per gallon on November 10. That daily retail quote covers a different period and uses a different adjustment basis from October CPI.",
+        "**Twelve-month changes were unavailable for most series** because the October 2025 funding lapse prevented price-data collection, leaving the comparison base missing. The Cleveland Fed’s 3.7% figure mentioned by NPR was a pre-release estimate, not the headline annual inflation rate published by BLS in this release. Slower monthly increases also do not mean the price level has fallen."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5fb196d9ed7f0ca6c7fb3b96",
+      "source_sha256": "efbddcac6d016e87f7cb6f6b0335e63bc125e5d0e7f3256afb4af25228dbcdae",
+      "paragraphs": [
+        "The ninth China International Import Expo closed on November 10. Organizers reported **$85.45 billion in intended deals calculated over a one-year period, up 2.3% from the previous edition**. Participants came from 162 countries, regions and international organizations. There were 4,142 exhibiting companies, with total exhibition space exceeding 440,000 square meters, including 370,000 square meters for the business exhibition.",
+        "Official figures put the combined number of Fortune Global 500 companies and industry leaders at more than 300, and representative global, Asian or Chinese product debuts at 485. The event organized 51 trading groups and more than 700 subgroups, registered over 470,000 visitors, and held more than 4,000 business-matching rounds and 62 centralized signing events. Product counts, registrations and transaction values measure different things.",
+        "The $85.45 billion represents **intentions for procurement and cooperation over the coming year, not payments or imports already completed**. Organizers also said preparations for the tenth expo had begun, with 143 companies and institutions signing for more than 100,000 square meters. Those are arrangements for the next edition and cannot be added to this year’s intended deal value."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-136d6a808d4b147c6db48aa3",
+      "source_sha256": "d3a64079347da95055ad14c97065521f6b69294ef2f06f2d949b5592cc69446b",
+      "paragraphs": [
+        "On November 10, China’s Ministry of Industry and Information Technology announced approval for 10 companies to pilot number-protection services, allocating **dedicated 15-digit intermediary numbers beginning with 700**. The companies completed applications, site inspections, assessments and system construction and have the required capabilities and qualifications. Initial cooperation with telecom operators and internet platforms will focus on frequent-use settings such as food delivery and ride-hailing.",
+        "Users can choose to enable the service in integrated scenarios. Once activated, couriers, drivers and customers can call each other through a 700 intermediary number while concealing their real mobile numbers from one another. Caller identification and pre-connection voice announcements can indicate the service context and platform, helping recipients understand the purpose of a call.",
+        "The pilot list includes China Telecom’s digital-intelligence business, China Mobile Internet, Alibaba Cloud Computing (Beijing) and Tencent Cloud Computing (Beijing), among 10 companies. This formally approves the pilot participants and numbering resources; **it does not mean every platform and order has the feature enabled by default**. Integration, activation and user choice still need to be implemented. The ministry plans gradual expansion to more companies and scenarios."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f321c904268bcef29356d2d1",
+      "source_sha256": "0f61cf6f41accc3168bdb4ec3ae2cb173982f324051da3ba0757d41102cec807",
+      "paragraphs": [
+        "On November 10, Google DeepMind introduced AlphaProof Code, in which researchers guide AI agents to formally prove specified security properties of Signal’s core protocol implementation. The public technical manuscript reports about **6.5 million lines of proof code checked by Lean’s kernel**. It covers the PQXDH handshake and Triple Ratchet and connects the guarantees to an AArch64 Linux binary produced from unmodified libsignal by the standard Rust compiler.",
+        "Humans first approve the specifications of what must be proved, after which agents primarily powered by Gemini Carbon generate and audit proofs. The team says the main verification took four weeks. It also reintroduced two previously fixed real bugs into isolated versions, and the system proved that both violated the security specifications. Verification artifacts are public; this is more than a language model assigning code a security score.",
+        "The proofs rest on about 26,000 lines of trusted specifications and AArch64 semantics, as well as cryptographic assumptions, Lean’s kernel and contracts for some external routines. The conclusions concern defined properties such as confidentiality, authentication and post-compromise security. **They do not establish that the entire Signal app, every platform and every attack surface are bug-free.** The announcement describes broader implementation-level verification, while extension to other systems remains a research task."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-39358eeccb703a6614c0864c",
+      "source_sha256": "ffb3d50461f531109cf711160661e0fa91113ebc6a01018920cf1909fbf09196",
+      "paragraphs": [
+        "On November 10, Anthropic expanded Claude’s collaborative workflows with Sheets, Whiteboards and Data, alongside upgraded interactive connectors that embed partner apps inside Claude. Sheets supports collaborative data organization, formulas and multiple tabs. Whiteboards organizes text, speech or sketches into flows and groups. Data connects to tools such as Snowflake and Salesforce to create dashboards.",
+        "**The official announcement still describes Claude Meetings as coming soon.** It is intended to let Claude join calls, take notes and update documents; media demonstrations do not mean it is available to everyone today. The Whiteboards help page specifically lists beta availability on Pro, Max, Ultra, Team and Enterprise across web, desktop and mobile. Enterprise has it disabled by default until an administrator enables it, and Claude for Teachers is not yet supported.",
+        "At launch, Whiteboards uses content on the board rather than automatically drawing context from connected apps. A separate auto-connect feature is in beta on eligible Team and Enterprise plans, allowing employee connections after a one-time setup. Enterprise administrators retain controls over connector permissions, product access and spending. Broad claims about handling an entire office workflow do not replace these specific access conditions and limitations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8827aad4505e69ef98eb5a35",
+      "source_sha256": "cd71ac69322e8c606459df41943b3ebd742173d43f89245291d76358cc8815d3",
+      "paragraphs": [
+        "On November 10, Google DeepMind introduced the Gemini Robotics 2.5 vision-language-action model and began rolling it out to robotics partners. The team tested more than 200 tasks involving tools, flexible objects and delicate manipulation, including serving food with tongs, tying bows and pipetting. The announcement concerns **partner access and research demonstrations, not the retail launch of a general-purpose consumer robot**.",
+        "On active Mercedes-Benz production lines in Kecskemét, Hungary, and Sindelfingen, Germany, Apptronik’s Apollo 2 performed an automotive-kitting proof of concept: picking metal brackets from bulk bins and placing them in containers in vehicle-specific order. Google reported a **96% success rate**. An embodied-reasoning model tracks the workflow while the 2.5 action model controls the arms and hands. That figure applies to this pilot, not every assembly task.",
+        "Vendor evaluations also report 30%–100% higher success rates depending on task type and 20%–30% faster completion than prior baselines. Safety additions include inference-time guidance and the ASIMOV-Jailbreak benchmark. Active-factory trials add evidence beyond the lab, but remain limited vendor-and-partner evaluations, not proof of deployment at scale across all workstations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9ccf20ad200fc0ba5e4f5131",
+      "source_sha256": "a025d2c899db4926e568b195c670b0d779ca72cb8f458384f76a53e4f1c7337e",
+      "paragraphs": [
+        "At KubeCon on November 10, NVIDIA announced its contribution of OpenShell, a runtime for autonomous-agent security and governance, to CNCF as a Sandbox project. It applies deterministic rules to tool use, inference access and workload execution and can integrate with existing enterprise compute, credential storage and monitoring.",
+        "NVIDIA is also contributing to Google-originated Agent Substrate, which has entered the CNCF Sandbox. It suspends long-running agent environments when idle to release compute and resumes them later, with integration into Dynamo inference and KAI Scheduler. NVIDIA and Google are still collaborating on OpenShell and Agent Substrate integration; that direction does not mean every deployment already has a complete integration.",
+        "New DSX AI Factory Platform components, NVIDIA Kubernetes Engine and Kubernetes Recipes, are in **public preview**, automating GPU-cluster lifecycle management and providing signed, version-pinned images. Sandbox is an incubation stage, and preview status is not a mature production guarantee. The announcement advances open governance and infrastructure; it does not establish immunity to all unauthorized actions or prompt injection."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f557e3da2da78317e86fb637",
+      "source_sha256": "d981a1208533913fcf7e0e1661bc5571edaa32e125dbdd39cf66808311245727",
+      "paragraphs": [
+        "On November 10, Samsung detailed Gallery sync developed with Google. Availability has begun on selected **Galaxy phones and tablets running One UI 9**, with phased expansion. Devices need the same Samsung and Google accounts and sync enabled separately to browse photos and videos across them. Support varies by market and model, so this does not establish universal availability on Chinese models.",
+        "A new device can display previews without downloading the entire original library, with originals available on demand. The new Free up space feature removes local originals after syncing while retaining thumbnails in Gallery. Sync consumes existing Google-account storage shared with Gmail, Drive and Photos. The free allowance is up to 15 GB, not an additional independent 15 GB allocation.",
+        "At launch, Gallery shows content synced through Samsung Gallery after activation; other material already in Google storage does not automatically appear. **Deleting a synced item in Gallery also removes it from linked Google storage and other connected Galaxy devices**, unlike freeing local space. Direct Gallery-to-OneDrive sync ended on September 30, while existing OneDrive content remains accessible through its app or website."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e1d675fcada1f4831474bcf9",
+      "source_sha256": "79e577dfa8681f45dd9b7d79885034574fea97fd1f8c15690e634b3111e5dfb9",
+      "paragraphs": [
+        "Blender confirms that version 5.3 was released on November 10, with Windows, Linux and macOS packages. A major addition is **native 3D Gaussian-splat support**: relevant PLY, SPZ and glTF data can be imported as point clouds, processed with Geometry Nodes and displayed or rendered in EEVEE, Cycles or Workbench.",
+        "Gaussian splats commonly reconstruct 3D scenes from photos or video, and 5.3 brings them into regular editing workflows. The team says performance is still being optimized and rendering may show errors in low-opacity, high-radiance areas because of sRGB versus linear-color differences. Cycles also gains dispersion and DLSS 4.5 Ray Reconstruction denoising, which requires NVIDIA driver 620 or later and is not available on every GPU.",
+        "Optional Blender Projects groups files, asset libraries, path variables and color settings. The Video Sequencer adds ripple editing, moving later clips when material is inserted, trimmed or deleted. Vulkan becomes the default on Linux and non-ARM Windows devices. The minimum macOS version rises to 13 Ventura, with 5.2 LTS remaining an option for older systems. A stable release does not remove every limitation of its new features."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-23c68cac97f76c8ef3f1a436",
+      "source_sha256": "491d7395029a0908d480e6a4d4ce557e924f898fc9d20879cb9d7682a034d5bd",
+      "paragraphs": [
+        "Mozilla’s completed release notes now confirm that **Firefox 160.0 reached the Release channel on November 10**. Picture-in-Picture gains speeds from 0.25× to 2×, visible when the player is medium-sized or larger. Mini Window places a whole tab or selected page area in an always-on-top window, but Mozilla still describes it as an early version being refined.",
+        "Other changes include dragging history entries from the sidebar to the tab strip, distinguishing Paste and Search from URL navigation based on clipboard content, and making MathML in saved PDFs accessible to assistive technology. Sites repeatedly asking to handle mail or other links can be blocked with Never allow and managed in Settings. WebGL on macOS now uses Metal, with effects dependent on the site and workload.",
+        "The web platform adds SpeechRecognition for on-device real-time transcription in 40 languages. Fixes also address macOS downloads, default applications and freezing during intranet authentication. French tab grouping in Smart Window remains a progressive rollout. This confirms stable-channel availability, rather than treating beta timing or every gradually released feature as earlier universal availability."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -856,12 +1075,11 @@
     },
     {
       "article_id": "article-143f53c29ea3c352a9fac800",
-      "source_sha256": "2d37d015430459d85a91012bb27b2b7f80880bccec7144857f4355365bf1a9c0",
+      "source_sha256": "a1596190ae24b6614df64c8696dd6cd2cc3b8b5b0b86759db8b562ee4073a7de",
       "paragraphs": [
-        "On November 10, Ukraine’s chief negotiator Rustem Umerov said the Abu Dhabi consultations had moved from preliminary coordination into **a trilateral negotiating format involving Ukraine, the United States and Russia**. Interfax-Ukraine published that update at 10:55 Kyiv time, equivalent to 16:55 Beijing time. This confirms procedural progress, rather than a ceasefire or peace agreement.",
-        "Ukraine first met representatives of Britain, France, Germany, Italy, NATO and the European Commission to coordinate positions before the next stage. An AP report carried by ABC News also explained that European representatives would not join this round’s main trilateral talks, instead discussing potential security guarantees and longer-term security arrangements beforehand. Being present in Abu Dhabi is distinct from holding a seat at the main Russia–US–Ukraine table.",
-        "Umerov listed cessation of hostilities, reliable postwar security guarantees, economic recovery and humanitarian steps as Ukraine’s priorities. Pre-meeting reporting covered possible discussions on halting attacks on energy facilities, Black Sea shipping security and prisoner exchanges. These remain negotiating topics, rather than terms already accepted by all parties.",
-        "The round was scheduled for November 10–11, with Steve Witkoff and Jared Kushner mediating for the United States. Russia had insisted on a trilateral format. **As of this November 10 evening verification, the opening and the European coordination track can be confirmed, but no jointly announced final agreement or comprehensive ceasefire implementation arrangements have been identified.**"
+        "On November 10, Russian, Ukrainian and U.S. delegates held roughly four hours of talks in Abu Dhabi. The first day has ended, with talks due to continue on **November 11**, according to the Ukrainian press service. AP reporting carried by KNPR and The Kyiv Independent separately confirmed this procedural development. It was the first direct trilateral session since February.",
+        "Citing his delegation’s report, Volodymyr Zelensky called the discussions constructive and quite substantive. Topics included releasing captives, humanitarian and de-escalation steps, and the substance and long-term operation of security guarantees. U.S. Secretary of State Marco Rubio called the talks very productive while urging patience. Neither attended the negotiating session in Abu Dhabi. These assessments are statements by the parties; no joint final agreement has been announced.",
+        "Before the trilateral session, Ukraine coordinated positions with the United States, the U.K., France, Germany, Italy, the EU and NATO. Their joint statement stressed sovereignty and territorial integrity, credible security guarantees for Ukraine, and NATO’s central role in Euro-Atlantic collective defense. European participation in that coordination does not amount to a seat at the main Russia-U.S.-Ukraine table. **As checked on the morning of November 11, no joint announcement said a comprehensive ceasefire had taken effect.**"
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1866,12 +2084,11 @@
     },
     {
       "article_id": "article-039eeeb95278a513425bf59c",
-      "source_sha256": "46b7de4999e4f0c7a50e54c6ffff62418bb494396efa1e1216e25f162c13d83d",
+      "source_sha256": "ea57d10d9c62bf200b76ac647d60de62fe2ec8fc8cc8c88a5a8abf3008f173b4",
       "paragraphs": [
-        "Grand Theft Auto VI has entered pre-download. IT Home reported and tested on November 9 that **the PS5 version was available to preload in the GMT+8 Asia-Pacific region, with a 209.758 GB download**. PlayStation’s earlier official schedule specified November 10 at local midnight for preorder customers. The reported observation and official plan should remain distinct, rather than implying every region opened simultaneously.",
-        "PlayStation asks PS5 users to reserve **at least 212 GB of free storage**. That is a preparation and installation requirement, while IT Home’s 209.758 GB figure is one observed download size; they measure different things and do not contradict each other. Actual size may vary with region, language packs and later updates, while download time depends on the network.",
-        "IT Home says Xbox Series X|S preloading is scheduled for November 10 at 00:00 GMT, or **08:00 Beijing time on November 10**. Passing that scheduled time does not establish actual availability for every Xbox account. The directly read hands-on evidence in this edition concerns PS5.",
-        "The official release date remains **November 19**. Preloading does not allow early play. Inferences about high-frame-rate modes, upscaling or other features from extracted encrypted files are not official performance commitments in this announcement. The PS5 preparation notice also does not establish a PC release or PC requirements."
+        "New PlayStation and Xbox announcements on November 10 both confirm that Grand Theft Auto VI preloading is available, with release still set for **November 19**. PlayStation describes rolling midnight unlocks by country or region, starting in New Zealand. Preloading prepares files and does not grant early gameplay. The earlier 209.758 GB Asia-Pacific PS5 measurement and the official 212 GB free-space requirement use different measures.",
+        "Xbox additionally announced cloud streaming on Xbox One and Xbox Series X|S from 1 a.m. U.S. Eastern Time on November 19, or **2 p.m. Beijing time that day**. Xbox Cloud Gaming uses Series S graphics settings; Series X|S can also install the game natively. Xbox One support here means streaming, not a native Xbox One edition.",
+        "The game must be purchased separately, and cloud availability depends on market, device and account eligibility. Xbox says supported markets can buy cloud playtime without a Game Pass subscription from November 11, but this does not establish GTA VI cloud support on PC. PlayStation also confirms DualSense haptics and adaptive triggers, 3D audio, and PSSR and ray-traced shadows on PS5 Pro. Neither announcement supplies a concrete preorder count."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3465,14 +3682,14 @@
     },
     {
       "article_id": "article-6825ae5281ac7c3fe9afc39e",
-      "source_sha256": "ab98d453dfd1f96a77b4fb9749a293d9649cc88c7253719bcb7a40af7b250ed8",
+      "source_sha256": "42541838cd1891e9469291df95de55be82b03c38b9a832d0dc06dac201d34045",
       "paragraphs": [
-        "Google announced Gemini 4 Carbon on 28 October, emphasizing continuous multi-step software engineering and network defense. The company stated that internal teams have used it to trace hidden errors in large codebases over multiple days; the model can continue to adjust strategies after encountering a failed path, rather than just completing a single question-and-answer session.",
-        "Public evaluations show capabilities in specific tests. The official results for vulnerability discovery in SEC-bench Pro are 88.2%, ExploitGym is 54.8%, and CWE-bench patching is 71.0%; they also report improvements in secure code generation and web development. These numbers come from evaluations disclosed by the publishers and their references and cannot be directly equated to the actual error-free repair rate of real systems.",
-        "Carbon had not yet been rolled out to all consumers. It initially became available to selected cyber defenders, with trusted partners to be added through the Fairwind program while feedback on safeguards continued. The announcement listed starting standard prices of US$2 per million input tokens and US$10 per million output tokens. The development reflects a shift in frontier-model competition from individual reasoning questions to longer workflows of execution, validation and patching, while access increasingly depends on the practical conditions for deploying cyber capabilities."
+        "Google’s November 10 announcement expands Gemini 4 Carbon beyond early cybersecurity partners to developers, enterprises, scientists and consumers. **Access is available through the paid Gemini API tier**, while Google AI Ultra subscribers are beginning to receive it in Antigravity, the Gemini app and AI Mode in Search. This is not a simultaneous rollout to every free account.",
+        "The announced introductory price is $2 per million input tokens and $10 per million output tokens, matching Argon’s introductory pricing. Carbon targets complex multistep coding, knowledge work across documents and scientific research, potentially spending more tokens on exploration, reasoning and verification. Antigravity’s /swarm multi-agent collaboration remains a preview, a separate availability status from the model API.",
+        "Google says Carbon ranks second on the MKA multimodal knowledge-work benchmark at less than one-sixth the average task cost of the top model. These are specific evaluation results cited by the vendor, not proof of lower cost or higher accuracy on every job. The program offering 10,000 scientists six months of research access now includes Carbon, with eligibility, capacity and selection constraints. Specialized cybersecurity capabilities continue through controlled arrangements such as Fairwind."
       ],
       "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-e63c44ee253751eb72aef3f2",
@@ -3805,83 +4022,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-3d4c03e02b9557602211d255",
-      "source_sha256": "33c98c5b05e2b1706a8a495440259eb42fe471bae5a171281e8af443e0308574",
-      "paragraphs": [
-        "The Zenith update for \"Saros\" was released on 19 October and is now freely available to existing players, with a focus on both replayability and accessibility. The announcement includes content such as leaderless battles, new chapters, gameplay adjustments, trophies, and auxiliary options.",
-        "Housemarque does not want to reduce the challenge by directly deleting the chat, so it has added a adjustable slowdown function, allowing the enemy's attack form to remain unchanged, but providing more time for players to recognize warnings and choose ways to respond such as dodging and shields. Players can set the degree of slowdown and decide whether to automatically switch during the battle or manually switch.",
-        "Settings such as automatic fire reduce the number of inputs that need to be held down simultaneously, allowing players to focus more on movement. For players who have already completed the process, new challenges provide a reason to recombine the gameplay; for new players, auxiliary options expand the ways to enter the game. This is free content update for existing games, not a new independent title that requires re-purchase."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-fbc7c2b1e40a0884d4856ab6",
-      "source_sha256": "e2e69a634ba415fb06577be64d43f679b77f96389044c4a42e017ba97200c72e",
-      "paragraphs": [
-        "The preliminary calculation released by the National Bureau of Statistics on 19 October shows that the gross domestic product (GDP) of the country for the first three quarters of 2026 was approximately 107,110,000,000,000 yuan, representing a 4.6% increase compared to the previous year in constant prices. The third quarter saw a 4.5% increase, which is 0.2 percentage points higher than the 4.3% increase in the second quarter; the third quarter also showed a 1.2% growth compared to the second quarter. The cumulative growth over the first three quarters, the year-on-year growth for a single quarter, and the quarter-on-quarter growth are three different indicators and cannot be substituted for one another, nor do they indicate that the annual results have been completed.",
-        "The growth structure shows differences: in the first three quarters, the added value of medium and large-scale industries grew by 5.3%, with the equipment manufacturing industry and high-tech manufacturing growing faster than the overall level; the value of goods imports and exports grew by 18.8%. In terms of consumption, the total social consumer goods retail sales grew by 1.1%, with service retail performing relatively faster. On the other hand, fixed asset investment, real estate development, and new home sales still face pressure, and the official report also pointed out that the problem of insufficient domestic demand is relatively prominent, and the foundation for stable and improved growth still needs to be consolidated.",
-        "Employment, income and prices need to be examined separately. In the first three quarters, the average surveyed urban unemployment rate was 5.2%, real per-capita disposable income grew 4.4%, and CPI rose 0.9% year on year. These measures come from different surveys and accounting systems; aggregate GDP does not determine each person's income change. The statistics bureau notes that quarter-on-quarter figures may be revised with seasonal-adjustment models and that parts of the online-retail statistical coverage have been refined. Comparisons over time should retain these methodological distinctions rather than treating every change as a real increase."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-724c36123cd9fca39bd08978",
-      "source_sha256": "3b47ec95f02bb95cb684cd18086866f3f82997a31e0832e02066e252ebeee3e9",
-      "paragraphs": [
-        "The report from the United Nations Office for Coordination of Humanitarian Affairs, which is titled and dated 15 October, and published on page on 19 October, primarily covers the period from 29 September to 12 October. The report states that a large number of families in Gaza still reside in makeshift shelters and damaged buildings, and with the approaching rainy season, shortages of materials, heavy machinery, funds, and suitable land for safe use limit drainage, reinforcement, and relocation. The dates of the report, the publication date of the page, and the statistical coverage period are all different, and this text does not consider these numbers as an immediate update on 2 November.",
-        "According to the estimate of the relocation coordination agency cited in the report, approximately 950,000 people live in locations with moderate to high flood risk, of which more than 400,000 are in high-risk areas; additionally, about 44,000 people reside in more than 2,300 structures that are structurally unsafe. These are different risk categories, which may overlap, and therefore cannot be simply added to arrive at a total number of displaced people. The records refer to exposure and relocation risks, and this does not mean that all of these buildings have collapsed.",
-        "Aid supplies go through multiple stages from registration, inspection to unloading, and the number of registered trucks in the statistics is not the same as the actual number of unloads. The report also notes that the water production from 6 to 12 October was about 34% lower than in the middle of September, and shortages of fuel, parts, and medicines threaten healthcare services. Conflict-related casualties are statistically reported by the Gaza Health Authority and verified by the United Nations, with different cutoff dates for each statistic."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-10ce53cc389a03375ed358d5",
-      "source_sha256": "24eb876ac36c85f8802f879cc0d97c4a6963ac2630f97c6422c222739211f6d7",
-      "paragraphs": [
-        "[Official Patch Replay] The 5.01 announcement from CD PROJEKT RED confirms that the remastered version of The Witcher 3: Wild Hunt has been released for PC, PlayStation 5, and Xbox Series X|S. The PC entry lists Steam, GOG, Epic Games Store, Battle.net, and Xbox Play Anywhere. The updates for different platforms are not fully synchronized: the announcement also states that the Nintendo Switch 2 version is still being worked on for subsequent updates.",
-        "For Switch 2, the developers mentioned their hope to reduce differences between versions, introduce global changes from other platforms, and improve aspects such as clarity and sharpness related to this platform. These were the planned works at the time of the announcement, and they cannot be taken to mean that patches have already been implemented in Switch 2. The original text also provides different platform change entries, and specific issues should be checked individually with corresponding explanations, rather than assuming that the performance of another platform can be directly applied.",
-        "The image directly references the official illustration of The Witcher 3 from the patch page, avoiding the use of irrelevant generic icons on a game patch announcement."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-8b123b4e0f8ff5de38d39e6e",
-      "source_sha256": "4e82de028e2473b9f1c4d07892122ae8549f1388c5a75aff0fffe6ea97e18ec1",
-      "paragraphs": [
-        "Reuters, October 17, reported from Tirana that Albanian youth protests, initially focused on issues such as education, employment, and social inequality, have expanded to encompass widespread dissatisfaction with government performance and accountability. 25-year-old independent MP Marjana Koceku also joined demonstrations demanding that Prime Minister Lama step down; she had previously been selected by Lama to run for office. The report highlights the process by which some young political participants have grown increasingly distant from the original ruling coalition, rather than just depicting scenes of street clashes.",
-        "A Reuters on-site report on October 13 recorded that some protesters threw bricks at the Ministry of Education, and the police responded with tear gas and water cannons. By the 17th, the police reported arrests, injuries on both sides, and property damage, but these numbers are from the police's initial statistics at the time, and the extent of injuries among the protesters may not have been fully recorded. The protest demands, peaceful participants, and specific violent acts should be described separately, and it is not appropriate to equate the entire youth group with robbers or automatically consider all police actions as legitimate.",
-        "Lama denied the alleged improper conduct and told Reuters that he would not resign, believing that the government should be replaced through elections rather than violence. Controversies surrounding policies, corruption allegations, and land development still have legal and factual issues to be clarified; denials by political figures or charges by protesters are not judicial conclusions. This article preserves the October Albanian events as political news of an independent state, without transferring the scenes from France or Germany as local footage, and does not preemptively announce that subsequent protests will necessarily overthrow the government."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-8d6665ab69ee0937415c5ac5",
-      "source_sha256": "77ee2cb4a12c232cd44507baceade9a7574276254f5c12dadcb11189ce2d5c8d",
-      "paragraphs": [
-        "[Domestic AI | October Important Updates Recap] DeepSeek officials released version 4.1 Flash 1017 on October 17, focusing on end-to-end project building, game creation, and 3D modeling tasks. The announcement linked the improvements and enhancements in the self-feedback process of reinforcement learning, stating that the model has been adjusted in terms of task completion speed and output length. The update is available on the website, applications, and API, differing from merely publishing a paper or future open plans.",
-        "This update is worth noting not just for a single chat leaderboard, but for whether the model can continuously execute, check results, and modify itself over longer workflows. Official examples and evaluations can illustrate the range of capabilities that the manufacturer hopes to prove, but they are still influenced by the task set, tool environment, and evaluation methods; \"faster\" and \"shorter\" should not be directly extended to imply that all applications are more cost-effective or more reliable. API update documentation can be used to verify the model's identity and connection status, but actual usage still requires confirmation of the task environment.",
-        "This briefing independently organizes the official announcement and update directory. It does not present the vendor's tests as independent comparative testing or describe the October 17 release as something that just happened on November 2. Further prominent coverage will focus on substantive changes in actual availability, weight-release status or reproducible results."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2b740045eab196b8500a5c6e",
-      "source_sha256": "fbca07d90cc7ba467c677d95a03485163715cbfdaf14ba4a437d35852f590819",
-      "paragraphs": [
-        "The cooperative climbing game \"PEAK\" announced its release on PS5 on October 22, supporting cross-platform cooperation. In a developer's article released on October 15, it was introduced that the game was developed by Team Peak, composed of Aggro Crab and Landfall.",
-        "Players assume the role of a natural scout trapped on a mysterious island, with the goal of climbing the central mountain to find a chance of rescue. The climbing route, hunger, environmental hazards, and fog collectively create pressure, and mutual support among teammates is more crucial than simply pursuing speed; the game also allows for solo attempts.",
-        "The team reviewed the process, which originated from a concentrated creation in February 2025 in Seoul, initially developed by a small team from two studios, and later continued to refine it across borders. This experience explains why the game emphasizes friendship and collaboration as its core themes. The announcement of the console version should be recorded separately from the PC original release, and the platform expansion should not be repackaged as the game's first appearance."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-51edf4c643816e6fc69aba60",
       "source_sha256": "1653ec394c7fc5e1b6e9334a05e2a716c104593221af5524c047b8d3a6a22785",
       "paragraphs": [
@@ -3899,72 +4039,6 @@
         "Anthropic has announced further arrangements for an independent evaluation partnership, focusing on enabling the six staff members of METR to participate in risk assessments in a manner similar to internal employees: using company equipment, entering office premises, and accessing tools and systems that are generally equivalent to those of the internal risk assessment team. This approach is more than simply providing an interface for a model under testing to external institutions, and it is closer to continuous observation of the model development and deployment processes.",
         "Access is still subject to clear boundaries: customer data, information protected by attorney-client privilege, and certain model architecture information are not within general authorization, and some content requires additional approval. METR can publish evaluations of risks, events, and company practices; Anthropic cannot generally reject publication, but can request the removal of confidentiality content of previously agreed categories, while METR can explain access restrictions. The announcement also introduces SecureBio's review of chemical and biological risk reports, as well as narrower range collaborations involving other institutions.",
         "The company categorizes collaborations into three types: approved specific evaluations, more extensive evaluations that do not require individual approval, and embedded employee-level access. This progress is mainly related to evaluation permissions and publication mechanisms, and cannot be equated with opening internal systems to the public, nor can it be inferred that external evaluations have eliminated model risks."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e1abb0261fecebe95916902c",
-      "source_sha256": "63a0b22aff327a97338b4617023de42b1a3b642ba0202db28c2c5e832015998e",
-      "paragraphs": [
-        "The October PS Plus game lineup will be officially released on 20 October, with Extra and Premium content clearly separated. The announcement highlights games including \"Mafia: The Old Country,\" \"Horizon Forbidden West,\" and the co-op shooter \"Mycopunk.\"",
-        "The Black Hand is set against the criminal world of Sicily in the early 20th century, emphasizing linear character stories; Horizon offers mechanical creatures, open-world exploration, and tribal relationships. Mycopunk revolves around robot teams, fungal disasters, missions, and a large number of weapon upgrades, with the official arranging for the PS version to be released on the same day it is added to the catalog.",
-        "Premium also includes works such as \"Dino Crisis 2\" and \"RollerCoaster Tycoon 3.\" The monthly catalog is not a shared benefit among all membership levels, and it is different from monthly game distributions; additional explanations apply to certain platforms, regions, and open times, and readers should refer to the original table for confirmation to avoid misjudging the availability conditions due to similar names."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-84e5246913070e7051b1e5ff",
-      "source_sha256": "d412d711ecce05f26cc22fe9cfc4d5d5c30595d57df17bdf1c53dce7cc15ae32",
-      "paragraphs": [
-        "The first part of the \"GT Racing 7\" Spec IV adds the Sportsland Sugo track, six vehicles, as well as activity and display features. An official statement released on 14 October specifies a cross-timezone open schedule, with the corresponding date for Asian players being 15 October.",
-        "Updates include improvements to the Car Viewer, the Experience mode, six World Circuit events, and Scapes locations. The vehicle display includes the Xiaomi Vision Gran Turismo and the 1994 Ferrari F355 Berlinetta, featuring both virtual concept cars and classic production models. The aerodynamic figures of the concept cars belong to the design and simulation background and cannot be considered as test results for real production vehicles.",
-        "The announcement also showcased a limited DualSense controller for the 30th anniversary, but the hardware demonstration and the free game update are two separate pieces of information, and purchasing the controller is not a prerequisite for obtaining the track and vehicle updates."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-0212a829acedbd1772a62187",
-      "source_sha256": "0931b25a3e936e6b4885b8dfc6a47d5ad5adc42f2856b5831b817bff4e92a1b4",
-      "paragraphs": [
-        "The U.S. Bureau of Labor Statistics released the September Consumer Price Index on October 14, showing a 3.7% year-over-year increase in the overall CPI, with a seasonally adjusted monthly increase of 0.6%. Gasoline prices rose 9.1% month-over-month, and the energy index increased 5.2%, making it a significant component of the overall price acceleration. The year-over-year and month-over-month comparisons answer different questions: the former compares to the same period last year, while the latter compares to the previous month, and therefore 0.6% cannot be added to 3.7% to create a new inflation figure.",
-        "Excluding food and energy, the core index rose 0.3% month-on-month and 2.6% year-on-year. The housing index increased 0.4% in the month, while the overall food index remained roughly stable compared to the previous month. There were different changes in household food and dining out expenses. This indicates that price pressure is not uniform across all goods and services, and the changes in household bills depend on the weight of housing, transportation, and food in their overall expenses.",
-        "The monthly report provides September statistics, not observed prices for October or November. Seasonal adjustment also affects the basis of monthly comparisons. CPI is one macroeconomic price measure, while the Federal Reserve's 2% target uses a measure that is not exactly the same. A single month's CPI therefore cannot mechanically determine the next interest-rate decision. The significance of these figures lies in how energy, housing and core components jointly affect purchasing power; market reactions after publication are not results guaranteed by the statistics themselves."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d395c9727f2d29b925a1a8b7",
-      "source_sha256": "33e4ed9829d01a60c29ddf515ab999ed3b9215412ae6f8030f281b9fbf803fce",
-      "paragraphs": [
-        "\"Scope of Authority\" for the game \"Battlefield 2\" is open on 20 October, focusing on long-range precision strikes and covert operations. On 13 October, details are announced about weapons, equipment, and appearances.",
-        "The main equipment includes the R-40 Sightliner bolt-action sniper rifle, the P-44 Mist submachine gun, and the AMW-20 Apex anti-materiel rifle with a backpack magazine and support for assisted loading. The LAS-44 Nova uses a precise thermal energy round with a short charge-up period, while the G-11 Caltrops disperses nearly triggered bullets to slow down and control the target.",
-        "The armor and cloak design corresponds to themes of concealment, observation, and mobility. The tactical advantages mentioned in the announcement are explanations from the developers regarding the positioning of the equipment, and the actual strength still depends on subsequent versions and team configurations. This is an advanced war bond, separate from the login rewards of October 26th, Free Day, and does not list paid equipment packs as automatically obtainable for all players."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-4438029080a8382834c2f9d9",
-      "source_sha256": "3ab1a39494c1c52c5916635a134acb45e1aef8efd40832bfdabe9a36e602df61",
-      "paragraphs": [
-        "Escape Academy 2: Back 2 School is planned to launch on 5 November on PS5, offering local and online co-op. Coin Crew Games introduced on 13 October that the sequel expands from the more linear structure of the previous game to a freely explorable campus.",
-        "The main focus of the exhibition is the administration tower and the humanities campus. The team used the original administration office as a visual reference and added elements such as the history of the college, characters, side stories, and interactive landmarks, allowing players to have exploration objectives even between formal escape challenges.",
-        "The openness has also been adjusted: initially, the design was too loose, but later it was strengthened through side branches, landmarks, and the independent styles of different areas to guide players. Puzzles no longer only occur in enclosed rooms, and the campus itself also participates in solving puzzles. The sequel places greater emphasis on observation and curiosity, and is planned to be officially released on 5 November."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d9a225c70aed92303e16de3a",
-      "source_sha256": "6ffa68be0950368b3e7072de91edc35801c3b9b3c5984cc2968fd9d923deb662",
-      "paragraphs": [
-        "The International Monetary Fund's October World Economic Outlook predicts that global economic growth will be 3.1% in 2026 and rise to 3.4% in 2027; overall global inflation is expected to peak at 4.7% in 2026 and then decline to 4.1% in 2027. The main statistical data in the report is as of 1 October, making this a forecast with an information cutoff date, not a finalized annual growth calculation. Growth forecasts must be distinguished from actual results, and revisions do not imply that previously recorded data will be erased.",
-        "The report discusses two types of forces side by side: price increases in energy and commodities due to conflicts will depress activity and raise costs, while AI-related investments support trade, capital expenditures, and demand. The extent to which different economies benefit or face pressure is not evenly distributed, particularly for economies that rely heavily on imported energy and are not positioned within the technology value chain, whose prospects are more challenging. Intense technological investment cannot automatically offset the energy and fiscal pressures faced by each country.",
-        "The overall risk outlook is biased downward, involving potential escalation of conflicts, reevaluation of AI expectations, trade frictions, and fiscal vulnerability; stronger productivity improvements and easing of geopolitical tensions could support growth. In the face of a living cost crisis, the IMF favors targeted and temporary income support measures, avoiding more costly widespread price cuts. This record reflects the policy analysis and scenario boundaries of the report, rather than a definitive prediction of market movements or a recommendation for specific asset allocations based on a single forecast."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -4003,50 +4077,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-f7b44fc456d63445a3752247",
-      "source_sha256": "01f8b493a55ba1cf19b275bd31f9e4a71324a3e81e2707ec3e4f16549ae81513",
-      "paragraphs": [
-        "The United Nations High Commissioner for Refugees reported on 9 October that approximately 4 million people in Burkina Faso, Mali, and Niger in the Central Sahel were forced to leave their homes, with more than 818,000 of them being refugees and asylum seekers. The combined effects of security threats, climate impacts, and insufficient aid funding have reduced opportunities for families to engage in agriculture, employment, and basic services. Individuals who have been internally displaced and those who have crossed borders as refugees are distinct categories, and the figures mentioned above are already included in the total, so they cannot be added again.",
-        "Taking Mari-Koro as an example, as of July, approximately 86,000 refugees from Burkina Faso have sought safety, with the scale approaching that of the local receiving community. Land, water, and sanitation services are already limited, and the addition of new demands puts pressure on both refugees and local residents. Droughts, abnormal rainfall, and floods can damage agriculture and livestock, making it difficult for families to recover their ability to sustain themselves independently even if they temporarily escape violence.",
-        "The agency reported that the agricultural cooperation project increased the amount of shared farmland from 21 hectares in 2025 to 45 hectares in 2026, indicating that investments in livelihoods may benefit two communities, but the scale is far from sufficient to resolve the crisis in the entire region. According to September figures, the UNHCR Sahel mission has only received 27% of the funds required. This does not mean that aid has ceased, but rather that resource limitations force the agency to decide which services can continue. Both long-term political solutions and current basic service needs should be addressed simultaneously, and they cannot be mutually exclusive."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-45694c398ec51ed060ad8571",
-      "source_sha256": "bec624df869928ba673b37d23869bc69c23fa7f9dbd8e070a1b372ebb2e4002b",
-      "paragraphs": [
-        "The rock band operating RPG \"Rockbeasts\" announced a creative and distribution collaboration with Critical Role. On 8 October, the announcement also confirmed that Matthew Mercer and Sam Riegel have joined the voice acting cast, and the PS5 version is planned for release in January 2027.",
-        "The player's role is not as a lead singer or drummer, but as a manager: guiding the band from garage rehearsals to a large stage, managing resources, handling member personality conflicts, resolving accidents, and maintaining team operations. Music and character relationships form the common themes of its narrative and management.",
-        "Lichthund stated that the collaboration will provide support for works that are difficult to summarize with a single type. It reflects specific collaborations and production progress, and is not equivalent to having already achieved commercial success; the addition of voice actors cannot alone prove the final quality of the plot. The currently open public window is for months, and should retain January 2027, not supplementing a specific day."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ececb26ca443270175f877fb",
-      "source_sha256": "d973c1f02a5afdd209ca774b0efada1a5d74ef0651629ab5910e807120613fbb",
-      "paragraphs": [
-        "UNICEF USA reported on 8 October that the United Nations Children's Fund's warning analysis indicates that the impacts related to El Niño are expected to intensify from November 2026 to January 2027, putting at risk more than 347 million children in nearly 100 countries and regions. This is an exposure and risk analysis based on forecast data, not an confirmation that 347 million children have been injured or displaced in a disaster, nor does it mean that each region will experience the same extreme weather.",
-        "El Nino affects global weather through changes in tropical Pacific sea temperatures and atmospheric circulation. Some regions may experience more drought and heat, while others may face heavy rainfall, floods, or landslides; local warnings are needed for different seasons and regions. For children, the consequences will continue to be felt through school closures, water shortages, disease, malnutrition, and reduced family income, and cannot be measured solely by rainfall amounts.",
-        "Institutions have called for early investment in water supply, sanitation, education, and disaster preparedness, as well as pre-positioning of personnel and materials to act as much as possible before demand surges. The report's summary of disaster reduction benefits is a generalization of the relationship between investment and recovery costs, not a guarantee of fixed returns for any particular project. This article preserves the October global warning to provide context for future reviews of disaster situations in various countries; specific details on what actually happened and how many people were affected should still be verified with monitoring and damage assessment data released by the corresponding regions afterward, and predictions should not be used to replace facts."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-9fd2063f235c43aded059147",
-      "source_sha256": "e0c222e189b54770ceeddd03a834ee39b19f09fb9405e2c8912934c968f6add3",
-      "paragraphs": [
-        "The World Trade Organization updated its outlook on 8 October, forecasting a 3.9% increase in global goods trade in 2026, which is higher than the 1.9% forecast in March, with an expected 4.1% increase in 2027. However, the 2026 forecast for commercial services trade was reduced from 4.8% to 3.3%, with an expected 6.4% increase in 2027. The directions of goods and services are not entirely the same, and the growth rates of trade volumes cannot be confused with the growth rates of trade values calculated in US dollars.",
-        "The World Trade Organization believes that the Middle East conflict has disrupted energy, fertilizer, and transportation, but alternative suppliers and new ports and corridors have helped the supply chain adapt. At the same time, demand for goods that support AI, such as semiconductors and servers, has increased, becoming a key driver of goods trade. The report states that these goods contributed 47% to the growth of global goods trade in the first half of the year; this proportion is a breakdown of the sources of growth, not indicating that 47% of all global trade consists of AI-related goods.",
-        "Regional differences remain evident: some economies benefit from parts of the technology manufacturing and export chain, while regions dependent on the Middle East as a transportation hub and energy input face greater pressure. Travel, shipping, and freight services are affected by fuel and rerouting costs, while digital delivery services are more resilient. These forecasts depend on conflicts, investments, and supply chain adjustments, and cannot be taken as guarantees that any particular country or industry will definitely benefit. This article retains the October version forecast, with the March forecast serving as a revision background; it should not be misinterpreted as all businesses having achieved the same level of growth."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-4e66a7e453a3193bb5cb6a8f",
       "source_sha256": "2a3ab386c3c6ff08f72b9b7958812af852945d36e91ce98950e5b8dac9ff6096",
       "paragraphs": [
@@ -4080,34 +4110,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-003e2953941606df076d7064",
-      "source_sha256": "b5d117ef6c390c2d8f2f3d2dc450a6dadcacbba0e7e47bcdd3bc54d8514d9428",
-      "paragraphs": [
-        "\"MARVEL Tōkon: Fighting Souls\" lists Phoenix Ray Eyes as the first DLC character for Year 1 Pass, with the official announcement setting the release date for November 2. On October 7, it was announced that its combat style combines various beam techniques with the power of Phoenix, and the voice actor is Ray Chase.",
-        "The team chose this version to distinguish it from the familiar traditional laser eyes image already familiar in fighting games, allowing the character to retain its X-Men identity while presenting new visual and mechanical expressions. On the same day, plans are in place to release two sets of clothing: Classic and Legacy. The purchase and ownership of the character and clothing should be confirmed separately.",
-        "The announcement also includes a limited-time store discount and a PS Plus three-hour trial, which is a time-limited Game Trial and does not mean the game becomes free. The news retains the original announcement and the target open date, with specific unlock times and regions still subject to updates on the platform on that day."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-cdb1d51fae0431106fedcd9b",
       "source_sha256": "5c5c15eaf3ed55b6b04d9f0ec669a6d58bd89183297b4cdd20c54345d8adedae",
       "paragraphs": [
         "Anthropic has released a small model called Claude Haiku 5.5, primarily serving functions such as summarization, context compression, database querying, classification, and real-time customer service. It can also act as an agent for Opus or Sonnet when processing large-scale tasks. The company states that its standard speed is the fastest in the Claude series at the time, with average operational costs approximately 75% lower than those of Haiku 4.5. This estimate depends on the distribution of request lengths and changes in token usage due to the new tokenizer, and not all requests benefit from the same discount.",
         "Haiku 5.5 first introduced adjustable reasoning strength at the Haiku level, allowing developers to choose between cost, latency, and problem-solving quality. The company demonstrated computer operations, professional tasks, and academic reasoning evaluations, but clearly stated that complex agent coding is still more suitable for Sonnet 5.5 or Opus 5.5, while smaller models are focused on narrow tasks that were not cost-effective for large-scale operations.",
         "The model is now available open-source on Anthropic, AWS, Google Cloud, and Microsoft Azure, with Python and TypeScript SDKs added, and beta support for computer and browser operations. With the release, a subscription API quota is introduced for building applications on the call platform. Network and biosafety still have restrictions, and low-cost models cannot be understood as being unconstrained by usage policies."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-346455856033c819f3caf5ba",
-      "source_sha256": "b4bbcbb5807149f4b8f9ec948ea1fb43f7bf38d3cb8441e363f26e59a65e0b1e",
-      "paragraphs": [
-        "\"Warhammer Survivors\" is planned to launch on November 10 for PS5, with a preview showcasing Morvenn Vahl and Lyssa Revenya on October 6. The game will incorporate characters from Warhammer 40,000 and Age of Sigmar into the same genre of survival combat experiences, but the backgrounds and playstyles of the two characters are different.",
-        "Morvenn Vahl drives a large exosuit, using the Fidelis heavy explosive weapon to fire at a large number of enemies, and can trigger an effect that increases firing speed. After the weapon evolves, it will also add an exosuit missile launcher, combining continuous fire with intermittent explosions.",
-        "Lyssa comes from another universe, introduced in the announcement as a thief and tomb explorer. The news focuses on the already revealed characters, weapon growth, and release plans, not taking the powerful performances in the promotion as the conclusion of the balance test. The two Warhammer backgrounds cannot be considered as merged from the original universe just because they appear together in this game."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -4130,17 +4138,6 @@
         "Anthropic expands the Cyber Verification Program (CVP), integrating the original Project Glasswing with existing verification programs into three tiers of permissions, and covering models such as Opus 5.5, Sonnet 5.5, and Mythos 5.1. The core changes involve adjusting the interception methods for high-risk network tasks based on the scope of work, organizational qualifications, and security controls, rather than opening them up to all accounts uniformly.",
         "Defense Access covers defenders' alert analysis, incident response, malware reverse engineering and vulnerability verification, and also accepts individual researchers with a disclosure record. Red Team Access adds authorized penetration testing and red-team work and is currently open only to organizations; actions that could cause physical harm or large-scale disruption remain blocked in real time. Specialized Access allows a small number of verified institutions to study high-consequence systems such as aviation and power grids, subject to deeper review.",
         "The plan requires appropriate data retention and monitoring of abuse; future Enterprise Frontier Safeguards aim to balance customer-controlled cloud storage with protection, but the announcement was still pending implementation. The company conducted evaluations using tiered configurations, although such results do not negate the conditions of test authorization, qualifications, and system owner consent. General accounts can still perform code reviews, patch known issues, and search for vulnerabilities in their own source code."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-9f08bcac13ba9efbff060681",
-      "source_sha256": "94f3557e9e2a0a57ffc0b122d99f7aabb39915a345d69d9ba98d2b41904d313e",
-      "paragraphs": [
-        "The DMZ of \"Modern Warfare 4\" focuses on the retreat gameplay mode, allowing the front-line combat base to expand gradually as the mission progresses. The system explanation released on 5 October is based on the game's release on 23 October and differs from the later announced first-season content additions.",
-        "Players organize equipment, plan deployments, and manage growth at the base. As missions are completed in Hajin, up to ten different sites can be unlocked for the initial base; collected items during the battle affect the next deployment and can also be used in the base's 3D printing facilities.",
-        "The official recommends combining story missions, dynamic actions, and commands with leader hunts and resource gathering: different objectives provide equipment, experience, and high-value loot, while withdrawal determines whether the gains can actually be brought back. This introduces the official mechanics, without providing cheat or combat-breaking methods; players should understand the risks and growth pace based on their chosen deployment method and the current version."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
