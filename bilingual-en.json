@@ -1,7 +1,66 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T04:19:26.032Z",
+  "generated_at": "2026-11-11T09:26:14.461Z",
   "translations": [
+    {
+      "article_id": "article-e1dd69b88d45b7e04e9f70e4",
+      "source_sha256": "579df046e564288d20da7d8423144ce70128eb9e7b686a69d0e7bb517b7b85db",
+      "paragraphs": [
+        "OpenAI began notifying users on November 10 that ChatGPT’s Advanced Voice and Standard Voice are scheduled to **retire on December 11, 2026**, with voice use moving to GPT Live. Users can continue using the existing modes during the transition. After the deadline, GPT Live will become the default voice experience.",
+        "Existing conversation history will remain available, with conversations continuing in text or voice. GPT Live can listen and speak simultaneously and delegate complex questions or agentic tasks to frontier text models while continuing the conversation.",
+        "There is a specific exception: **live video and screen sharing will continue using Advanced Voice until GPT Live supports those capabilities**. The December 11 transition therefore does not mean that every feature associated with Advanced Voice disappears completely on that date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e96350afb4dcd4a07e33fc2a",
+      "source_sha256": "9340f82591ecba31601e434eaf11e8e76be05df7e0d9dbe9d48b2a33e276f7c3",
+      "paragraphs": [
+        "Sony Interactive Entertainment has updated its business data to show that **worldwide cumulative PlayStation 5 hardware shipments exceeded 100 million units as of November 10, 2026**. The page explicitly labels the measure Sell-in: units supplied into sales channels, rather than retail purchases already completed by consumers.",
+        "The cumulative figure covers the PS5 product line. It differs from sales of an individual model, in one region or during one quarter, and cannot be equated directly with current active players, subscribers or consoles still in use.",
+        "For context, the same Sony page lists lifetime totals of more than 102.4 million for the original PlayStation, more than 117 million for PS4 and more than 160 million for PS2. Those totals have different historical cutoff dates and cannot be used to calculate growth over the same period. PS5 has crossed a major scale milestone in its platform lifecycle.",
+        "The announcement confirms the 100-million threshold without giving a same-day final figure down to the individual unit. Later quarterly financial reports may provide more detailed period data. The current figure alone also cannot prove that a game not yet released has already driven actual hardware sales."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d72becfa8d27184fb450e3b2",
+      "source_sha256": "ec424b62a7f286d005ba948db77cf583be7580c9aa5837b45ed4119150ed78d6",
+      "paragraphs": [
+        "When Google introduced Pixel Tag in August, it named **November 11** as the date it would reach stores. Some media reported it as on sale on November 11, but the public US Google Store page checked for this report still displayed **“Not available — get notified.”** It is therefore confirmed to have reached its planned launch date, rather than confirmed in-stock ordering in every region.",
+        "The US store lists a starting price of $29.99, an official US-market price rather than a price for China. The device combines the Find Hub finding network, nearby finding and ringing, and its button can also help locate a phone. Google says locations use end-to-end encryption and the finding network can draw assistance from a large number of Android devices.",
+        "Official materials list compatibility requirements including Android 9 or later and Bluetooth 6.0 or later. Precision finding also depends on the relevant phone hardware. Running Android alone does not establish support for every finding feature, and a US store page does not establish service availability in mainland China.",
+        "The tag uses a replaceable CR2032 battery, with a company claim of about one year of battery life, and carries an IP67 rating. It supports sharing item locations and unknown-tracker alerts. These are features and manufacturer specifications; actual battery life, protection and finding performance depend on usage conditions, the phone and network support."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4b7ad91f89ad2d98cd66bcbf",
+      "source_sha256": "8f9ef75e8e7c97c6c78fc2092aa2bbee04d219ca7ea74f948edb05c1dd7ca830",
+      "paragraphs": [
+        "The deepin community has released **version 25.3.0**, focusing on AI access, system recovery, desktop responsiveness and hardware compatibility. UOS AI adds a whole-disk knowledge base for searching the contents of local files authorized by the user. “Whole-disk” describes the feature’s scope, not default permission to read every private file.",
+        "MCP, Skills and dedicated agent capabilities share a unified entry point, with capabilities dispatched according to the task. The release also adds workspace history, task queuing, conversation memory and context summarization. Permission modes can be set per conversation, and file-saving permissions can be controlled. These are changes to operating-system interaction and orchestration.",
+        "For stability, a new freeze-protection mechanism aims to keep the taskbar, Launcher and System Monitor accessible during severe stalls so an unresponsive application can be closed. Immutable System snapshots can be saved to a local disk, USB drive or portable hard drive and restored from a chosen location. System logs are capped at 5 GB by default and stop growing when free disk space falls below 5%.",
+        "The default kernel is updated to **6.6.159**, while the newer **6.18.56** can be installed through Kernel Manager. The release covers x86, arm64 and loong64 architectures. Treeland’s new protocols remain subject to a subsequent stabilization plan; a formal operating-system release does not mean that every experimental desktop component is already stable."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ee20afcfcb4b42451817fd08",
+      "source_sha256": "94079cae90b921381d5622a9f60484854aa648e62e564db491910f38f078cc08",
+      "paragraphs": [
+        "Alibaba’s Qwen team has released code for Qwen Code 1.0, combining agent harness capabilities from Qoder and Qwen Code. The repository explicitly labels it **1.0 Preview**, on the separate v1.0.0-preview branch. The existing stable mainline remains available; promotional wording about a formal release does not mean that the preview interfaces are stable.",
+        "The main changes concern the runtime foundation of the terminal coding agent. Model access, task scheduling and tool execution are separated into layers connected by an event bus. Model calls share authentication and logging, sandboxes can be reused within the same permission boundary, and MCP connections are managed centrally, reducing repeated setup of tool environments for individual tasks.",
+        "The preview remains focused on understanding projects, implementing features, investigating problems and running tests through natural-language requests. It supports Qwen accounts, Qoder and compatible third-party model services. Model availability and charges depend on the selected service and account; an open-source framework does not make every backend model free or open-weight.",
+        "The branch’s code uses the **Apache 2.0** license and separately identifies third-party component licenses. The team says that some interfaces, configuration options and behavior may change before stabilization. Community pull requests are temporarily closed, with contributions expected to open after December 2026. This release opens the coding framework; it does not establish that Qwen4 model weights have also been released."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-3e185e5477291550990d8a71",
       "source_sha256": "b906c9e6d668c060d15ea3735ddbd2044c305c39261306529f32f367374a8a09",
@@ -72,12 +131,93 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-4bd22d622d62c04a8593f6dc",
+      "source_sha256": "095c6a91c1ee9e2fad556f45b16a5107c077bf3bec33796bb9055c7d7c5f7a00",
+      "paragraphs": [
+        "China’s Foreign Ministry announced on November 11 that Premier Li Qiang would make an **official visit to Thailand from November 13 to 15**, at the invitation of Thai Prime Minister Anutin. The visit is still upcoming; the announcement did not disclose bilateral agreements already reached.",
+        "At the invitation of Philippine President Marcos, whose country holds the rotating ASEAN chair, Li is also scheduled to **attend the 29th China–ASEAN leaders’ meeting in Manila from November 15 to 16**. The two legs meet on November 15. An official visit to Thailand and participation in a multilateral meeting in the Philippines are the two arrangements listed in the announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-698de0271e2a4a93ea41f2d9",
+      "source_sha256": "cff96fed9331f12e9020cc898c957afd1d555610c6321db0619f83a594bcbe28",
+      "paragraphs": [
+        "On November 11, China’s National Forestry and Grassland Administration published an AI application policy issued by the Ministry of Natural Resources and the National Development and Reform Commission. The document is dated **November 4 and numbered Natural Resources Issue [2026] No. 150**. It focuses on introducing AI into resource surveys and monitoring, spatial planning and governance, disaster prevention, and resource use, rather than announcing completed platforms.",
+        "The policy aims to establish demonstration applications, high-quality datasets, models and agents by **2028**, and an integrated intelligent territorial spatial governance platform by **2030**. Its five priority areas are geospatial information, territorial spatial planning and governance, oceans, geology and mineral resources, and forestry and grasslands. These dates are policy targets.",
+        "Eight demonstration scenarios cover integrated monitoring, planning, asset management, disasters, marine development, geology and minerals, forestry and grasslands, and Earth science. Disaster applications emphasize monitoring and detection, risk warnings, emergency response and post-disaster assessment for geological and marine hazards and forest and grassland fires, spanning the stages before and after an event.",
+        "Implementation also addresses data foundations, standards, model governance and computing capacity. It encourages concentrating computing resources at national hubs and using rented services, with funding channels including existing fiscal science and technology programs and private capital. The policy gives no single figure for newly added fiscal spending; platform construction and application results depend on subsequent projects."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-49ab05b27c45fb214e010fed",
+      "source_sha256": "596e9849975a3d1a8ab2c724abeb98480d317b94919f0aa2a456219da566f992",
+      "paragraphs": [
+        "Baidu released **ERNIE 5.5 Flash Preview** on November 11, a preview checkpoint post-trained from its earlier Base model. The company reports 280 billion total parameters, around 14 billion activated per inference, and a one-million-token context window. Training is continuing, and this is not the final stable version.",
+        "Availability has two stages. The Preview API is already offered on Baidu Qianfan. The Chinese announcement plans to **release weights by November 25**, while the English announcement says an Apache 2.0 license is planned. As of this verification, that future plan is not equivalent to downloadable model weights already being available.",
+        "The company demonstrates coding, documents, multimedia creation and long-running tasks. Its game-development example places the model in a tool-enabled agent harness and uses external assets and software. Because the text model cannot directly observe the game’s visuals, the team converts some issues into code and test feedback for iterative fixes.",
+        "The performance charts on the release page are Baidu’s own evaluations. The demonstrations reflect the combined effects of the toolchain, task configuration and external resources. They show the capabilities and conditions presented by the company, rather than equivalent results without tools or a comprehensive independent assessment of reliability and cost."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-978c481a96b195fb122370db",
+      "source_sha256": "90d35adebc62392b0177f995e2d0733d5c4f12d587aad42d5de5606b85566f3c",
+      "paragraphs": [
+        "In the opening Group A matches at BLAST Rivals 2026 Season 2 in Hong Kong on November 11, **Vitality beat Falcons 2–0 and FURIA beat Legacy 2–0**. Both series are complete. Vitality won Anubis and Dust2 13–10 each; FURIA took Inferno 13–10 and Mirage 13–7.",
+        "Both winners have secured playoff places, but have not yet qualified directly for the semifinals. The eight-team tournament sends the top three from each group into a six-team playoff bracket. The Group A upper final will decide which team skips the quarterfinals.",
+        "Converting the published schedule, **FURIA face Vitality at 12:30 p.m. Beijing time on November 12**. The winner advances directly to the semifinals, while the loser enters the quarterfinals. Legacy versus Falcons at 10:00 a.m. the same day is an elimination match. Both times are converted from Central European Time, with Beijing seven hours ahead.",
+        "The Hong Kong event runs from November 11 to 15, with playoffs at AsiaWorld-Arena on November 13–15. The best-of-five grand final is scheduled for 3:00 p.m. Beijing time on November 15. Its participants have not yet been determined."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-298568f52cb4b1de1829d061",
+      "source_sha256": "cc2998007688245d76e157a9952b3c41581959809451b0c86c44a48ed564d0f0",
+      "paragraphs": [
+        "NTT DOCOMO experienced a Japan-wide 5G SA service disruption on November 11, beginning at 10:34 a.m. Japan time, or **9:34 a.m. Beijing time**. Its eighth update, issued as of 5:15 p.m. in Japan or 4:15 p.m. in Beijing, said service had recovered for all but some users, with work continuing toward full restoration.",
+        "Affected customers are subscribers to standalone 5G SA service, who may have difficulty using voice, data and SMS, with some devices showing no service. **MVNOs using DOCOMO’s network, other non-SA 5G users, 4G users and emergency calls are unaffected**. “Japan-wide” therefore does not mean that every DOCOMO customer lost connectivity.",
+        "The operator is still investigating the cause and has not published a confirmed final failure mechanism. It says its investigation had found no traces of unauthorized access or indications of a cyberattack, including around the start of the incident. That is a time-specific investigative update, rather than a final attribution after all forensic work is complete.",
+        "The eighth update also said users still unable to connect could try restarting their phones or toggling airplane mode. The restoration status is current as of 4:15 p.m. Beijing time. Recovery for most users does not mean complete network restoration; subsequent status depends on the operator’s further notices."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2c1b06533b7e5366ca68b6c2",
+      "source_sha256": "bd47948b20ccb6e9b09ce60747fe31030f68df703e6c8e30bb8b11a80c8e9851",
+      "paragraphs": [
+        "Ron Howard’s 2026 documentary **Avedon arrives on Netflix on November 11**, with a running time of one hour and 44 minutes. It appeared at Cannes earlier this year; the current milestone is its streaming release. It is a standalone documentary film, not a new season of a series.",
+        "The film follows more than half a century of photographer Richard Avedon’s work, using archival photographs, previously unseen footage and interviews with collaborators to examine his fashion photography, portraits and working methods. Avedon died in 2004, so the archival figures and studio scenes form part of a retrospective of his life.",
+        "The production involves Imagine Documentaries and Fifth Season, in association with the Richard Avedon Foundation. In the official introduction, Howard emphasizes the person and creative process behind the photographs. That is the filmmaker’s account, rather than an independent critical assessment of the finished film."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-950307beac7237f94ad26f8e",
       "source_sha256": "3c6aff8d1bd541cb5c72dd4256f81de75c146b6cef68ea1dd9b6295dcb8ff4fe",
       "paragraphs": [
         "On November 11, IT Home cited Bloomberg’s report that Sony PlayStation had canceled Haven Studios’ team-based heist shooter Fairgame$. An internal email quoted in the report said testing showed operational readiness and community-engagement strengths, but mixed player feedback and retention fell short of the project’s targets, leading the company to stop development.",
         "A Sony spokesperson said **the cancellation would not cause layoffs at Haven Studios**. The team will shift toward collaboration with other PlayStation Studios developers while exploring creative opportunities. The canceled project was still in development; this is not an announcement that the studio has closed, and no replacement title or release date was disclosed.",
         "The email also cited the challenging PvP shooter market. Test results and market conditions are the company’s explanation, not public sales figures or a consensus review score. This is a substantial development cancellation rather than a delay, routine maintenance or shutdown of a released game."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-56d43a96b1c9acdfdcb48818",
+      "source_sha256": "c2ffebf165d28f3cee33178601ce53c05b6cd4e408f96e0f5f35ad765bc1858b",
+      "paragraphs": [
+        "French high-school students are continuing protests over issues including teaching conditions. President Emmanuel Macron condemned recent violence on November 10. That day, a regional councillor outside Gaston-Bachelard high school in Chelles, Seine-et-Marne, east of Paris, was struck in the chest by a bottle containing a petrol-smelling liquid. Prosecutors opened an investigation into **attempted intentional homicide against a public official**. This is the investigative classification, not a conviction.",
+        "Local France 3 reporting quoted the Meaux prosecutor as saying that the bottle was closed and full, and that liquid spilled onto the councillor on impact, briefly knocking her to the ground. Students gave conflicting accounts of whether she was deliberately targeted. Three students aged 15 to 17 were detained over other alleged gathering, violence or damage offenses. Prosecutors explicitly said that **as of their statement, those students had not been detained over the bottle incident and the person who threw it remained unidentified**.",
+        "For the national picture, the Education Ministry said that 49 of roughly 3,700 high schools were blocked at 9:30 a.m. on November 10, about 1.3%. Reuters also reported that student organizations intended to maintain pressure. Students’ demands about buildings, heating and teaching conditions should be distinguished from attacks and arson at individual locations.",
+        "The government and student representatives had met the previous day, but student organizations considered the response inadequate. Police, educational authorities and students give differing accounts of responsibility for clashes. The verified picture is continuing demonstrations and localized serious violence; incidents at individual schools do not establish that all of France is experiencing unrest of the same severity."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -145,6 +285,17 @@
         "The 39th Golden Rooster Awards were announced in Xiamen on the evening of November 10. **Nanjing Zhaoxiangguan won best feature and earned Gao Ye best actress; Tony Leung Ka-fai won best actor for Bu Feng Zhui Ying.** Zheng Dasheng won best director for Mi Dang, and Wan Li won best new director for Zhen Er Yu Long.",
         "Gei A Ma De Qing Shu received both the special jury prize and best screenplay, while Cai Rou Hun Tun won best small- and medium-budget feature. Lang Lang Shan Xiao Yaoguai won best animation, Chuang Wai Shi Lan Xing best documentary/science-education film, Ma Lan Hua Kai De Sheng Yin best children’s film, and Gu Yan Wu best opera film. Sentimental Value won best foreign-language film.",
         "Technical awards went to Dong Jinsong for cinematography on Kuang Ye Shi Dai, Wang Yanwei for sound on Biao Ren: Feng Qi Da Mo, Wang Jing for art direction on De Xian Jin Zhi, Gao Xiaoyang for music on Wan Tong Shu and Huang Zenghongchen for editing on Fei Xing Jia. These are this jury’s awards, not audience ratings or new release dates, and do not imply that all winning films premiered in 2026."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-82200528ef5122b9bee8b677",
+      "source_sha256": "9729d67da97b31aca30cbf7f029e38c9c6e689ca004d477417ccc1c57b3e20c0",
+      "paragraphs": [
+        "Netflix has released a trailer and distribution plans for Danny Boyle’s **Ink**. The film is scheduled for **select cinemas on December 11, 2026**, followed by **Netflix in the United States and Latin America on January 8, 2027**. That streaming territory is not worldwide, so the date cannot be applied automatically to Hong Kong or other regions.",
+        "Adapted from James Graham’s play of the same name, the film is set in London in 1969 and follows newspaper competition and the transformation of The Sun. Jack O’Connell plays Larry Lamb, Guy Pearce plays Rupert Murdoch and Claire Foy plays Jules Davies, with the premise centered on the characters and the business environment of journalism.",
+        "The released material consists of a trailer, cast details and a cinema/streaming timetable. The theatrical and Netflix releases are separate windows spanning 2026 and 2027. The official announcement provides no sample of critics’ scores or overall audience assessment; what is confirmed is the distribution plan for an upcoming film."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -605,6 +756,42 @@
         "Editor-in-chief Sergei Sokolov had announced the decision to stop work in October. He said official pressure had made it impossible for the paper to publish, raise money or rent an office normally, or to protect journalists from the risk of imprisonment. **These are the newspaper’s and staff’s allegations about the cause of closure.** Kremlin spokesman Dmitry Peskov denied government responsibility, describing it as a normal process of media competition and turnover.",
         "Novaya Gazeta has long reported on corruption, human rights and war. Several journalists and collaborators associated with it were killed, including Anna Politkovskaya in 2006. Co-founder and former editor Dmitry Muratov, a 2021 Nobel Peace Prize laureate, continued outside the office on November 9 to call for attention to political prisoners, civilian evacuations and an end to the bombing of Ukrainian cities.",
         "After the full-scale war against Ukraine began, some staff went into exile while the team remaining in Russia continued working under censorship laws. At the farewell, Sokolov said the journalists were still there and were considering future forms of work. That is an intention to continue, rather than an announcement that publication has already resumed."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-84921d866b5ebf2fee8eae9a",
+      "source_sha256": "b411b152087ea6f331dc89a394d9370f49c06cd0ccf24d985ed8b38584fa84e6",
+      "paragraphs": [
+        "New York Governor Kathy Hochul announced on November 10 that the state had opened the AI registration portal needed to implement the RAISE Act and launched the New York Center for AI Research and Evaluation, NYCAIRR. The developments concern preparation to enforce an existing law and the launch of a research platform; RAISE was not newly passed that day.",
+        "Large frontier AI developers must **register by January 1, 2027**, and publish safety frameworks as required. The state also says frontier AI developers operating in New York will face safety, transparency and reporting duties, with critical safety incidents to be **reported within 72 hours**. Registration applies to large developers; it should not be extended to mean that every ordinary AI application developer must register.",
+        "NYCAIRR launched with more than 80 researchers and interim co-directors Greg Morrisett of Cornell Tech and Jeannette Wing of Columbia University. It operates as a cross-institutional network, with researchers remaining at their home institutions. Priorities include independent model testing, safety research, and collaboration with the state’s Office of Digital Innovation, Governance, Integrity, and Trust, or DIGIT.",
+        "Plans for the center were first announced in January, with initial support including $30 million in philanthropy and $25 million in SUNY research funding. Launching it now does not make that existing support a new appropriation on the day. The separate $500 million Empire AI public–private initiative provides computing support; its total size is not the center’s own budget."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-146d73179b7a5b4fba2337af",
+      "source_sha256": "d4394f817e16d63995c4c12ba85fe63cbff2ff13e71d9fae1a5a3e338ced8829",
+      "paragraphs": [
+        "Paradox Interactive announced that the Cities: Skylines II expansion **Park Adventures will arrive on PC through Steam and Microsoft Store on December 2**. It is Iceflake Studios’ first original expansion since taking over development. The announcement gives no console release schedule.",
+        "The expansion centers on modular park-building tools for zoos, nature reserves and amusement parks, adding more than 100 assets and five maps spanning arid, tropical, boreal, alpine and Mediterranean settings. Players can expand parks over time and manage tickets, staff and maintenance costs, shifting the focus from placing individual park buildings to operating park areas.",
+        "The listed prices are $19.99, £16.99 or €19.99, and the expansion is included in Expansion Pass II. These are prices for the respective overseas markets, not confirmed prices or subsidized offers for China.",
+        "The publisher also scheduled a Steam free-play event from November 12 to 16. As of the evening of November 11, that window had not begun, and the announcement did not provide precise start and end times for conversion. The free Seasonal Shift update, already released on November 10, is a separate accompanying release; the paid expansion is still due on December 2."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-38b8a8f300b0a2bcf52f9448",
+      "source_sha256": "38ac3938b0606111fa0810c527a79dc684b65c0dbb350e59047c0ab3afea495a",
+      "paragraphs": [
+        "Canon announced the FPA-6400ES6a KrF semiconductor scanner on November 10, with **launch planned for early December 2026**. It uses a 248-nanometer wavelength for relevant exposure layers in memory and logic chip manufacturing. This is an equipment announcement and a forthcoming availability schedule.",
+        "A key specification is **4.0-nanometer overlay accuracy**, meaning alignment between layers, not a 4-nanometer process node or exposure resolution. Canon says this is leading performance among KrF scanners for 300-millimeter wafers, based on the company’s research as of November 9.",
+        "Rated throughput is 400 wafers per hour for 300-millimeter wafers under a specified condition of 96 shots per wafer. The new wafer stage combines high-acceleration motion with vibration suppression and temperature control, while optional HiALS enables finer wavelength selection. Throughput under that condition cannot be applied directly to every production chip layout.",
+        "The equipment also improves wafer holding and deformation correction for warpage of up to about 700 micrometers. Energy recovered during deceleration is stored in capacitors for reuse during acceleration. The announcement gives no universal energy-saving percentage for every production line; these performance figures are manufacturer specifications."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1835,15 +2022,15 @@
     },
     {
       "article_id": "article-90a287db20b286d8d4c0a039",
-      "source_sha256": "4d2119c83eb220f516d1649e9d36e75e34ee23b2c5c1c63a73c4093153fe4156",
+      "source_sha256": "799db6e21261a7204522178778c0acf7bf9741645820e137f4aeae04b48f613c",
       "paragraphs": [
-        "Nintendo announced on November 5 that its remake of The Legend of Zelda: Ocarina of Time was **released exclusively for Nintendo Switch 2, with a US official price of $59.99**. Rebuilt from the 1998 Nintendo 64 game, it has moved from an announced project to an available release.",
-        "Nintendo lists overhauled visuals, voiced cutscenes, expanded dialogue, orchestral music, and reworked camera and movement controls. Link’s adventure in Hyrule retains the shifts between his younger and adult selves and music-based puzzles as central elements.",
-        "A new Hall of Fallen Foes allows enemy rematches, while fairy thoughts add collectibles. Ocarina interactions support microphone input through humming or playing an instrument, providing another way to engage with music alongside conventional controls.",
-        "This is a commercial remake for Switch 2, distinct from running an older game through a classic-game service. The $59.99 figure is the official US-store price. Other regions’ prices, editions and associated service eligibility follow their respective stores."
+        "Nintendo announced on November 11 that The Legend of Zelda: Ocarina of Time Reborn, released for Switch 2 on November 5, sold **5.2 million copies worldwide in its first four days, including 810,000 in Japan**. This is a new sales milestone following the original launch news. The tally includes physical and downloadable versions.",
+        "Nintendo describes it as the fastest-selling Nintendo-published Switch 2 software over its first four days. The record is limited to **Nintendo-published Switch 2 software and that four-day window**. It does not automatically extend to all games across platforms, lifetime Zelda sales, or every publisher’s releases. The figures come from Nintendo’s own research.",
+        "The game is a full remake of the 1998 Nintendo 64 title Ocarina of Time. It retains an adventure spanning Link’s childhood and adulthood while updating the graphics and some gameplay. This remake was released for Switch 2; earlier versions of the original on other platforms are separate releases.",
+        "The accompanying ZELDA NOTES service is offered through the Nintendo Switch App and requires a free Nintendo Account, but not a paid Nintendo Switch Online membership. The sales announcement describes early commercial performance, without providing independent player ratings or long-term retention data."
       ],
       "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-adb3875b04d439409ea17f79",
@@ -3715,50 +3902,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-eb97e971e2fd2d63fdcbdfe9",
-      "source_sha256": "4a6b7f0b69df279a43920ce915ca59ab80a293382ad030646f2d0e1ae3688f6b",
-      "paragraphs": [
-        "Netflix Tudum on 29 October announced the renewal of \"The Diplomat\" for a fifth season. This is an update on the project's status following the fourth season's broadcast, and it cannot be rewritten as the fifth season having already launched. The official release date for the fifth season has not yet been announced.",
-        "The series was created by Debora Cahn, focusing on the diplomatic work of U.S. Ambassador Kate Wyler in Britain and her relationship with Hal. Keri Russell and Rufus Sewell star as this couple. The series' appeal lies in the interplay between international crises, institutional power, and personal relationships.",
-        "The reputation should be separated based on needs: Netflix states that the series has entered its Top 10 list for a total of 13 weeks since its debut in 2023, covering 87 countries, with over 130,000,000 views in total; these are platform popularity data, not the rating of positive reviews. The announcement also mentions the awards won by the actors in the third season, which cannot be applied to the fourth or fifth seasons as a basis for scoring. For new viewers, this is a follow-up production update; whether it is worth watching should be combined with named reviews for the corresponding season and personal subject preferences, rather than solely based on the high score of renewal."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e172fa559c0e11f11b6da9de",
-      "source_sha256": "6e607c2d75a311c94c24cf18eebff75143486fce36022a7fa48bfc267c9df3e1",
-      "paragraphs": [
-        "A vivo official community announcement dated October 29 opened the second OriginOS 7 early-access rollout to 16 models, including X200 and iQOO 13. Registration runs from October 29 at 10:00 to **November 12 at 23:59 Beijing time**, with no participant cap. The schedule called for distribution to existing applicants on November 2; applications from November 3–12 are scheduled to receive the update that day, subject to official notices on actual progress.",
-        "The standard **X200 requires software version 16.1.12.40.W10.V000L1 or later**. Other models, including X200 Pro and X200 Ultra, have separate requirements. Applications are available through Settings, System management and upgrade, System update, then the upper-right menu’s early-access upgrade section and the new-version card.",
-        "This batch is a major OriginOS 7 early-access release. vivo says some third-party applications may still have compatibility issues. Users who have upgraded cannot leave early access directly: they must first use the official downgrade tool to return to OriginOS 6, then withdraw through the application screen."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-a0c3e1be77e8b5a27f797ac2",
-      "source_sha256": "b3feabf9fa9913e4c4a1cfcbce475ab9254158d8bd955973d09fc06e3829456b",
-      "paragraphs": [
-        "The statement released by the Federal Open Market Committee on October 28 shows that the committee, by a vote of 10 to 2, decided to maintain the target range for the federal funds rate at 3.75% to 4%. The two dissenting members, Lisa Cook and Beth Hammack, favored raising the interest rate by 0.25 percentage points during this meeting. \"Maintaining the status quo\" is an already announced policy decision, and the division among the committee members is an important context for assessing inflation risks, and this meeting cannot be written as a rate cut.",
-        "The statement said that US economic activity continued to expand at a stronger pace, with durable domestic spending, strong productivity growth, and robust capital investment. Employment growth was roughly in line with the size of the labor force, and the unemployment rate remained relatively stable. At the same time, inflation remained at a high level, and uncertainties remained high due to factors such as geostrategic issues. These were the committee's collective assessment at that time, not assertions that applied equally to every family, industry, or region.",
-        "The committee stated that it will gather more information to determine how to bring inflation back to the 2% target in a timely manner and will continue to maintain ample reserves in the banking system. The statement did not commit to either raising or lowering interest rates at the next meeting, so market speculation about the future path cannot be considered an official decision. The target range is also the interbank policy rate, which is not equivalent to housing loans, credit cards, or deposits all changing by the same amount on the same day; this article only explains macroeconomic policy and does not provide investment or asset trading recommendations based on this."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b479963f89ee23e04982adfa",
-      "source_sha256": "10beda41de81d2a14601508fd9ce6c3c24b08edd32748ef91bc73c6504e85468",
-      "paragraphs": [
-        "The first season of \"Call of Duty: Modern Warfare 4\" is planned to start on November 6; as of this update, it still belongs to the upcoming update. The roadmap released on October 28 covers multiplayer combat, DMZ, and Warzone, and lists the launch content and the mid-season add-ons separately.",
-        "Multiple modes have initially added Backstab, Canyon, and the redesigned Shoot House, while scheduling Grind and Drop Zone. Mid-term content such as Ministry, Overflow, and Counter Attack should not be written as fully open on the first day. The new facilities in DMZ, X01, use tunnels, environmental hazards, and gradually closing evacuation exits, requiring the squad to complete conditions before evacuating.",
-        "The weapons include the Cronen Osprey assault rifle and the CSG-35 submachine gun. The announcement also introduces a new pursuit mechanism for the battle pass: after purchasing a premium pass, lagging players can complete part of the rewards based on the season's progress, but there are specific time limits and reward ranges. This records the official update schedule, does not equate paid pass rewards with free content, and does not pre-judge the balance of new weapons."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-9327e550d0f4f4ee15b033f0",
       "source_sha256": "af708506a590ffc2caf4f9864c49d5608ae4b07fc349abb79004293e15d6d3f8",
       "paragraphs": [
@@ -3770,78 +3913,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-5a0918174d802ea73caac0bd",
-      "source_sha256": "184c03b45ac7e8b12b53665c8f27eb2eac4352a4fd9069e8023fa52e538fff49",
-      "paragraphs": [
-        "November PS Plus monthly games have announced three titles, with the distribution window planned from November 3 to December 30. The lineup includes \"Dead Island 2,\" \"Tomb Raider IV-VI Remake,\" and \"Monster Train 2\"; this is part of the member benefits program, and these three games were not released for the first time.",
-        "\"Death Island 2\" combines close-range weapons, exploration in the Los Angeles region, and narrative tasks, allowing play either solo or with a three-player co-op. The \"Tomb Raider\" collection includes \"The Last Revelation,\" \"The Chronicles,\" and \"The Dark Angel,\" allowing players to switch between the original polygonal graphics and the remastered graphics.",
-        "\"Monstrosity Train 2\" continues the multi-layered defense of the carriages and deck-building, allowing players to combine units, upgrade them, and use cards from a new clan to resist various enemies. The announcement also reminds that the deadline for submitting games for October's monthly game is 2 November. The collection and play are still subject to the corresponding regional, platform, and valid member conditions, and \"joining the member library\" cannot be understood as all users permanently obtaining it for free."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-52a1dc3d1063457027236b64",
-      "source_sha256": "f902ad8e933b8f42173668f58bfff97c8686594f82c1b373e9e5f8d3ffa6eb72",
-      "paragraphs": [
-        "The game \"Rayman Legends Retold\" has announced a PS5 exclusive Astro Bot costume. The game is planned to be released on December 3. According to a developer interview on October 28, players can obtain this set of costumes for free when they first visit the tailor's shop in the game; it is not an additional purchaseable expansion.",
-        "The collaboration between Ubisoft and Team Asobi continues the crossover in which Rayman appeared in Astro Bot. The art team's main challenge was to combine Astro's white surface, metallic reflections and glowing blue components with Rayman's large nose, shoes and limbless silhouette. The costume needed to remain recognizable while fitting the handcrafted feel of Rayman's world.",
-        "The interview also discusses the two series' shared emphasis on fluid movement, fantastical settings and varied interactions. These details help explain the crossover's design, but the developers' aesthetic judgments are not independent reviews."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-8a5e3ec0466b72d05c75f5e2",
       "source_sha256": "4c59d0c66e9bea3b4b582f01acef29c38c384b4de83747ed6f693daac3321648",
       "paragraphs": [
         "On October 28, Apple announced a new MacBook Pro featuring PROLED XDR displays and touch functionality, offering 14-inch and 16-inch versions. The announcement positioned this change as Mac's first integration of a touch experience, with a layered OLED serving as the core of the display system. According to the release schedule, the product was available for pre-order on the same day and was expected to begin shipping on November 6; as of the current date of November 2, it is not appropriate to describe the upcoming shipping dates as completed events.",
         "The official display metrics include a maximum peak brightness of 2000 nits, a variable refresh rate of 120 Hz, and a broader color gamut coverage. TechRadar's technical analysis reminds that peak brightness in a small area is not the same as continuous full-screen brightness. Stack OLED improves performance in terms of brightness through a multi-layer emission structure, but the contrast and peak values mentioned in the marketing materials cannot replace real-world testing of color, reflectance, and power consumption in actual working environments.",
         "The new model still uses the M5 Pro and M5 Max, so this news is mainly not about a newly named central processor, but rather about simultaneous changes in display, input methods, and body design. Apple has also introduced the Dynamic Island on the Mac and retained multiple professional connectivity capabilities. Touch can add new ways of operation, but it does not mean that the interaction logic of the keyboard, touchpad, or existing professional software has become unimportant."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6cfa33dab37957b86fea3355",
-      "source_sha256": "1895334048abe57f197bc0995304d291093ec9d05ae57cd1045e862fdf765c2e",
-      "paragraphs": [
-        "The World Food Programme warned on October 28 that fragile gains in Haiti's food security were being reversed. The latest IPC analysis projects that 6.35 million people could face severe food insecurity between March and June 2027, including nearly 2 million at the emergency level. The Associated Press cited the analysis the same day, reporting that the current number facing severe hunger was already close to 6 million. The current estimate and next year's forecast cover different periods: 6.35 million is not a confirmed count for today.",
-        "The World Food Programme lists reasons including violence by armed groups, economic instability, poor agricultural performance, displacement of populations, and the impact of El Niño. More than 1.5 million people have been forced to leave their homes, with many unable to work, farm, or reliably obtain food; armed groups controlling roads and markets also make it difficult for agricultural products to reach sales locations. Droughts and floods simultaneously damage the harvest in some areas and affect the planting capacity for the next season.",
-        "The agency stated that, this year, it has collaborated with the government to provide food, cash, school meals, social security, and nutritional support to 2,600,000 people, but these actions are still insufficient to offset the continuously expanding risks. Maintaining the operations until March of next year will require an additional 78,000,000 dollars. The IPC has classified the current situation as \"emergency\" level; the number of people covered by the aid refers to those who have already received assistance. The improvement of the situation still depends on whether security, market accessibility, and continuous aid can collectively be restored."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-df496099d22cf769e8031404",
-      "source_sha256": "27f93f3b27cb00f11aa1fb2226255bea5b3971843a1d8e6dc695dfc5d5cb1bb5",
-      "paragraphs": [
-        "The Bank of Canada announced on October 28 that it has raised the target overnight interest rate by 0.25 percentage points to 2.5%, with the bank rate at 2.75% and the deposit rate at 2.45%. The central bank stated that economic growth has been stronger than expected in July, and that energy prices have remained high, with concerns about the pressure of costs spreading from fuel to other goods and services. This is an already implemented interest rate hike decision, and future adjustments will depend on conditions, and the market's speculation after the meeting cannot be regarded as an official commitment.",
-        "The statement predicts that Canada's economy will grow by 1% in 2026, and by 2% in both 2027 and 2028, but the relationship between Canada and the United States remains an important source of uncertainty. Industries affected in part by U.S. tariffs continue to struggle, while overall exports are supported by U.S. demand, energy production, and corporate adjustments. Therefore, improved national growth does not mean that all industries have escaped pressure, and preliminary quarterly indicators cannot be directly equated to the final annual results.",
-        "The central bank stated that inflation for September, excluding gasoline, was 2.2%, with the core indicator approaching 2%, but high fuel costs are pushing up production and transportation expenses, and enterprise surveys indicate an increased willingness to pass on costs in the future. Its forecast of overall CPI is expected to average around 3% in 2027 and approach 2% by mid-2028, with this path depending on the situation in the Middle East and corporate behavior. The policy interest rate is not the actual rate for all household loans, and the timing of adjustments for existing contracts depends on the terms of the product; this article provides macroeconomic facts and mechanism explanations, and does not offer advice on investment or lending decisions."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ac167c3e79fbe9f1fa3839a3",
-      "source_sha256": "cec5b45d324132807f3055e455010ed8ef7ffc1870f835d530052a4ad71a9ef7",
-      "paragraphs": [
-        "The UN Refugee Agency reported on 28 October that ongoing conflict on the Ethiopian side has led to a large number of residents crossing into Moyale, Kenya, in search of safety. Significant cross-border movement has been observed since October 22; local authorities estimate that approximately 50,000 people have already entered Kenya, but registration and verification are still ongoing, and the number will continue to change as new arrivals are added and investigations are conducted. The figure of 50,000 is a local preliminary estimate and is not the final number of individuals whose identities have been fully verified by the UN Refugee Agency.",
-        "Many of the refugees are women and children, some of whom have sought refuge with relatives and receiving communities, while others are temporarily staying in schools, churches, and other locations. The agency listed urgent needs including food, safe drinking water, temporary shelter, sanitation, and medical care. Schools serving as temporary shelters indicate that the influx of refugees will be intertwined with local public services; however, this notice does not provide statistics on all schools closing, and this article does not arbitrarily expand the situation to a complete disruption of education.",
-        "UNHCR has deployed an emergency team to work with the Kenyan Refugee Services department, local governments, and other humanitarian partners, and has mobilized supplies that can assist nearly 12,000 people, seeking to expand the coverage further. The number of people covered by the aid program is not the same as the number of people who may cross the border, and the exact number of people who have not yet been rescued cannot be accurately calculated based on the difference between these two figures. The agency is also seeking more secure alternative accommodation options away from the border."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-7ccf6537c78580a90deb5f83",
-      "source_sha256": "fb2cf27ca30888713d3d2321c8ea35046a0d806f4d97f604f8ed400144b36d5f",
-      "paragraphs": [
-        "The Reserve Bank of New Zealand announced on 28 October that the monetary policy committee maintained the official cash rate at 2.75% with four votes to three. The annual CPI inflation for the third quarter was 3.7%, lower than the 4.1% of the second quarter and below previous expectations, but still above the target range of 1% to 3%; the core inflation indicator has approached the upper limit of the range, and price increases have extended to more items. A decline in inflation compared to the previous quarter does not equate to a decline in price levels, nor does it mean that the central bank has determined that the risk has disappeared.",
-        "The rise in international fuel prices and weakening exchange rates have increased short-term pressure. At that time, the committee, based on data such as fuel futures, estimated that annual inflation for the fourth quarter may rise to 4.4%, but emphasized that the volatility of oil prices makes recent forecasts uncertain. The direct impact of energy prices on the year-over-year calculation also depends on whether prices can stabilize or retreat after that, and one cannot treat the conditional path as something that has already been realized.",
-        "Economic recovery is not balanced: the export sector is supported by higher commodity prices, increased cargo demand, and more tourists, while businesses and households related to domestic demand continue to face pressure. The committee believes that tighter policies may be needed in the future, but the timing of adjustments still depends on economic outlooks and risks, so this 4-3 vote is not a guarantee for the outcome of the next meeting. This article distinguishes between determined interest rates, statistically recorded quarterly inflation, and future forecasts; the policy cash rate cannot be directly equated to the actual rates of each mortgage or deposit product."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -3868,51 +3945,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-b3f1ca27d8d87ac552b7b305",
-      "source_sha256": "2941ed4523a53ee61d1d235538ab0675b970a885795bfedb594b616d388a6f9a",
-      "paragraphs": [
-        "ASUS ROG announced on 28 October that the Swift OLED PG259QWS Ace and the Strix OLED XG259QWPG Ace are available. Both models use 24.5-inch full HD TrueBlack Glossy WOLED panels and offer refresh rates of 720Hz and 540Hz respectively. This announcement marks the transition of the product from previous demonstration to availability, with the primary target being competitive gamers rather than using higher resolution to meet all desktop applications.",
-        "In addition to high refresh rates, the design also revolves around fixed positioning during competitions. The support structure and base are equipped with measurement markings, making it convenient to reproduce familiar heights and angles; the PG259QWS adds position sensors and uses a DisplayPort 2.1 UHBR20 connection. Quick OSD, tone optimization, and three gaming color modes are intended to allow players to quickly adjust the shadows and target recognition. This flagship model was selected as the display for the 2026 Singapore PGL CS2 Major event.",
-        "ASUS's panel specifications include a 0.02 millisecond gray scale response, a maximum peak brightness of 1700 nits, 99.5% DCI-P3 color coverage, and true 10-bit color. The peak brightness cannot be directly considered as the continuous white brightness across the entire screen; 720Hz also requires the computer to output a sufficiently high frame rate in the corresponding game to function effectively. For those who need a small-sized high-speed screen, these two models expand the OLED gaming options. The press release did not provide a unified price applicable to all regions, and the actual price should be based on the local launch information."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-49fe359d41a18993d7a6d84c",
-      "source_sha256": "5b4c85b0a0a8d64a4bf4f9c2f94b1f758213e63997d736dcb7f91903d9dc809a",
-      "paragraphs": [
-        "Funcom has announced plans to release PS5 versions of two survival titles in early 2027, with no specific date yet provided. \"Aloft\" features floating islands, flight, and cooperative building, while \"Conan Exiles Enhanced\" is an enhancement of the existing \"Conan Exiles,\" and the two are not modes of the same game.",
-        "The PC version of \"Aloft\" will include updates and 1.0 content from the early access phase. Players can transform islands into ships, build homes, and handle ecological and fungal erosion during exploration; the announcement reviewed updates such as animal, puzzle, combat, and glider customization.",
-        "Regarding \"Case Closed,\" players who have already purchased the PlayStation version can receive the PS5 enhanced version upgrade, and the purchased Bazaar items and DLC plans will be inherited. The enhanced content includes environments, characters, lighting, effects, and interfaces. The specific eligibility for the free upgrade and the instructions for cross-version purchases should be referred to the official website, and it cannot be inferred that the save data is shared across all platforms or that the DLC is shared."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e5155488c46583cb1ea42c01",
-      "source_sha256": "5401eb52c211120df5a9bdfd71c1d785fa8246171b3c009acd10d07c29f1839b",
-      "paragraphs": [
-        "Where Winds Meet added details through Xbox Wire on November 6: **the Hutuo anniversary update reaches Xbox Series X|S on November 13 Pacific time**, centered on the Battle of Zhongdu Bridge. The narrative date announced October 27 remains in place; the new information concerns Xbox adaptation and staggered content.",
-        "The region combines frontline fighting, displaced civilians and companions’ choices in its quests, with boss encounters including Xiao Han and tabletop modes called Horse Racing Chess and Jianghu Tactics. The announcement separately schedules **Dual Spears, choreographed and motion-captured with Yuen Woo-ping, for November 26**, rather than making everything available on the thirteenth.",
-        "The Xbox version supports Smart Delivery, HDR and AMD FSR 2. The publisher describes Series X output upscaled from 1080p to 4K and Series S output from 900p to 2K, alongside larger interface text and memory optimization. Those are upscaled-output descriptions, not claims of native 4K rendering.",
-        "Anniversary events also offer a selectable free outfit and draw resources, separately from the map, quest and martial-art release schedule. No precise November 13 update time is supplied, so the Pacific date is not converted into an allegedly confirmed Beijing launch hour."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-fd42536d8173737e68458187",
-      "source_sha256": "8270f66844064e9c6aa265b4bafb546888b7e3e6b54c27e11d631b6891769695",
-      "paragraphs": [
-        "Terrible Lizards combines first-person platforming with a dinosaur horror theme and is scheduled to be released on 29 October. The developer WDR Studios introduced the game on 27 October, stating that the game aims to retain both the tension of being chased and the rhythm of continuous movement.",
-        "The gameplay revolves around running, jumping, sliding, wall climbing, edge grabbing, and crossing, with the ability to use tools to alter the level environment. The team particularly emphasizes aerial control and predictable speed, allowing players to adjust their landing points under high-pressure chases, completing actions consecutively rather than relying solely on sudden surprises.",
-        "The story is set in the early 1990s: college students on a road trip encounter a roadside dinosaur attraction due to a car breakdown, where familiar tourist symbols gradually become a threat. This design combines American road culture with the dinosaur craze. What is recorded here is the developers' explanation of the gameplay and creative motivations, and the initial runtime performance and complete process still need to be combined with actual reviews."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-393575ee7d83ff0a65d333d8",
       "source_sha256": "9022b8bc1cf4300c390730616c7052a0c9677c43ade08ee727c7448be8c91823",
       "paragraphs": [
@@ -3930,28 +3962,6 @@
         "Anthropic has announced a phased collaboration with six drug development institutions, covering molecular design, lead optimization, manufacturing documentation, and clinical trial planning. The company emphasizes that bottlenecks are spread throughout the drug development process, and the role of AI is not limited to proposing new molecules in the early stages.",
         "In the Generate Biomedicines case, scientists used the Claude Code to design a genetic instruction for CAR T therapy; the announcement stated that a design shortened by about 70% improved receptor expression and cell killing performance in laboratory tests. The BigHat team prepared and tested approximately 1,010 antibody fragment variants within about 10 weeks, and midway through the process, they re-examined potentially misleading stability indicators, which were then verified by experimental testing. Enveda linked the manufacturing documents to Claude and, when testing 1061 pages of material, identified 11 issues already known to humans and seven additional omissions, reducing the time required for human review from more than 25 hours to less than 3 hours.",
         "These are specific project results reported by the company and its partners, and cannot be directly extrapolated to drug approval or patient efficacy. Most of the work is still in the preclinical stage; the clinical planning collaboration with Bristol-Myers Squibb has just been initiated, and other candidate therapies still require further experiments and clinical trials. The announcement includes technical reports for each project, facilitating further verification of methods and results."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-58377dfbc3ca02b3226278c9",
-      "source_sha256": "18e5766540e8193118db1d8c73ba9c454c78d44b1d16b15804bc96a44f0db1cb",
-      "paragraphs": [
-        "On October 27, vivo announced the launch of a mobile film creation course in collaboration with Kolder Creative, using the X500 Pro Max as a demonstration device. The course consists of one introductory video and nine lessons, focusing on the same vertical short film project, extending from shooting control, composition, and material selection to editing, sound, color grading, and exporting. This is an educational content collaboration, not the debut of the X500 series.",
-        "Film creator Sam Kolder demonstrated how Log footage, shutter speed, and frame rate, as well as ND filters, can serve exposure and motion expression, and how different shot compositions organize the 9:16 aspect ratio narrative. The course integrates shooting and post-production decisions into a single workflow, avoiding discussions about final image quality based on a single resolution specification.",
-        "The latter part uses DaVinci Resolve to demonstrate the organization of materials, voiceover and music arrangement, LUTs, and color grading nodes, and provides export guidance. The official positions the collaboration as helping users understand the practical use of smartphone imaging tools, rather than the idea that everyone can automatically shoot a film just by opening the camera. Both the course and the equipment are promoted by the brand, and the video demonstrations and evaluations should be understood in the context of this source background; the required accessories, software, and course access conditions are subject to the respective platform's explanations."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-78b07d758e584d81ae04f852",
-      "source_sha256": "dc55811f87d83cd128c7f411714af9edb18f7a3790ca4d9bab7f97a9709327a4",
-      "paragraphs": [
-        "ASUS published an announcement about the UGen Intel Arc Pro B70 32GB accelerator card on 27 October. The date marked in the main text for the release event was 23 October. This is a specific board card product that appeared after the release of Intel chips in March, focusing on local agents, model inference, and creator workflows, rather than announcing the birth of the B70 chip again. The product is equipped with 32GB of ECC GDDR6 memory, and ASUS indicates that the entire card's power is 310W, and the data cannot be mixed with the Intel reference specifications for the same card.",
-        "UGen's selling points lie in the combination of high-speed memory and open-source software tools. The announcement lists oneAPI, OpenVINO, as well as PyTorch, vLLM, and different backends for llama.cpp that support XPU; it also involves Ollama and ComfyUI workflow tools. These names indicate the environments that the vendors aim to cover, and whether specific models can run directly still depends on the corresponding backend, operator, and version support.",
-        "ASUS also presented a multi-card expansion solution: four 32GB cards collectively provide a total of 128GB of physical VRAM, but this is not a single unified VRAM pool formed automatically without software assistance. Deploying larger models requires framework support for partitioning or parallel execution, and also requires reserving conditions for power supply, cooling, and PCIe space. For users who wish to keep some AI tasks local, this release offers another board card option, and the announcement did not provide a retail price applicable to all regions."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
