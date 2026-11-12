@@ -1,7 +1,95 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T01:20:34.682Z",
+  "generated_at": "2026-11-12T04:11:49.960Z",
   "translations": [
+    {
+      "article_id": "article-6f77347e4f56b3cc3e9d739a",
+      "source_sha256": "94f7affbfe01444f5c9c76eb5bfae4747a01cc883925b9bf296074a6cfd5df46",
+      "paragraphs": [
+        "Falcons won the Group A elimination match at BLAST Rivals Hong Kong on November 12, **beating Legacy 2–0 to reach the playoffs**. The maps ended 13–8 on Dust2 and 13–6 on Mirage. Legacy were eliminated in last place, following another early exit at IEM Beijing. This is the final result of the completed best-of-three series.",
+        "Falcons opened Dust2 5–0. Legacy reduced the deficit before halftime but could not turn a pistol-round win into a sustained comeback. On Mirage, kyousuke took four kills in the pistol round; Falcons led 9–3 at halftime and closed 13–6. HLTV recorded his Mirage opening duels at 6–0 and average damage per round at 128.5. Across the series he finished 40–27 in kills and deaths with a 1.67 Rating 3.0.",
+        "Falcons have secured a playoff place, with their quarter-final opponent still dependent on later group matches. The published Beijing-time schedule has FURIA–Vitality in the Group A winners’ match at 12:30 today, FUT–MOUZ in the Group B elimination match at 15:00 and Spirit–G2 in the Group B winners’ match at 17:30. Winners of the two winners’ matches advance directly to the semi-finals. Those later matches do not yet have final results to report."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7b7fae620751a386eec20891",
+      "source_sha256": "4222da96a7a67077c88ecda1c6b90b01240269edb14558378ddfce1e4b723857",
+      "paragraphs": [
+        "Kunlunxin outlined its roadmap at Baidu World 2026 on November 12. Reporting from the event says M100 has launched as planned; **M300 is scheduled for 2027, followed by multiple chips based on the new N architecture in 2028**. These are one launched product and two future stages, rather than confirmation that the roadmap products are already in stock.",
+        "The presentation positions M100 around value for money and the flagship M300 around improvements in compute, memory and interconnects. N-architecture products are intended for differentiated workloads. The report does not provide complete compute specifications, memory capacity, interconnect bandwidth or customer-delivery dates for M300 or the N-architecture chips, preventing like-for-like price-performance comparisons.",
+        "Robin Li argued that AI computing demand has shifted from training-led growth toward both training and inference, with scaled agent applications driving inference demand. That is Baidu’s market assessment. The substantive update is confirmation of launch status and the later architecture roadmap; performance gains remain to be established through specifications, delivery and independent testing."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-14d344b8232b18d6f148fc7b",
+      "source_sha256": "f8fbce08dc432aa4e3c388880065527ff0b84bd5c1c09f027dd0236b90b5bc2a",
+      "paragraphs": [
+        "Chinese animated film Baxian! announced a fourth extension of its theatrical screening key on November 12, **extending validity to 23:59 on December 17, 2026**. The film originally opened on July 18 this year. This extends an existing cinema window; it is neither a new premiere nor a streaming release announcement.",
+        "Directed by Mou Zhengyang, the film combines mythology, comedy and adventure. Eight mortals form an improvised team and impersonate immortals to enter a treasure pavilion in Penglai reserved for divine visitors. The extension poster retains that ensemble-adventure premise without announcing a new version or sequel.",
+        "IT Home reported cumulative box office of RMB2.063 billion at the time. The announcement provides no streaming release date or new overseas dates; the extension covers the existing theatrical screening key. The longer validity permits cinemas to continue screenings, while local exhibitors determine actual showtimes. The deadline does not mean every cinema will show the film until that date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-988a3de42b0d682b167cbc1e",
+      "source_sha256": "63e61dd62391abd81b172245c6c8fbbd7ec07be6257035c5b97a219176febf2c",
+      "paragraphs": [
+        "OpenAI announced on November 11 that ChatGPT Finances had arrived in its desktop app. 9to5Mac confirmed the expansion covers Mac, with a sidebar entry after updating. **Availability remains limited to Free, Go, Plus and Pro users in the United States**. The financial features previously available on the web and mobile now gain a Mac entry point; this is neither a global rollout nor the first launch of Finances as a product.",
+        "Finances connects supported financial accounts through Plaid and uses transactions, balances and investment data for spending categories, subscriptions, bills, net worth and portfolio views. It also supports custom financial tools based on that context. OpenAI’s help documentation lists Experian credit-report connectivity separately, so credit information should not all be attributed to Plaid.",
+        "The official feature description says ChatGPT cannot move money, pay bills or execute stock trades. Dashboard content depends on the data actually connected; historical records a financial institution does not supply, or transactions not yet synced, may be absent. This news changes client coverage while retaining geographic and data-authorization requirements."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e3aa5d0465faaf682938320f",
+      "source_sha256": "d6c867fbb32e9eab08f8b287ffad3973c232da188a51571126159269e4a451f7",
+      "paragraphs": [
+        "Doubao announced an update to its AI workplace product, Doubao Work, on November 12. Alongside Doubao 2.1 Lite and 2.1 Pro, its first group of third-party options includes **Kimi K3.1 Pro, GLM 5.3 and DeepSeek V4.1 Flash**. Users can choose in-house or third-party models by task. This expands model access inside the workplace product; it does not mean those models were first launched today.",
+        "The capability initially reached Team and Enterprise subscribers on October 29, with usage deducted from existing AI points. Today’s update broadens availability and displays a quota-consumption multiplier for each model. The multiplier is a billing factor, rather than a quality score or a fixed price for every task.",
+        "The update also includes quota discounts for participating models during designated periods, plus lower multipliers for Doubao 2.1 Lite and DeepSeek V4.1 Flash. The automatic option for small free tasks remains, with different arrangements for simple small tasks and more complex tasks charged at model-specific multipliers. The promotion is temporary; the report does not specify every discount window or the final deadline, so the discounts should not be treated as permanent prices."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-65ea2e49b0aa58b06c5f6a59",
+      "source_sha256": "2a254fd00bd71ce8a2b02d3e106daeb48d4b611811f624aa548ea90d49764a81",
+      "paragraphs": [
+        "IDC’s latest figures put **China’s tablet shipments in the third quarter of 2026 at 6.6 million units, down 22.3% year on year**. Quarterly volume fell below seven million for the first time after 12 consecutive quarters above that level. The measure covers consumer and commercial vendor shipments, rather than end-user purchases or device activations during the quarter.",
+        "Consumer shipments fell 24.9% year on year, while average market prices rose 8.6% quarter on quarter. Commercial shipments grew 9.6%. IDC attributes consumer weakness to rising costs feeding into prices, while earlier commercial demand and channel restocking are approaching their end. Education procurement was stronger in July and August before weakening in September, limiting extrapolation of commercial growth into the next quarter.",
+        "The vendor order was Huawei, Apple, Lenovo, Xiaomi and Honor. Lenovo grew 33.2% year on year, the only top-five vendor to expand; Apple fell 27.2%. Shipments below RMB1,000 contracted 51.4%, while products costing RMB3,000 or more represented about 45% of shipments, up nearly ten percentage points quarter on quarter. IDC forecasts cost pressure through 2028; this is a forecast, not a settled future sales outcome."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9847dcea6a4a662b52d6330c",
+      "source_sha256": "e2bdcc19b8aadaa2e019e91e5c36a0df7355d90ac377337c68bb362188f04ca6",
+      "paragraphs": [
+        "Baidu formally presented its large-model services platform, Ciyuansuo, at Baidu World 2026 on November 12. Robin Li described a marketplace bringing together models and service providers so businesses and individuals can discover, purchase and use model services. It addresses fragmented supply channels and difficulties comparing price and service quality, rather than introducing a new foundation model.",
+        "According to the presentation, resources undergo admission testing covering model fingerprints, capabilities, performance metrics and availability, followed by continuous quality monitoring. Baidu says these measures aim to detect model substitution and inflated specifications. Providers will also receive credit labels based on service quality, delivery, compliance and commercial performance, with proactive alerts when credit deteriorates.",
+        "Baidu reported **more than 100 supply resources and over 700 billion tokens called daily after one month of operation**. These are company-reported operating metrics, not a count of 100 distinct foundation models or an independent audit. Today’s conference presentation should be distinguished from the platform’s preceding month of operation. “Neutral and trustworthy” is Baidu’s positioning of the service."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ebc85486c6727aa902d1bf9d",
+      "source_sha256": "b78c4edccb2656fdc7b6d1b7628e7b6a823f114c2042ebe6ce09e651bb981471",
+      "paragraphs": [
+        "The China Consumers Association has addressed controversy over online sellers supplying different-quality versions of the same listed product. CCTV reported on November 12 that such practices can involve one listing and one price but materially different goods: displaying a high-quality sample while shipping an inferior version, or targeting rural buyers considered less able to return goods or pursue complaints.",
+        "The association said deliberately misrepresenting quality can amount to supplying goods that do not match the listing, passing inferior goods off as superior ones, or even fraud. Profiling buyers by delivery location, purchasing habits or return history and then varying supply also implicates **personal-information rights and fair-trading rights**. It cited consumer-protection, personal-information and algorithm-recommendation rules, emphasizing consistency between the quality represented and the goods supplied.",
+        "The statement also described misleading quality information and discriminatory supply as damaging competition and trust in online shopping. It called for proactive platform enforcement and noted the evidentiary value of transaction records, livestream recordings and photographs of delivered goods. This was the association’s public assessment of the practice; the report did not announce new penalties against named merchants or a nationwide case total."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-c235982356df35a244b37c5c",
       "source_sha256": "3ce1d20cefcc7be67914b3b53586f5bca06e4a809cad9ddeb57bcf50af063eee",
@@ -15,12 +103,34 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-264f1bdedf04511b3571f1d7",
+      "source_sha256": "b61ab027f4b9165b10e72b6073c93b6bfdcfbad33c308ff6040ab43441ee742a",
+      "paragraphs": [
+        "On November 11 local time, Chinese Vice President Han Zheng, attending as President Xi Jinping’s special representative, addressed the COP31 leaders’ summit in Antalya, Türkiye. He proposed stronger collective action, low-carbon development, climate resilience and international cooperation, calling on developed countries to lead emissions cuts and honor climate-finance commitments, and on all parties to implement their nationally determined contributions.",
+        "Han reiterated China’s targets announced this year for 2030: **non-fossil sources should provide 50% of electricity generation, while electricity should account for 35% of final energy consumption**. These measure the generation mix and final energy use respectively. Both are future targets, rather than shares already achieved.",
+        "On adaptation, China proposed cooperation on disaster prevention, monitoring, early warning and emergency response, along with wider use of its Mazu intelligent meteorological early-warning system. Han also said China would continue South–South projects including the Africa Solar Belt and introduce a Global South climate-action leadership capacity-building program. These are Chinese policy positions and cooperation plans presented at the summit; they do not establish a conference-wide agreement on finance or emissions obligations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-91e9f3bb3f7e14bc5deaf42c",
       "source_sha256": "ac39e957fc64919f8d313f7594f978abfc9db912030bc916f177f0fb9b1e5b25",
       "paragraphs": [
         "Netflix confirmed production of **The Twilight Between Us** on November 12, directed by Kim Won-suk and written by Park Ji-eun, with Gang Dong-won and Kim Go-eun starring. This formally announces the period romance-action project and cast, without a specific release date.",
         "The premise follows Mu-yeong and Su-ryeon, heirs of feuding houses forced into marriage by royal decree. Gang plays a highly skilled martial artist born outside marriage, while Kim plays the only daughter of the opposing family. The official synopsis establishes the characters’ starting points and marriage setup; later developments await the series itself.",
         "Kim Won-suk’s earlier work includes When Life Gives You Tangerines, Misaeng, Signal and My Mister, while Park Ji-eun wrote Queen of Tears and Crash Landing on You. Those credits explain interest in the project, but earlier works’ reception is not a rating for this series. The announcement gives neither an episode count nor a schedule confirming filming has finished."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dd2e720e9d97f4cacbced692",
+      "source_sha256": "15ceb72c7d63118d4dcaecf02bab5066c69527b2922c360207de5531a53acbe1",
+      "paragraphs": [
+        "Mississippi’s US Senate contest has reached a clear outcome after more than a week of counting. BBC and NPR report that **the Associated Press has called the race for Democrat Scott Colom over Republican incumbent Cindy Hyde-Smith**. Hyde-Smith conceded and congratulated her opponent in a video on the evening of November 11 local time. A media race call and a candidate’s concession remain distinct from formal state certification.",
+        "The figures carried by BBC at the time were 49.2% for Colom, 48.7% for Hyde-Smith and 2.1% for an independent candidate. Fewer than 5,000 votes separated the two leading candidates out of nearly a million counted. The prolonged count involved outstanding absentee and provisional ballots; this was not another round of voting.",
+        "Colom, 43, is a district attorney. He is the first Democrat elected to the US Senate from Mississippi since 1982 and the state’s first elected Black US senator in more than 140 years. Both reports say the outcome gives Democrats 55 seats in the incoming 100-member Senate. A closely contested Senate race in Alaska remained uncalled when the reports were checked."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -394,6 +504,28 @@
         "The company says the model uses both translated text and source audio to shape delivery. It models voice identity, prosody and content separately and uses reinforcement learning to refine output. Background noise, echoes and limited paired recordings of the same speaker across languages are specific challenges addressed by its design.",
         "Aure is automatically applied to **DeepL Voice for Online Meetings, In-Person Conversations and the API for Voice**, without separate configuration. Initial languages are English, German, Spanish, French, Italian, Japanese, Portuguese and Korean, excluding Chinese for now. Existing voice models continue supporting other languages.",
         "Descriptions such as its most lifelike model and greater emotional fidelity are company product claims. The announcement gives no independent mistranslation rate spanning all accents, noise conditions and language pairs, and does not announce open weights or free access for every user."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9fcb7e52762e208bc1e1065a",
+      "source_sha256": "45702888d9b11bdab529f91895cac4dab8e94fa07f2ee456e9bc210b34ad3d8c",
+      "paragraphs": [
+        "KIOXIA America announced on November 11 that it had built an object-storage configuration with Dell in one standard 42U rack. It combines 16 PowerEdge R7725xd servers, 640 LC9 245.76TB SSDs and Dell ObjectScale, providing about **157PB of raw flash capacity**. That is not usable space after formatting, system and data-protection overheads.",
+        "The configuration targets unstructured workloads such as AI training, analytics and cloud-native applications. LC9 uses eighth-generation BiCS FLASH 3D QLC and a 32-die stack. The 245.76TB version is E3.L, while 2.5-inch and E3.S versions top out at 122.88TB.",
+        "KIOXIA’s industry-first claim relies on its own survey as of November 11. Reduced rack footprint, cabling, power and cooling are the partners’ claims; the announcement supplies neither independent measurements nor an official price for the full configuration. TB and PB use decimal units, so operating-system readings can differ."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-10ad12c5d08c10695459912c",
+      "source_sha256": "a85a4d63ff7d2786d1ec1bb13a8037f83c9b7ffd2aa9c02e9def8734467fad24",
+      "paragraphs": [
+        "The UK government announced on November 11 that its Sovereign AI Venture Fund and the British Business Bank were backing AI-chip company Fractile in a **Series C round worth more than £500 million**. The official release puts the valuation above £5 billion and names CapitalG, Lightspeed and Redpoint among other investors. The full round should not be mistaken for the government’s individual contribution.",
+        "Based in London and Bristol, Fractile develops advanced AI chips alongside software and foundational machine-learning research. It aims to improve speed while reducing cost and energy use. The announcement links the investment to stronger domestic capabilities, less overseas supply-chain dependence and skilled employment.",
+        "This confirms financing and public-sector participation, rather than volume chip deliveries. The release provides no complete specifications, independent performance data or commercial supply date. Reports about a particular model developer potentially buying its chips are not transactions confirmed by this government announcement."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3725,137 +3857,6 @@
         "The Chinese Foreign Ministry announced on 2 November that President Xi Jinping met with Sultan Haitham of Oman that morning in Beijing. Official materials confirm this visit as the first state visit by the head of state of Oman to China in the 48 years since the establishment of diplomatic relations between the two countries; the dates of the official state visit listed in the joint statement are from 1 November to 2 November. Both sides discussed cooperation in energy, investment, industry, infrastructure, artificial intelligence, and technology, and after the meeting, they witnessed the signing of relevant documents.",
         "The meeting announcement lists directions including supply chain, green development, and digital finance. The joint statement further mentions the application of BeiDou satellite navigation, currency swaps, digital payments, and digital currency. Both sides also proposed to strengthen strategic development coordination, as well as cultural exchanges in education, tourism, and other areas.",
         "In terms of regional issues, both sides called for resolving disputes through political and diplomatic means, encouraging the continued dialogue between the United States and Iran, and advocating for the restoration of normal and safe navigation in the Hormuz Strait."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a973ea3beb437b9fbc333dd4",
-      "source_sha256": "a9f57e6e050dc58533289dea609961ab06d1273843927e2e303505b1db12cd50",
-      "paragraphs": [
-        "The Serbian government, on 2 November, quoted data from the Republic's Election Commission: after the 1 November additional voting at 53 polling stations, all 8,392 polling stations had tabulated results, with the student list receiving 53.01% of the votes, and the \"Aleksandar Vucic - United Serbia\" list obtaining 38.98%. A total of 4,444,310 registered voters cast their ballots, achieving a voter turnout of 68.89%. These are the tallying results for the parliamentary election, not announcements of the newly formed government.",
-        "The November 2 update from the independent observation organization CRTA provided provisional seat allocations of 140 seats for students and 103 seats for the United Serbia; it also stated that the seats remain subject to the final decision of the electoral commission. The second round of voting allowed Zuzorlic's list to gain one seat, and CRTA noted that the critical deficit was only 12 votes, while recording issues such as individual vote-buying allegations, parallel voter registration, and the presence of third parties. These issues must be retained as reported by the observer organization and cannot be entirely regarded as judicial determinations.",
-        "This round of supplementary voting is distributed across 24 local administrative areas: 31 stations had originally uncertain results, and 22 stations had their original votes revoked. The voting rate of the supplementary voting stations is 44.9%, which is not the same as the national figure of 68.89%. Subsequent matters also include appeals, final reports, the formation of a new parliament, and the process of forming a government, so it is not appropriate to directly rewrite \"all stations have been counted\" as \"the transfer of power is fully completed.\""
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-37e2550d2086cdee85ec8da7",
-      "source_sha256": "695395a95f8a9bd7a4d14782951feb7ce2bf702a604bdb190e72be376fd24b0a",
-      "paragraphs": [
-        "On November 2, OpenAI introduced LifeVal, aiming to measure the practicality of personal AI assistants in daily life tasks. The topic was first explored by referencing the use of time in the United States and cross-national time use research, followed by adding a representative population survey of 3,995 people to understand which tasks people most hope AI can assist with. The areas involved include care, health, education, household administration, personal finance, shopping, and public services.",
-        "The announcement emphasizes that the focus of the evaluation has shifted from answering knowledge-based questions to executing processes that have real-world outcomes, such as comparing kindergartens after a move, organizing community volunteer activities before a flood, or arranging remote joint viewing of competitions for family members. The original page listed several task examples with scores, but it does not unify them in this introduction as the real-world success probability for all users; it is also not possible to conclude that medical, financial, and other matters can be entirely handled by the model on its own based on a high-score example.",
-        "The significance of this work lies in examining browser operations, computer usage, and connector tasks within the actual life contexts that users genuinely care about. The information and results are all from OpenAI's own releases, which are explanations from the manufacturer regarding the design of the evaluation and the performance of the model. They cannot replace external replication, and they do not imply that all capabilities have been fully opened for display in every region, account, and application version."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-3e51191d302f4ec5d64a3cd1",
-      "source_sha256": "e975ad4e8793ecb1f070a63752bf6ae91af775d97d6d57953e0f0dc0401dd1ab",
-      "paragraphs": [
-        "OpenAI announced the Grid Protectors plan on November 2, aiming to collaborate with power companies, regulators, and policymakers to design electricity flexibility arrangements for future data centers: when the grid is under pressure during extreme weather events such as cold snaps and heatwaves, the data center can reduce its electricity demand; and in suitable locations, it also considers utilizing on-site generation, storage, and battery systems to smooth load. The plan is not a nationwide unified dispatch platform that is already in operation; the extent, speed, and duration of local responses still need to be separately agreed upon.",
-        "Using a proposed campus in Effingham County, Georgia, as an example, the company says its agreement with Georgia Power includes up to 1,000 megawatts of flexible demand response. This is demand that can be reduced or adjusted, not new generating capacity at the campus, and it does not mean continuously supplying electricity to homes. OpenAI says it will cover the project's infrastructure and electricity-service costs. The campus remains under development and is intended as a pilot.",
-        "The original text also cites the power company's long-term cost-saving forecasts, which involve its large load agreement portfolio and future growth, cannot be entirely attributed to this plan, much less considered as a result of the already declining household electricity bills. What can currently be confirmed is the release of the plan and the direction of the agreements; the actual demand reduction capacity, deployment timeline, and the impact on user bills will still depend on subsequent operations and publicly available data."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-0504cb6dc0b8cf0b469c53e0",
-      "source_sha256": "628665189b98f9ac9751ff368845194de8f87fceb29019d00b657b2e3ce5f9d9",
-      "paragraphs": [
-        "An engineering article from OpenAI on November 2 introduces Pando, a new backend for a code repository that maintains compatibility with the Git protocol and client. The company states that the multi-branch, multi-push, and high volume of continuous integration reads brought about by Codex have placed performance and reliability pressure on the original monolithic repository service; Pando now supports the development of its monolithic repository, with the median delay for production pushes improving by nearly five times, and the amount of Git data transmitted daily approaching 1 PB. This is internal production statistics from OpenAI, not independent horizontal testing across different code hosting platforms.",
-        "The design follows two main lines corresponding to writing and reading: different branches of references are updated independently and coordinate with each other, reducing unnecessary waiting between them; the reading end reuses the packaged object files, reducing the overhead of each client generating data repeatedly through caching and shared bytes. The cost also has clear boundaries, for example, when multiple branches are being read at the same time, different readers may see each branch at different update times.",
-        "This article explains that the expansion of AI programming capabilities will shift pressure to version control, networking, and continuous integration, not just model inference speed. OpenAI stated that it will continue to contribute improvements to relevant Git clients to upstream. This release is an engineering specification, and the internal scale and benefits disclosed in the article cannot be directly considered as the inevitable improvements that ordinary teams would achieve when switching to the same solution."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d7b85ed970c8df94ecf7c8bd",
-      "source_sha256": "4e47b176655c471e3d4a552d34587f112b66b648a1d63b74a7a4c311283dd7bb",
-      "paragraphs": [
-        "LoL Esports announced the 2026 Global Finals Fan Fest guide on November 2, with the event held at Pier 36 in Lower Manhattan, New York, from November 12 to 14. The official statement said that the event is open to all fans, but entry is subject to venue capacity limits, and queues may be temporarily suspended during busy times. Therefore, the announcement of the event's opening cannot be understood as guaranteeing entry without waiting.",
-        "The original page explicitly uses Eastern Standard Time (EST): on the 12th and 13th, it is from 15 to 21, corresponding to 4 to 10 am Beijing Time on the 13th and 14th; on the 14th, it is from 11 to 20, corresponding to 00 to 09 am Beijing Time on the 15th. The Hotline League special program is scheduled for 11 am on New York's 14th, which is 00 am on the 15th in Beijing; the live final viewing party is annotated as 2 pm on New York's 14th, which is 3 am on the 15th in Beijing.",
-        "The content includes developer discussions, interactive Q&A sessions, meet-and-greets, ARAM gameplay experiences, and exhibits such as TFT and Riftbound. Some items can be ordered and picked up on-site via QR codes, and specific inventory, activity schedule, and on-site arrangements may be adjusted."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-0c4f0cd963bcd6957b02253b",
-      "source_sha256": "4d5e51dfd69466a30ffe2a37e0cba054e779077f19ea5536f3023127738a99e7",
-      "paragraphs": [
-        "On November 2, Apple announced results for its fourth fiscal quarter, which ended on September 26, 2026: quarterly revenue was US$114.5 billion, up 12% year on year, while diluted earnings per share were US$2.10, up 14%. The company said total revenue, iPhone revenue and earnings per share set September-quarter records, and services revenue reached an all-time high. This is Apple's fiscal fourth quarter, rather than the October-December 2026 calendar quarter.",
-        "Gross margin was 47.9%, including a favorable effect of about one percentage point from tariff refunds. Earnings per share also included a US$0.05 contribution from those refunds. The reported profit figures therefore reflect both operating performance and a one-time refund. Revenue for the full 2026 fiscal year was US$479 billion. Apple also disclosed US$28 billion in operating cash flow and US$28 billion returned to shareholders during the fourth fiscal quarter.",
-        "The board announced a cash dividend of $0.27 per share, with the record date on November 12 and the payment date on November 16. The company stated that the number of actively installed units in each major product category and region continues to set new records. The financial report reflects the operating results up to the middle of September; newly announced hardware and sales during the holiday season at year-end are still within the observation period of the following quarter."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-8dd71051e9dde6aef4fea442",
-      "source_sha256": "bf512aac08e298fe7cd352914e89aa26e7785447c028aafb684750c7fd073fe4",
-      "paragraphs": [
-        "In its official November 2 notice, FromSoftware confirmed security vulnerabilities in the game servers for Dark Souls II and Dark Souls III. **Online services had been suspended across all platforms since October 30, with no end date set**. The interruption affects both titles and all platforms covered by the notice.",
-        "**Offline play remains available**; the suspension concerns online mode. The developer describes the measure as temporary and has not announced technical vulnerability details, a patch version or a specific restoration date."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-2287c79dfbe2a119fa2ae5b6",
-      "source_sha256": "99cee369bba858c54700d83778e16c50c5af74611788eda183a89bc0e3ba78c1",
-      "paragraphs": [
-        "A business jet crashed in Palm Beach County, Florida, on November 1. Transportation Secretary Sean Duffy confirmed that all nine people on board died. The BBC's original report was published at 05:21 Hong Kong time on November 2 and updated at 15:33. This briefing checks that update and the confirmed circumstances of the accident. The crash occurred at 12:50 U.S. Eastern time on November 1, equivalent to 01:50 Hong Kong time on November 2.",
-        "The Federal Aviation Administration of the United States stated that the Learjet 60 departed from Austin, Texas, bound for the Bahamas. The aircraft crashed and caught fire near a residential area, and local officials had not reported any casualties among ground personnel at the time. According to Associated Press, approximately 600 residents of a nearby mobile home community were evacuated, and the incident also resulted in the closure of the road.",
-        "Public air traffic control recordings show that the crew reported turbulence, icing, and precipitation, followed by a request to climb and an emergency call. These communications are part of the investigation and cannot yet determine the cause of the accident. The National Transportation Safety Board is responsible for the investigation, with personnel from the aviation authority providing support. The complete identities of the victims, the reason for the rapid descent of the aircraft, and the roles of the weather, equipment, and operations still need to be confirmed through the investigation results."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6f410f12736757208d1b4cd0",
-      "source_sha256": "c42066d7a2bb62d8b67e4bf17ff6d65fbb5bc2ca18864f7057ab4794d69e7c00",
-      "paragraphs": [
-        "A late update from BBC on 1 November reported that the temporary ceasefire in the Kherson region of Ukraine has ended. The truce, which began on 27 October, allowed residents of Oleshky, which is under Russian occupation, to evacuate, and on 31 October, there were scenes of long-awaited family reunions. Associated Press on-site reports also documented the evacuation efforts and the residents' concerns about potential resumption of shelling. The end of the local ceasefire should be separated from the overall battlefield situation, and progress in the evacuation does not mean that the war has ceased.",
-        "At the same time, Zelenskyy stated that the Russian side launched attacks on energy facilities in four regions of Ukraine at night, causing power outages for tens of thousands of households. BBC reported that some power was subsequently restored, with over 60,000 users in the Dnipro-Petrovsk region still not having their power restored, a figure provided by local officials at the time. News of deaths in the Vinnytsia region came from the Ukrainian Emergency Situational Center. Updates on the scale of the attacks, casualties, and repair progress will be provided; this article will not accumulate reports from specific time points to form a new total war figure.",
-        "Late on November 1, the Ukrainian Air Force also stated that the public civil defense alarm application may be subject to hostile interference, with reports of radiation warnings related to Kyiv, but explicitly stated that there was no radiation threat at the time. This record is a clarification of the anomaly alarm at that time point, and the information of being interfered with should not be recounted again as an actual nuclear attack having occurred. BBC's Oleksiy background report, together with the weekly news from AP and Reuters, indicates that humanitarian corridors, energy security, and continuous fighting can coexist; a single ceasefire news is insufficient to summarize the entire front line."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b9e96a5951c21addd3921512",
-      "source_sha256": "6bd5f4e9e266642df50012e7ca74e1ec5c68ad8679d1eecc68a52b5dd521edf3",
-      "paragraphs": [
-        "Radio Germany reported on November 1 that after protests against the amendment of the rental law in Portugal, police cleared the protest camps in Lisbon and Porto, with clashes occurring on the scene. The day before, protesters held a march focusing on rising housing costs and tenant protections, and set up tents on the square.",
-        "Reports presented different accounts: the police stated that someone threw objects and refused to comply with the dispersal order; lawyers representing some of the arrested criticized the police for excessive use of force. The report also listed injuries to protesters and officers, some of whom were hospitalized, as well as the number of arrests in both locations. These figures are information as of the time of the report and do not represent the final statistics independently verified by this App.",
-        "The controversy not only involves the method of clearing the area but also relates to housing policies. Protesters oppose measures such as expedited evictions and the cancellation of rent caps for new leases; government leaders stated that they would not withdraw the bill, but the content may still be modified before the final vote. Therefore, the proposed bill, future voting results, and police on-site actions should be understood separately, and measures that are still under discussion should not be considered as fully effective."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2a078eb9b3502fd093b62e92",
-      "source_sha256": "8ab91375bdc32d6cc36c1a09df682fdcee2ce47de35d0c1184988307f558d0cc",
-      "paragraphs": [
-        "Lianhe Zaobao, citing AFP, reported on November 1 that the government of Bangladesh has established a new wage committee to review the minimum wage for garment workers, but thousands of people in the industrial areas around Dhaka still staged protests and clashed with police that day. Reuters confirmed on the same day that the government had established a six-member committee and called for resumption of work, but traffic and factory operations were still affected. The establishment of the committee signifies entry into the review process, but it does not mean that a new minimum wage has been approved or that the wages for this month will be immediately adjusted.",
-        "Reuters lists the current minimum monthly wage as 12,500 taka, with workers demanding an increase to 30,000 taka; Lianhe Zaobao quotes a labor leader who estimates the then wage at about 13,000 taka and demands more than 30,000 taka. The precise benchmarks and approximate figures from different reports should retain their sources. Workers emphasize that rising expenses for food, housing, transportation, and medical care are eroding purchasing power, and their concern is with real living standards, not just how much more the nominal wage has increased.",
-        "The clothing industry employs approximately a million workers and is a significant pillar of Bangladesh's export revenue. The government and factory owners are concerned that prolonged strikes will affect exports, payments from buyers, and employment. Businesses also face pressure from energy and production costs. Statements regarding allegations of minority factions using protests are attributed to the minister's comments, and this article does not consider them as confirmed underlying causes of the organization. Judging the future developments should focus on the committee's recommendations, the formal wage decision, and whether the workers accept these, rather than viewing today's review announcement as the end of the entire labor dispute."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a4f54ff2c2900cf5f01cdd85",
-      "source_sha256": "210d3d7189c8493dcbfe751ea51c53e6a2a23301850e68122513e183a4d464c8",
-      "paragraphs": [
-        "The United Nations Office for Disaster Reduction reported on 1 November that a regional workshop on disaster statistics was held from October 27 to 29 in Cairo, bringing together national disaster management agencies, statistical departments, and international organizations. The workshop discussed how to transform disaster data into information that can support policy-making, preparedness, and pre-disaster actions, rather than merely recording losses after the fact. The report was published on 1 November, and the event took place from October 27 to 29.",
-        "Participants discussed the global framework for disaster-related statistics, as well as methods for integrating hazards, exposure, vulnerability, capacity, losses, and damages into national systems. The shared mechanisms, standards, and coordination between statistical agencies and disaster management departments are key to whether data can be practically used. The experiences of fragile or conflict-affected environments such as Syria, Yemen, Somalia, and Sudan also show that gaps are not only technical but also involve institutional capacity and information availability.",
-        "Subsequent recommendations include assessing the data ecosystems of various countries, exchanging experience on disaster damage databases, developing Arabic resources, and maintaining regional coordination. Timely and detailed data can help identify high-risk populations and locations, set early action triggers, and arrange resources; however, these are capacity-building efforts and future directions, and the original report does not provide quantitative evidence that the workshop has reduced disaster losses. Artificial intelligence and geographic information were discussed as tools to supplement information, and therefore cannot be used to assert that a complete automated early warning system has been established."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
