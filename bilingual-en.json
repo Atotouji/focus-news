@@ -1,7 +1,95 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T04:11:49.960Z",
+  "generated_at": "2026-11-12T09:14:13.318Z",
   "translations": [
+    {
+      "article_id": "article-9afe8aea4a4ca2808071bd8f",
+      "source_sha256": "27a4e514e6c969d4215c213dd28f9838666f54e259c05c1c3cae2ea5aef55290",
+      "paragraphs": [
+        "The GrapheneOS team said on November 11 that Android 17 QPR2 had added memory tagging extension support for Pixel 11, and that MTE worked in its QPR2 port. **The security-feature obstacle is resolved, but formal device support remains forthcoming**, rather than a stable release already installable by every user.",
+        "MTE uses memory tags to help detect and block some memory-error exploitation and is an important GrapheneOS requirement. The team said its Pixel 11 port was nearly complete about a week after the devices launched but was stopped by unavailable MTE. The change is upstream software enabling the required support, rather than new physical components appearing in the phones.",
+        "The team says its Android 17 QPR2 port is nearly finished; Pixel 11 can follow its rollout to other devices. Completing Motorola Signature 27 support is another subsequent priority. No specific Pixel 11 stable-release date was given. The team also says the entire Pixel 10 series is already supported, while Pixel 11 and Signature 27 still have release and porting work to complete."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a04470e343aa3e93804f257a",
+      "source_sha256": "9afd0e32e0cfc9a80fd547f1f8cc04cc35fac8a8529dfadb3c44782881ef3439",
+      "paragraphs": [
+        "FURIA won the Group A winners’ match at BLAST Rivals Hong Kong on November 12, **coming back 2–1 against Vitality to advance directly to the November 14 semi-finals**. Maps ended 5–13 on Inferno, 13–10 on Dust2 and 13–0 on Mirage. Vitality were not eliminated: they enter the November 13 quarter-finals, needing an extra round like Falcons, who qualified earlier that day.",
+        "FURIA trailed 1–11 at halftime on their own Inferno pick and could not recover the map. They then led Dust2 9–3 at halftime and resisted a comeback to win 13–10. On Mirage they led 12–0 on defense and won the second pistol to complete the shutout. Molodoy finished that map 21–5 with 129.5 average damage per round; KSCERATO led FURIA across the series with 44 kills.",
+        "Organizer BLAST also confirmed the 13–0 clincher. The published Beijing-time schedule has quarter-finals at 15:00 and 17:30 on November 13 and semi-finals at the same times on November 14. FURIA’s opponent and assigned slot still require confirmation of the playoff bracket. This completed result should be kept separate from scores in other ongoing or unstarted series."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-da78f38b0cf1bc51f5f02d5a",
+      "source_sha256": "fe64ad1a2a5629ecb9c2d6d55a797caf3445a5fa0e07da0c8131242aa8047dc1",
+      "paragraphs": [
+        "Netflix Tudum announced on November 12 that documentary film **Russell Brand: Open Secret will stream on Netflix on November 13**. Its page lists a running time of one hour 24 minutes, production year 2026 and TV-MA classification. TV-MA is the classification shown there, not one universal rating across all territories.",
+        "Directed by Olivia Isaacs, the film comes from 72 Films, a Fremantle company. The official description says insider interviews and archival footage trace Brand’s path from comedy and film stardom to an online public figure, including the investigation by The Times and The Sunday Times. Named journalists include Rosamund Urwin and Charlotte Wace.",
+        "Credits name Clare Cameron, David Glover and Mark Raphael as executive producers and Kate Yandle, Laura Spence and Felicity Cross as producers. The announcement establishes platform timing and production information without listing every regional catalog or local release time. The date therefore does not establish a verified midnight release in Beijing."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8cbf31a0daa53b604595f78d",
+      "source_sha256": "7f7afd87426c723a673710aa74e953e14c08b309f3099709e4ebb3e672b1ad5a",
+      "paragraphs": [
+        "Apex Compute has opened testing for Apex Neural Rendering. **The downloadable component is currently ANR FG frame generation**. Its repository labels super resolution and ray reconstruction as forthcoming betas and ANR’s own source code as “coming soon.” Hosting installation packages on GitHub does not make all three features or all source code available.",
+        "The repository lists NVIDIA GTX 16 and RTX 20 series onward, AMD RX 5000 series onward and Steam Deck, plus Intel Arc A and B, on Windows 10/11 and Linux or SteamOS through Proton. The website additionally presents Apple-silicon and Metal support and measurements, but repository installation instructions mainly cover Windows and Linux. These should not be collapsed into equal availability on every platform.",
+        "At 3840×2160 on RTX 5090, the vendor reports 1.01ms per generated frame at 2× and 214MB of memory, versus 1.26ms and 562MB for DLSS. Those are developer measurements, not whole-system frame-rate or input-latency conclusions. Beta packages integrate through OptiScaler, with compatibility dependent on game, driver and settings."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-28eb2d57ffc701d64e74f1d1",
+      "source_sha256": "29b7c1dce3bb315fe94b7cebb9f9bfa9b96ee0c4fc063cbca05f0c9cb2dbfb41",
+      "paragraphs": [
+        "Volcengine introduced Seedance 2.5 flash on November 12 for frequent and batch video creation. The company claims quality close to Seedance 2.5, twice the generation speed and lower pricing. Its quoted 720p text-to-video and image-to-video price is **about RMB0.99 per generated second, roughly 34% below the flagship**. This is a pricing example for specified resolution and task types, not a universal charge.",
+        "Flash supports clips up to 30 seconds, accepting up to ten images, five videos and five audio inputs per request, with 480p and 720p output. The official comparison also positions the flagship for 1080p and 4K production and a Draft workflow for selecting previews before final generation; those capabilities do not all carry over to flash.",
+        "The model is rolling out to platforms including Jimeng, LibTV, Updream, Creao AI and TapNow. **The Volcengine Ark API is scheduled for November 15**, so today’s announcement does not make every app and API entry available immediately. Speed and quality comparisons are vendor claims, with results dependent on inputs, duration and generation scenario."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f074029439bf683baa12fb95",
+      "source_sha256": "f3ac4d4128ca88ced90e48e599a09c4557e7cffb3dd2c0b1396d27a030ee6e1d",
+      "paragraphs": [
+        "Reporting from Kyiv on November 12, BBC described Russian attacks on Ukrainian energy infrastructure and rolling outages affecting water, heating and transport. One family said it recently received only four or five hours of electricity a day on an unpredictable schedule; the report also described some Kyiv households facing outages of up to 20 hours. These local accounts do not establish one nationwide household outage duration.",
+        "Journalists visited a large power station withheld from identification for security reasons, finding destroyed pipes and machinery. Repair managers described work repeatedly interrupted by air-raid alerts. DTEK chief executive Maxim Timchenko estimated that the plant would not recover before next summer, with sustained attacks limiting productive work to one or two hours daily. **That is his estimate for the visited plant, not a nationwide grid restoration date**.",
+        "The Kyiv Independent separately reported damaged energy infrastructure and emergency outages in Shepetivka district, Khmelnytskyi Oblast. Governor Serhii Tiurin’s November 11 public statement confirmed equipment damage, fire and restoration work. BBC quoted Zelensky saying damaged transmission lines and substations also matter, beyond total generating capacity. The prisoner-exchange arrangements from Abu Dhabi do not establish that energy attacks have stopped or that a nationwide ceasefire exists."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-70bf47f1f7be32ee87f3ef65",
+      "source_sha256": "681eab8f1fdece18da0cb47d1444d22b8347effa9f7a26069d09e1eb27c37ab9",
+      "paragraphs": [
+        "Samsung Electronics held a groundbreaking for advanced packaging at its Onyang campus in Asan, South Chungcheong Province, on November 12, attended by President Lee Jae-myung and chairman Lee Jae-yong. The site is expanding from conventional semiconductor assembly and testing into advanced HBM packaging. **Groundbreaking is a construction milestone, not operating new capacity**.",
+        "The campus program envisages KRW46 trillion invested in phases across five HBM lines: about KRW6 trillion for buildings and KRW40 trillion for advanced equipment. MoneyToday separately puts the new facility’s investment at around KRW1.3 trillion. The multi-year campus program should not all be attributed to this single building.",
+        "The three-story facility will have about 31,000 square metres of cleanrooms and is planned to begin operating in June 2028. Total campus floor area would rise from 270,000 to 420,000 square metres; floor area and cleanroom area are different measures. Samsung links accelerated construction to server-memory and additional customer demand. Effective supply will still depend on installation, qualification and ramp-up; no annual HBM output figure was provided."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1a113666b5d6ee053ce179fd",
+      "source_sha256": "a545a008f76e37dbb6f219ee7acb56af1f319d0955f0c213306cc1321ae64e92",
+      "paragraphs": [
+        "China’s Ministry of Finance announced on November 11 that it plans to issue **up to US$2 billion of dollar sovereign bonds in Hong Kong during the week of November 16**, with details to follow before issuance. It separately confirmed that RMB4 billion of green sovereign bonds had already been issued in Toronto on November 9 local time, followed by a ceremony on November 10. The two transactions differ in currency, location and completion status.",
+        "Lianhe Zaobao, citing China News Service on November 12, reported two RMB2 billion tranches in Toronto: three years at 1.4% and five years at 1.5%, with orders totaling 13.5 times the issue size. Those rates concern specific renminbi maturities, not pricing for the forthcoming Hong Kong dollar bonds or domestic policy rates.",
+        "The ministry described its first renminbi green sovereign issuance in Canada as implementing bilateral leadership commitments and financial dialogue. The subscription multiple measures demand relative to issuance, rather than realized investment returns. Final size, maturities and coupons for the Hong Kong dollar bonds remain subject to formal issuance documents."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-6f77347e4f56b3cc3e9d739a",
       "source_sha256": "94f7affbfe01444f5c9c76eb5bfae4747a01cc883925b9bf296074a6cfd5df46",
@@ -15,11 +103,12 @@
     },
     {
       "article_id": "article-7b7fae620751a386eec20891",
-      "source_sha256": "4222da96a7a67077c88ecda1c6b90b01240269edb14558378ddfce1e4b723857",
+      "source_sha256": "fbf49f9790dc2b1e1550e5adc72bd1862ab1ea95f3d66d62e880b4ee6d1f2a25",
       "paragraphs": [
-        "Kunlunxin outlined its roadmap at Baidu World 2026 on November 12. Reporting from the event says M100 has launched as planned; **M300 is scheduled for 2027, followed by multiple chips based on the new N architecture in 2028**. These are one launched product and two future stages, rather than confirmation that the roadmap products are already in stock.",
-        "The presentation positions M100 around value for money and the flagship M300 around improvements in compute, memory and interconnects. N-architecture products are intended for differentiated workloads. The report does not provide complete compute specifications, memory capacity, interconnect bandwidth or customer-delivery dates for M300 or the N-architecture chips, preventing like-for-like price-performance comparisons.",
-        "Robin Li argued that AI computing demand has shifted from training-led growth toward both training and inference, with scaled agent applications driving inference demand. That is Baidu’s market assessment. The substantive update is confirmation of launch status and the later architecture roadmap; performance gains remain to be established through specifications, delivery and independent testing."
+        "Kunlunxin outlined its roadmap at Baidu World 2026 on November 12: M100 has launched as planned, M300 is scheduled for 2027, and multiple N-architecture chips are planned for 2028. M100 emphasizes value, while M300 targets compute, memory and interconnect improvements. The future products should not be treated as stock already delivered.",
+        "The **Baidu Tianchi 1,024-card supernode is scheduled for market in 2027**, a year earlier than the thousand-card system’s previously announced 2028 timing. Baidu says one system can support training a five-trillion-parameter model and scale to a ten-thousand-card cluster. Those are vendor-stated capabilities without a specified model, complete precision details or independent validation.",
+        "For comparison with the previous generation, Baidu lists improvement factors of 3× for inter-card bandwidth, 2.5× for training and 3× for inference. Its G3.5 KV Cache acceleration cabinet is claimed to double long-context inference performance; with cache hits in multi-turn conversations, it reports 90% lower time to first token and sevenfold throughput. **Cache hits are a material condition for the latter figures**, preventing extrapolation to all requests.",
+        "Robin Li attributes sustained computing demand to both training and inference and to expanding agent applications. That is Baidu’s market assessment. This update adds supernode timing and vendor metrics; full M300 and N-architecture specifications, delivery plans, system pricing and independent measurements remain undisclosed."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -125,6 +214,39 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-952c2152830721ef97c2be46",
+      "source_sha256": "5e19ac24a1b3bb0e9a2656ac73773c82cbad68cc582d99d146fd364d23b8d453",
+      "paragraphs": [
+        "China’s National Development and Reform Commission announced on November 12 that **standard gasoline and diesel prices will fall by RMB645 and RMB625 per tonne respectively at 24:00 on November 12**, equivalent to midnight at the start of November 13 Beijing time. It said international crude prices had fluctuated downward since the October 29 adjustment, leaving the latest ten-working-day average below the corresponding previous average.",
+        "The per-tonne adjustment uses standard-product pricing. Pump prices per litre also depend on grade, density, regional retail ceilings and discounts. IT Home estimates average reductions of RMB0.51 per litre for 92-grade gasoline, RMB0.54 for 95-grade and RMB0.53 for diesel. A 50-litre tank of 92-grade would therefore cost about RMB25.5 less. These are estimates, not one nationwide pump transaction price.",
+        "The commission called on major refiners and other processors to organize production and distribution, maintain supply and comply with pricing policy, with stronger local supervision. The announcement establishes this adjustment’s timing and amounts, without guaranteeing the next crude-price trend or adjustment direction."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-95777623a7d8529885c0d483",
+      "source_sha256": "1286c5c4b8c7802cf9f88d9d6312a1c3ff2f5fd76084f15cd2d9bb6d3441f8fc",
+      "paragraphs": [
+        "The UK Office for National Statistics reported on November 12 that **real GDP initially grew 0.7% quarter on quarter and 1.9% year on year in the third quarter of 2026**, after 0.5% quarterly growth in the second quarter. This is a seasonally adjusted estimate of real output in July–September, rather than an annual growth rate or nominal GDP at current prices.",
+        "Services rose 0.9%, mainly driven by business-facing activity; production rose 0.1% and construction fell 0.7%. Manufacturing grew 0.9%, the only expanding major production subsector, with computer, electronic and optical products up 4.6%. Real GDP per head increased 0.7% quarter on quarter and 1.7% year on year.",
+        "The monthly release estimated September growth at 0.2% and left July’s 0.4% increase unchanged. **August was revised down from 0.1% growth to no growth**. These initial estimates can change as fuller business and national-accounts data arrive. They estimate an elapsed quarter and should be distinguished from forecasts for the fourth quarter or full year."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-91d5d29b5a49ed0d11633028",
+      "source_sha256": "34266a59f6fd27139202bf5e886a7e505fff28b4c8f9d161be4e21a7505fa4f0",
+      "paragraphs": [
+        "Apple’s security and operating-system teams published details of Secure Exclaves on November 12, explaining isolated camera and microphone processing in Apple silicon. The design separates ambient sensing from active capture: **ambient mode exposes only authorized limited metadata and discards raw data after processing**. Full data can leave during active audiovisual sessions only after the secure indication mechanism permits it.",
+        "Components include a customized L4 microkernel, capability-based authorization, the Secure Page Table Monitor and Swift-based Secure IPC. The main OS kernel cannot read dedicated exclave memory, while the Neural Engine gains isolated queues. HomeView can recognize up to six enrolled users, returning identifiers, positions and confidence information rather than raw background audiovisual streams.",
+        "Apple says the indicator controller must confirm an LED or on-screen dot has been visible long enough before allowing full sensor data out. Display-based devices also check actual pixel color, brightness and obstruction. Listed uses include iPhone 18 Pro/Pro Max, iPhone Duo, MacBook Neo and HomeView. Microkernel formal verification remains incremental; partial proofs do not guarantee that an entire product has no vulnerabilities."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-dd2e720e9d97f4cacbced692",
       "source_sha256": "15ceb72c7d63118d4dcaecf02bab5066c69527b2922c360207de5531a53acbe1",
       "paragraphs": [
@@ -143,6 +265,17 @@
         "The BBC reported roughly 120,000 demonstrators in Madrid and more than 50,000 in Barcelona. In Barcelona that evening, some masked people set bins alight and smashed shop windows; police used tear gas and made arrests. The reporting also includes participants’ accounts that most daytime marching was peaceful. Nationwide work stoppages, city marches and localized violence are separate dimensions of the event.",
         "Transport and some public services faced major disruption. UGT’s published demands include higher pay, more public housing and measures against property speculation. Its call for a minimum-wage increase of at least 7% in 2027 is a union demand, not a government wage policy already implemented.",
         "Housing is also a major issue ahead of the snap parliamentary election on November 29. The government and opposition have criticized each other over the strike and its electoral implications. Voting has not yet taken place: demonstration turnout is not an election result, and clashes in particular Barcelona streets do not establish nationwide rioting."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9fc1345fc16bc8b0cafb18ec",
+      "source_sha256": "8d7452d2c4febfffbb028624349de57646171867b1d88012b498bab6297a5c1f",
+      "paragraphs": [
+        "The 44th Golden Joystick Awards revealed its winners in London on November 11 local time. GamesRadar+ lists **Resident Evil Requiem as Ultimate Game of the Year and Console Game of the Year**, with Capcom named Studio of the Year. These are this ceremony’s awards, rather than a common verdict of every publication or other annual award show.",
+        "Among watched titles, Onimusha: Way of the Sword won Best Audio Design, The Witcher 4 won Most Wanted Game and The Witcher 3: Wild Hunt Remastered won Best Remake/Remaster. Crimson Desert won PC Game of the Year and Big Walk received Critics’ Choice. Valheim won Best Indie Game, while MECCHA CHAMELEON collected awards including Best Multiplayer and Best Self-Published Indie.",
+        "Most Golden Joystick categories use public voting, with some selected by juries, so their meanings differ. The Witcher 4’s Most Wanted award does not confirm release. IT Home, relaying figures announced at the ceremony, reports 17% for Resident Evil Requiem and 16% for Phantom Blade Zero in the ultimate-game vote, a one-percentage-point gap. These percentages concern that public vote."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -526,6 +659,17 @@
         "The UK government announced on November 11 that its Sovereign AI Venture Fund and the British Business Bank were backing AI-chip company Fractile in a **Series C round worth more than £500 million**. The official release puts the valuation above £5 billion and names CapitalG, Lightspeed and Redpoint among other investors. The full round should not be mistaken for the government’s individual contribution.",
         "Based in London and Bristol, Fractile develops advanced AI chips alongside software and foundational machine-learning research. It aims to improve speed while reducing cost and energy use. The announcement links the investment to stronger domestic capabilities, less overseas supply-chain dependence and skilled employment.",
         "This confirms financing and public-sector participation, rather than volume chip deliveries. The release provides no complete specifications, independent performance data or commercial supply date. Reports about a particular model developer potentially buying its chips are not transactions confirmed by this government announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-408cf18942e460063a9a1ac2",
+      "source_sha256": "40d06e4119c850bda573780b92c981dc6a02d20c7693b2e7c288fa8219f14918",
+      "paragraphs": [
+        "Runway released **Praxis-1’s weights, inference code and fine-tuning code under Apache 2.0 on November 11**, including commercial use. The robotics world-action model was introduced in September; the change is broader downloadable access beyond launch partners, rather than its first unveiling.",
+        "Praxis-1 is a 27-billion-parameter mixture-of-experts diffusion transformer that jointly predicts video and actions. Video pretraining learns object motion and task progression, followed by full fine-tuning or LoRA adaptation for particular embodiments, cameras and tasks. The repository distinguishes DROID single-arm and YAM bimanual checkpoints. Deployment still requires suitable hardware and configuration, rather than plug-and-play control of arbitrary robots.",
+        "Runway reports 46.2% success across 1,200 RoboLab-120 episodes, compared with 42.9% for FLUX 3 Action, 36.8% for Cosmos3 Nano and 28.0% for π0.5 in its table. These are vendor-published benchmark results, not universal real-task success rates. Listed hardware includes H100, B200, RTX 5090, RTX PRO 6000 and Jetson Thor; new embodiments can still require targeted fine-tuning."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3711,152 +3855,12 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-b0e06ba68fedca31ca604844",
-      "source_sha256": "cedc45c9a8288c99f1d87d0946e73a9d4af151ee8b10bd5320ef6b26283551f3",
-      "paragraphs": [
-        "【2015 Classic Retrospective | Reserved Review】The Paper, by Ping Siyan, on 16 October 2015, reviewed \"The Legend of the Seven Beauties\" from its slow start to the rise in public opinion, praising the actors' performances, production details, and the adaptation's arrangement of main and secondary plots. The article particularly focused on Hu Ge's portrayal of Mei Changsu's body language, eye expressions, and subtle movements, believing these details made the character credible.",
-        "This review also retains some regret: the appeal of the work is not entirely equivalent to the meticulousness of the political design, and some characters and plots still have room for discussion. It is suitable as an analytical entry point for rewatching old dramas, rather than being solely labeled as \"classic.\" The story uses a fictional setting, and the character relationships cannot be directly equated with the historical facts of a real dynasty. This article independently sorts out the advantages and reservations of the review, without reiterating the lengthy judgments in the original text, nor does it reveal the final layout. The broadcasting popularity mentioned in the report belongs to 2015 at that time and cannot be misrepresented as real-time data today."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-cbb353a20de863b29c9ae741",
-      "source_sha256": "419ba2ac48a0c1fdeba076ca71370217d7de1a6101ac1fbbc9ee9bf04c7b739b",
-      "paragraphs": [
-        "[Classic Revisited | 2026th Anniversary Commentary] A Zhejiang propaganda article from January 10 reviewed the 20th anniversary of the broadcast of \"Wulin Waizuan\" (The Legend of the Martial World). The series first aired on CCTV's 8th channel on January 2, 2006, focusing on Tongfu Inn: the characters have exaggerated backgrounds in the martial world, as well as ordinary concerns related to business, part-time jobs, neighbors, and interpersonal relationships.",
-        "The article argues that factors that continue to attract include the imperfect little people, the warmth in daily relationships, and the easily spread language. The concept of the \"gang\" is not solely propelled by extraordinary martial arts; it also exists in how a tavern operates and how people handle disputes and fears. This commentary perspective explains why the same comedy may evoke different feelings in youth and adulthood, but it does not mean that every scene must be evaluated as equally successful. This article is for the anniversary review, and it does not imply that a new season is coming out, nor does it reproduce large segments of classic dialogues. The accompanying images use the original script's data images, maintaining the work's correspondence."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2ddd3302cd5c6ec200bc1c1a",
-      "source_sha256": "90133cfadf1a40d7fcd4d1f93d61d591ab44d5e24e67cb8fe99184639588f26b",
-      "paragraphs": [
-        "[2024 Classic Review | Media Comment Selection] Turpan Net 21 May 2024 reprinted from the \"Liu Shi Art Review\" client of Liusi Yun, discussing how the eight-episode drama \"My Alata\" transforms Li Juan's prose into film. The article focuses on regional landscapes, daily details, and the emotional relationships between characters, and introduces the creators' adaptation method of converting the first-person narrative into the story line of Li Wenxiu.",
-        "The review praises the combination of high-definition cinematography, sound, and prose details, considering that grasslands, forests, and rivers are not isolated landscapes but form a viewing experience together with the lives of the people. The closing score cited in the original text belongs to May 2024, and this article does not disguise it as current real-time reviews. For readers who appreciate short, realistic themes, local life, and a prose style, this is a specific entry point for revisiting with concrete analytical basis; however, the appeal of the imagery does not equate to a complete record of local life or guarantee a tourism experience. This article retains the original source clearly based on explicit citation relationships and does not claim that it has watched each episode in full."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a26050f655f06652954e17f0",
-      "source_sha256": "ded3447c9cd8835111d1dfe99413fc8943ed40a487b787ae87ac622a44ab76e5",
-      "paragraphs": [
-        "The People's Bank of China Open Market Operations Room issued Announcement [2026] No. 1 for the Securities, Fund, and Insurance Swap Facility (SFISF) on November 2, arranging the operation on November 3 with a term of one year, which may be extended as circumstances dictate. Xinhua News published this announcement on the same day, citing \"the People's Bank of China website\" as the source.",
-        "The announcement states that 31 securities and fund companies had submitted requests totaling more than RMB100 billion. This is the amount institutions requested, not the actual value transacted in this round; the announcement does not list final allocations. Although the facility's name covers securities, fund and insurance companies, the 31 applicants disclosed in this announcement were securities and fund companies.",
-        "Lianhe Zaobao quoted CCTV's report, noting that the central bank conducted its first swap facility operation in October 2024 and completed the second auction in January 2025. This arrangement continues to support the capital market; the announcement date was November 2, and the planned operation date was November 3. The actual scale of the subsequent operation should be separated from the previous demand statistics."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-7283c5dbdb374562c1ab8c00",
-      "source_sha256": "505f67bc9231ae823871e4bb67c9a660dc1e0deae7802b860e307d23c9eb43c6",
-      "paragraphs": [
-        "BBC reported on November 2 that Ryanair is considering temporary measures such as freezing employee salaries to cope with rising fuel costs. Freezing salaries remains a plan under consideration by the company and is not yet a universally implemented salary cut or freeze decision; BBC stated that it has sought responses from the relevant union, Unite. The report was published at 16:06 Hong Kong time and was updated at 16:33.",
-        "The company stated that the pre-tax profit for the six months ended September was approximately 2,400,000,000 euros, a 16% decrease mainly due to fuel costs. Although about 80% of fuel expenditures were hedged, the unhedged portion's costs doubled. Ryan expects short-term fuel bills to increase by approximately 2,000,000,000 euros, and believes that high fuel prices may continue into 2027 given that the Middle East conflict cannot be resolved quickly. These are the company's disclosures and outlooks, and the predicted costs cannot be considered as fully incurred expenses.",
-        "The company expects that the rise in European airfares will help absorb part of the costs, but believes that relying solely on ticket prices is insufficient to absorb the pressure. Last month, CEO Michael O'Leary proposed that ticket prices may increase by 15% to 20% next year, a range that falls within management's expectations and is not a uniformly announced price increase for all routes. Fuel costs are being passed on to passenger ticket prices through corporate profits and employment arrangements."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-c043b71c0a349aa46fe99070",
-      "source_sha256": "eabb957d8d20dca97f773f6337225e8715d2a2cd88335cd8e2564f7c957da228",
-      "paragraphs": [
-        "A Reuters report published by Malaysia's The Star on November 2 says acting president Iliyana Yotova and her running mate were ahead in near-final counting after Bulgaria's November 1 presidential runoff. With the Central Election Commission having processed 99.95% of polling-station records, Yotova's ticket had 57.58%, the opposing ticket led by Gyurov had 39.47%, and about 2.95% selected 'none of the above'. Near-final counting does not mean every certification procedure is complete; this briefing retains the reported stage of the process.",
-        "This round of the final selection follows the first round held on 25 October, when no candidate achieved the required majority for direct election. Yotov previously served as vice president, and after Radu resigned from the presidency to enter parliamentary politics in January, she became acting president. If the results are confirmed, she would transition from her acting role to that of a female head of state elected through election. Acting, candidacy, ballot counting victory, and formal assumption of office are distinct stages, and the procedural differences cannot be omitted.",
-        "The report notes that there are disagreements around the Russian dialogue, aid to Ukraine, and the direction of domestic politics. The RTÉ 2 November update also confirmed the election results and introduced the position as primarily ceremonial. The president's political stance does not automatically equate to the change of all foreign policies by the parliament and government. The next steps still require attention to the official announcement by the electoral body and the new term arrangements; the election results, swearing-in procedures, and specific policy changes should not be mutually substituted."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-f85c339ec781424571ff88b0",
-      "source_sha256": "e36739341cae7262cabdea6e184cc2b20366867480dbd4a14f0162d3b9411a5f",
-      "paragraphs": [
-        "BBC reported on November 2, at 12:04 local time in Hong Kong that President Trump intensively campaigned during the last weekend before the midterm elections, traveling to Dubuque, Iowa, and Salina, Kansas, on November 1. Both states are regions he has previously won. The Republican Party still needs to contend with competition. The report focused on pre-election mobilization, with the voting day on November 3 still ahead and the final determination of congressional seats yet to be confirmed.",
-        "This round of elections involves all 435 House of Representatives seats and 35 Senate seats. The Republicans had a slim majority in both chambers, and the control of the House and Senate would affect the legislative arrangements for the next two years of the presidency and the House's oversight of the executive branch. Living costs, fuel and food prices became prominent issues in the campaign. Trump emphasized trade and immigration policies at his rallies, while Democratic House Leader Jeffries openly expressed confidence in regaining control of the House.",
-        "Reuters reported on the same day that Michigan Democratic Congressman Haley Stevens switched her support to Republican Senate candidate Mike Rogers, prompting Trump to invite her to join the Republican Party. This is a personal endorsement change and does not alter the fact that the Democratic Party has already nominated Abdul Saleh. As of the report, all assessments regarding the outcome remain predictions, and the allocation of seats is still pending until the final vote count is completed."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6b7b671ff347c6497a0e2592",
-      "source_sha256": "cea06fabcb7b2bdb94d54090eccdbba82176344aede67cc7e6034e7f51b24272",
-      "paragraphs": [
-        "A report published by Lianhe Zaobao on 2 November quoted the speech given by Trump the day before at a campaign rally in Iowa on the issue of Iran. The report cited AFP, stating that Trump again mentioned the possibility of resuming military strikes. It is important to distinguish between political speeches, military options, and actual actions: this report itself does not equate to the announcement of a new strike order.",
-        "The report also mentioned the concerns of Gulf countries about the further escalation of the conflict and kept the source of the relevant information. The content regarding Gulf risks cited Bloomberg; the UAE President's diplomatic advisor expressed a stance seeking a political resolution at the Bahrain Security Dialogue. The goals and risk assessments of different parties cannot be summarized merely from a single campaign speech.",
-        "Reading such ongoing events requires particular attention to the timing and sources: the speech took place on 1 November, and the article was published in Hong Kong time on the morning of 2 November; the assessment of weapons stockpiles and regional security is the judgment of the individuals cited in the report, not an independent military verification conducted by this App. For the complete quotation and context, you can continue to view the original article from Lianhe Zaobao."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a7210d2533362c800fd19a5e",
-      "source_sha256": "eeee7ed342301cc4855bdd629a70450a925c272ffa13fe51c0a2d18aae4e83ae",
-      "paragraphs": [
-        "Capcom announced on November 2 that the live-action \"Street Fighter\" was released on October 16. According to Box Office Mojo's preliminary statistics from October 16 to 22, the U.S. opening weekend box office was $38,340,000, and global earnings for the same week were approximately $63,540,000, making it the top-grossing film in the U.S. that week. This figure is for the specified week, not the cumulative total up to November 2.",
-        "The film is co-funded by Legendary Entertainment and Capcom, focusing on the story of Ryu and Ken participating in the World Martial Arts Tournament. The cast includes Noah Centineo as Ken, Andrew Koji as Ryu, and Callina Liang as Chun-Li. The film's release is accompanied by global promotions, premiere events in Japan and the United States, and game-related promotions, continuing Capcom's strategy of using game IP across various media.",
-        "The announcement also reviewed that the Street Fighter series began in 1987, and as of 30 September 2026, the total sales of the series have exceeded 60 million copies. Film box office revenue and total game sales are separate business metrics; the film studio's announcement did not provide verifiable data on critic approval rates, audience scores, or evaluation samples, so the box office ranking is only for record-keeping purposes regarding distribution performance and is not directly used as a measure of the film's reception."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-21e0fdc0ffe2e76e529fb65e",
       "source_sha256": "48ed07d15e993124802237dc08147b43f1444225e32b382c8071ea54d2956eaa",
       "paragraphs": [
         "BBC reported on 2 November and updated at 15:42 Hong Kong time: After partially restoring withdrawals on 1 November, Binance processed approximately 4,649,000,000 US dollars in withdrawals and 1,010,000,000 US dollars in deposits between 06:00 and 15:30 UTC, resulting in a net outflow of approximately 3,640,000,000 US dollars. This is the flow of funds disclosed by the platform, which cannot be confused with the scale of assets stolen previously, approximately 6,300,000,000 US dollars; the company stated that the net outflow was slightly over 2% of the assets it manages.",
         "Binance's official statement on November 1 stated that the first phase involved opening access to 15 networks and various cryptocurrencies, with a list of affected assets. It also mentioned that the company has used its resources to replenish approximately 95% of the affected assets, while the remaining portion has lower liquidity and requires a longer time to purchase. The term \"replenishment\" here refers to the platform's statement regarding support for customer balances, does not mean that 95% of the stolen funds have been recovered from the attackers, and does not indicate that all networks and assets have been restored for withdrawals.",
         "The FBI attributed the incident to the North Korean TraderTraitor operation in its 31 October alert and published relevant funding addresses. The platform previously stated that the initial investigation involved compromised computers, but the complete attack chain is still under investigation. BBC quoted Chainalysis personnel stating that the relevant funds are still being transferred through a large number of address layers. This article separately retains the law enforcement attribution, the platform's commitment, and the third-party observations, and does not present the subsequent technical investigation or reserve verification as fully completed."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b5541d408d5c775484505168",
-      "source_sha256": "6f635c492e4e72d5389bf001c16d6eef22d879b116021101f03155482a4c610f",
-      "paragraphs": [
-        "A report published by BBC Chinese on November 2 focused on \"new cloud\" companies such as CoreWeave and Nebius. These companies operate data centers equipped with high-cost computing hardware and rent out their computational power to AI developers; while their scale differs from that of major cloud providers, they play an important role in expanding infrastructure.",
-        "The report focuses on the financing mechanism: companies can obtain loans by leveraging long-term customer contracts and purchasing AI chips, and lenders may also place importance on the creditworthiness of major clients. The report cites analysts' concerns about customer concentration, debt, and changes in market expectations, while maintaining CoreWeave's management's positive assessment of the business model.",
-        "The understanding of this message should distinguish three things: computational demand, infrastructure investment, and the financial capacity of operators are not the same indicator; the judgments of interviewed institutions regarding future acquisitions or exits are predictive; short-term stock price fluctuations cannot alone prove that the demand for the entire AI industry has disappeared. The background of the original report, the attribution of the interviews, and a more complete discussion can be continued by reading the original text below."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-573fb7938591bbec9e32b1be",
-      "source_sha256": "a06918c1c782d5a1351fde26b7763bdfb3e29221d246832151f041f3b9ceec4c",
-      "paragraphs": [
-        "The French Paris prosecutor launched an investigation into the attempted murder of public officials following the incident where incendiary devices were thrown at law enforcement during the previous night's protests on 1 November. The BBC article, published at 08:15 Hong Kong time on 2 November, reports on the incident involving the conflict in Paris on the evening of 31 October, not the attack that occurred in the afternoon of 2 November.",
-        "DW reported that the attack occurred near the end of the parade at Shalongtongmen, with the explosive affecting soldiers and police officers. The prosecutor stated that initial injuries included second-degree burns, and the exact number of people injured and the severity of their injuries is still under determination. Images showed that a patrol soldier's protective gear caught fire. The report cited the prosecutor's statement that investigators are still identifying the suspects, and no one has been arrested in connection with this attack. The investigation itself has not yet determined that any specific individual is guilty.",
-        "The 779 people released by the Ministry of Interior later are the total number of arrests for nationwide protests and Halloween events; the earlier figure of 565 is from an earlier preliminary report, and the two figures cannot be added together. Most of the demonstrations were generally peaceful, with some cities experiencing violence in the evening. This is the third consecutive large-scale protest weekend, with student-led mobilizations focusing on issues of living costs, school conditions, and public services. Previous incidents have already seen conflicts and looting in multiple areas, and the authorities have intensified their police deployment in this round."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-843d1890b91f3122fbf4abf1",
-      "source_sha256": "986526065d9fd650a7b743d899e716fc0f718780cf1d650352eff6e5e90ce4b2",
-      "paragraphs": [
-        "On November 2, Bandai Namco published Version 1.01.002 and ACE COMBAT ONLINE adjustment arrangements on the official news page for ACE COMBAT 8: Wings of Theve. Deployment was expected to begin around 15:00 Japan time that day, with online maintenance scheduled for 15:00-17:00, equivalent to 14:00-16:00 in Hong Kong or Beijing. The notice also recalled the originally planned October 23 schedule and apologized for the delay.",
-        "Maintenance involves the availability of online services and ongoing sessions. The official warning states that players who are still playing during the maintenance period may have their current session data not saved, and they should allocate time to end their gameplay. The end time of the maintenance may vary depending on the progress of the task. This announcement does not list specific fixes, so it cannot be inferred from the version number that a particular task is stuck or that a performance issue has been resolved.",
-        "The current verification reads the official expected schedule, and no confirmation of deployment or maintenance completion has been obtained. The actual updates of each platform and the server recovery status will be based on the announcement after maintenance is completed. The source page only provides November 2, retaining the actual day precision."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2c54fcaa786dc9475b0c287c",
-      "source_sha256": "d5c653316c5f955896cfe63a559fe42ebe6362a9ea71bc7063daa488239c8aa9",
-      "paragraphs": [
-        "The Chinese Foreign Ministry announced on 2 November that President Xi Jinping met with Sultan Haitham of Oman that morning in Beijing. Official materials confirm this visit as the first state visit by the head of state of Oman to China in the 48 years since the establishment of diplomatic relations between the two countries; the dates of the official state visit listed in the joint statement are from 1 November to 2 November. Both sides discussed cooperation in energy, investment, industry, infrastructure, artificial intelligence, and technology, and after the meeting, they witnessed the signing of relevant documents.",
-        "The meeting announcement lists directions including supply chain, green development, and digital finance. The joint statement further mentions the application of BeiDou satellite navigation, currency swaps, digital payments, and digital currency. Both sides also proposed to strengthen strategic development coordination, as well as cultural exchanges in education, tourism, and other areas.",
-        "In terms of regional issues, both sides called for resolving disputes through political and diplomatic means, encouraging the continued dialogue between the United States and Iran, and advocating for the restoration of normal and safe navigation in the Hormuz Strait."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
