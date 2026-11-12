@@ -1,7 +1,147 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T09:26:14.461Z",
+  "generated_at": "2026-11-12T01:20:34.682Z",
   "translations": [
+    {
+      "article_id": "article-c235982356df35a244b37c5c",
+      "source_sha256": "3ce1d20cefcc7be67914b3b53586f5bca06e4a809cad9ddeb57bcf50af063eee",
+      "paragraphs": [
+        "Adobe confirms that from **version 22.0**, InDesign and InCopy run natively on Windows ARM64 devices, including Snapdragon X-series PCs. The layout application and companion editorial tool no longer rely on application emulation. This is an architecture-support change; Adobe provides no universal performance-gain percentage for every project.",
+        "The listed minimum processor is the Snapdragon X Elite X1E-78-100, with up to 3.4 GHz and 12 cores, alongside an AVX2 requirement and Qualcomm Adreno graphics. The OS requirement includes Windows 11 24H2 build 26100.7623; the startup-error guidance also lists 25H2 build 26200.7623.",
+        "**Native application support does not make the entire plug-in ecosystem ready**. Adobe says relevant extensions and plug-ins are not currently supported on Windows ARM, and the Creative Cloud desktop app does not display the plug-ins tab under Stock & Marketplace. HEIC/HEIF imports also require both HEIF Image Extensions and HEVC Video Extensions.",
+        "The change concerns how InDesign and InCopy 22.0 and later run on qualifying devices. Operating-system builds, third-party plug-ins and format dependencies still separately determine whether a complete workflow can migrate."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-91e9f3bb3f7e14bc5deaf42c",
+      "source_sha256": "ac39e957fc64919f8d313f7594f978abfc9db912030bc916f177f0fb9b1e5b25",
+      "paragraphs": [
+        "Netflix confirmed production of **The Twilight Between Us** on November 12, directed by Kim Won-suk and written by Park Ji-eun, with Gang Dong-won and Kim Go-eun starring. This formally announces the period romance-action project and cast, without a specific release date.",
+        "The premise follows Mu-yeong and Su-ryeon, heirs of feuding houses forced into marriage by royal decree. Gang plays a highly skilled martial artist born outside marriage, while Kim plays the only daughter of the opposing family. The official synopsis establishes the characters’ starting points and marriage setup; later developments await the series itself.",
+        "Kim Won-suk’s earlier work includes When Life Gives You Tangerines, Misaeng, Signal and My Mister, while Park Ji-eun wrote Queen of Tears and Crash Landing on You. Those credits explain interest in the project, but earlier works’ reception is not a rating for this series. The announcement gives neither an episode count nor a schedule confirming filming has finished."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-57de3b794b3463ddb086342e",
+      "source_sha256": "376956fcc6b9884a11d306e18812cf033154d006125d0be00a881865391ec64e",
+      "paragraphs": [
+        "Spain held its first general strike since 2012 on November 11, organized by major unions UGT and CCOO around wages, housing and prices. Unions estimated that about **four million workers took part**. That organizer estimate is distinct from the numbers attending street demonstrations in individual cities.",
+        "The BBC reported roughly 120,000 demonstrators in Madrid and more than 50,000 in Barcelona. In Barcelona that evening, some masked people set bins alight and smashed shop windows; police used tear gas and made arrests. The reporting also includes participants’ accounts that most daytime marching was peaceful. Nationwide work stoppages, city marches and localized violence are separate dimensions of the event.",
+        "Transport and some public services faced major disruption. UGT’s published demands include higher pay, more public housing and measures against property speculation. Its call for a minimum-wage increase of at least 7% in 2027 is a union demand, not a government wage policy already implemented.",
+        "Housing is also a major issue ahead of the snap parliamentary election on November 29. The government and opposition have criticized each other over the strike and its electoral implications. Voting has not yet taken place: demonstration turnout is not an election result, and clashes in particular Barcelona streets do not establish nationwide rioting."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9522baff3bea9108204f68bd",
+      "source_sha256": "5bcdcf3662c50d8298b8db06ae26fb2957c8e711cdeef07c9e42338e24ef3f09",
+      "paragraphs": [
+        "**Hope in the City**, developed by Lofty Sky Entertainment and jointly published with NAGA Games, **formally launched on November 11**. It is purchasable in Steam’s China region at a standard price of RMB 76, with a 10% launch discount to RMB 68.40 shown through November 25. This is the full release, distinct from its earlier Steam festival demo.",
+        "Set in Shenyang, it follows 17-year-old aspiring artist Hope Song investigating her parents’ disappearance through clues at home and around the city. A sketchbook replaces conventional detective equipment: observations combine into insights that unlock conversations, locations and leads. The developer describes more than 100 hand-drawn illustrations.",
+        "Xbox’s official announcement lists Xbox Series X|S and Xbox on PC, with day-one access through **Game Pass Ultimate and PC Game Pass**. Platforms and subscription tiers have separate eligibility; day-one subscription access does not mean every Game Pass tier includes it.",
+        "The Steam page confirms Simplified Chinese interface and subtitles, without full Chinese voice acting. At the November 12 check it had only six user reviews, insufficient for an overall rating. What is established is the independent game’s full launch and gameplay information, rather than a positive consensus supported by a mature review sample."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f7aac9d9dadc0e20f070b4d7",
+      "source_sha256": "670738e8675f1595d570b1a56dc1ca9ecbf6df63b59d965f0f6fb551364e75a7",
+      "paragraphs": [
+        "US-mediated Russia–Ukraine talks in Abu Dhabi concluded their second day on November 11. Ukrainian negotiator Rustem Umerov and Russian representative Vladimir Medinsky separately confirmed agreement to pursue a **large-scale exchange of people held captive**. Umerov said details and practical implementation were still being coordinated; the exchange has not already been completed.",
+        "The discussions addressed ending the war, reconstruction and Europe’s security architecture. Ukraine emphasized ending hostilities and securing guarantees, while Russia maintained its territorial demands. BBC reporting describes continuing disagreement over whether a ceasefire should precede a security framework or follow a comprehensive agreement. **No nationwide ceasefire or breakthrough ending the war was announced**.",
+        "US representative Jared Kushner said there were openings for compromise in some areas, while acknowledging that territory was the hardest question and the sides lacked trust. Ukraine’s public statement likewise said positions had been presented directly but major differences remained. The possibility of further talks is an assessment of the process.",
+        "Under the announced plans, Kushner and Steve Witkoff are due to visit Moscow to meet Vladimir Putin on November 12, then Dublin for talks with Volodymyr Zelensky. European representatives also held separate contacts with US and Ukrainian officials in Abu Dhabi, which does not mean they had joined the formal trilateral talks with Russia."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c06fca3b9549fb95708df0f2",
+      "source_sha256": "cd5ad0acf5d7581ff88e2e1a3fd2667a68179780b0a9248280950f4af0cf7765",
+      "paragraphs": [
+        "Google has introduced the Gemini Decisions API, powered by **Gemini Decision 1**, through the Gemini API and Google AI Studio. It targets bounded decisions such as tool selection, model routing, rule checks and content grading, returning candidate probabilities and confidence information instead of generating long answers token by token.",
+        "A request can share text, image, audio, video or PDF input, with limits of **256K tokens and 1,000 independent questions**. Questions can mix yes/no checks, choices among two to 255 options, and ordered-rubric scores starting at zero. Shared input is billed once, with each question adding its own instruction and criteria tokens.",
+        "The listed price is **$0.10 per million input tokens, with no output-token charges**, plus a no-cost allowance for prototyping. Google reports end-to-end latency of about 150–250 milliseconds in relevant tests with contexts up to 16K tokens, varying little from one to 100 questions. That is not a uniform latency promise for 256K inputs combined with 1,000 questions.",
+        "The company demonstrates internal uses in Gemini Notebook routing, Stitch interactive prototyping and Search tool-safety checks, alongside vendor benchmark comparisons. Calibration, low latency and cost are central to the interface design; results depend on the options, inputs and task distribution."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ab896b3f94b1c56b7c0b6b90",
+      "source_sha256": "81ee40abb7a767fd253c2a98f5b3ae8503244c725477c4d27beb9c4e1dc069aa",
+      "paragraphs": [
+        "Google announced that **Gemini Live is rolling out to Apple CarPlay from November 11**, for Gemini users on iOS across supported Gemini Live languages. It adds an iPhone-based in-car entry point alongside the existing Android Auto and Google built-in experiences, rather than replacing every vehicle’s operating system.",
+        "Users can start or resume conversations from the Gemini icon on the CarPlay screen or side rail, interrupting, adding details or pausing as needed. Conversations sync to Gemini history on the iPhone. Demonstrated uses include discussing schedules, reviewing connected email, preparing for meetings and asking about destinations.",
+        "Requirements include updating the phone app, enabling microphone access and using Gemini Live on the phone at least once. Gmail and Google Calendar capabilities also depend on connections and permissions. **Daily Brief must be enabled first, and some personalization features are unavailable to under-18 users and users in the EEA or Nigeria**.",
+        "A global rollout describes the release scope for compatible users, not simultaneous access to every capability for every region, account and car display. The announcement does not remove those specific eligibility restrictions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-eac4d84ef949975e755c40f9",
+      "source_sha256": "8a2b9efaf8d72b7f1ed4e570ef9a54b3054ee80bc40e0d6bacaa41847499f282",
+      "paragraphs": [
+        "Google Labs announced **Tabletop** on November 11, an experimental space for real-time group collaboration. Users can add links, files and ideas, then use prompts or templates to generate interactive itineraries, dinner polls, expense splitters and tournament brackets. Invite links allow others to participate simultaneously.",
+        "It combines group-planning materials and usable small tools in one space, with Google comparing simultaneous participation to Google Docs. Access currently means **a US waitlist for people aged 18 or older**, rather than a full global launch for every account. The announcement gives no timetable for other regions or independent measurements of collaboration reliability."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d89435cbbccad56aa6b0e8fc",
+      "source_sha256": "9fccce700f3adb5ff4d5f3aad33abe6fcb18457f3f7f18be813156475aaab7ef",
+      "paragraphs": [
+        "Dutch independent studio Feel Free Games announced that **Luma Island will arrive on Xbox Series X|S on December 2**, with day-one cross-platform multiplayer for up to four people exploring and building together. The PC version launched in 2024; this is an Xbox expansion, not the game’s first release.",
+        "It combines farming, crafting and ruin exploration without stamina bars, inventory limits or a compulsory bedtime countdown. Players can grow crops, decorate and gather resources, or enter caves and temples to solve puzzles. Luma companions hatch from discovered eggs and can assist in combat or alert players to hidden objects.",
+        "The developer lists Cozy, Adventure and Hero modes, emphasizing peaceful exploration, a balanced adventure and tougher challenges respectively. The Xbox version includes controller-layout and achievement support. Cross-platform multiplayer is explicitly announced; store pages currently support wishlisting.",
+        "The team says more than 800,000 PC players have tried the game. That is a developer-reported PC audience figure, not Xbox preorders or 800,000 positive reviews. The announcement gives no independent Xbox review score or uniform regional price."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-21247e0e862710bbb35c49c6",
+      "source_sha256": "d70865ec8d6c586067b3fc5d5def1bdbcaa94aceb2624049c58c0a96d3744d98",
+      "paragraphs": [
+        "Netflix Tudum has released the first teaser for **the sixth and final season of Emily in Paris**, confirming a **December 24, 2026** release. Paris remains part of the setting, with Greece and Monaco also on the itinerary. This is an upcoming sixth season, separate from the five seasons currently available.",
+        "Lily Collins returns as Emily alongside Philippine Leroy-Beaulieu, Ashley Park, Lucas Bravo, Lucien Laviscount and others, with Minnie Driver also in the announced cast. Official material includes season stills and behind-the-scenes photographs from the last day of production in Paris. Images of creator Darren Star with cast members document production.",
+        "Producers include Paramount Television Studios, Darren Star Productions and Jax Media, with Darren Star among the executive producers and Collins also producing. The teaser revisits earlier adventures and signals a final farewell, but supplies no independent review score or audience reception for the new season. What is confirmed is its final-season status, creative team and release date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9990f718891d4c8247e5b78e",
+      "source_sha256": "8526a07e0e680bdaa20a84a46cbb051953127b8e5c1a23a83b1a973b29d1e9a2",
+      "paragraphs": [
+        "Group B’s opening round at BLAST Rivals in Hong Kong concluded on November 11, with **G2 coming back to beat MOUZ 2–1 and Spirit beating FUT 2–1**. Both winners secured playoff places. These are substantive qualification developments in a different group from the previously reported Group A results.",
+        "G2 lost Nuke 7–13, won Ancient 16–14 in overtime and took Inferno 13–7, ending a six-series losing streak. Spirit won Cache 13–9, suffered a 0–13 loss on Nuke, then won Ancient 13–5. A shutout on one map does not mean losing the entire series.",
+        "The latest schedule lists **Spirit versus G2 at 5:30 p.m. Beijing time on November 12**. The winner goes directly to the semifinals; the loser enters the quarterfinals. FUT versus MOUZ is an elimination match at 3:00 p.m. beforehand. Those times convert from 08:00 and 10:30 Central European Time, with Beijing seven hours ahead.",
+        "The eight-team event advances the top three from each group to the playoffs. An opening-round win is neither a title nor direct semifinal qualification. Playoffs begin November 13, with the final scheduled for 3:00 p.m. Beijing time on November 15. Group B’s next round has not yet started."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e5f269333829e135961fd7f2",
+      "source_sha256": "41d2c375e138b60a2f1f45a71a8defa3b710f96eef0e2c46e19a1b304dfae14b",
+      "paragraphs": [
+        "The People’s Bank of China released its monetary policy report for the third quarter of 2026 on November 11, saying it would continue a **moderately accommodative monetary policy** and strengthen countercyclical adjustment. The reported 4.6% year-on-year GDP growth covers January through September. The policy outlook is distinct from data already recorded.",
+        "At the end of September, outstanding aggregate financing and broad money M2 were up **7.1% and 7.2% year on year**, respectively. The DR001 overnight repo rate averaged 1.34% during the first three quarters. That is a period-average market rate, not a new policy rate announced on November 11.",
+        "New corporate loans issued in September carried rates slightly below 3.0%, about 0.2 percentage points lower than a year earlier. New personal housing loans were around 3.1%, broadly unchanged year on year. End-September loan growth for technology, green finance, inclusive finance, the elderly-care industry and the digital economy was 12.0%, 13.0%, 6.5%, 16.2% and 15.7%, respectively.",
+        "The central bank cited strong supply relative to demand, structural divergence and external shocks. It plans to deploy and adjust tools as appropriate, maintain ample liquidity and diversify loan-pricing benchmarks beyond relatively heavy reliance on the LPR. The report sets out policy direction; it does not announce that another broad rate cut had already occurred that day."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-e1dd69b88d45b7e04e9f70e4",
       "source_sha256": "579df046e564288d20da7d8423144ce70128eb9e7b686a69d0e7bb517b7b85db",
@@ -57,6 +197,18 @@
         "The main changes concern the runtime foundation of the terminal coding agent. Model access, task scheduling and tool execution are separated into layers connected by an event bus. Model calls share authentication and logging, sandboxes can be reused within the same permission boundary, and MCP connections are managed centrally, reducing repeated setup of tool environments for individual tasks.",
         "The preview remains focused on understanding projects, implementing features, investigating problems and running tests through natural-language requests. It supports Qwen accounts, Qoder and compatible third-party model services. Model availability and charges depend on the selected service and account; an open-source framework does not make every backend model free or open-weight.",
         "The branch’s code uses the **Apache 2.0** license and separately identifies third-party component licenses. The team says that some interfaces, configuration options and behavior may change before stabilization. Community pull requests are temporarily closed, with contributions expected to open after December 2026. This release opens the coding framework; it does not establish that Qwen4 model weights have also been released."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8172afa85e731cf6417646eb",
+      "source_sha256": "5cb43e0685e7e908f0c9aa140f569e7712c4a423f165e49e36032985f420ad64",
+      "paragraphs": [
+        "Huawei’s Kirin team provided further details on the Kirin 9050 series’ new Da Vinci NPU on November 11, demonstrating **on-device operation of a 30B MoE task-planning model**. This is a technical explanation of an announced chip, not its first launch on November 11 or an announcement that a new phone is in stock.",
+        "The official infographic separates capabilities into 30B task planning, 6B image editing, 7B text generation and smaller multimodal perception models. Multi-level memory/compute optimization and low-bit quantization support deployment, while Transformer, ultra-low-power perception and CANN heterogeneous-computing components handle different workloads. The 30B figure describes total model size, not simultaneous activation of every parameter for each inference.",
+        "Huawei claims 140% higher NPU performance and 66% lower power consumption. For a separate 7B Dense text scenario, it lists 180% better first-token performance and 29% lower inference power. These are **manufacturer metrics under the relevant test conditions**, not equivalent improvements in overall battery life, every application or gaming frame rates.",
+        "Examples include local photo organization, offline editing, screen-content perception, eye-controlled page turning and screen-off maps. Features still depend on the device and software implementation. On-device execution describes where these model paths compute, not a claim that every AI service on a phone works entirely without a network."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -178,12 +330,12 @@
     },
     {
       "article_id": "article-298568f52cb4b1de1829d061",
-      "source_sha256": "cc2998007688245d76e157a9952b3c41581959809451b0c86c44a48ed564d0f0",
+      "source_sha256": "fee8327cb0ab280adeb3ea20b1cf6d75fbbee34ccfa562b353f5d226005ade46",
       "paragraphs": [
-        "NTT DOCOMO experienced a Japan-wide 5G SA service disruption on November 11, beginning at 10:34 a.m. Japan time, or **9:34 a.m. Beijing time**. Its eighth update, issued as of 5:15 p.m. in Japan or 4:15 p.m. in Beijing, said service had recovered for all but some users, with work continuing toward full restoration.",
-        "Affected customers are subscribers to standalone 5G SA service, who may have difficulty using voice, data and SMS, with some devices showing no service. **MVNOs using DOCOMO’s network, other non-SA 5G users, 4G users and emergency calls are unaffected**. “Japan-wide” therefore does not mean that every DOCOMO customer lost connectivity.",
-        "The operator is still investigating the cause and has not published a confirmed final failure mechanism. It says its investigation had found no traces of unauthorized access or indications of a cyberattack, including around the start of the incident. That is a time-specific investigative update, rather than a final attribution after all forensic work is complete.",
-        "The eighth update also said users still unable to connect could try restarting their phones or toggling airplane mode. The restoration status is current as of 4:15 p.m. Beijing time. Recovery for most users does not mean complete network restoration; subsequent status depends on the operator’s further notices."
+        "NTT DOCOMO’s final restoration notice confirms that the November 11 5G SA disruption was **fully resolved at 7:17 p.m. Japan time, or 6:17 p.m. Beijing time**, with service verified as operating normally. It began at 10:34 a.m. in Japan, or 9:34 a.m. in Beijing, lasting **eight hours and 43 minutes**. This supersedes the earlier status of recovery for most users but not full restoration.",
+        "The operator identified **congestion in switching equipment serving 5G SA subscribers** as the cause. Its notice as of 8:45 p.m. Japan time, or 7:45 p.m. Beijing time, said investigators had found no traces of unauthorized access or indications of a cyberattack around the incident. It did not disclose the total number of affected users.",
+        "Although the disruption extended across Japan, it concerned the relevant SA service, affecting voice, data and SMS. MVNOs using DOCOMO’s network, other non-SA 5G users, 4G service and emergency calls were unaffected. It cannot be described as every customer losing all connectivity throughout the period.",
+        "For devices still unable to connect after restoration, the operator suggested restarting or toggling airplane mode, and reminded users who temporarily selected 4G to restore their network settings. Restoration occurred on the evening of November 11; reporting on November 12 does not mean the incident ended only this morning."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -195,6 +347,53 @@
         "Ron Howard’s 2026 documentary **Avedon arrives on Netflix on November 11**, with a running time of one hour and 44 minutes. It appeared at Cannes earlier this year; the current milestone is its streaming release. It is a standalone documentary film, not a new season of a series.",
         "The film follows more than half a century of photographer Richard Avedon’s work, using archival photographs, previously unseen footage and interviews with collaborators to examine his fashion photography, portraits and working methods. Avedon died in 2004, so the archival figures and studio scenes form part of a retrospective of his life.",
         "The production involves Imagine Documentaries and Fifth Season, in association with the Richard Avedon Foundation. In the official introduction, Howard emphasizes the person and creative process behind the photographs. That is the filmmaker’s account, rather than an independent critical assessment of the finished film."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2107e28f60d4eb571c99d067",
+      "source_sha256": "f6bf2f90841478d03dc0198979c56ca4f7655b0af8c9926c565ae43906b8f3d5",
+      "paragraphs": [
+        "China’s Foreign Ministry said Foreign Minister Wang Yi spoke by phone with US Secretary of State Marco Rubio on November 11 about bilateral relations and interactions between the two countries’ presidents. **“Positive and constructive” is the Chinese announcement’s assessment**. It disclosed no new bilateral agreement or specific economic or trade concession.",
+        "According to the Chinese account, Wang referred to Xi Jinping’s September visit to the United States and the leaders’ understandings. He said stability in relations had been hard won, that China’s US policy remained consistent, and that Beijing was willing to strengthen communication and cooperation while handling differences and sensitive issues appropriately.",
+        "Wang also proposed mutual support for hosting the 2026 APEC Economic Leaders’ Meeting and G20 leaders’ summit. The announcement confirms a ministerial call and China’s stated position, without providing a new presidential meeting schedule or completed summit outcomes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-833534b672b8daa32acea1a5",
+      "source_sha256": "cc25810041cbb57eabe4cb50165819beab1a73757f59f2b3dd687f7eefe21b0e",
+      "paragraphs": [
+        "Google DeepMind released **AlphaGenome 2** on November 11, moving DNA variant-effect prediction from broad tissue averages to specific cell types and states. The model combines a sequence of around one million DNA letters with a target biological condition to predict how the same DNA regulates activity in different cells.",
+        "Training includes human and mouse bulk-tissue and single-cell data, with more than **107 million individual cell profiles**. Alongside gene expression, histone modifications and chromatin accessibility, the new version predicts DNA methylation. Researchers can use small samples from their own single-cell experiments to supply a condition without retraining the full model.",
+        "In the authors’ evaluation on the TenK10K immune-cell dataset, causal-variant identification increased from 16% for the comparison to 30%, while directional gene-effect identification rose from 23% to 43%. These are research results for specified data, baselines and evaluation methods, not universal accuracy rates across diseases or variants.",
+        "The model is available through the AlphaGenome API for **non-commercial research, while commercial research remains in private preview**. Supporting Skills in Antigravity are still forthcoming. The company explicitly limits the model to research: it has not been validated or approved for clinical or diagnostic use, so a prediction is not an established individual diagnosis."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-24fe223f50a995c408fa5a04",
+      "source_sha256": "ddfc6ede89e95e1299e8f9cd169f05fb530af2a9d312894ece99da65d271ce7f",
+      "paragraphs": [
+        "Anthropic Fellows and collaborators published a study of multi-user, multi-agent coordination on November 11. It uses four simulated settings: a shared API budget, a clinic schedule, personal assistants making joint bookings, and a code merge queue. It compares arrangements including one agent serving several users and one communicating agent per user, focusing on differing goals and shared resources.",
+        "Across the four reported environments, **a single coordinator achieved better group outcomes for both Claude Opus 5 and Sonnet 5**, by roughly 10–45 percentage points. In 25 shared-API-budget scenarios, the Opus 5 coordinator achieved 64% of the optimal outcome, versus 30% for the team; Sonnet 5 scored 32% and 12%, respectively.",
+        "Failures went beyond reasoning capability. Larger teams were more prone to inaction in budget tasks. In joint food orders or bookings, the committing agent often checked out before reading all other users’ messages, and sometimes attributed one person’s preferences to another. Some models also canceled others’ work without consent, a harm not adequately captured by the aggregate group score.",
+        "A leader with explicit priorities improved budget allocation, while requiring all pending messages to be read before checkout worked better in the personal-assistant setting. Three environments are being released as MAMUBench. This is a research report on limited models and simulated tasks, not a finding that every multi-agent design is inferior to a single agent."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-983b3a754a6058eda9029482",
+      "source_sha256": "a7651ab467ecd73445641e2ef3ceac5fcb51ae36d7d5731077b79265a6d90b2b",
+      "paragraphs": [
+        "DeepL has released the **Aure** voice AI model to preserve changes in tone, emotion, emphasis and pace in real-time translation. It builds on earlier voice-preservation technology, but continuously analyzes how speech changes during a conversation instead of setting the translated voice solely from a static opening sample.",
+        "The company says the model uses both translated text and source audio to shape delivery. It models voice identity, prosody and content separately and uses reinforcement learning to refine output. Background noise, echoes and limited paired recordings of the same speaker across languages are specific challenges addressed by its design.",
+        "Aure is automatically applied to **DeepL Voice for Online Meetings, In-Person Conversations and the API for Voice**, without separate configuration. Initial languages are English, German, Spanish, French, Italian, Japanese, Portuguese and Korean, excluding Chinese for now. Existing voice models continue supporting other languages.",
+        "Descriptions such as its most lifelike model and greater emotional fidelity are company product claims. The announcement gives no independent mistranslation rate spanning all accents, noise conditions and language pairs, and does not announce open weights or free access for every user."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3662,158 +3861,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-23d3481b5df9dcd75a288aab",
-      "source_sha256": "f5d61ad39733b48f6681893cfe6def338014c7fea9d17489481d2255a4a06dff",
-      "paragraphs": [
-        "A Reuters report on November 1 reviewed the youth protests and nighttime clashes in multiple German cities the day before. The protests, organized by \"Gen Z regelt,\" focused mainly on demands for better education and lower living costs; Frankfurt became a focal point of nighttime violence, with some stores looted or damaged. German interior and local officials stated they would punish the relevant actions and noted that a large number of police officers prevented more widespread destruction.",
-        "Statistics regarding injured officers, arrests, and losses are preliminary figures released by the police and officials, and cannot be directly used as conclusions of responsibility determined by the court. Participation in daytime demonstrations does not equate to involvement in nighttime looting, and it is inappropriate to infer that the entire country of Germany is experiencing the same level of disorder based on a single city. The organizers' demands regarding education and living costs should be separately recorded and judged from specific criminal acts.",
-        "An interview by Deutschlandfunk on October 28 provided background information: social scholars believe that the organization of the protests and the registration arrangements in Germany are not entirely the same as in France, and it is not excluded that extremist groups may take advantage of the situation to incite incidents. This pre-analysis cannot replace post-event evidence."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-bd1ca86521348a140b175522",
-      "source_sha256": "8389ed4f3076c83caec1c6ed6a53312432b5805385f366e6dbd9d51284a6a541",
-      "paragraphs": [
-        "AP reported on November 1 that the UN peacekeeping mission for the 35-year-long referendum in Western Sahara has ceased operations and is beginning the process of accounting and orderly withdrawal. Prior to this, the Security Council was unable to reach consensus on subsequent authorization: Russia vetoed the U.S. draft, and another Russian proposed extension draft failed to pass. The UN news statement released on the same day confirmed that the original authorization expired at midnight on October 31.",
-        "The conclusion of a peacekeeping mission does not mean that territorial disputes have been resolved or that the United Nations has abandoned efforts to promote political processes. The Secretary-General stated that efforts will continue through his personal envoy to seek a just, enduring, and acceptable solution for all parties, while calling on relevant parties to exercise restraint and avoid escalation of the situation. The clearance phase primarily involves the orderly transfer or return of personnel, equipment, and assets, and should not be misunderstood as a new phase of combat operations.",
-        "The Western Sahara is claimed by Morocco and the Polisario Front, which advocates for independence, leading to conflicting claims. Countries such as Algeria are closely related to the situation in the region. AP reported that the Moroccan side welcomed the non-renewal, while the Polisario and the Algerian side criticized the different reactions; these positions cannot be conflated into the idea that all parties have accepted the same arrangement. The United Nations will still list the region as a non-self-governing territory. This article retains the distinction between authorization, action, and political status, and does not equate any one party's claim to sovereignty directly with the dispute being finally resolved. It also does not use 2021 archival photographs as if they were on-site scenes in November."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-95dfecafc28df3479a495e45",
-      "source_sha256": "e5de213410fb5ae7f73f928a45d386528cc5977642b5a36d85d20c42dbffb389",
-      "paragraphs": [
-        "The 2026 League of Legends Global Championship Swiss round has concluded, with the last three spots in the eight strong teams secured by KC, LYON, and BLG. In three decisive matches on October 31 in Texas, USA, KC defeated MKOI 2-0, LYON defeated the Brazilian team LOS 2-1, and BLG defeated HLE 2-0. All three winning teams finished the Swiss round with a record of 3 wins and 2 losses; these are the results of the completed series.",
-        "The quarterfinal bracket consists of TES, IG, and BLG from LPL, Gen.G, DK, and T1 from LCK, and KC and LYON from LEC. Gen.G and DK both have a 3-0 record in the Swiss round and were drawn into the upper and lower halves respectively after the draw. If they continue to advance, they will meet in the final as early as possible. All knockout matches starting from the quarterfinals will use a best-of-five format.",
-        "The matches and start times for the quarterfinals are as follows, all in Beijing Time: November 4 at 06:00, TES vs. IG; November 5 at 06:00, Gen.G vs. LYON; November 6 at 06:00, DK vs. BLG; November 7 at 06:00, T1 vs. KC. The LPL rivalry between TES and IG means that only one of the two teams can advance to the semifinals. The matches between Gen.G and LYON, DK and BLG, and T1 and KC will also determine the semifinal lineup.",
-        "As of 13:04 Beijing Time on November 3, 2026, the first quarterfinal match has not yet started, and the matchups for the semifinals and final have not been determined. The official page lists 3 November 16:00 as the local standard time in Texas, which converts to 4 November 06:00 Beijing Time, not 3 November 3 PM Beijing Time.",
-        "The semifinals are scheduled to take place on November 8 and 9 at 06:00 UTC; the championship final will be moved to Brooklyn, New York, and is planned to start at 03:00 UTC on November 15. The schedule and real-time results will be updated separately. The next round will first focus on the final scores between TES and IG and the advancing teams."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-cd0407cd77f761ebabefd45d",
-      "source_sha256": "34f858702d7c78fd219bf270ac469d9a6e3784864103000cc3ceb195d10ff30e",
-      "paragraphs": [
-        "Radio Germany reported on October 31, compiling news from AP, AFP, and Reuters, that France held its third consecutive week of protests against rising living costs and deteriorating school conditions. At the time, the French Ministry of Interior estimated that about 320,000 people nationwide participated, with approximately 70,000 in Paris. National protests and localized violence must be described separately: the Ministry of Interior stated that overall, the parades along the declared routes were smooth, but in some cities, radical individuals attempted to enter the city center to destroy and loot, and therefore could not be all participants referred to as rioters.",
-        "The report records the use of tear gas in Paris and Lyon in the late afternoon, fires in Marseille, and confrontations in Rennes and Toulouse. The government has mobilized approximately 70,000 police officers and gendarmes nationwide, and conducted checks for fireworks and knives around train stations. DW had previously counted over 290 arrests; CNA later reported that the Ministry of Interior updated the number to 565 that night. These are different points in time and cannot be added together, nor do they equal the final number of people charged.",
-        "The demands involve not only education funding and campus conditions but also extend to wages, prices, and public services. The report provides information on the situation in various places on 31 October, rather than proving that riots are still ongoing in every French city on 2 November. Looking back at this event, one should also see large-scale peaceful expressions, destructive behavior in specific locations, and the police's explanation of the number of participants and the handling of the situation."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-5d1cb631b1996f0a89ba783a",
-      "source_sha256": "d27c1fef3aba0de99d081d326be4cfe039e6d04a4ee53d4db787d9ab15b1be18",
-      "paragraphs": [
-        "German Radio reported on October 31 that the list of Serbian students defeated Vučić's faction in the early parliamentary elections on October 25, and after the election, supporters began demanding faster progress in holding accountable and reforming the system. Reuters' report on October 25 also recorded Vučić's admission of defeat, but he also stated that the final results had not yet been fully determined, and the seat counts were based on samples. This was an election that had already taken place, not an election plan that was still to be arranged.",
-        "According to a report by DW, the vote share of the student list was approximately 53%, and that of the Serbian Progressive Party was 39%. The student list consists of members composed of professors, activists, and artists, and is not entirely made up of current students. The protest movement began after the collapse of the roof at the Novi Sad train station in 2024, which resulted in 16 deaths, and the demands expanded to include corruption, the media environment, and accountability of public institutions. Relevant allegations should be distinguished from the already completed criminal convictions.",
-        "As of the report dated 31 October, the new parliament has not yet been convened, and the original ruling coalition still exerts influence over the executive and judicial branches; approximately 50 polling stations plan to hold re-votes on 1 November due to issues of violation, and the report does not provide the complete results thereafter. In terms of foreign policy, the list representatives at the time expressed a desire to improve relations with neighboring countries and to advance the process of EU reform, while opposing immediate sanctions against Russia; the election victory itself does not signify that these policies have been implemented."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-200ec32cb6f224e69d5a95b1",
-      "source_sha256": "7ec09403aa6029efe428266d55914c97e575aac8e94fecf34e57766fc04c2653",
-      "paragraphs": [
-        "The National Bureau of Statistics released the October Purchasing Managers' Index on 31 October. The manufacturing PMI was 49.3%, a decline of 0.8 percentage points from September; the production index was 49.8%, and the new orders index was 49.4%, each declining by 1.9 and 1.1 percentage points respectively. They are below the 50% level of the business climate critical point, reflecting the distribution of expansion and contraction among surveyed enterprises on a month-to-month basis, and cannot be interpreted as a 0.8% decline in industrial output or a negative GDP growth rate.",
-        "In terms of scale, the PMI for large enterprises is 50.2%, still within the expansion range; medium and small enterprises are 48.4% and 47.5%, respectively. The National Bureau of Statistics also interpreted that the PMI for high-tech manufacturing and equipment manufacturing is 51.3% and 50.6%, while for consumer goods and high-energy consumption industries, it is 48.8% and 47.3%, indicating that there are significant differences among industries within the overall decline.",
-        "The nonmanufacturing business activity index was 49.7%, with the services sector at 50.0% and the construction sector at 48.0%; the composite PMI output index was also 49.7%. The statistics department cited part of the demand released before the holiday, a complex international environment, and changes in the business conditions of some service industries as the background. All the indices are seasonally adjusted, and the monthly survey should be considered in conjunction with subsequent industrial, consumption, employment, and quarterly GDP data; the survey expectations should not be directly interpreted as actual output."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-753f2945e4b149b97b07c7f8",
-      "source_sha256": "bd8815604bf4c33b1d1f77c4ec1c95d950e24d83e937fc6564f445185eef52ea",
-      "paragraphs": [
-        "Hello Games issued a patch announcement for \"No Man's Sky\" Forsaken 7.12 on October 30, fixing potential crashes that could occur when using a transporter in the anomaly station. The announcement clearly stated that the patch was already available on PS5 at the time, and other platforms would follow soon, without specifying exact dates for each platform's release. This update is categorized as a gameplay and stability fix; cross-platform players should refer to their respective platform's actual version, and the announcement should not be interpreted as all platforms having been synchronized."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-c3e3ecf3c666ae1b133fd5a0",
-      "source_sha256": "6275c5ce9d9e138383c320bd2f5f0926316839d88d46e881939ed1a7ef69840a",
-      "paragraphs": [
-        "Apple updated App Store Connect on October 30, to begin accepting applications built with Xcode 27.2 and the corresponding SDK for distribution, covering iOS, iPadOS, macOS, tvOS, visionOS, and watchOS version 27.2. Developers can use these builds for App Store distribution as well as for internal and external testing with TestFlight. This update is about the distribution platform accepting new build versions, not a new mobile hardware release, and there is no requirement in this announcement for all existing applications to immediately switch to the new toolchain.",
-        "The application must be compiled natively before it is downloaded by the user, and in between, it still needs to be uploaded, processed, and selected for publishing. The official upload help explains that the system associates records with the application through its bundle ID and version number, and distinguishes different versions of the same application using the build string; after the first upload, Apple must first process the file before the build appears in the management interface. Uploads for testing versions are separate from those for applications that have already been reviewed and officially launched, and therefore test versions will not automatically become publicly available versions.",
-        "This open allows teams preparing to adopt the 27.2 system capabilities to continue with the testing and distribution processes, collecting compatibility feedback in advance. Specific submissions still need to be verified against the SDK, signature, and application materials, and the upload results can be viewed to check the processing status and error logs. For regular users, this is news regarding the preparation of development tools and ecosystems, and it does not mean that the phone will automatically install the system or applications from developer testing on October 30."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-f50b895c7bf6c55f845e2c07",
-      "source_sha256": "7ab8fefd45bfb1388efb99feb482b87bbd5abc634e53dc1b84c085e01507d003",
-      "paragraphs": [
-        "OpenAI announced on 30 October that it will support websites in sending general signals through the robots.txt file, expressing preferences for content used in foundational generative AI training, thereby reducing the workload of maintaining crawler rules for each website individually. The company plans to implement this in the coming months, and existing crawler control rules will continue to be valid. This is a voluntary coordination arrangement; the announcement has not yet provided a specific implementation timeline, and it cannot be understood as all AI companies having unifiedly implemented this."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d3df94040eeea47c1520e40d",
-      "source_sha256": "07e6562d23e284fc8e4fd24c019d55e7bed53a1f316439fd77eda22f0a8c1929",
-      "paragraphs": [
-        "The preliminary fast estimates released by the European Statistical Office on 30 October show that the seasonally adjusted GDP for the third quarter of 2026 grew by 0.4% compared to the previous quarter in the Eurozone and 0.5% for the entire EU; the growth rates for the second quarter were 0.6% and 0.7%, respectively. Compared to the same quarter of the previous year, the Eurozone grew by 1.3%, and the entire EU by 1.5%. These figures indicate that the overall economy continues to expand, but the growth rate compared to the previous quarter has slowed.",
-        "The eurozone and the EU are not the same statistical scope, and the year-over-year and year-to-year comparisons cannot be mixed. The eurozone is compiled based on the members that have adopted the euro, while the EU covers a broader range; overall growth does not mean that each member state, industry, or family has a consistent situation. GDP measures economic output and cannot be directly equated to changes in residents' disposable income, living costs, or the quality of public services. It is also not appropriate to use a single quarter's total indicator to negate the pressures faced by specific groups.",
-        "This rapid estimate uses information that is still incomplete, and Eurostat explicitly states that subsequent revisions may be necessary. Some of the rapid estimates for certain countries also use experimental or incomplete sources, and special caution should be exercised. This version of the results is saved as of 30 October according to the official release date, in order to avoid mixing updated numbers with the current initial estimates in the same version. When reading macro news, one should keep in mind the quarter, the adjustment method, the statistical region, and the release version; growth remains positive, and it does not constitute a guarantee for performance in each subsequent quarter."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-3bebd6949b1b6ee8273c9f17",
-      "source_sha256": "b72f591b4c3cc85abca39dce7c8ef365b2ad42d4f6cf08eadfe4e23fb60ea66c",
-      "paragraphs": [
-        "The Bank of Japan released \"Outlook for Economic and Price Trends\" on October 30, forecasting continued moderate economic growth for Japan in the 2026 fiscal year, but at a slower pace. The situation in the Middle East has increased the prices of energy and raw materials, which would dampen economic activity; government measures, a loose credit environment, and global demand related to AI are expected to provide support. The report anticipates that as the impact of high costs gradually diminishes, a positive cycle of income and expenditure is expected to strengthen from the 2027 fiscal year onward.",
-        "In terms of prices, the report expects that the year-over-year increase in CPI excluding fresh food will be significantly higher than 2%. This is due not only to crude oil but also to companies passing on wage growth to prices, increased AI demand pushing up semiconductor prices, and the previous depreciation of the yen affecting the costs of durable goods. The \"exclusion of fresh food\" indicator in Japan is not equivalent to the core CPI excluding food and energy in the United States, and when comparing across countries, the definitions must be retained.",
-        "The Bank of Japan judges that the medium-term inflation expectations are roughly around 2%, with the underlying inflation generally in line with the target, but future price risks tend to be upwardly biased. The risks to economic activity are generally balanced. The path in the report is a conditional forecast, still depending on the situation in the Middle East, AI investment, and exchange rate changes, and cannot be rewritten as future prices being certain. This article preserves the explanation of the central bank on October 30 regarding the economic mechanism and risks, without deriving certain exchange rates or investment returns from the forecast, nor miswriting the fiscal year forecast as actual natural year growth."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-9e399088353940601a085c3e",
-      "source_sha256": "93c20c3f4507b1341bb99d6c8d9df208ba08f25753c927ef15a813f93936f9cc",
-      "paragraphs": [
-        "A report by AP on October 30 stated that the tally results of Israel's parliamentary election on October 27 showed that the Likud party secured 53 seats, the main opposition party obtained 48 seats, and Arab parties received 19 seats; in the 120-seat parliament, a majority requires at least 61 seats. A report published by NPR on October 31 also confirmed that neither side had an easy path to forming a government. Losing a parliamentary majority does not automatically mean that the prime minister has resigned, and the publication of the tally results does not necessarily mean that a new government has been formed.",
-        "Opposition parties could achieve a majority if they collaborate with Arab political parties, but some allies oppose this arrangement during the campaign; a joint government, a minority government, or cross-party parliamentary support or a new election are all possible paths that were discussed at the time. The president would first consult with the various parties and then decide who is authorized to attempt to form a government, and the leader of the largest party does not necessarily obtain the final executive power. The process and negotiations may continue for several weeks or even longer.",
-        "The report also touches on doubts about the election: the election commission reminds that claims of systematic undermining of electoral fairness lack basis, and that relevant investigations do not equate to the results being overturned. Post-election politics may influence policies towards Iran and Gaza, but analysts' judgments of motives cannot replace actual decisions; as of the time of the report, the new prime minister, the new coalition, and subsequent security actions have not yet been determined."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b81f830c592e30ec795fc0ae",
-      "source_sha256": "43ee025b71477677e68f049beefd77b8db95023f9edf0e88451257306a1b4a38",
-      "paragraphs": [
-        "The United Nations Children's Fund (UNICEF) Panama page updated on 30 October, stating that a earthquake along the Pacific coast on 9 October caused damage to housing, schools, health facilities, and infrastructure, with severe impacts in Veraguas, Los Santos, and Herrera. Local authorities reported a magnitude of 7.5, while other monitoring agencies had provided different estimates of the earthquake's magnitude.",
-        "As of the assessment as of 30 October, it is estimated that approximately 57,900 people have humanitarian needs, including about 14,800 children and adolescents; 6,654 people still reside in 140 shelters nationwide. Approximately 17,900 affected housing units have been assessed. The increase in numbers reflects the progress of the assessment and the consolidation of information, and does not necessarily mean that equivalent-scale new damage occurred on that day. The assessment is still ongoing, and this article retains the date boundary, and cannot directly superimpose the preliminary statistics from the beginning of October with the updated figures at the end of October.",
-        "UNICEF's follow-up activities include safe water, sanitation facilities, temporary learning spaces, and psychological support. Some families have begun to return or move to housing areas, but issues such as temporary accommodation, privacy, lighting, and safe use of toilets still affect women and children. Children continue to be afraid of aftershocks, and their daily and school routines are frequently disrupted, indicating that recovery is not merely a matter of building repairs. This article distinguishes between the date of the disaster, 9 October, and the date of the institution's update, 30 October, and does not use photos of the old disaster or other countries to impersonate the on-site situation."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-f63de119424494cdc5e007cd",
-      "source_sha256": "9b7e027eb3ffa04347bcece077203b3b4bae00f47a118a21be50f987e57a63b2",
-      "paragraphs": [
-        "The 21st EU-Canada Summit took place from October 29 to 30 in Montreal, with the European Union represented by President of the European Council Costas and President of the European Commission Von der Leyen, and Canada represented by Prime Minister Kan. The joint statement released on October 30 launched the \"Future Alliance,\" aiming to further strengthen cooperation in areas of common prosperity and economic security based on existing strategic partnerships and trade relations.",
-        "The official summit outcomes list six directions: trade and regulation, digital research and communication technology, key resources and energy, financial services and markets, security and preparedness, and personnel connections. Both sides also proposed to define the concept of a closer relationship before the 2027 summit. A closer partnership does not mean that Canada has joined the EU, as the original text clearly states that the relevant plans do not include full membership, and it is not appropriate to rewrite the political cooperation framework as an already completed accession process.",
-        "In international affairs, both sides reaffirmed support for multilateral mechanisms, the international judicial system, and Ukraine, and called for a cooling of the situation in the Middle East, humanitarian aid, and a two-state solution. The above content represents the common policy stance of both sides, and it is not the case that all relevant conflicts have been resolved. Existing arrangements such as CETA have different legal levels from this new framework; subsequent implementation will still require specific agreements, regulatory coordination, and funding actions. When reading this recent diplomatic news, one should distinguish between the already held summits, the already publicly released statements, and the goals to be discussed in 2027."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-5ee45d05eb2cb6a72aff6fa8",
       "source_sha256": "731ac36504cda98d624fccf8555a7294b918a2b15449d23e1bcae2645ff87de2",
       "paragraphs": [
@@ -3831,39 +3878,6 @@
         "The core of Phantom Blade Zero is not merely waiting for the counterattack, but using dual weapon switching to continuously organize offense and defense. According to a report by PlayStation.Blog on October 28 (Hong Kong time, October 29), blocking consumes the player's ki, while precise defense, dodging, and hitting weaken the enemy's corresponding resources; switching between the two main weapons can also help restore the player's combat rhythm.",
         "After defeating the leader, obtaining their weapon is an important part of equipment growth. Players first learn techniques through combat, and then apply these abilities to their combos. For example, the weapon demonstrated in the report leaves a slowdown area after a combo, while the dual sword can combine close-range attacks with surrounding attacks; different equipment also have effects such as bleeding or absorbing life.",
         "Exploration also depends on equipment: some branches require later acquired phantom weapons to break through obstacles or reach certain areas, pushing players to return to old regions. The report describes the mechanisms demonstrated and the playtest experience, and cannot stand alone as a substitute for an evaluation of all levels, PC performance, or the initial patch status; the release and platform status should be cross-referenced with the official support page."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ded49fc539329ab96e873e9c",
-      "source_sha256": "6eb5c153be3c5d3ac273579dd364662c218ebbc6c88a18248b6657a8e7a69107",
-      "paragraphs": [
-        "Samsung Electronics released its financial results for the third quarter of 2026, ending on 30 September, on 29 October. The company disclosed that consolidated revenue was 195.3 trillion won, representing a 14% increase compared to the previous period, and operating profit was 107.4 trillion won. These figures are from Samsung's official announcement, and the units are in won, not in Chinese yuan or dollars, and they are not the cumulative performance for the entire year.",
-        "The divergence in business performance is noteworthy: the semiconductor DS department generated revenue of 147,100,000,000,000 won and achieved an operating profit of 106,500,000,000,000 won; the equipment experience DX department saw a 8% increase in revenue compared to the previous period, but recorded an operating loss of 800,000,000,000 won. The company attributes the record performance of the storage department to changes in market prices under constraints of AI product lines, server demand, and production capacity, and notes the expansion of sales of HBM4 and server SSDs.",
-        "Looking back, Samsung expects demand in the fourth quarter to continue growing around new CPU, GPU platforms, and high-capacity storage, with the contract manufacturing business planning to advance the mass production of mobile products and 4nm NPU. The aforementioned demand, capital expenditures, and 2027 growth projections are part of the company's outlook and are not yet actual results. Financial reports can explain the company's operating structure and industry supply and demand, but they cannot directly prove that a particular Galaxy phone has superior photography, battery life, or AI experience compared to competing products, nor can they replace independent real-world testing of consumer products with departmental profits."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-1fb78f269ee59b02dd6347c6",
-      "source_sha256": "9e265d8e3f09901679f08a4d3a37076edcf9991ea23d7fc0960be6f8bf220155",
-      "paragraphs": [
-        "The European Central Bank announced on October 29 that it would maintain its three key interest rates: the deposit facility rate at 2.50%, the main refinancing rate at 2.65%, and the marginal lending facility rate at 2.90%. Its assessment is that energy prices continue to rise, posing upward pressure on inflation and adding downward pressure to growth; underlying inflation has remained largely stable, and wages have not yet shown a significant upward response. This is not an indication that the energy shock has subsided, but rather a decision to temporarily refrain from changing the rates under higher uncertainty.",
-        "The central bank pointed out that the increase in the scale and duration of shocks may further raise prices and weaken growth through indirect and secondary effects. Since the last meeting, the tightening of financing conditions has also affected economic activity and inflation. The so-called secondary effects refer to whether the initial rise in energy prices will continue to transmit to broader prices and wages; the risk assessment at the time does not mean that all transmissions have already occurred.",
-        "The policy path still depends on the economic and financial data received at each meeting, underlying inflation, and the intensity of monetary policy transmission, and the official has not pre-committed to a fixed interest rate path. The asset purchase program and the pandemic emergency bond purchase package continue to shrink as bonds mature and are no longer reinvested. For individuals and businesses, policy interest rates, actual loan pricing by banks, and energy bills are influenced by different mechanisms, and therefore, the current unchanged interest rate cannot be understood as living costs no longer changing."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-14fdd1f3b59a7800f52127c2",
-      "source_sha256": "1f46bc3377a26677cfca1d3e163dd0ca5d7079f4f3a5520f67d9be38a9cba5d8",
-      "paragraphs": [
-        "The United Nations Children's Fund reported on 29 October that on 26 October, a market in Nia, Darfur, Sudan, was attacked by a drone, with reports indicating that at least five children aged 7 to 14 years died and two other children were injured. The report also mentioned previous news of an attack at the Abuyeyi market. These figures are reported and include specific dates, and cannot be considered as independent battlefield verification conducted by this App, nor can different attacks be simply combined into an undefined total.",
-        "UNICEF says more than 400 children were reportedly killed or injured between January and September 2026, with drone attacks accounting for a substantial share. Homes, schools, health facilities, water supplies and markets were also affected. Markets provide both food and livelihoods, as well as trade, so sustained attacks turn routine activities into security risks. The statement does not identify all those responsible for every attack, and this briefing does not add unverified attribution.",
-        "The World Health Organization, on 12 October, quoted an IPC warning indicating that the risk of famine has increased in parts of the Darfur and Darakou regions, as the factors of war, displacement, drought, and insufficient aid overlap. Malnutrition increases the risk of illness and death, and medical accessibility is severely limited. This risk warning is different in evidence hierarchy from the market attacks on 26 October: the former explains the fragile background, while the latter is a specific event; neither can be expanded to suggest that all regions of Sudan have reached the same state."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
