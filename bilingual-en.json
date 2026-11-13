@@ -1,7 +1,75 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T04:23:03.864Z",
+  "generated_at": "2026-11-13T09:16:40.131Z",
   "translations": [
+    {
+      "article_id": "article-ee2ade2bed289b38d5f3280a",
+      "source_sha256": "665f4f671b479cc0def67ee5eff126f6facb3d0924c74f7154395d4503ec868d",
+      "paragraphs": [
+        "Citing Reuters on November 13, Lianhe Zaobao reported that former minister Alan Milburn, who is reviewing youth employment in Britain, is expected to submit a report next week recommending tighter access to some illness- and disability-related benefits for people under 25 and more resources for employment support. These are proposed reforms, not rules already in force, and no final legislative text is supplied.",
+        "Estimates released by the Office for National Statistics on August 27 put **981,000 people aged 16–24 in the UK outside employment, education or training in April–June 2026, or 13.0% of that age group**. The number rose by 30,000 year over year but fell by 30,000 from the first quarter. The share increased 0.2 percentage points annually and fell 0.5 points quarterly. These figures describe the second quarter, not newly unemployed people in November.",
+        "NEET includes both unemployed and economically inactive young people, with the relevant age-group population as its denominator, unlike the unemployment rate’s labor-force denominator. Milburn argues that spending is tilted toward benefits rather than employment assistance and wants more help for young people returning to work; the report also notes possible opposition from Labour MPs to benefit cuts. ONS cautions that estimates for such small subgroups are subject to sampling variability. Its next NEET release is scheduled for November 26."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d91c8d76cb1d90dbb0755c85",
+      "source_sha256": "40288dd648436a58f1ac1340281469545a6f6e8f651d7ea9cc907b0aee39868b",
+      "paragraphs": [
+        "Tencent Hunyuan released the real-time voice model **Hy Realtime** on November 13. It is already used in Yuanbao voice calls, Tencent customer service and other products. The current entry point is voice calling in the latest Yuanbao app with the “Chuyu” voice; a web demo presents some capabilities. A Tencent Cloud API is still planned for the near future, with no announced general-availability date or pricing.",
+        "The update combines basic voice conversation with tool use. The team says the model can decide from context and user intent whether to search online, connecting search decisions, tool calls and answer generation. It also strengthens intent recovery for unclear, incomplete or self-corrected speech, multi-turn instruction following and context management.",
+        "Singing was co-designed by Hunyuan and Tencent Music Entertainment’s Lingyin AI team. Users can request music by artist, album, style, language or release year and continue selecting songs using the earlier conversation. The team also reports improvements to audio quality, pronunciation, prosody and emotional progression, with internal expert A/B testing of singing performance.",
+        "The reported experience advantages and test conclusions come from Tencent’s team; a complete independently reproducible test set was not provided. Future priorities include full-duplex interaction, long-term personalized memory and interaction between foreground and background agents. These are development directions, separate from currently available features. The release does not announce model weights or an open license."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e1e193c35c8c2bfca93ae383",
+      "source_sha256": "4066eea282baaaac1a55b4c1f8afe983c7584b6047d7fe877f2b25f0a33c5b9d",
+      "paragraphs": [
+        "China Railway’s Kunming division said **Pier No. 9 of the Nanxi River Grand Bridge on the Wenshan–Mengzi railway was completed on the morning of November 12**, when the final concrete-filled steel-tube section was pumped into place. Railway authorities describe this as the first use of a lattice-pier structure in a domestic railway project. This milestone concerns a pier, rather than completion or opening of the entire bridge or railway.",
+        "Located in Zhicun, Mengzi, Yunnan, the bridge is 789.71 meters long, with a maximum deck-to-ground height of 118 meters. It has three lattice piers. Pier No. 9 is 105 meters tall, the railway’s highest, and its lattice portion comprises seven segments assembled from 176 components, the heaviest weighing 24 tonnes. The site crosses a deeply incised valley with rockfall hazards and karst conditions.",
+        "Steel tubes and I-beams form a tapered pier, wider at the bottom, filled with high-strength concrete. Railway authorities say the design can save 30%–50% of concrete and steel and reduce site pollution and construction risks through prefabricated assembly, but the notice supplies no uniform material-comparison baseline. The approximately 116-kilometer, electrified double-track passenger-and-freight line is designed for 160 km/h. About 63% of pre-track civil works is complete, with bridges, tunnels and stations still under construction."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9d01a2d6073e7ced3f4be236",
+      "source_sha256": "2d9c7c53364db81151016a2a5c7dd45e5d4a1fe17a85be1ad3804cbec13ab608",
+      "paragraphs": [
+        "At a regular briefing on November 12, IMF spokesperson Julie Kozack said the Fund was closely monitoring recent AI-sector developments, equity-valuation volatility and their effects on markets, the economy and financial stability. **It is too early to conclude that investors are turning away from AI for the long term.** These AI-related remarks were not accompanied by new numerical forecasts for global growth or inflation.",
+        "Reuters reported that Kozack reiterated the risk that AI equity valuations could be reassessed against the technology’s longer-term profitability. That does not establish that recent volatility already amounts to a broad reassessment of AI investment, future profits or productivity gains. The IMF is also watching whether U.S. political changes could slow data-center development.",
+        "Lianhe Zaobao additionally cited Kozack as saying recent developments were insufficient to determine how potential changes in AI investment would affect U.S. inflation pressure. Her remarks distinguish asset prices, real infrastructure investment, future productivity and prices. Volatility and monitoring are established; a new quantitative conclusion about longer-term macroeconomic transmission has not been reached."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7e4afec5c028fe711f8910ab",
+      "source_sha256": "ad399dc6fadf36a46afb60c0a4cc76ffb527dc2daa09206898fa86b2e3d6dd3f",
+      "paragraphs": [
+        "The UCIe Consortium announced the **UCIe 4.0 chiplet-interconnect specification** on November 12. Its scope expands from individual chiplet interfaces to how compute, accelerator, memory and other chiplets in one package are managed, secured and monitored together while sharing power and area resources.",
+        "The new UCIe.mem protocol standardizes an on-package link between SoCs and memory-logic chiplets, reusing the existing PHY and adapter ecosystem. The consortium cites design metrics of up to 93.75% data efficiency and approximately 2.5 TB/s/mm of die-edge bandwidth density. These are specification and design metrics, not measured results from a shipping processor.",
+        "An optional power-optimized profile advertises a 30%–80% energy-efficiency improvement at 64 GT/s. An enhanced UCIe-S bump map for 48 and 64 GT/s is said to raise shoreline bandwidth density by about 20% and area bandwidth density by 10%. Energy efficiency, edge bandwidth density and area bandwidth density are separate metrics.",
+        "Security and management additions include Trusted Reporting of Chiplet State, or TRoCs, two-way integrity-protected management channels and enhanced reset management. Optional error notifications and link-health monitoring support automotive reliability and functional-safety mechanisms. The consortium says version 4.0 is backward compatible with previous versions and the full specification is publicly available by request. Publication does not establish volume delivery of compatible chips by individual manufacturers."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d23cddfa8cc4fc2d8f02c654",
+      "source_sha256": "c7d6ca20058989c3a6e95068432e2442e4389dd97a46acd45f027512fc12d333",
+      "paragraphs": [
+        "Spider-Man: Brand New Day began **mainland Chinese online distribution at 10:00 Beijing time on November 13**. Reported platforms include iQiyi, Tencent Video, Youku, Bilibili, Mango TV and Huawei Video, with English and Chinese versions. Huawei Video’s poster also lists phones, smart screens, tablets and in-car systems. Membership, per-title payment and device entitlements remain platform-specific.",
+        "This mainland streaming window differs from overseas distribution. The film became available for paid digital rental or purchase through Apple TV and other stores on October 6, while 4K, Blu-ray and DVD release is planned for November 17. Digital availability does not mean inclusion in subscription catalogs in every country or that November 13 is its first worldwide release.",
+        "The film opened in mainland Chinese cinemas on July 29, 2026. Directed by Destin Daniel Cretton, it is Tom Holland’s fourth standalone Spider-Man film, with him returning as Peter Parker. Zendaya, Mark Ruffalo and Jon Bernthal are among the cast. Its story follows life in New York after No Way Home. This update concerns distribution channels rather than treating box-office popularity as a review score."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-996ab586942de44e6f82cb14",
       "source_sha256": "ef008797bc387745cebebd204cb225d61bb1869954ef100e5e9e4eef37c20627",
@@ -43,6 +111,17 @@
         "Samsung and China Telecom’s **W27 foldable went on sale in China on November 13**, with list prices of RMB18,999 for 16GB+512GB and RMB21,999 for 16GB+1TB. It is a co-branded premium foldable for the Chinese market; its packages, regional features and prices do not automatically apply to overseas Galaxy Z Fold models.",
         "The W27 uses Snapdragon 8 Elite Gen 5 for Galaxy, with an 8.0-inch inner and 6.5-inch outer display and adaptive 120Hz refresh. Samsung lists an approximately 215g weight, 4.1mm unfolded and 8.9mm folded thickness, excluding the camera module. Cameras include a 200MP main, 50MP ultrawide and 10MP telephoto, with a 5,000mAh battery and 45W wired charging.",
         "Tiantong satellite voice and messaging require activation of the operator’s corresponding service. The launch report lists a year of direct satellite functionality, 300 voice minutes and 100 text messages; eligibility and charges remain subject to the operator. A future entitlement of 200 million China Telecom tokens is a later claimable benefit, not necessarily credited in full on purchase day. Prices are public list prices, before government subsidies or store promotions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1c245ef9b38f9c781fe34e83",
+      "source_sha256": "68ce2f93f0f2050894e08c86ca5547825a613383b42908ad7cebed86ef7ed179",
+      "paragraphs": [
+        "China’s Ministry of Emergency Management said on November 13 that the State Council Work Safety Commission’s office had recently held work-safety accountability interviews with **the principal government officials of 11 cities and prefectures in seven provincial-level regions**. The triggers were major accidents during the year or at least three relatively serious accidents within six months. The notice does not say all interviews occurred on the publication date.",
+        "The major-accident areas are Baotou in Inner Mongolia, Nanyang in Henan and Xiangyang in Hubei. The other group comprises Lüliang, Shuozhou and Xinzhou in Shanxi; Mudanjiang in Heilongjiang; Yantai in Shandong; Zhengzhou in Henan; and Honghe Prefecture and Qujing in Yunnan. Participating authorities covered emergency management, policing, natural resources, housing and construction, transport, agriculture, commerce, market regulation, fire rescue and mine safety.",
+        "The interviews called for action on illegal fireworks production and sales, mines, major hazardous-chemical risk sources, industrial and trading operations, and contractor management. They also addressed fire risks in crowded premises and large mixed-use complexes, road safety and tourism safety. Accountability extends to companies’ principal managers, actual controllers and ultimate beneficiaries. These are oversight and rectification measures for accident-prone areas; the notice supplies neither a new nationwide accident total nor a uniform penalty amount."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -104,6 +183,17 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-585c47e542f52902bc6518b9",
+      "source_sha256": "dfdb8ddeaefc8f17834fe8df3020a2289a0d615da17cd84f047b56e25e456a5f",
+      "paragraphs": [
+        "Netflix announced on November 13 that the Polish prison drama **Riot will premiere on December 9, 2026, with six episodes**, and released its official trailer. Set in Poland in 1989 and inspired by real events, it stars Borys Szyc and Filip Pławiak as former cellmates who later find themselves on opposing sides of a conflict. This is an upcoming-series announcement, not a judgment about an already released show’s reception.",
+        "The story follows a prisoner, a young politician and a prison psychologist, exploring expectations of amnesty, prison hierarchies and conflict during institutional change. Screenwriter Łukasz Bluszcz says the project grew from a related documentary he helped make years earlier. Director Mateusz Rakowicz describes combining a prison drama’s focus on emotions and choices with the scale and tension of an action film.",
+        "Mateusz Rakowicz directs episodes 1, 2, 4 and 5, while Marek Lechki directs episodes 3 and 6. The writers are Łukasz Bluszcz and Marcin Kubawski, with Telemark’s Maciej Kubicki producing. Anita Szepelska plays psychologist Agnieszka Czajka, and Baasch supplies the music. The studio has released scheduling, trailer and production information, without a split-release schedule or a verifiable rating for the new series."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-9bf4b1ea9250a2f54ac66449",
       "source_sha256": "66ba54478da10436fe78b873a457a1e13a03be5ff35d36a8abaf5a581a629197",
       "paragraphs": [
@@ -117,12 +207,12 @@
     },
     {
       "article_id": "article-705a293f07886291804b46eb",
-      "source_sha256": "da7fba1bf9e414d7b06a096ded20fc2b96e8487ed83edeb6efd42a8ad6af9e7f",
+      "source_sha256": "23fe85086bab75b739154908a1616189fa3fa5ebc9723a2a7902160993eb8d2e",
       "paragraphs": [
-        "Multiple Microsoft 365 business services suffered connectivity problems. The public status entry **still showed “Service degradation” in its 12:11 Beijing-time update on November 13**. Microsoft was investigating sustained traffic-management imbalances, affected infrastructure and routing improvements. An earlier change intended to improve service had not taken effect as expected. Microsoft said there was no indication that the incident resulted from malicious activity.",
-        "Exchange Online users may be unable to access mailboxes through Outlook on the web, desktop Outlook, Exchange ActiveSync or REST connections, and email delivery may be delayed. Copilot may fail to load chats, return answers or access work email, calendars and files. Some admin-center pages and Microsoft Graph requests depending on Exchange data are also affected.",
-        "The business-incident notice says most core Teams calling, meeting, group-chat and channel-message functions remain available, as does access to files stored directly in SharePoint. A separate **consumer-incident update at 12:14 Beijing time** lists Outlook.com, OneDrive, OneNote, To Do, Teams and Microsoft 365 for the web as potentially affected and says recovery options are being tested. The overall consumer incident is marked as degraded even though some individual service cards still show normal operation. Microsoft has not announced full recovery from this outage.",
-        "Early in the incident, Microsoft said some servers had failed automated health checks and become unavailable, increasing load on remaining infrastructure. It paused deployments and configuration changes and tried alternative checks and restarts. An AP report carried by NPR Illinois said Outlook problem reports exceeded 130,000 at one point. Report counts are not unique affected people, and resolution of an individual Teams incident does not establish that the broader business-service incident has ended."
+        "Microsoft is making progress on the continuing Microsoft 365 outage. The **17:10 Beijing-time business-incident update on November 13** reported early signs of stabilization across affected infrastructure, but service capacity had not returned to normal and health remained variable as traffic was gradually reintroduced. The incident remained marked “Service degradation,” without full recovery. An earlier 15:29 update said a patch to part of the upstream authentication/routing-configuration infrastructure had improved server stability.",
+        "Business Exchange Online users may still encounter failed mailbox connections through web or desktop Outlook, Exchange ActiveSync or REST, as well as delayed email delivery. Exchange-dependent Copilot, calendar and some administrative functions remain within scope. Microsoft further lists possible failures or delays involving Defender for Office 365 Safe Links processing, release of quarantined mail and some protection-policy operations.",
+        "Most core Teams calls, meetings, group chats and standard-channel messages remain functional, while calendars, invitations and other Exchange-dependent functions may fail. Files stored directly in SharePoint remain accessible, but sharing with people outside an organization may also be affected. The consumer incident’s 14:24 Beijing-time update continued to list Outlook.com, OneDrive, OneNote, To Do, Teams and Microsoft 365 for the web, with parallel efforts to identify the source and restore the environment.",
+        "Microsoft is cycling affected infrastructure through traffic draining, restarts, remediation and staged return to service, prioritizing delayed mail and queue health. **The email timeout window is being extended to 48 hours** to protect delayed messages during recovery; this is not a promise of complete repair within 48 hours. The overall consumer incident and some individual cards still carry different degraded/normal status markings. Microsoft says it has found no indication of malicious activity causing the incident and will publish a root-cause and follow-up repair report after recovery."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -558,6 +648,40 @@
         "Noctua introduced the **NT-CP1 AM5/4 carbon-nanotube thermal pad** on November 12 local time for AMD AM5 and AM4 processors. It measures 33×33mm and is 90 micrometers thick. Suggested retail prices are $24.95 and €24.95 respectively. Official Amazon stores begin sales immediately, with other partner retailers receiving stock later; these are not subsidized Chinese-market prices.",
         "Using Carbice technology, the pad combines carbon nanotubes, a phase-change polymer coating and an aluminum backbone. Noctua says the first few hundred to few thousand thermal cycles improve conformity to microscopic surface irregularities and heat transfer, followed by long-term stability after initial activation. These are the manufacturer’s mechanism and longevity claims; the announcement does not supply a universal temperature reduction for every CPU and cooler.",
         "The tacky polymer coating helps hold the pad during installation. The manufacturer’s statement about electrically non-conductive surfaces is limited to the condition before use with the coating unpenetrated, not insulation in every situation. The current shape and validation scope target AM5/AM4, rather than arbitrary processors, graphics-memory chips or component gaps."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8164d05ea6201c086c95c747",
+      "source_sha256": "6af3d3b43158252ae1063596d231e7d34d795798ff579f8cb29a341ae20ec2a5",
+      "paragraphs": [
+        "Square Enix announced on November 12 that Romancing SaGa 3: Destinies United will move from February 16, 2027 to **February 4**. Its North American announcement lists PS5, Xbox Series X|S, Switch, Switch 2 and PC. Japan’s e-STORE separately lists February 5 for Steam, so the dates differ by region and storefront.",
+        "North American digital pre-orders are available for PS5, Xbox and PC, with Switch and Switch 2 digital pre-orders scheduled to begin November 19. Pre-ordering the Digital Deluxe Edition includes 72 hours of early access. Japan’s e-STORE is adjusting that entitlement’s start and renaming digital pre-order bonuses as early-purchase bonuses, while keeping the previously specified bonus-distribution period. Pre-ordering, early access and general release are distinct stages.",
+        "This is a full 3D remake of the 1995 RPG, retaining eight protagonists and free-form scenarios that let players choose where to explore, which stories to pursue and the order of enemy challenges. The producer says the focus is clearer characters and storytelling, drawing on the fast-paced combat approach praised in the Romancing SaGa 2 remake. Features include fully voiced Japanese and English event scenes and new arrangements supervised by Kenji Ito. The announcement concerns development and release plans; the game has not yet reached general release."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c0dbb507cbf12dae07d6cf96",
+      "source_sha256": "9bba8c99c53c05560889b7c5c66d9c98194d8f6a644bbc68c487e5478236149b",
+      "paragraphs": [
+        "In its November 12 third-quarter release, Cerebras disclosed an important cloud deal with a “top three hyperscaler” without naming the customer. Reuters cited CEO Andrew Feldman’s earnings-call remarks confirming that it is **Microsoft**, with more details to come next year. A separate value for this agreement has not been disclosed.",
+        "For the third quarter ended September 30, GAAP revenue was $210.8 million, up 55% annually, including $141.9 million in cloud and other services revenue, up 265%. Non-GAAP **core revenue was $230.9 million, up 70%**, with core cloud revenue of $144.9 million, up 272%. The GAAP net loss was approximately $161.2 million, versus core net income of about $29.82 million; adjusted profitability does not mean a return to GAAP profit.",
+        "Remaining performance obligations stood at $26.1 billion at the end of September. The SEC filing says a significant portion relates to the OpenAI agreement, including revenue expected to be fulfilled and recognized in future periods and variable consideration. It is neither revenue already earned in one quarter nor cash already collected. Delivery timing and changing estimates of some pass-through costs can affect recognition.",
+        "The company raised its 2026 core-revenue outlook to $940 million–$960 million, while full-year core operating-margin guidance remains negative 10% to negative 8%. It has contracted for 700 megawatts of data-center capacity for delivery by the end of 2027, rather than all that capacity already being operational. Core measures exclude customer-warrant amortization, some stock-based compensation and data-center pass-through items, and must remain separate from GAAP results."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-839b2f5cab080ceaee728278",
+      "source_sha256": "1c66e7cfaefb35e238815a16f808d0a31bdba77fcfc56f05899860afecb54f0c",
+      "paragraphs": [
+        "Apple’s security bulletin lists **HomeView Software Version 27.2 as released on November 12**, for Apple HomeView. IT Home reported the associated build number as 24V526 on November 13. The release principally fixes security issues across several components, distinguishing remote attacks, attacks within Bluetooth range and attacks from the same network.",
+        "Messages fixes CVE-2026-113961, under which a remote attacker might join an iMessage group and receive its messages. CVE-2026-113960 concerns a newly added group member accessing earlier messages. CoreUtils’ CVE-2026-113965 concerns a malicious Bluetooth device pairing without user interaction; CVE-2026-113964 also involves bypassing limits on pairing-code attempts.",
+        "AirPlay and rapportd separately address pairing-attempt rate limits for attackers within Bluetooth range or on the same network. Bluetooth and brotli receive memory-corruption fixes, while App Intents addresses authorization for access to sensitive user data. Apple supplies impact conditions and remediation descriptions, without counts of actual exploitation or affected users in this bulletin. Required proximity and network conditions differ by component."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3381,106 +3505,6 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-d298b8f1847e6f8fe6fcc2ed",
-      "source_sha256": "d0bba6cc075eaa38ddd4326c34957381141dfa8dcbbd4d2623a6b3311d7b1dcd",
-      "paragraphs": [
-        "Lianhe Zaobao reported on November 3 that China's Ministry of Commerce announced that day that Li Chenggang, international trade representative and vice minister, had met a U.S. agricultural trade delegation on November 2. They discussed China-U.S. economic and trade relations and bilateral agricultural trade. The meeting took place the previous day, while the announcement was made on November 3. The report does not list any new procurement contracts signed at the meeting or their value.",
-        "Citing Reuters' analysis of Chinese customs data, the report says that China imported about US$7.2 billion in non-soybean agricultural products from the United States in the first nine months of this year, the lowest amount for the same period since 2019. This figure excludes soybeans and therefore does not represent all U.S. agricultural exports to China. Procurement of corn, meat and other products is being tracked separately from the soybean arrangements.",
-        "The report recalls that the White House announced in May a commitment for China to purchase US$17 billion of U.S. agricultural products annually from 2026, with the current year's target calculated proportionally. This arrangement excludes separately agreed soybean purchases. Reuters assesses that the soybean target is likely to be met, while progress in other categories remains slow. Earlier reports of Chinese grain traders seeking U.S. wheat offers must also be distinguished from completed shipments and imports: inquiries, contracts, shipping and customs arrivals are different stages of a transaction."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-bbb9adae9a48a69ade94cc3b",
-      "source_sha256": "a947b0aa99c5bc32c833387add566a0a956984c907a3f1b7ae274c106f446237",
-      "paragraphs": [
-        "A BBC report on 3 November stated that U.S. officials told their U.S. partner CBS that the U.S. military had conducted a strike in the Hormuz Strait against the Iranian Ghashm Island. The officials described the action as a limited strike, citing the reason as the Iranian Islamic Revolutionary Guard firing at U.S. aircraft. BBC also reported on the Iranian state news agency's account of several explosions occurring on the island. As of this verification, the target of the action, the losses, and the casualties have not yet been fully confirmed and made public.",
-        "Diplomatic contacts are continuing. Iranian Foreign Minister Alaghi said that both sides are conducting intensive communication through intermediaries, and Iran is also preparing for both negotiations and military scenarios. Trump stated before the U.S. midterm elections that he is not in a hurry to expand the strike, but he also mentioned targets related to the Iranian nuclear program. There is a clear distinction between statements, limited actions, and future larger-scale attacks.",
-        "Reuters' Asian early-session report published by Business Recorder puts Brent futures at US$105.25 a barrel, up US$0.48, and WTI at US$96.93, up US$0.47, as of 01:04 GMT on November 3 (09:04 Beijing time). Brent had fallen 7.63% in the previous trading session. These time-specific prices show negotiation expectations and military developments alternately influencing energy markets; they are not the day's final closing prices."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-c58d85bb8a405fa99a4bbfae",
-      "source_sha256": "4e8aad7685c4a117c230f5dd04982bbcc33c25817794dbfd395b3fd078cb07c1",
-      "paragraphs": [
-        "The U.S. Supreme Court rejected the Department of Justice's emergency request on November 2: the federal government wanted California to separate approximately 20,000 registered voters identified as \"possibly not U.S. citizens\" from the ballots they had cast, waiting for verification of their citizenship. Reports published by BBC and NPR in KPBS confirmed that the court issued a brief order denying the issuance of a restraining order, with the time being close to the final voting day of the November 3 mid-term elections. Being placed on the list by the government does not mean that these individuals have been proven to have voted illegally.",
-        "Previously, the U.S. District Court and the Ninth Circuit Appellate Court had rejected the relevant requests. The California and Los Angeles County election departments questioned the accuracy of the federal list, concerned that qualified voters might have been incorrectly excluded, and pointed out that temporarily establishing an isolation mechanism for ballots during the voting process would affect existing election procedures. NPR reported that the appellate court also cited the legal principle that changes near an election should not be sudden.",
-        "California has about 23,000,000 registered voters; according to BBC, citing data from the state secretary of state's office, more than 6,000,000 mail-in ballots have been received by Sunday night. The Supreme Court is handling an emergency restraining order application, and the original ballot-counting schedule therefore continues. American voters are still voting, and this ruling did not determine the outcome of the congressional seats or individually determine the citizenship of each person on the list."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-5bb6ba782f19325a5cd050a1",
-      "source_sha256": "7d5c9b4a88194515c02acd9ab092720acff647dcce399007ba9f64bb60e6b7ac",
-      "paragraphs": [
-        "A BBC report on 3 November states that the UK and the EU have reached an agreement on the sanitary and phytosanitary agreement (SPS) for food and agricultural trade, with a draft of about 200 pages, which has been circulated among EU member states and is prepared for discussion at the permanent representative meetings. Currently, the draft is in the review stage, and new customs facilitations have not yet come into full effect. This month's UK-EU summit will also address matters such as the emissions trading system, youth travel and work arrangements.",
-        "The draft proposal aims to cancel or exempt a number of procedures, including approximately £200 export health certificate and £25 plant quarantine certificate, as well as several inspections, sampling, and port fees. The export of certain fresh sausages, beef, shellfish, and seed potatoes from the UK to Europe may also resume, and the pet cross-border travel documentation arrangement is also involved. The UK government estimates that the final implementation could generate an annual economic benefit of about £5,100,000,000, which remains within the policy expectations.",
-        "The costs and accompanying rules are also included in the text: the UK plans to adjust regulations within the coverage range according to changes in EU food and animal and plant standards, i.e., \"dynamic alignment.\" The UK Office for Safety and Health had previously confirmed in its official statements that the relevant agreement is still in the negotiation process, and rules such as the licensing of biocontrol products may also be adjusted. The final text, political approval, and implementation of legislation will determine when businesses can actually reduce the number of documents submitted and reduce inspections."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-4698c350da10e2abc98d0219",
-      "source_sha256": "5f93e8dd7832f4db6b30611fb2f6e68d815f22bc008085ab8c39d85f8ccba652",
-      "paragraphs": [
-        "UK Prime Minister Andy Burnham plans to discuss a debt-framework overhaul at the Commonwealth Heads of Government Meeting in Antigua, responding to rising interest-payment burdens in some member countries. The BBC reported on November 3 that Downing Street called this a **“debt reset.”** Talks about a formal British apology for the slave trade are also planned; an apology has not yet been made.",
-        "A UK government readout published the same day confirms that Burnham met Barbados Prime Minister Mia Mottley on November 2. They discussed reshaping international financial frameworks for debt through the UK-hosted G20 next year, the effects of rising seas and extreme heat on Barbados, and structured dialogue with communities affected by the transatlantic slave trade.",
-        "The UK also plans two task forces by year-end: one on critical minerals and supply-chain vulnerabilities, and another on broader trade and investment. They would report to the next leaders’ summit. According to the BBC, the government is open to discussing a formal apology but rejects financial reparations funded by British taxpayers."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-38e81240a551e2399bbc62fd",
-      "source_sha256": "bf0f867e6a39e7fce054c9496b2292229531d4b4732439587af54dca7c5932ad",
-      "paragraphs": [
-        "Lianhe Zaobao reported on November 3 that U.S. envoy Witkow announced on November 2 that plans are in place for a working-level negotiation between the U.S., Ukraine, and Russia to take place from November 10 to 11 in Abu Dhabi, UAE, focusing on post-war security arrangements, de-escalation of the situation, and humanitarian aid. The report also cited a message obtained by Reuters from U.S. sources indicating that U.S. representatives will also this week discuss security guarantees and reconstruction support with European and NATO counterparts. Currently, the verification is of the negotiation plans, not a ceasefire agreement or the end of the war.",
-        "At the same time, diplomatic developments have been accompanied by a severe escalation of violence. Both the Lianhe Zaobao and the already normally read BBC original reports have stated that on 2 November, a school used for distributing aid in Komiushchava, Zaporizhzhya Oblast, and a nearby shelter were bombed. The Ukrainian side's reported number of casualties increased from 18 to 24 during the search and rescue operations, and Zelenskyy spoke that night and reported 26 casualties. The BBC stated that the Russian side has not yet issued a public comment, and the search and rescue operations were temporarily interrupted due to a drone threat. These casualties are the numbers reported by the Ukrainian side as of the early morning of November 3 in Hong Kong and cannot be considered the final numbers independently verified on the ground.",
-        "The previous ceasefire for the humanitarian evacuation in Oleshki was a local and temporary arrangement; there were still attacks in other areas after it ended. The new negotiation arrangements and local evacuation achievements should be understood separately from the overall ceasefire."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-3dc3cf9f90b7c2fa281ec47f",
-      "source_sha256": "c846ebbb3301b31ece9f92956568fa38b1a2a0eea394675759cd34d7e86455e3",
-      "paragraphs": [
-        "The UK Ministry of Defense announced on 3 November that the UK and France will jointly lead the Koalicja exercise, which will take place from 9 to 22 November in Poland, involving approximately 2,800 personnel from 11 countries. The UK will deploy 300 personnel, Typhoon fighter jets, and a Voyager refueling aircraft, focusing on testing the mobility, protection, supply, and command and control of multinational forces, rather than revealing any actions already entered into Ukraine.",
-        "The multinational force for Ukraine, MNF-U, is jointly led by the UK and France. The Ministry of Defense stated that the conditions for the force's future entry into Ukraine include a cessation of hostilities and a request from the Ukrainian government; the mission is envisioned to support the restoration of Ukrainian military capabilities and to improve air and maritime security, without undertaking peacekeeping or ceasefire monitoring functions. The combination of personnel and equipment during exercises does not mean that the future deployment scale has been finally determined.",
-        "Turkey will test the maritime components in Istanbul, including mine clearance arrangements required for the recovery of port shipping, and aerial exercises will simulate security measures after the resumption of civil aviation. Participating countries include Belgium, Estonia, France, Germany, Lithuania, Netherlands, Poland, Spain, Sweden, Turkey, and the United Kingdom. The conflict between Russia and Ukraine is still ongoing, and the exercises are preparations for future scenarios; there is no conclusion that a comprehensive ceasefire has been in effect."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a6e32eb980aea1b6655cd110",
-      "source_sha256": "1c84d02f630786d2e07b19ca2adc3f5a730e8804ddb6c4d8626357bbd4431a35",
-      "paragraphs": [
-        "On November 3, the Reserve Bank of Australia raised its cash rate target by 25 basis points, from 4.60% to **4.85%**. The decision was not unanimous: six Monetary Policy Board members supported the increase, while three voted to hold at 4.60%.",
-        "The bank described inflation as broad-based. The Middle East conflict has raised fuel and other commodity prices, domestic capacity constraints appear tighter than previously estimated, and AI investment is pushing up some technology-related goods prices. Its revised forecasts put a return to the upper end of the 2–3% inflation target range in **late 2027**, about three quarters later than previously projected.",
-        "The increase comes as growth slows, housing prices fall significantly and unemployment rises. The bank expects dwelling investment and household consumption to remain under pressure, while business investment, including data centres, may remain stronger in the near term. Unemployment is projected to rise more than forecast in August. Future decisions will depend on incoming data and changing risks."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-4b940fe58ecf411e08c8446c",
-      "source_sha256": "3f7f820d203488b2c16127e0a214877d5a931220feefd157895752527d634bf5",
-      "paragraphs": [
-        "In a report published on November 3, the UK National Cyber Security Centre (NCSC) assessed that a ransomware attack involving AI malware is highly likely to affect UK critical infrastructure by 2028. **The forecast concerns changes in attack capabilities over the next two years**: AI lowering operational costs and accelerating vulnerability discovery and exploitation at scale.",
-        "The accompanying annual review covers September 1, 2025 to August 31, 2026. Its incident-management chapter says attackers have used AI tools, but none of the observed uses enabled a new class of attack. Many intrusions still exploit known vulnerabilities, internet-exposed systems and other familiar weaknesses.",
-        "Project DROMOS began in 2026, involving the Government Cyber Coordination Centre, the AI Security Institute and others. A four-week pilot analysing government code repositories was followed by expansion into selected operational government environments. NCSC says AI-assisted analysis uncovered **hundreds of potential security issues, including critical vulnerabilities**. Experts remained responsible for assessing findings, managing false positives and prioritising fixes.",
-        "The report also describes capability-building funding announced in the previous week’s Budget: £60 million for the first phase of the national Cyber Shield, £70 million for the National Exposure and Real-Time Vulnerability (NERV) Centre, and plans for an AI Cyber Security Centre of Excellence in Manchester."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-13877977cb537fbc8095123b",
       "source_sha256": "59f175cad7c6a2d4ba28a8abde8acd11836da1a1fc4b5bbc9808f35383221ced",
       "paragraphs": [
@@ -3843,28 +3867,6 @@
         "[New season to be released] Netflix's official information lists the release window of the second season of \"Blue Eye Samurai\" as January 2027, without specifying a particular date. The pursuit by Mizu will move to London, and creators Amber Noizumi and Michael Green will continue to be involved. The public voice actor list also includes actors such as Jonathan Pryce.",
         "The long-term narrative of this adult-oriented anime involves identity, revenge, and the costs incurred by characters in pursuit of their goals. The setting shifts from Japan to London, indicating new environments and power dynamics, but currently available information is insufficient to evaluate the action sequences and character development of the new season. The following numbers pertain only to the first season and represent existing reviews that determine whether it is worth continuing to follow, not achievements from the second season in advance. The first season performed well both in media and among audiences, but it still cannot replace the true test of the new series once it is officially released. This article avoids revealing details of the first season's ending and does not treat promotional images as representative of all scenes in the new season.",
         "[Reputation Section | 2026-11-02] First season (non-upcoming second season): Rotten Tomatoes critic approval rating is 97% (29 reviews), and audience approval rating is 93% (the page shows over 1000 entries). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-0eb11c1b051d283a8058f600",
-      "source_sha256": "01a90570e0fd67f5a3f17c5f1e1e8626db7987d0339bcce23ae82b7881e04f10",
-      "paragraphs": [
-        "[Classic Replays] \"Arcane\" is set in Piltover and Zed, the worlds of the game League of Legends, and places technology, class, and intimacy within the same conflict. The second season continues the tensions among the core characters, with the game's setting providing the world foundation, but the show's emotional drive does not rely solely on the audience recognizing the names of the heroes.",
-        "For those who have not played the game, the difference in resources between the two cities and how characters explain their actions can be entered into the story. For players, the adaptation of how familiar characters become independent dramatic figures is more worth noting. The positive proportion of media for the second season is quite high, but the audience end is relatively lower, and it cannot be covered by 100% to hide the differences between the two ends. The cover images use the posters displayed on the current season's pages, without borrowing uniform icons from other games.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 100% (35 reviews), and audience approval rating is 81% (the page shows over 5,000 entries). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d70817ceef4c5b0cbe611fe7",
-      "source_sha256": "e439d4aee173206b6e94db1a0616b8d4502d9751bd9ac5fbb6285fb197eac1ea",
-      "paragraphs": [
-        "[Classic Replays] The 2025 \"Adolescence\" focuses on 13-year-old Jamie Miller who is arrested after a classmate is killed. The public introduction expands the perspective to family, school, and online environments, so the suspense is not only about the case itself but also about how adults understand children and why their explanations may fail.",
-        "It is suitable for audiences interested in social themes and relational pressures, but it is not a light-hearted entertainment genre. Placing fictional characters within real issues can provoke discussion, yet it cannot present the plot as a complete record of a specific real case, nor can it allow for a simplistic attribution of the characters to a particular group of teenagers. Currently, media recognition is significantly higher than among viewers, and the viewer sample is already substantial, with the gap worth noting. This article is based on publicly available plot information for a non-concluding review, does not claim to have witnessed the entire filming process, and does not present the accusations in the film as already verified facts.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 97% (112 reviews), and audience approval rating is 74% (the page shows over 2,500 reviews). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
