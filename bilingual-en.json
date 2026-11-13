@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T01:23:17.718Z",
+  "generated_at": "2026-11-13T04:23:03.864Z",
   "translations": [
+    {
+      "article_id": "article-996ab586942de44e6f82cb14",
+      "source_sha256": "ef008797bc387745cebebd204cb225d61bb1869954ef100e5e9e4eef37c20627",
+      "paragraphs": [
+        "The FBI said in its November 12 announcement that the social-engineering campaign called **FaceStealer** has been linked to more than $400 million in cryptocurrency theft over the past 18 months. Targets include cryptocurrency and Web3 workers and open-source developers and maintainers. The FBI attributes it to North Korea-linked actors tracked in industry as Sapphire Sleet, UNC1069 and other names; that attribution is the U.S. law-enforcement assessment.",
+        "Attackers take over earlier victims’ communication accounts and webcam recordings, then invite their contacts to video meetings. Familiar faces are played in imposter Zoom, Teams or Google Meet interfaces. A simulated audio failure prompts the next target to install a supposed fix; once devices and accounts are compromised, the contacts become further targets. Reusing genuine recordings and generating AI deepfakes are related but distinct techniques.",
+        "The FBI says it disrupted associated cloud infrastructure and seized **more than 900 victim webcam videos**. That number counts recordings and cannot automatically be treated as 900 distinct victims. Its official account also says stolen developer devices and repository accounts could be used to distribute malicious code, extending potential impact to downstream software users.",
+        "The cumulative 18-month FaceStealer campaign is separate from the approximately $6.3 billion Binance theft in late October. Reuters reports that U.S. authorities and security researchers link the two to different North Korean actor groups. The more-than-$400-million figure is neither a single day’s loss nor an alternative tally for the Binance incident."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-41d080fa4bb16f6a8ad9f87e",
+      "source_sha256": "5cf0b21b1d43629a0c4cbf59608602aa38f3691ba1f7058c8be3bdd060cf91b7",
+      "paragraphs": [
+        "Huawei began rolling out **7.0.0.115 SP11** to HarmonyOS computers on November 13, adding a new Office entry for Xiaoyi Work. The release notes list document processing, presentation creation, web design, weekly-report summaries, information retrieval, scheduled tasks and desktop-file icon organization. The entry is in Xiaoyi’s upper-left Office tab.",
+        "Xiaoyi notes gain cross-device synchronization of saved content and smart collections across phones, tablets and computers. Natural-language commands can also identify a document for printing, find it and set print parameters, or locate and install fonts. This is an application and operating-system feature update for HarmonyOS computers, not an announcement releasing the underlying model weights.",
+        "For development and interaction, a preinstalled integrated development engine supports running a Linux environment directly. Wireless projection can adapt to the receiving display, the touchpad gains settings for three-finger dragging and horizontal app switching, and the November 2026 security patch is included. Update items may differ slightly by model; the log does not establish identical availability on every Huawei computer."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-220ed857959255906caacdfa",
+      "source_sha256": "07c8e2d371da2bf6cb3f6d6d6fefdd3ec016341def1035cf2bae1dd7dca72ce7",
+      "paragraphs": [
+        "The new **16GB+512GB Lingdun privacy-screen version of Huawei’s tri-fold Mate XT 2 Ultimate Design went on sale at 10:08 on November 13, with a list price of RMB22,999** and purple, black and white color options. This is a new storage-and-display combination entering sale within the existing Mate XT 2 range, not the series’ first announcement. The price is before subsidies or trade-in deductions.",
+        "The model uses a G-shaped tri-fold design, with a 10.2-inch unfolded inner display and a 6.5-inch outer display. Official specifications list 3.5mm unfolded and 12.3mm folded thickness, a Kirin 9050 Pro processor and HarmonyOS 7. The system adapts large-screen interactions such as images beside text and simultaneous viewing and commenting for the tri-fold format.",
+        "The manufacturer specifies IP58/IP59 dust and water resistance and reports improvements in outer-screen drop and scratch resistance and inner-screen impact resistance, but the launch report does not identify a uniform comparison baseline or complete test settings. These are claims under manufacturer test conditions, not evidence that every fall would be harmless. The launch report provides no independent privacy-display, battery-life or durability testing; prices for other capacities and display configurations apply separately."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4691d7177c319c7d002ad63c",
+      "source_sha256": "da2812611d1e46a3cae4f0951816fc3917b5222bf2396d8ed404a1fe4f4ed075",
+      "paragraphs": [
+        "Samsung and China Telecom’s **W27 foldable went on sale in China on November 13**, with list prices of RMB18,999 for 16GB+512GB and RMB21,999 for 16GB+1TB. It is a co-branded premium foldable for the Chinese market; its packages, regional features and prices do not automatically apply to overseas Galaxy Z Fold models.",
+        "The W27 uses Snapdragon 8 Elite Gen 5 for Galaxy, with an 8.0-inch inner and 6.5-inch outer display and adaptive 120Hz refresh. Samsung lists an approximately 215g weight, 4.1mm unfolded and 8.9mm folded thickness, excluding the camera module. Cameras include a 200MP main, 50MP ultrawide and 10MP telephoto, with a 5,000mAh battery and 45W wired charging.",
+        "Tiantong satellite voice and messaging require activation of the operator’s corresponding service. The launch report lists a year of direct satellite functionality, 300 voice minutes and 100 text messages; eligibility and charges remain subject to the operator. A future entitlement of 200 million China Telecom tokens is a later claimable benefit, not necessarily credited in full on purchase day. Prices are public list prices, before government subsidies or store promotions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-de14093971c948861b67541a",
+      "source_sha256": "0f009193e077b1f253d88e5c136194b4d72a9923e7f4c98084081c6c881b82db",
+      "paragraphs": [
+        "At its third-quarter earnings call on November 13, SMIC said it expects full-year 2026 sales above $12 billion. **Fourth-quarter guidance calls for 4%–6% sequential revenue growth and a 26%–28% gross margin.** Co-CEO Zhao Haijun said capacity released by weaker smartphone and some consumer orders is being shifted to specialty memory, BCD and other higher-demand, higher-value products. The full-year and fourth-quarter figures are management forecasts.",
+        "The unaudited IFRS report released on November 12 shows third-quarter 2026 revenue of $3.190 billion, up 6.1% sequentially and 33.9% year over year. Gross margin was 29.9%, versus 25.3% in the preceding quarter, and capacity utilization rose from 93.7% to 97.3%. Thus, although fourth-quarter margin guidance is similar to the earlier guidance range, it is below the 29.9% actually achieved in the third quarter.",
+        "Under the A-share reporting basis in renminbi, July–September 2026 revenue was RMB21.983 billion, up 28.1% year over year, and net profit attributable to listed-company shareholders was RMB2.847 billion, up 87.6%. First-nine-month revenue and attributable net profit were RMB60.618 billion and RMB7.314 billion. The accompanying table uses thousands of renminbi; these figures must remain separate from IFRS dollar amounts and growth rates.",
+        "Zhao expects foundry capacity to remain tight in 2027. AI-related memory demand may gradually reach balance in mid-to-late 2028, while other computing and supporting chips could remain constrained. Longer equipment lead times could also disrupt execution of next year’s capital spending. These are the company’s supply-and-demand judgments; its fourth-quarter guidance also incorporates pressures from depreciation, raw materials and additional engineering and R&D wafer starts."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-36f92db6af072c249f9d8e89",
       "source_sha256": "fb312edfdd8d80535cb9f5261876b06159918869ad11fd23408450c569be29ce",
@@ -9,6 +66,17 @@
         "At its 25th-anniversary FanFest in Seattle, Xbox officially confirmed that **Wolfenstein 3 is in production at MachineGames**. Brian Bloom and Debra Wilson will reprise BJ Blazkowicz and Grace Walker respectively. This moves the sequel beyond rumor, but the announcement provides no release date, complete platform list or public-demo arrangement.",
         "The event also revealed new Fable quest gameplay, including magical combat against cursed creatures and story clues. Microsoft said FanFest attendees could play it that evening, with a later official podcast featuring Playground Games to explain the footage. This is access for event attendees, rather than a downloadable demo available to everyone.",
         "Halo: Campaign Evolved plans to add the cooperative survival mode Firefight in a free winter update, with attendees able to try it first. Xbox also confirmed that id Software’s next project is in development, without naming or dating it in the recap. These are separate stages—production confirmation, gameplay demonstration and forthcoming content updates—not declarations that all this new content has fully launched."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7cc870f30d9f0c7973025266",
+      "source_sha256": "88710f45f6f9f3bcbefce7c1ba26a7a2d7a0b44107c1c830ed5ddf86c7e73538",
+      "paragraphs": [
+        "China’s Foreign Ministry announced on November 13 that **the 33rd APEC Economic Leaders’ Meeting will take place in Shenzhen on November 18–19**, under the theme “Building an Asia-Pacific Community to Prosper Together.” Xi Jinping will chair the meeting and deliver remarks, host a welcome banquet for leaders or representatives of participating economies, and hold bilateral meetings with foreign leaders.",
+        "The related APEC CEO Summit is scheduled for November 17–18, also in Shenzhen, under the theme “Promoting Prosperity Together, Winning the Future Together.” Xi will attend its opening ceremony and give a keynote speech. The two events have different names, agendas and dates; the CEO Summit does not mean the Economic Leaders’ Meeting is opening early.",
+        "Japan’s government separately announced that Sanae Takaichi plans to visit the Philippines and China on November 16–19 for ASEAN-related meetings and APEC, marking her first visit to China as prime minister. Japan says discussions will cover trade and investment, regional integration, economic and energy resilience, and the digital economy. Announced travel and summit schedules do not establish that a particular China–Japan bilateral meeting has been finalized or that the meetings have already produced results."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -31,6 +99,41 @@
         "Netflix announced that the Korean drama **Tantara will premiere on December 11**. Its 22 episodes will arrive across three Fridays: episodes 1–8 on December 11, 9–15 on December 18 and 16–22 on December 25. A teaser trailer and poster have also been released. This is a staggered release for one new series; the three batches do not represent three seasons.",
         "Set in Korea’s entertainment industry from the 1960s through the 1980s, the story follows people from modest backgrounds seeking a foothold in the recording and show-business worlds. Song Hye-kyo plays Min-ja, Gong Yoo plays Dong-gu, Kim Seol-hyun plays Min-hui and Cha Seung-won plays Seok Gil-yeo. The teaser follows childhood companions Min-ja and Dong-gu into the recording industry after they discover Min-hui’s singing talent, alongside competition and changing relationships.",
         "The series is written by Noh Hee-gyoung and directed by Lee Yoon-jung for Netflix. Available information establishes the project, characters and release schedule. At the time of this edition’s checks, the December premiere window had not arrived and there was no ratings sample establishing reception of the finished series. The teaser’s promotional positioning does not substitute for audience or critical assessment of the complete drama."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9bf4b1ea9250a2f54ac66449",
+      "source_sha256": "66ba54478da10436fe78b873a457a1e13a03be5ff35d36a8abaf5a581a629197",
+      "paragraphs": [
+        "Axelera AI disclosed its third-generation **Titania** data-center inference architecture, combining two compute chiplets in a system-in-package with 128GB of LPDDR6 memory. Production is planned for the third quarter of 2027, and the company reports more than $300 million in customer deployment commitments. Those commitments are not delivered hardware or recognized revenue.",
+        "Titania continues the Digital In-Memory Computing, or D-IMC, approach, targeting sparse mixture-of-experts models and interactive inference in formats including PCIe accelerator cards and OAM modules. The Voyager stack is intended to support tensor, expert and pipeline parallelism, speculative decoding and KV-cache offloading, extending the Metis and Europa software foundation to the next generation.",
+        "The vendor’s AX8 reference-server target comprises eight accelerator packages, 20 PFLOPS of FP8 compute, 1TB of accelerator memory and 19.6TB/s of aggregate bandwidth in a 4U air-cooled chassis, at 5–6kW typical power. Holding a 1.6-trillion-parameter model at FP4 is also a design target.",
+        "Axelera additionally claims up to seven times the throughput per watt of some data-center servers and total ownership costs as low as one-twentieth, but these are the publisher’s performance expectations, not independent testing of delivered systems. This milestone is architecture disclosure and a subsequent production plan, not an already completed mass-market launch."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-705a293f07886291804b46eb",
+      "source_sha256": "da7fba1bf9e414d7b06a096ded20fc2b96e8487ed83edeb6efd42a8ad6af9e7f",
+      "paragraphs": [
+        "Multiple Microsoft 365 business services suffered connectivity problems. The public status entry **still showed “Service degradation” in its 12:11 Beijing-time update on November 13**. Microsoft was investigating sustained traffic-management imbalances, affected infrastructure and routing improvements. An earlier change intended to improve service had not taken effect as expected. Microsoft said there was no indication that the incident resulted from malicious activity.",
+        "Exchange Online users may be unable to access mailboxes through Outlook on the web, desktop Outlook, Exchange ActiveSync or REST connections, and email delivery may be delayed. Copilot may fail to load chats, return answers or access work email, calendars and files. Some admin-center pages and Microsoft Graph requests depending on Exchange data are also affected.",
+        "The business-incident notice says most core Teams calling, meeting, group-chat and channel-message functions remain available, as does access to files stored directly in SharePoint. A separate **consumer-incident update at 12:14 Beijing time** lists Outlook.com, OneDrive, OneNote, To Do, Teams and Microsoft 365 for the web as potentially affected and says recovery options are being tested. The overall consumer incident is marked as degraded even though some individual service cards still show normal operation. Microsoft has not announced full recovery from this outage.",
+        "Early in the incident, Microsoft said some servers had failed automated health checks and become unavailable, increasing load on remaining infrastructure. It paused deployments and configuration changes and tried alternative checks and restarts. An AP report carried by NPR Illinois said Outlook problem reports exceeded 130,000 at one point. Report counts are not unique affected people, and resolution of an individual Teams incident does not establish that the broader business-service incident has ended."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3013f18648030bbce2d59645",
+      "source_sha256": "600810d7b84e788845620bf59d36a3eaaf0be1d3282fe3cc2f01bb3a88305f13",
+      "paragraphs": [
+        "Starry Studio revealed gameplay for Once Human’s fifth season, **Dissonant Resonance**, confirming a free-to-play PS5 launch on November 18. Its central additions link sound, emotion and cooperative combat. This is a substantial seasonal-content announcement rather than a routine maintenance patch, and November 18 remains a future launch date.",
+        "The open world gains four Emotion Zones: Joy, Anger, Sorrow and Fear. Defeated enemies scatter musical notes. Shooting them creates battle rhythms and lets players collect and rearrange corrupted scores for squad rewards. A skyborne Colossus reacts to those rhythms and can trigger a rift entrance after descending and lingering under the required conditions.",
+        "The rift leads to a four-player Colossus Raid. The boss changes the battlefield’s rhythm, while players silence glowing resonating pipes in a ruined cathedral and interrupt the melody before its deadly conclusion. The new Deviant, Silent Statue, absorbs elemental energy from combat and, once its conditions are met, repairs itself and spreads golden wings to grant an elemental squad buff. These mechanics are developer disclosures. This page confirms the PS5 date and does not establish separate unlock times for other platforms."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -149,6 +252,17 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-c1709f1cfd1cab7e66ab2c1a",
+      "source_sha256": "066ed7ef0f3a1c2cc97fe3aa2989f9e5aa5829085b93ed435eb374c6b345ceb8",
+      "paragraphs": [
+        "China’s State Council held its 22nd thematic study session on November 12 on a multi-tiered social-security system. Li Qiang called for **wider enterprise-annuity coverage and a more attractive personal-pension system**, alongside commercial health insurance and orderly development of long-term-care insurance. Xinhua issued its report that evening. These are policy priorities and work assignments, not a newly effective uniform contribution schedule.",
+        "Addressing changing employment patterns, the directions call for better social-security arrangements and gradually higher enrollment for flexible workers, with stronger protections for people in new forms of employment. They also call for improved urban and rural resident pension protection, effective unemployment insurance, and tiered social assistance and welfare.",
+        "For financial sustainability, the directions include implementing nationwide pooling of employee pensions, advancing provincial pooling of basic medical insurance, stronger fund oversight and value preservation, and updating relevant laws as circumstances change. The report provides no uniform implementation date, specific subsidy amounts or numerical personal-pension benefit adjustments for these expansions. Enterprise annuities, personal pensions and basic pension insurance are distinct tiers."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-cfb4faa8387b692a9ae25886",
       "source_sha256": "9ac59dc949618d284f49475259dffe16ab533aee8d3028127ea2f8443cebf084",
       "paragraphs": [
@@ -166,6 +280,17 @@
         "The GrapheneOS team said on November 11 that Android 17 QPR2 had added memory tagging extension support for Pixel 11, and that MTE worked in its QPR2 port. **The security-feature obstacle is resolved, but formal device support remains forthcoming**, rather than a stable release already installable by every user.",
         "MTE uses memory tags to help detect and block some memory-error exploitation and is an important GrapheneOS requirement. The team said its Pixel 11 port was nearly complete about a week after the devices launched but was stopped by unavailable MTE. The change is upstream software enabling the required support, rather than new physical components appearing in the phones.",
         "The team says its Android 17 QPR2 port is nearly finished; Pixel 11 can follow its rollout to other devices. Completing Motorola Signature 27 support is another subsequent priority. No specific Pixel 11 stable-release date was given. The team also says the entire Pixel 10 series is already supported, while Pixel 11 and Signature 27 still have release and porting work to complete."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8976f98aa96b953506f336e3",
+      "source_sha256": "382fffe2a1ead8e4ee64fc1761410585658f45490cb4755e2486caacb46d2987",
+      "paragraphs": [
+        "Penguin Solutions announced the SMART **CXL-8F2W-D4** memory add-in card on November 12. It supports up to eight DDR4 RDIMMs and uses CXL to add system-memory capacity to compatible servers. Based on a Marvell StructeraX controller, it targets capacity-intensive workloads such as AI inference and in-memory databases. Eight DIMM slots do not automatically mean eight independent memory channels.",
+        "The approach reuses DDR4 recovered from earlier-generation servers as an alternative source of capacity for newer systems, rather than requiring all expansion to use newly purchased DDR5. It does not insert DDR4 directly into DDR5 sockets; the card and a compatible CXL platform present additional memory to the host.",
+        "The company also provides memory recovery and revalidation: customer-owned modules undergo inspection, functional testing and qualification, then are installed and validated in a compatible host before delivery. Penguin says the card is available for qualified customer opportunities on compatible CXL 2.0 platforms. The announcement supplies neither a universal retail price nor a performance improvement applicable to every server."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -422,6 +547,17 @@
         "With Gemini built in, users can ask about visible objects, summarize a captured whiteboard, translate menus, obtain Google Maps turn-by-turn navigation, and handle notifications, calls and voice replies. Hardware includes a 12MP HDR camera, open-ear speakers, four microphones and Snapdragon AR1 Gen 1. Split computing with Galaxy phones offloads part of the processing to the connected device.",
         "Samsung gives an approximate weight of 41 grams, varying with frame, configuration and lenses. It claims up to nine hours of battery life per charge and up to 72 hours including the charging case. These are figures under manufacturer conditions; continuous recording, calling and AI interaction cannot be assumed to achieve those upper limits.",
         "An external LED lights during photo or video capture, with safeguards designed to disable camera capture if the indicator is covered or malfunctioning. Samsung says Gemini automatically redacts bystanders’ faces in visual processing and does not use that visual data for model training or ad targeting. The devices are intended for users aged 18 or older and require age verification for activation. Mainland China is not among the stated launch markets, and preorder availability does not mean the products are already in stock."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-db014cf9033b64c490ae1bd1",
+      "source_sha256": "db5506f782912f8ff79a1b3295aad9203b90254dab6b80b00130ab132a49299f",
+      "paragraphs": [
+        "Noctua introduced the **NT-CP1 AM5/4 carbon-nanotube thermal pad** on November 12 local time for AMD AM5 and AM4 processors. It measures 33×33mm and is 90 micrometers thick. Suggested retail prices are $24.95 and €24.95 respectively. Official Amazon stores begin sales immediately, with other partner retailers receiving stock later; these are not subsidized Chinese-market prices.",
+        "Using Carbice technology, the pad combines carbon nanotubes, a phase-change polymer coating and an aluminum backbone. Noctua says the first few hundred to few thousand thermal cycles improve conformity to microscopic surface irregularities and heat transfer, followed by long-term stability after initial activation. These are the manufacturer’s mechanism and longevity claims; the announcement does not supply a universal temperature reduction for every CPU and cooler.",
+        "The tacky polymer coating helps hold the pad during installation. The manufacturer’s statement about electrically non-conductive surfaces is limited to the condition before use with the coating unpenetrated, not insulation in every situation. The current shape and validation scope target AM5/AM4, rather than arbitrary processors, graphics-memory chips or component gaps."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3345,67 +3481,12 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-05f006a5efd4816d6fac8220",
-      "source_sha256": "2baa33f362ef1456b734fbcfe9333c098efa8799f3456f52a121c2adcb5983ca",
-      "paragraphs": [
-        "Hong Kong Observatory reported on November 3 that October 2026 had a mean daily maximum temperature of 30.5°C, a mean temperature of **27.6°C** and a mean daily minimum of 25.8°C. These were 2.4°C, 1.9°C and 1.9°C above their respective normals. All three set October records for Hong Kong, indicating persistent warmth across the month rather than a single extreme day.",
-        "The Observatory’s highest temperature was 33.6°C on October 1 and its lowest 23.3°C on October 6. October 23 reached 32.3°C, the warmest recorded Frost solar term. Monthly rainfall was 81.0 mm, about 67% of the 120.3 mm normal, although accumulated rainfall through October, 2,532.9 mm, remained about 7% above the normal for that period.",
-        "The Observatory linked the warmth to a weaker northeast monsoon and stronger upper-air anticyclone over southern China, against a backdrop of climate warming and a strong El Niño. It forecasts that this El Niño may persist into early next year. Eight tropical cyclones occurred in the South China Sea and western North Pacific in October."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-8aed23f142aaf93c17635f5e",
-      "source_sha256": "c097bbe76d545211fd6c656a151a5aaa318440c4d8fc75b6a422d93c69f1da79",
-      "paragraphs": [
-        "Samsung announced on November 3 that its upgraded Sleep Apnea feature is extending through Samsung Health Monitor to Galaxy Ring and compatible Galaxy Watches. The company says the algorithm adds information about the level of breathing disruptions during sleep, beyond risk assessment. The upgrade received US FDA clearance in July and Korean MFDS approval in October.",
-        "It is intended for **users aged 18 or older who have not previously been diagnosed with sleep apnea**, requiring two valid nights of monitoring within ten days to detect signs of moderate-to-severe apnea. It is a risk-screening tool, not a replacement for clinical diagnosis or treatment.",
-        "The watch compatibility note specifies **Galaxy Watch9** running Wear OS 7.0 or later. Watch7 and Watch8 support is planned through future updates. Samsung says it will expand availability further, but this announcement does not confirm a China rollout date or compatibility with vivo phones."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-13877977cb537fbc8095123b",
       "source_sha256": "59f175cad7c6a2d4ba28a8abde8acd11836da1a1fc4b5bbc9808f35383221ced",
       "paragraphs": [
         "Netflix formally renewed **The Beast in Me for Season 2** on November 3. Claire Danes returns as writer Aggie Wiggs. John Goodman joins as her father Jack, with Lili Taylor as her stepmother Fiona. A release date for the second season has not been announced.",
         "Howard Gordon and Daniel Pearle will serve as co-showrunners. The season is the first project under Gordon’s new exclusive creative partnership with Netflix. Announced executive producers include Danes, Gordon, Pearle, Antonio Campos, Gabe Rotter and Jodie Foster.",
         "Season 1 is an eight-episode series from 2025. Netflix says it debuted atop its global shows chart, reached the top ten in 88 countries and recorded 43 million views in seven weeks. It received 21 Emmy nominations, and Matthew Rhys won lead actor in a limited or anthology series. **Those achievements concern Season 1, not review scores for the unreleased second season**."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-90ee5b5541c94a5f3b3b5795",
-      "source_sha256": "677df3f956b3350c4690e6c61b172bf2d0841df20a31d9a2bc66cfdf0bdbe3c2",
-      "paragraphs": [
-        "At its infrastructure briefing on the morning of November 4, China's National Development and Reform Commission set transport safety and capacity goals for the 15th Five-Year Plan period. By 2030, it aims to achieve **100% monitoring and early-warning coverage for key at-risk road sections and bridges, and complete reinforcement, upgrading or remediation of about 2,000 aging or unsafe railway bridges**. Measures include safety redundancy, disaster-resistant design, stronger monitoring and early warning, emergency rescue capacity and a transport resilience improvement program.",
-        "The commission also aims to complete 95% of the main framework of the national integrated multidimensional transport network by 2030, and achieve a 90% rate of intermodal transfers completed within one hour at key integrated freight hubs. Plans include about 25,000 kilometers of digitally enabled transport corridors and 35,000 kilometers of zero-carbon transport corridors. Infrastructure priorities cover coastal, border and river routes as well as major links into and out of Xinjiang and Tibet. Private companies will be supported in participating fairly in major transport projects, alongside renewal of aging facilities and capacity expansion at constrained ones. These figures are construction targets, not work already completed.",
-        "For the national water network, the commission said 35 of the 40 main water-transfer and drainage corridors had been completed or were under construction, as had 473 of the 588 major water-regulation and storage nodes. The 15th Five-Year Plan includes more than 400 major projects across nine types in flood mitigation, water supply and irrigation, and aquatic ecosystem restoration and protection. Projects will advance in stages, from completion and accelerated construction to groundbreaking, preparatory work and feasibility studies. Financing measures include maintaining an appropriate level of central investment, attracting private and other non-government capital, and promoting additional water infrastructure REIT listings."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-4ce6008799f40b0dcbf5c7b2",
-      "source_sha256": "710459015a829bd979a41e394857fc0ef937888e9324eea111270691fdaa86b7",
-      "paragraphs": [
-        "Phantom Blade Zero ranked first on Steam's global weekly top-sellers chart. Valve's official chart covered **October 27 to November 3, 2026**. The game climbed two places from the previous week, ahead of Call of Duty: Modern Warfare 4, and remained first when revenue from free-to-play games was included. VGChartz published its report on the chart on November 3.",
-        "The ranking is based on revenue and includes sales such as preorders. It measures commercial performance on Steam during that week, rather than copies sold, and does not represent a PS5 ranking. S-GAME had previously announced publicly on social media on November 2 that the game had sold more than four million copies within 72 hours of launch; GamesRadar+ reproduced and cited that announcement. The publisher's sales milestone and a single platform's weekly revenue ranking use different measures.",
-        "The top six on the full revenue chart were Phantom Blade Zero, Call of Duty: Modern Warfare 4, AION 2, CS2, Dota 2 and PUBG: Battlegrounds. New indie entry Probably Stolen - Cyberpunk Shopkeeper Sim placed seventh, or third when free-to-play titles were excluded. Including or excluding free-to-play games changes the positions below the leader, but not Phantom Blade Zero's first-place finish for the week."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-0bb189f6997ac9dd12066dce",
-      "source_sha256": "15dbb3e31c74f0b68ac1448a67a5e229c4795ecb458a7dbaa5a443777fdcced0",
-      "paragraphs": [
-        "China's State Administration for Market Regulation launched a national trusted-consumption platform on November 3, accessible through the Xiaofeicha mini-program. **The initial group included more than 10,000 participating business units and 100 designated consumer-business clusters**. Coverage spans eight types of units, including retail, catering, accommodation and tourism, and seven types of clusters, including shopping districts, markets and tourist attractions. The platform brings business commitments, operating information, consumer reviews and regulatory removal procedures into one service.",
-        "After registering, making commitments online and undergoing verification and public disclosure, businesses can participate in the commitment scheme and receive a unique store-specific code and a national identifier. Initial integrations include Baidu Maps, Meituan Delivery, Taobao Instant Commerce and JD Delivery. Consumers can view business licenses, store photographs, after-sales arrangements and specific commitments, and use navigation, star ratings and telephone contact functions. Nearby participating businesses are displayed based on location.",
-        "The platform uses ongoing oversight. If a business breaks the law, engages in dishonest conduct, refuses to honor its commitments, or deliberately rejects or evades reasonable consumer requests, local market regulators can order its removal after verifying the case and withdraw its physical code and identifier. The administration said it would expand industry coverage; functions such as one-click settlement and financial support remain planned upgrades."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -3444,83 +3525,6 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-f762eb70e6b46fa847de8f79",
-      "source_sha256": "559164bc9ea36f6c31e2b2e439587cdb6f86dc5775973ddd362d88e794b6fa32",
-      "paragraphs": [
-        "BBC reported on 2 November that Trump has informed Congress that he intends to revoke the preferential status of South Africa and Rwanda for participation in the African Growth and Opportunity Act (AGOA) starting January 1, 2027. This arrangement allows qualifying African countries to export thousands of products to the United States duty-free; therefore, the change involves specific preferential access and does not equate to a complete ban on the import of goods from both countries.",
-        "A report cited a statement by US Trade Representative Gil, stating that the annual review found that practices of both countries did not meet the qualification criteria, and the US has already issued notifications to both countries. The reasons listed by the US involved trade and investment barriers, national security, and foreign policy; for Rwanda, human rights, rule of law, and labor rights issues were raised, while for South Africa, concerns about corruption were also mentioned. These are the reasons the US presented in its annual qualification review.",
-        "For export companies, changes in preferential qualification may alter tariff costs and supply chain decisions, but the actual impact still depends on the product's HS code, origin rules, final implementing documents, and subsequent negotiations. The reported article did not provide complete data to calculate all export losses, and therefore cannot assert that the economic decline of both countries will be significant based on the notified amount. As of early November 3 in Hong Kong, the report describes the future effective arrangements."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a24fe88ac870f744871c4b19",
-      "source_sha256": "4c9c837c08eb1f43837621f2154fc8fdf10fb2aa4edc1ce9ba59792c6be96e2c",
-      "paragraphs": [
-        "OpenAI announced on November 2 that it has adjusted the reward for security vulnerabilities: the midpoint average of the medium-risk, high-risk, and critical vulnerability reward ranges has been increased to more than four times the original. The base maximum reward for critical vulnerabilities in core products such as ChatGPT, Codex, and the API platform has been raised to $30,000, with particularly critical discoveries still being able to receive up to $100,000. When combined with rewards for quality, long-term collaboration, and key events, the example maximum is approximately $172,000. These are the upper limits of the rules and illustrative examples, not the amounts actually paid to each reporter.",
-        "The new mechanism emphasizes high-quality reports that are reproducible, can isolate triggering conditions, and demonstrate actual impacts, while introducing a tiered long-term collaboration reward system and short-term focused activities bonuses. Reports that have been submitted but not yet awarded are subject to the new standards; discoveries that were awarded within 30 days prior to the announcement and could have received higher base and long-term collaboration rewards under the new standards will have the corresponding differences replenished.",
-        "On the same day, another statement announced that the company is preparing for the next internal security sprint and is collaborating with external researchers from Cathedral to use models to find vulnerabilities, reproduce issues, and test patch solutions. OpenAI noted that the previous sprint had allocated 25% of its product engineers. The new round is currently in the preparation and collaboration phase, and its significance lies in connecting external reports with internal continuous verification. The company has not yet released the list of fixes completed in the new round."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-139b15d46f32cac57086b31f",
-      "source_sha256": "1a32bd5e35a11860679649bab890b92e9a845fa39980cccf0c215d94de1e4313",
-      "paragraphs": [
-        "Xbox Wire on November 2 reported that \"World of Warcraft: Forever\" is planned to be released for PC players on November 4, featuring official support for the Gamepad (Alpha) controller. It is based almost entirely on the classic in-game world of Azeroth from 2004, with added new stories, regions, and features, and is included within existing subscriptions without requiring a separate purchase for this experience; the article published on the Xbox website does not indicate that a console version has been announced.",
-        "The hand controller mode can be enabled in the options, switching the interface to corresponding key icons, allowing the trigger and shoulder buttons to switch action groups. The article demonstrates a compact action bar, backpack, and task access, as well as attack, warning, forward, and assistance markers that can be called up by holding the right analog stick. The author believes this makes gaming on a home computer more akin to console operation, but when communicating with other players, it is still common to rely on keyboard or voice.",
-        "The article also records the experience of running Battle.net on the ROG Xbox Ally running Windows 11: it requires first using the touchscreen and on-screen keyboard for part of the navigation, then enabling the controller functionality and adjusting the chat box and status box. This mode of operation for a handheld device has not yet received official complete support, and the controller functionality itself is still in Alpha. The release date, test feature status, and the author's personal experience correspond to information at different levels."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-08708f33d70dd96e8830e58d",
-      "source_sha256": "4c3653f74287c5bf59ca6e3443aec976a3a9d37792ad4122f35dc08e81492eed",
-      "paragraphs": [
-        "Valve has announced the CS2 invite rankings as of November 2, with MOUZ leading at 1960 points, Vitality at 1922 points, and FURIA at 1912 points. NAVI is ranked 13th, Liquid is 21st, and 100 Thieves is 23rd. This ranking is Valve's event invite benchmark and is not the independent ranking of the HLTV. This version of the ranking is also used for the invite process of events such as the Singapore Major, Cluj-Napoca, and the first season of BLAST Bounty 2027.",
-        "The qualification report for HLTV lists the 32 teams qualifying for the Singapore Major and their phased entries: 18 spots from Europe, 9 from America, and 5 from Asia. The third stage includes MOUZ, Aurora, BETBOOM, FURIA, Vitality, Spirit, Falcons, and Legacy; NAVI, G2, Astralis, and The MongolZ began their entries from the second stage, while Liquid, FaZe, 100 Thieves, and Lynn Vision began their entries from the first stage.",
-        "The report states that the victory of 100 Thieves in FiRe Last Chance determined the last European spot, Wildcard secured the last spot in the Americas, and the last spot in Asia was awarded to Lynn Vision. These are invitations and the preliminary stages, not the results of the competition that have already advanced. The event is scheduled from 24 November to 13 December, with the knockout rounds held at the indoor stadium in Singapore, and the final is planned as a best-of-five match, with a third-place match also scheduled."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ec5ed8244097f3708e8c6980",
-      "source_sha256": "d230e3f8f6a7c93c0422eb2a80061c8b1a2b1df7219c64a1862a88607e581f49",
-      "paragraphs": [
-        "Independent developer Philipp Jensen introduced Derelict on November 2nd on PlayStation.Blog, confirming that the PS5 version is planned for release on November 13th. The story is set in a small asteroid orbiting Saturn that has an unusual attachment to the Von Neumann outpost, where players take on the role of an external contractor investigating a missing excavation team; the conflicting accounts of facility malfunctions and survivors create a sense of unease during the exploration. This is a developer presentation before the official release, not a completed media review.",
-        "The gameplay is not solely based on shock and shooting. The original text lists resource management, exploration, dialogue, and traditional puzzle-solving as core elements, and also introduces traditional weapons, experimental equipment, and over a dozen interactive characters, each with their own secrets and purposes. The developers aim to create pressure through unreliable information and limited resources, and the specific balance and completion of the flow will have to be experienced by players firsthand.",
-        "Visually, the work deliberately imitates the late era of the original PlayStation: hand-drawn textures, vertex color lighting, affine texture distortion, and pre-rendered CG cutscenes. It also allows for adjustments to certain retro effects. The pre-order discount is based on the arrangement of the linked store at the time, and prices, languages, and availability vary by region and are subject to the corresponding store's offerings. The PS5 release date cannot be automatically applied to other platforms."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6fe9435d92fbcb1c2aa4532e",
-      "source_sha256": "17e9def70ff36324358a6dfe01b1dc92e3ad46ae0f7fed5c74068e81f783eed9",
-      "paragraphs": [
-        "HLTV reported after the match on November 2 that NAVI beat Falcons 2-0 in the opening round of the IEM Beijing group stage, winning Ancient 13-5 and Mirage 13-11. On the first map, w0nderful recorded a reported rating of 2.24 and a round swing of 13.39%. These figures apply to particular maps in this series and to that statistical system; they are not his averages for the entire event or year.",
-        "Other completed matches in Group A included FURIA defeating FaZe 2-1, HEROIC defeating B8 2-0, and The MongolZ defeating Legacy 2-1. Falcons will then compete against FaZe in the losers' bracket, while NAVI enters the winners' bracket to face FURIA.",
-        "In the B group, Liquid2 defeated Aurora 2-0, PARIVISION2 defeated G2 2-1, BETBOOM defeated 9z 2-1, and MOUZ defeated TYLOO 2-0. As a result, Tianlu needs to continue seeking opportunities by advancing from the losers' bracket, with its next opponent being 9z; Aurora and G2 also entered matches with higher elimination risks. The website will display the match schedule clock according to the access settings, but in this case, it did not publish the unapproved Beijing Time zone. The above match results have been verified up to 3 November in Hong Kong in the early morning, and do not represent the final standings of the entire event."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d43040406b3a7d375c010887",
-      "source_sha256": "4cac274605e65d0b41fbeb14a35c6413c7b42156adb09a5c86542b0259fd4790",
-      "paragraphs": [
-        "PlayStation.Blog released on 2 November a character introduction for \"Godzilla: Destroy All Monsters Melee Remastered,\" listing 12 playable monsters along with their movements, numerical tendencies, and special abilities. The article notes that the PS5 release date is set for November 3, but does not provide specific unlock times for each region's store. Current information remains subject to the status of the corresponding region's store.",
-        "The Heisei Godzilla is balanced, with high starting health, and its tail and close-range combo are suitable for direct play, but the high-energy pulse has a slow charge-up time; the Millennium Godzilla sacrifices some power for speed. The King of the Monsters (Kingoidra) is good at long-range control, and flying consumes energy, and its close-range performance is limited by its size and body. The Ankyloraptor's backstab block can harm the attacker and is more focused on defensive counterattacks; the MegaLoader can dig underground to evade and grab, but has weaker defense.",
-        "The lineup also includes Gai Gang, Destroia, Laton, the Mechanical King Godzilla, the Mechanical Godzilla, Ogatsu, and the Machine Dragon. They respectively highlight rushing, heavy mid-range suppression, mobility, grabbing, or weapon configuration, with energy consumption often being a trade-off with speed. This is an official introduction of the character mechanics, and no independent media scores or cross-platform performance tests are provided on this original page."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
       "article_id": "article-76fcce72efd8a6226305bcfa",
