@@ -1,7 +1,164 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T09:14:13.318Z",
+  "generated_at": "2026-11-13T01:23:17.718Z",
   "translations": [
+    {
+      "article_id": "article-36f92db6af072c249f9d8e89",
+      "source_sha256": "fb312edfdd8d80535cb9f5261876b06159918869ad11fd23408450c569be29ce",
+      "paragraphs": [
+        "At its 25th-anniversary FanFest in Seattle, Xbox officially confirmed that **Wolfenstein 3 is in production at MachineGames**. Brian Bloom and Debra Wilson will reprise BJ Blazkowicz and Grace Walker respectively. This moves the sequel beyond rumor, but the announcement provides no release date, complete platform list or public-demo arrangement.",
+        "The event also revealed new Fable quest gameplay, including magical combat against cursed creatures and story clues. Microsoft said FanFest attendees could play it that evening, with a later official podcast featuring Playground Games to explain the footage. This is access for event attendees, rather than a downloadable demo available to everyone.",
+        "Halo: Campaign Evolved plans to add the cooperative survival mode Firefight in a free winter update, with attendees able to try it first. Xbox also confirmed that id Software’s next project is in development, without naming or dating it in the recap. These are separate stages—production confirmation, gameplay demonstration and forthcoming content updates—not declarations that all this new content has fully launched."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-66da9ef169d533ac04d17bd1",
+      "source_sha256": "1f17c54b4254ef99e2ab890443b8f5ada72eefa5841682c6fc7f415eccf73542",
+      "paragraphs": [
+        "The Hunger Games prequel **Sunrise on the Reaping is scheduled for theatrical release in mainland China on November 20, the same day as North America**. The regional date was announced with a mainland-China release poster and Chinese-subtitled trailer. This is a cinema release window, not a launch date on Netflix or another streaming platform.",
+        "Adapted from Suzanne Collins’s novel, the film is directed by returning filmmaker Francis Lawrence and written by Billy Ray. It focuses on 16-year-old Haymitch Abernathy and the 50th Hunger Games, the second Quarter Quell. Set approximately 40 years after The Ballad of Songbirds and Snakes, it is another prequel in the same fictional world rather than a sequel to the original four films.",
+        "IT Home reports a runtime of 158 minutes, or two hours and 38 minutes. The newly released material mainly shows the competition’s setting and the characters’ circumstances, with one week remaining before the November 20 premiere. This edition confirms the mainland-China release date and project information; there is not yet a sufficient sample of finished-film reviews to establish strong reception, and earlier films’ ratings cannot be applied directly to this one."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7c891113b6700bf715b2a862",
+      "source_sha256": "6f9aaf94de3a594a135c81ab9dc444013b2e67f48fb49a0b4431bb61f4b9fa7c",
+      "paragraphs": [
+        "Netflix announced that the Korean drama **Tantara will premiere on December 11**. Its 22 episodes will arrive across three Fridays: episodes 1–8 on December 11, 9–15 on December 18 and 16–22 on December 25. A teaser trailer and poster have also been released. This is a staggered release for one new series; the three batches do not represent three seasons.",
+        "Set in Korea’s entertainment industry from the 1960s through the 1980s, the story follows people from modest backgrounds seeking a foothold in the recording and show-business worlds. Song Hye-kyo plays Min-ja, Gong Yoo plays Dong-gu, Kim Seol-hyun plays Min-hui and Cha Seung-won plays Seok Gil-yeo. The teaser follows childhood companions Min-ja and Dong-gu into the recording industry after they discover Min-hui’s singing talent, alongside competition and changing relationships.",
+        "The series is written by Noh Hee-gyoung and directed by Lee Yoon-jung for Netflix. Available information establishes the project, characters and release schedule. At the time of this edition’s checks, the December premiere window had not arrived and there was no ratings sample establishing reception of the finished series. The teaser’s promotional positioning does not substitute for audience or critical assessment of the complete drama."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4da1c39c5ef5e07b063411f0",
+      "source_sha256": "ef0e1170c229c2f894bb1c002aeaf7cf8224f82715cc035882d697b688ec88f1",
+      "paragraphs": [
+        "Microsoft added 21 original Xbox titles to its PC backward-compatibility program on November 12, bringing the total to **25 games**. Additions include The Elder Scrolls III: Morrowind, both Star Wars: Knights of the Old Republic games, two TimeSplitters titles and Star Wars: Republic Commando. These are compatibility releases of older games, not launches of new remakes sharing their names.",
+        "The additions join BLiNX: The Time Sweeper, Conker: Live and Reloaded, Crimson Skies: High Road to Revenge and Fuzion Frenzy, which were already available on PC. Microsoft says performance and stability have improved for the first four titles and every game in the compatibility library now supports mouse and keyboard.",
+        "Both KOTOR games, BLiNX and Conker also gain achievements. These apply on Xbox One and Xbox Series consoles as well, requiring the latest system update; some may unlock from existing progress. PC access requires Windows 11 and is limited to supported markets, with features varying by game. Some titles are available through Game Pass, while others may require purchase; having 25 playable games does not make all 25 free or included in the subscription."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-77ce22269d7fa4ed6e1bfced",
+      "source_sha256": "b0d805eb41de3473b67d522e15e1ddcb7d392c097dd0a676cf462b5ebfac0f43",
+      "paragraphs": [
+        "Google released five tools designed by visual creators for its AI creative studio Flow on November 12. They span story concepts, character development, visual styles, optical effects and video processing. **This update is a set of usable creative tools**, rather than another release of model weights.",
+        "James Gerde’s Character Poster turns story concepts into stylistically consistent posters. Anurag Tiwari’s Character Arc depicts a character at different ages and life stages while preserving key identifying features. His Pixel Machine converts images into bitmap, ASCII, CRT-display, pixel-art and glitch styles. Ezra Paulekas’s Lucid Glass produces prisms, halos, refraction and optical blooms as stylized lens effects.",
+        "Ryan McCoy’s Pocket Studio works with phone footage, generating multiple camera angles from one take and improving visual presentation. Google says it can preserve the actor’s original performance; the additional viewpoints remain generated outputs rather than proof that multiple cameras recorded the scene. The announcement does not separately list a uniform price or complete regional eligibility for all five tools; access and allowances depend on the applicable Flow account terms."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-80edea19d5fdcf288e5967e3",
+      "source_sha256": "217d78eb0b9b209ae2b7abcbccef0e3c2cb7195e49de0739bcb355e42a0586b6",
+      "paragraphs": [
+        "Google introduced **Gemini 4 Hydrogen** on November 12 as an execution model for fast coding and multi-step agentic tasks. It can work independently or alongside Carbon and Argon, which focus on more complex reasoning. It has a one-million-token context window, with standard API pricing of $1.50 per million input tokens and $7.50 per million output tokens; Google says the same pricing tier applies across the entire context window.",
+        "Hydrogen offers four thinking levels—low, medium, high and xhigh—with high as the default. In Google’s comparison with Gemini 3.8 Flash, tasks finished 2.5 times as fast at the default setting, while Terminal-Bench 4.1 scores were 57% versus 18.2%. These are tests disclosed by the vendor under particular tasks, settings and tool environments, rather than measured speedups that apply to every codebase.",
+        "Google Antigravity is also adding Orchestrator, which switches dynamically between Carbon and Hydrogen within a session. Google reports near-Carbon success rates on Terminal-Bench 4.0 while consuming 24% less quota and finishing 19% faster on average. Developer entry points include the Gemini API, AI Studio and Android Studio; Hydrogen in Antigravity is available to paid Google AI Pro and Ultra subscribers.",
+        "Consumer rollout begins through the Gemini app’s model menu and Google Search. The Search upgrade emphasizes understanding multi-part questions, searching related subtopics in parallel, and presenting images, tables and source links. Enterprise access includes Gemini for business, while Sheets features depend on eligible business subscriptions or Pro/Ultra access. This is a product and API access release; the announcement does not release model weights."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-019a52045fbc5bb01129923c",
+      "source_sha256": "7520e6a2499103fec85fe76386634efa6b48b367b4984b4bc5936bc7bd4d3e22",
+      "paragraphs": [
+        "Nintendo confirmed on November 12 that **Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy is now available**. The official U.S. page lists the full game at $69.99 and the upgrade pack at $9.99. Owners of the original Switch version of Pikmin 4 can buy the upgrade pack on Switch 2 for the additional features. The pack requires the original game and is not a standalone full game.",
+        "The edition improves visuals and lets players give voice commands to rescue dog Oatchi through the Switch 2 system microphone. Dandori Academy focuses on task organization, time management and high-score challenges through exam stages of varying difficulty. Nintendo says 72 stages will be released over time, rather than all being available on day one.",
+        "Dandori Battles support two players on one system and can also be shared through GameShare. Online sharing via GameChat requires participants to have Switch 2 systems and the applicable online membership and account eligibility; recipients can play only during the shared session. IT Home separately reports a HK$379 Hong Kong eShop price for the full game. That regional price and the U.S. dollar list price apply separately and do not constitute a uniform mainland-China price."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-80642a87f4a468fd7c2a2d3b",
+      "source_sha256": "fd523876fd71a0fdcfcbf657f8e1e0f6daf7d6c74b7d97e9a7656d11959475c3",
+      "paragraphs": [
+        "Group B at BLAST Rivals Hong Kong concluded on November 12 with **Spirit beating G2 2–1 to advance directly to the semi-finals**. Maps ended 9–13 on Mirage, 13–6 on Nuke and 13–5 on Ancient. Sh1ro finished the series 53–35 with a 1.29 HLTV Rating 3.0. G2 were not eliminated; they enter the quarter-finals against Falcons.",
+        "In the elimination match, MOUZ knocked out FUT 2–1: 16–19 on Cache, 16–14 on Mirage and 13–4 on Nuke. MOUZ trailed 6–12 on Mirage before winning six consecutive rounds to force overtime, then taking that map and the decider. Torzsi finished the series 70–49. FUT join Legacy in seventh–eighth place, while MOUZ retain a playoff spot.",
+        "The organizer’s current schedule lists **Vitality versus MOUZ at 16:00 and G2 versus Falcons at 18:30 Beijing time on November 13**, both best-of-three. Spirit await the Vitality/MOUZ winner in the semi-finals, while FURIA await the G2/Falcons winner. Neither quarter-final had started when checked for this edition; the page’s 0–0 is a pre-match state, not a final result."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-cbd7d968d7a9a1e5ab484b12",
+      "source_sha256": "5b7a1916e188c00da4533f9c2ecf4cdba00d8b35fe31d18e387efbc3cb75f40e",
+      "paragraphs": [
+        "NVIDIA’s board announced on November 12 that Jensen Huang had resigned as president, chief executive officer and a director, **effective immediately**. Executive Vice President and Chief Financial Officer Colette Kress becomes interim CEO while retaining her existing finance roles. This is an interim succession arrangement: the permanent CEO search remains open, with both internal and external candidates under consideration.",
+        "Kress joined NVIDIA as CFO in September 2013 after finance roles at technology companies including Cisco and Microsoft. The board also appointed Harvey C. Jones as the company’s first board chair; Jones previously served as CEO and executive chairman of Synopsys. The announcement assigns day-to-day leadership and board oversight to the two executives separately.",
+        "Jones said the company expects operations, customer commitments and its product roadmap to continue, describing the board’s arrangements and expectations during the transition. Kress said she would work with the existing leadership team to advance accelerated computing and AI. NVIDIA still plans to release its fiscal 2027 third-quarter results around 13:20 Pacific Time on November 17, followed by an earnings call at 14:00, corresponding to 05:20 and 06:00 Beijing time on November 18.",
+        "Huang had been a central leader of the company since co-founding it in 1993. The formal announcement confirms his departure from three positions, the interim CEO appointment and the board chair arrangement; a permanent successor has not been selected. It does not identify a delay to any specific product as a consequence of the transition."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-94a466f504fc6fefa2d2c909",
+      "source_sha256": "a7569e568956c2c205e19fb4d35f83b84464b6760a24d20bc30235f8d6bae477",
+      "paragraphs": [
+        "AMD and PsiQuantum announced an expanded partnership on November 12 to co-design infrastructure for utility-scale fault-tolerant quantum computers and develop applications combining quantum, high-performance and AI computing. **AMD also plans an equity investment in PsiQuantum**, but no amount was disclosed; an investment plan is not a completed equity purchase.",
+        "The work expands from existing AMD Versal FPGA technology to Instinct GPUs, EPYC CPUs and the ROCm software stack, combined with PsiQuantum’s silicon-photonic quantum platform. One focus is real-time quantum error correction: the companies say they have optimized the PRISM machine-learning decoder for low-latency implementation on programmable hardware accelerators.",
+        "On applications, their joint announcement reports preliminary results in simulating covalent inhibitors by combining PsiQuantum’s computational-chemistry workflows with large-scale AMD GPU simulation, with drug discovery the initial area for further exploration. These are computational research results reported by the partners. The release does not provide complete error, runtime or clinical-validation data for independently comparing every method, nor does it announce a completed commercial fault-tolerant quantum computer.",
+        "The companies also plan to explore a larger collaboration footprint at the Illinois Quantum and Microelectronics Park in Chicago and share more details at SC26 in Chicago on November 15–20. The current milestone is the expanded partnership and scope of joint infrastructure design; this announcement does not establish a commercial-system delivery date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-aecfd0c33e666a1b466fb381",
+      "source_sha256": "e9508413fea496f22dc9ffbf6b0e3357b1f5564d3888f144e0498c5af09940fb",
+      "paragraphs": [
+        "Hong Kong’s Legislative Council passed the Northern Metropolis Development Bill on November 12, creating a dedicated legal framework for the large development program in the northern New Territories. Secretary for Development Bernadette Linn said passage came about six weeks ahead of the original year-end target. The government aims to submit subsidiary legislation in January 2027 so facilitation measures can take effect in **the first quarter of 2027**. Passing the bill and implementing the specific measures remain separate stages.",
+        "The Northern Metropolis covers a planned area of approximately 30,000 hectares, including Yuen Long, Tin Shui Wai, Fanling, Sheung Shui and Kwu Tung. The bill addresses six areas: streamlining town planning, accelerating land-resumption compensation, promoting construction innovation and quality, simplifying construction-noise permit applications, facilitating cross-border flows of resources, and establishing statutory bodies for designated areas.",
+        "Under the arrangements disclosed, applications to change land use or relax development parameters in non-conservation zones would take two months to process instead of at least nine, while temporary-use permits could last up to seven years. Details of compensation calculations and cross-border movements of people and data still require subsidiary legislation. Linn said further legislation or amendments could be introduced as needed at different construction stages."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4b2eaf518244f0a5e89b1c05",
+      "source_sha256": "a3dedb51df3790d94a0dfc5962724022db5c5628f92bf14424ae319d6dcaabe3",
+      "paragraphs": [
+        "NEXON Korea confirmed on the official PlayStation Blog on November 12 that the action RPG **Vindictus: Defying Fate is planned for PS5 in 2027**, with a store wishlist page now live. Set in a medieval-fantasy world inspired by Celtic mythology, it emphasizes battles against colossal enemies. This is a platform and development announcement, without a specific release date.",
+        "Director Dongseok Oh says the team starts character concepts with weapons, then combines narrative, action and appearance design to establish distinct fighting styles. Lann relies on chained dodges to close in; Fiona combines shield blocks, precisely timed deflections and counters; Delia charges powerful strikes and can evade by passing through an enemy; Karok absorbs impacts and engages powerful foes in timed contests of strength. Characters can also craft weapons and customize outfits and appearance.",
+        "The main adventure centers on a solo journey, while the team is preparing multiplayer content for confronting powerful threats together. The announcement shows locations including Colhen, the Northern Ruins, snowy Hoarfrost Hollow and ruined Ainle, but does not say multiplayer content is already open. Wishlisting, watching footage and obtaining access to a public demo remain distinct states."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-096c0b88bb5fc62b46977369",
+      "source_sha256": "97911bac323cea1362b2727143f7af0a08786b2885a421f10fef145ba5426084",
+      "paragraphs": [
+        "iFlytek announced on November 12 that the **SparkAudio 1.0 speech foundation model’s API is available on its open platform** for developers to integrate. The model accepts text and speech and produces text. Tasks include transcription, multilingual translation, dialect recognition, environmental-audio understanding, speaker separation, emotion analysis and complex audio question answering.",
+        "iFlytek says the model supports 99 languages and 202 dialects and was trained entirely on domestically produced computing hardware. It is positioned to understand meaning, tone, emotion and background sounds directly from audio, reducing information loss in a speech-to-text-then-language-model pipeline and the errors and latency associated with separately chained modules. The coverage figures, training conditions and claimed improvements are vendor disclosures.",
+        "Listed applications include customer service, vehicle cabins, cross-language meetings, medical-note recording and content moderation. The substantive change is developer API access; the term “speech model” does not establish speech-generation output, because the published specification identifies text as the output modality. The announcement does not also release model weights or provide a unified independent test from which real-world accuracy across these industries could be calculated."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-cfb4faa8387b692a9ae25886",
+      "source_sha256": "9ac59dc949618d284f49475259dffe16ab533aee8d3028127ea2f8443cebf084",
+      "paragraphs": [
+        "By the morning of November 13 Beijing time, U.S. envoys Steve Witkoff and Jared Kushner had held talks with Vladimir Putin in Moscow and then traveled to Dublin to meet Ukrainian President Volodymyr Zelenskyy. The shuttle diplomacy followed two days of U.S.–Russia–Ukraine talks in Abu Dhabi, focusing on ending the war and postwar European security arrangements.",
+        "Witkoff said another round of talks had been agreed and that European representatives would participate. Alongside Zelenskyy, Kushner also said Europeans must be at the negotiating table. The BBC reported that the Kremlin had not confirmed the next round’s full composition; the scope and detailed arrangements for European involvement still required implementation.",
+        "Disagreements over territory and security guarantees remain. Putin reiterated his opposition to foreign troops in Ukraine and proposed a five-day humanitarian operation in Kostyantynivka in Donetsk region. Ukraine’s presidential office said Russia had used a similar arrangement to bring in equipment and rotate troops, and that details needed clarification. **A proposal for a localized humanitarian truce is not a jointly accepted ceasefire across the whole front**; these meetings also produced no published final peace text."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-9afe8aea4a4ca2808071bd8f",
       "source_sha256": "27a4e514e6c969d4215c213dd28f9838666f54e259c05c1c3cae2ea5aef55290",
@@ -15,11 +172,11 @@
     },
     {
       "article_id": "article-a04470e343aa3e93804f257a",
-      "source_sha256": "9afd0e32e0cfc9a80fd547f1f8cc04cc35fac8a8529dfadb3c44782881ef3439",
+      "source_sha256": "e27283e120c5f6e51bafd77d421b5b4943023d42641fa0b5aa77ba9c285e4bc7",
       "paragraphs": [
         "FURIA won the Group A winners’ match at BLAST Rivals Hong Kong on November 12, **coming back 2–1 against Vitality to advance directly to the November 14 semi-finals**. Maps ended 5–13 on Inferno, 13–10 on Dust2 and 13–0 on Mirage. Vitality were not eliminated: they enter the November 13 quarter-finals, needing an extra round like Falcons, who qualified earlier that day.",
         "FURIA trailed 1–11 at halftime on their own Inferno pick and could not recover the map. They then led Dust2 9–3 at halftime and resisted a comeback to win 13–10. On Mirage they led 12–0 on defense and won the second pistol to complete the shutout. Molodoy finished that map 21–5 with 129.5 average damage per round; KSCERATO led FURIA across the series with 44 kills.",
-        "Organizer BLAST also confirmed the 13–0 clincher. The published Beijing-time schedule has quarter-finals at 15:00 and 17:30 on November 13 and semi-finals at the same times on November 14. FURIA’s opponent and assigned slot still require confirmation of the playoff bracket. This completed result should be kept separate from scores in other ongoing or unstarted series."
+        "Organizer BLAST confirmed that the 13–0 clincher secured FURIA’s semi-final spot. The current Beijing-time schedule lists Vitality versus MOUZ at 16:00 and G2 versus Falcons at 18:30 on November 13. FURIA will face the G2/Falcons winner in the November 14 semi-finals, while Spirit await the Vitality/MOUZ winner; the quarter-finals have not started."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -242,6 +399,29 @@
         "Apple’s security and operating-system teams published details of Secure Exclaves on November 12, explaining isolated camera and microphone processing in Apple silicon. The design separates ambient sensing from active capture: **ambient mode exposes only authorized limited metadata and discards raw data after processing**. Full data can leave during active audiovisual sessions only after the secure indication mechanism permits it.",
         "Components include a customized L4 microkernel, capability-based authorization, the Secure Page Table Monitor and Swift-based Secure IPC. The main OS kernel cannot read dedicated exclave memory, while the Neural Engine gains isolated queues. HomeView can recognize up to six enrolled users, returning identifiers, positions and confidence information rather than raw background audiovisual streams.",
         "Apple says the indicator controller must confirm an LED or on-screen dot has been visible long enough before allowing full sensor data out. Display-based devices also check actual pixel color, brightness and obstruction. Listed uses include iPhone 18 Pro/Pro Max, iPhone Duo, MacBook Neo and HomeView. Microkernel formal verification remains incremental; partial proofs do not guarantee that an entire product has no vulnerabilities."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3b4f2f1d526d9d207d369306",
+      "source_sha256": "c657622b0ab21d6fce579a667dd191ae8942a708b13c70664e68190b894bcdad",
+      "paragraphs": [
+        "IG Metall’s board approved **24-hour warning strikes** in Germany’s metal and electrical industries on November 12, escalating pressure in wage negotiations from stoppages lasting hours to a full day. Union members at the affected companies must vote first. At the time of the announcement, specific companies and dates had not been disclosed, and no fourth negotiating round had been agreed.",
+        "The union is seeking a 5% pay increase over 12 months for approximately 3.7 million industry employees, alongside safeguards for jobs, sites and future investment, profit-sharing and additional support for lower-paid groups. It says around 464,000 employees took part in earlier warning strikes lasting hours; that figure describes previous participation, not the number committed to forthcoming full-day strikes.",
+        "According to the union, employers’ current offer includes a revocable one-off payment of several hundred euros and a 1.3% pay increase in summer 2028. German public broadcaster ARD reported regional employers’ criticism that full-day stoppages would be disproportionate and deepen industry losses. Three negotiating rounds have failed to resolve disputes over both pay and flexibility in collective agreements, including corresponding investment and employment commitments. The decision escalates industrial action; it does not mean a nationwide full-day stoppage has already occurred."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3f8e5d7449817e2a9dd5d8bb",
+      "source_sha256": "fcad046266ee0a7bdcc0cb0ea4655fe7c71a4c9e0602cdf4fa5572322947bfab",
+      "paragraphs": [
+        "Samsung announced its full intelligent-eyewear lineup with Gentle Monster and Warby Parker on November 12, offering 30 designs in total. **General availability begins December 10, with preorders from November 12**. Both collections launch in the United States, while the Korean launch covers Gentle Monster. Official U.S. prices start at $395 for Warby Parker and range from $449 to $489 for Gentle Monster, depending on the model.",
+        "With Gemini built in, users can ask about visible objects, summarize a captured whiteboard, translate menus, obtain Google Maps turn-by-turn navigation, and handle notifications, calls and voice replies. Hardware includes a 12MP HDR camera, open-ear speakers, four microphones and Snapdragon AR1 Gen 1. Split computing with Galaxy phones offloads part of the processing to the connected device.",
+        "Samsung gives an approximate weight of 41 grams, varying with frame, configuration and lenses. It claims up to nine hours of battery life per charge and up to 72 hours including the charging case. These are figures under manufacturer conditions; continuous recording, calling and AI interaction cannot be assumed to achieve those upper limits.",
+        "An external LED lights during photo or video capture, with safeguards designed to disable camera capture if the indicator is covered or malfunctioning. Samsung says Gemini automatically redacts bystanders’ faces in visual processing and does not use that visual data for model training or ad targeting. The devices are intended for users aged 18 or older and require age verification for activation. Mainland China is not among the stated launch markets, and preorder availability does not mean the products are already in stock."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3343,17 +3523,6 @@
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
-      "article_id": "article-d624df893688c9c13db8c606",
-      "source_sha256": "a7e13811ae8451d08e076a84f7742ca525b28331459eaa912d19e7c1bc1c1019",
-      "paragraphs": [
-        "A BBC 2 November report stated that parts of the cold storage and freezing systems in stores in Belgium, Luxembourg, Sweden, Ireland, the Netherlands, Estonia, and Finland were affected by a cyberattack. Approximately 40 Delhaize stores in Belgium and Luxembourg experienced issues; additional stores in Sweden, Ireland, and other locations were also affected. Some equipment was switched to defrost mode, and individual store managers reported that the set temperature was changed to 50 degrees Celsius, leading to food waste and temporary closures.",
-        "The head of Sabcobel, a Belgian equipment supplier, stated that the company disconnected the affected units from the network overnight; BBC also cited Dutch sources, reporting that at least 17 companies' systems were attacked, primarily affecting butchers and small community stores. The numbers reported by various media differ in terms of region, chain, and verification time, and therefore cannot be added together to determine the total number of victims across all of Europe. The identity of the attackers and whether the incidents in different countries were under a unified command remain unconfirmed and have not been publicly confirmed.",
-        "For background, a warning published by France's CERT-FR on October 12 and updated on the 16th already described intrusions into Danfoss AK-SM/AK-SC and Copeland/Dixell XWEB remote controllers. It shows a real risk from older networked control equipment, but does not establish that every store affected in November used the same model or vulnerability. This incident shows digital security reaching beyond information leaks into temperature control, inventory and physical business operations."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
       "article_id": "article-76fcce72efd8a6226305bcfa",
       "source_sha256": "32503ea86731bbe263cfb704dbb28624827602a991745e4a128f61ad52e653d4",
       "paragraphs": [
@@ -3692,164 +3861,6 @@
         "[Classic Replays] The 2025 \"Adolescence\" focuses on 13-year-old Jamie Miller who is arrested after a classmate is killed. The public introduction expands the perspective to family, school, and online environments, so the suspense is not only about the case itself but also about how adults understand children and why their explanations may fail.",
         "It is suitable for audiences interested in social themes and relational pressures, but it is not a light-hearted entertainment genre. Placing fictional characters within real issues can provoke discussion, yet it cannot present the plot as a complete record of a specific real case, nor can it allow for a simplistic attribution of the characters to a particular group of teenagers. Currently, media recognition is significantly higher than among viewers, and the viewer sample is already substantial, with the gap worth noting. This article is based on publicly available plot information for a non-concluding review, does not claim to have witnessed the entire filming process, and does not present the accusations in the film as already verified facts.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 97% (112 reviews), and audience approval rating is 74% (the page shows over 2,500 reviews). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-3ffa6ecfb56fbeb0afab8941",
-      "source_sha256": "638d18e96939f9d892ed7a16c02926f7b51d5347f2d23f58ff651029565f586c",
-      "paragraphs": [
-        "[Classic Revisited] In 2024, \"Ripley\" is an adaptation of Patricia Highsmith's \"Ripley\" novel. Tom Ripley is hired to go to Italy to persuade a wealthy young man to return home, but he gradually becomes involved in deception, identity imitation, and crime. The suspense of the story comes from how the characters seek explanations for each transgression, rather than a traditional justice detective methodically searching for clues.",
-        "Public reviews place it within the category of psychological crime dramas. The appeal of such works can lie in how spatial and interpersonal relationships create pressure, and whether audiences, after understanding the protagonist's actions, are still drawn into his situation. The slowly accumulating sense of unease may not be suitable for those who merely want to watch a quick resolution of the case. This entry is included based on the 2024 work, and the rating corresponds only to the first season of this version. It does not mix evaluations from old films or original novels, and it does not pre-announce the crime results and the final destination of the protagonist.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval is 86% (136 reviews), and audience approval is 82% (the page shows over 500 reviews). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6604184310bfc7dccbfd9763",
-      "source_sha256": "9a38e9ff1a6b6de19d6afa860384071c4750f24a95443faaf5d17948351403b4",
-      "paragraphs": [
-        "[Classic Replays] In 2019, \"Unbelievable\" was based on a real event: a young girl reported sexual assault, then retracted her statement; two detectives continued to look for connections in other clues. The public presentation focused not only on solving the case but also on how the investigation process affected the victim and the relationship between evidence and preconceptions.",
-        "This is a serious drama dealing with sexual violence trauma. Its value entrance lies in observing listening, questioning, and cross-regional cooperation on how they change the investigation, rather than treating the victim's experience as a sensational topic. The adaptation of real events still includes dramatic processing, and it cannot replace the complete case files, nor can it be generalized to all law enforcement personnel. Currently, both the media and the audience have relatively high recognition, making it suitable for those willing to watch the details of the system and the characters. This guide does not provide stimulating injury details, does not reveal the final arrest process, and clearly states that it is a rewatch of an older work.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 98% (84 reviews), and audience positive percentage is 89% (the page shows over 1000 entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-699bd86846f0bc5d2e474fe2",
-      "source_sha256": "db1c83e91b79c8b9b08809134e3f3a4215d80ffc24aa41d5bda86d1ba61901ef",
-      "paragraphs": [
-        "[Classic Replays] \"Mindhunter\" revolves around the behavioral research and case investigation processes of FBI agents such as Holden Ford and Bill Tench. The second season continues to combine criminal interviews, concept formation, and real investigations, with characters hoping to find repeatable patterns in extreme behavior, yet still having to face specific evidence and institutional constraints.",
-        "Its genre characteristics are marked by extensive dialogue, observation, and a slow accumulation of pressure, making it suitable for those interested in investigative methods and character psychology, rather than high-intensity chases in every episode. According to publicly available information, this season has received strong media and audience reviews; however, high ratings do not prove that every behavior inferred in the show has universal scientific validity. This article views it as a plot-driven work from 2019, without using fictional interviews to replace academic research, and without treating unconfirmed renewal rumors as if a new season has already been filmed.",
-        "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 99% (69 reviews), and audience positive percentage is 95% (the page shows over 1000 entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-8404efdc882e606f30f345fe",
-      "source_sha256": "bfafac657d56a1eb0aad8cd8780d4ffe4a614e24b81628ba0ba3ae63437775e3",
-      "paragraphs": [
-        "[Classic Retrospective] The story of the German play \"Dark\" begins with the disappearance of children in a small town, gradually revealing the connections between four families across different times. The third season is part of the continuation of this complex relationship, requiring viewers to understand the positions of the characters in different eras, rather than just remembering the answer to a particular mystery. It is an old season from 2020, not a new series released this month.",
-        "Unlike viewing time travel as a simple tool for easily changing the past, this open setting focuses more on how characters are bound by family relationships, memories, and existing choices. It is suitable for those willing to continuously piece together clues and accept high information density; if one only wants to watch casually, the entry barrier will be higher. Current media and audience evaluations are both strong.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 97% (34 reviews), and audience positive percentage is 93% (page displays 2500+). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-d3129cc2a465a6a4f3ec3390",
-      "source_sha256": "992e959e3f49588c4e681e4bdf34dc08931d65a8be8220c581bab44820ef211d",
-      "paragraphs": [
-        "[Classic Replays] In 2020, \"The Queen's Gambit\" was adapted from Walter Tevis's novel, with Beth Harmon as a fictional character. She moves from a life in an orphanage into the competitive world of international chess, facing not only talent and success but also dependence, loneliness, and self-control. The Cold War era provided a broader context for the competitive relationships.",
-        "The work is not a biography of a real-world champion and cannot treat the character's match experiences as historical facts of chess. The viewing entrance is focused on how concentration, competition, and personal life influence each other, and even without familiarity with the opening names, the character's obsession with victory can be understood. Currently, both the media and the audience maintain a relatively high level of recognition, making it suitable as a work to revisit within a limited timeframe. This article is based on publicly available introductions and evaluations, does not disclose the final game in advance, and does not present the relationship between the drug and talent in the play as a method for real-world enhancement.",
-        "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic approval is 96% (104 reviews), and audience approval is 94% (displaying 2,500+ reviews). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-68070612ecc6d98258a3b6b3",
-      "source_sha256": "5940ccda155371f18bd11fbf02fe4cd017d0f8a83f8bcd2f200d1b64d4885f5b",
-      "paragraphs": [
-        "[Classic Replays] \"Better Call Saul\" centers on Jimmy McGill's career and personal transformations, with the sixth season focusing on his continuous choices between his legal career, ambitions, and close relationships. It shares characters and worlds with \"Breaking Bad\" but examines over a longer period how a person interprets their compromises and how these interpretations gradually become part of their identity.",
-        "For viewers who appreciate cumulative character development, the appeal lies in the continuous accumulation of consequences from small choices, rather than relying on the sudden revelation of a hidden identity. The sixth season has strong media and audience reception, but new viewers need the foundational relationships established earlier, and watching the final season directly would result in the loss of key layers. This article does not reveal the major ending, character deaths, or legal outcomes, and it does not present the defense actions in the plot as genuine legal advice. This is a review of previous seasons' materials, preserving the original audience entry point.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 99% (182 reviews), and audience approval rating is 95% (the page shows over 1,000 reviews). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b39e91327b90fb8e1127497f",
-      "source_sha256": "16c58bbb626b9c7c8d401ed943f98a7e69958a99dc660757695a784f1b40fdd9",
-      "paragraphs": [
-        "[Classic Revisited] The 2019 \"Chernobyl\" focuses on the 1986 Chernobyl nuclear disaster and its subsequent response. It presents the process of intertwined technical risks, organizational communication, and personal responsibility through a narrative format, suitable for audiences interested in disaster storytelling and institutional pressure. While the historical events did actually occur, the specific combinations of characters and dialogues still involve dramatized treatment.",
-        "When evaluating such works, two levels need to be distinguished: whether the story effectively presents the consequences of information being suppressed or transmitted, and whether the technical details can be supported by other reliable historical sources. Although the public opinion is high, it cannot be regarded as a textbook on nuclear engineering or a verbatim report. This 2019 series is set against the background of the Chernobyl accident. The introduction avoids detailed end-focused details, preserving an entry point for further opening up the work's materials and evaluations.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 95% (103 reviews), and audience approval rating is 97% (displaying 2500+ reviews). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-c63489f58f72af74ec6f9f60",
-      "source_sha256": "c5a84d8423801a291410820a5f518aa25b07d0d4853e0faa2023ebacff3ef1d8",
-      "paragraphs": [
-        "[Classic Replays] \"Severance\" sets up a system that separates work memory from personal memory. Mark and his colleagues develop a set of life experiences within the company, but they cannot directly share these experiences outside the office. The second season was released in 2025.",
-        "This premise transforms the separation of daily work and life into an extreme identity issue: if part of oneself does not know what the other part has done, who can truly make choices and bear consequences? Closed office spaces and company rules are therefore not just artistic backgrounds. In the second season, the positive proportion of media is high, while the audience end is slightly lower but still exceeds the screening threshold, and the gap is also worth retaining. This article only summarizes the publicly set definitions and does not answer the company's secrets in advance, does not claim that the technology in the drama already exists in real medicine, and does not equate the reputation of the first season with the yet-to-be-released future season.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 94% (227 reviews), and the audience approval rating is 74% (with more than 2,500 reviews displayed). This is the percentage of positive reviews, not the average score; the sample and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-72ded81298cdae408de8af4a",
-      "source_sha256": "654d0b0e4c99ac613dec2b146983392c77a5567e096196ffddfa726feedb2343",
-      "paragraphs": [
-        "A recent domestic drama article from Xinhua News on 27 October 2026 discusses \"The Small Town Solution,\" directed by Zhang Xiaobo and starring Xiao Zhang. The protagonist, Liu Zhengliang, was originally practicing medicine elsewhere, but after experiencing professional and personal setbacks, he returned to a small town in Northeast China, where he re-entered the local hospital to face his work and family again. The report focuses on how regional factors, human relationships, and professional identity collectively influence his situation.",
-        "The article's positive reviews of the drama mainly focus on the realistic narrative, the optimism of people from Northeast China, and the relationship of \"saving others is saving oneself,\" rather than simply comparing which is better between a big city and one's hometown. This perspective is suitable for audiences who enjoy realistic themes, family relationships, and community portraits. The report also quotes the opening broadcast viewership performance, but viewership heat does not equate to audience approval rate, and this article does not convert it into current ratings on platforms such as Douban. Here, the article provides an independent consolidation of named media reviews and does not claim to have watched all episodes, nor does it regard the medical processes in the drama as professional medical treatment guidelines."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-4c0fd989925f158e7a05692d",
-      "source_sha256": "169aae5d3c3bfa7d5ab2f36a9074d78abb709b324305eb6b06f00fc4338b63c8",
-      "paragraphs": [
-        "[2026 Chinese drama retrospective | Selected media commentary] A June 3 review by Yang Guang for Xinhuanet notes that The Protagonist adapts Chen Yan's novel of the same name. Through Yi Qin'e's development from an ordinary apprentice into a Qinqiang opera performer, it connects daily life in a theatrical troupe, changes in the profession and more than forty years of social change. Its dramatic focus is on people changing gradually with their times, rather than a constant succession of instant payoffs.",
-        "The review highlights the combination of Qin opera culture with the fates of characters and explicitly mentions that viewers have different perceptions regarding the passive and suffering nature of the female lead, with the opening and viewing figures belonging to the cross-section of June 3 and cannot be misrepresented as real-time ratings in November. For those who prefer literary adaptations and local cultures, the industry group is a direction worth paying attention to; if one prefers rapid development and strong reversals, one should be mindful of the narrative rhythm. This article is a review of the comments and does not reveal the final fate of the characters."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-75f32deeb8673e93c71620da",
-      "source_sha256": "a4ce9ee4a56106a3e9c711b20e7bc622b8ffa1f01bc60efe794fec625f6d5577",
-      "paragraphs": [
-        "【2026 Domestic Drama Review | Creative Statement】On March 13, the Beijing Radio and Television Bureau released an excerpt from the creative forum speech by the general producer of \"Life Tree,\" Hou Hongliang. He introduced that the project began preparation in 2019, spanning over six years, with the story gradually expanding from a concentrated family emotional line to conflicts between ecological protection and development; the team has visited Qinghai multiple times for fieldwork, and filming has faced difficulties such as high altitude reactions, weather conditions, and transportation.",
-        "Public records confirm that Yang Zhi and Hu Ge portray Bai Ju and Duojie, respectively, while Mei Ting, Li Guangjie, and Jin Ba participate in the portrayal of the highland ensemble. This entry is suitable for audiences interested in how realistic themes are sourced and how creative intentions evolve. The statement reflects the producer's explanation of their own work and cannot be directly regarded as an independent film review. It also cannot be inferred that the entire series will necessarily be successful based on the time spent on creation. This article does not provide unverified current ratings and does not equate dramatic plots with complete ecological governance records; the same statement page is used to display the film's promotional images, retaining the original source."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-4b4c2f929cfc794c65081406",
-      "source_sha256": "7d98a0378579af6330acde8823db2c42069f06301b09bc067b74b6a1c9d22a71",
-      "paragraphs": [
-        "[2026 Domestic Drama Review | Critical Review with Reservations] The Yangtze River Daily published a commentary by Guo Mei on April 7, discussing the boundary of historical dramas through the work \"Tai Ping Nian.\" The work involves the historical background of the Five Dynasties and Ten Kingdoms period and the historical figure Qian Hongchu of Wu Yue who \"submitted his territory to the Song dynasty.\" The commentary acknowledges the work's expression of the theme of ordinary people's desire for a stable life, but also points out that there are significant fictional elements in the early relationships between characters, the assassination plot, and some of the organizational structures.",
-        "This review is worth keeping because it does not treat the phrase \"historical drama\" as a guarantee of accuracy. The theme can resonate and is a topic that can be discussed alongside the question of whether specific events are historically accurate. There is disagreement among critics regarding the adaptation of history in the drama. The article only reports the core judgment of the review, does not reproduce long passages from the original text, and does not present fictional relationships in the drama as real historical events. The original page belongs to April's review, and the current compilation does not represent the work as just having been broadcast."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-2ef87b488102f2d6024ad6c7",
-      "source_sha256": "8e938bfb47aad73a7422063bd9dc2192ba3049389af4eeee6eee26278961cf59",
-      "paragraphs": [
-        "[2026 Chinese drama retrospective | Critical review] A Beijing Youth Daily commentary placed \"Low Intelligence Crime\" within the perspective of \"misinterpretation\" and self-explanation. The characters of the criminal group continuously interpret small problems as major schemes, and the mistakes of police officer Zhang Yi'ang may be interpreted by others as a sophisticated plan, leading to the absurd effect arising from the distance between the characters' judgments and their actual circumstances.",
-        "The original text also lists audience opinions: some people like its satire and performance, while others find it exaggerated, overly forceful, or insufficiently humorous. The comment author's existential interpretation is a form of analysis, not a standard answer that the audience must accept. The review focuses on the narrative issues of the work, and the platform's overall reputation still needs to be observed with more evaluations. It is suitable for those interested in crime comedy, misjudgment within organizations, and self-deception by characters; audiences who prefer meticulous realistic investigations may have different experiences. This article does not reveal the main case outcome and does not treat the fictional criminal organization as real news."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-13950556d80a5fcc7667bffd",
-      "source_sha256": "b6adf21d8f5a76debac2b86ede1ebac359138a7a1ab69cd8d04be26df555a5cb",
-      "paragraphs": [
-        "In a commentary published on May 8, 2023, on the Paoke section of The Paper, it is argued that the key to the empathy generated by \"The Long Season\" lies not only in the northeastern themes or the mystery design, but in how the characters interact with a life that has already disappeared. The multiple time lines spanning the 1990s and before 2016 allow families, factories, and individual fates to illuminate each other.",
-        "This review particularly focuses on the restraint in emotional expression: the work does not always directly express intense emotions at the most intense moments, but allows the audience to experience loss through subsequent daily details. It also points out that if the entire play is viewed solely as an intellectual game of solving mysteries, it may not explain the significance of many character segments. This is the analysis of the reviewer, and does not represent the unanimous opinion of all audiences. The original text once cited contemporary ratings, but this article does not consider the numbers from three years ago as real-time audience feedback. The introduction avoids revealing the truth of the case and the outcomes of the characters, making it suitable for those who wish to re-understand the old play through narrative structure and emotional organization."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-89cfce901a5535615f3e7656",
-      "source_sha256": "85efdc484c164136edd1d98a0fb5d2a040f221b18dc54513cb165f15d55ed157",
-      "paragraphs": [
-        "[2021 classic retrospective | Selected commentary] A review in The Paper begins with the specific conflicts in Minning Town to explain why a drama about poverty alleviation can feel grounded in everyday life. Set against Ningxia's organized resettlement in the 1990s, the story shows that moving to the plains does not immediately bring housing, water, electricity or a stable livelihood. The characters must choose between familiar poverty and an unfamiliar new life.",
-        "The positive judgment of the review focuses on the writer's ability to transform policy background into family, neighborhood, and personal situations, such as whether to move, how to leave enough residents, and when electricity can be connected. These small conflicts give each character their own reasons, rather than just conveying conclusions. For those who like realistic group portraits, this is a specific analytical entry point. The article does not present the plot as a complete record of all immigrant experiences, nor does it disguise the 2021 premiere review as news about this year's new drama. The original views are presented separately from the actual work."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
