@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T01:27:55.887Z",
+  "generated_at": "2026-11-14T04:16:39.312Z",
   "translations": [
+    {
+      "article_id": "article-3f4629927f7d3ef1ef629331",
+      "source_sha256": "66d8a68413e2540dbe611621abc546c0acd467029b31349609a64aca65b4e986",
+      "paragraphs": [
+        "Qatar and Türkiye announced a mutual defense agreement on November 13 local time. Their Supreme Strategic Committee’s twelfth session took place in Istanbul, chaired by Qatar’s Amir Sheikh Tamim bin Hamad Al Thani and Turkish President Recep Tayyip Erdoğan. The joint communiqué carried by Qatar News Agency confirms goals of collective defense and regional security, including **a unified stance against an external armed attack on either or both countries**.",
+        "The parties agreed to consult on threats to their security, regional and global security issues and defense policies, and to expand joint military exercises, defense-industry cooperation and personnel training exchanges. The communiqué also mentions a previously signed defense-industrial memorandum involving Qatar, Türkiye, Pakistan and Indonesia. That memorandum is a different document from the new bilateral mutual defense agreement.",
+        "The published communiqué sets out political aims and cooperation mechanisms without presenting every operational provision. Specific military response procedures, force arrangements or automatic participation conditions therefore remain unclear. Lianhe Zaobao cited Erdoğan as saying the countries would work to prevent renewed war in the Gulf and promote dialogue. That is a policy statement by the leaders; signing the agreement does not establish that regional conflicts have ended."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5e272b13fe054c6963d044ea",
+      "source_sha256": "30c66060a2d421fbc674643fabf9712394b7f7872595a63d40c4619c6dc73656",
+      "paragraphs": [
+        "White Whale announced on November 14 that its W5000 large unmanned cargo aircraft completed a technology-validation flight at Otog Front Banner in Ordos, Inner Mongolia. The company notice and report carried by IT Home list climb, level flight, turns, descent, approach and landing, with propulsion, flight controls, avionics and ground monitoring operating together. This is a **technology-validation flight milestone**, not confirmation that a commercial cargo route has entered service.",
+        "The reported design specifications are a maximum takeoff weight of 10.8 tonnes, maximum payload of five tonnes and a 2,600-kilometer range, using turboprop propulsion. Wingspan is about 22.70 meters, length 22.89 meters and tail height about 7.51 meters. **A five-tonne maximum design payload does not establish that this flight carried five tonnes of cargo.** The disclosed information does not give the flight’s actual payload, range or complete speed envelope.",
+        "The company says preceding work included iron-bird integration, static, ground-vibration, aircraft electrical-system and landing-gear-related tests. The disclosure marks progression from ground tests to flight validation, without providing airworthiness certification, commercial delivery or scaled operating results."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-888ffa1c250627bab7dd6d5f",
+      "source_sha256": "010c08e4798497ff40cf40260fd37a213524e2ea208d2e0f48e3e05805aeb925",
+      "paragraphs": [
+        "Santa Monica Studio updated its announcement on November 13 to confirm that **God of War Sons of Sparta comes to PS4 on November 16, with two new modes arriving on PS4 and PS5 at the same time**. The PS4 release is at midnight local time in each region, not one simultaneous Beijing-time launch worldwide. The game previously launched on PS5 in February 2026; the new developments are another platform and substantial gameplay modes.",
+        "Hermes Mode supplies speedrunning tools including split timers and a persistent scoreboard. It unlocks after an initial completion, with an official start-menu button code allowing earlier access. Erebus Mode makes both the player and enemies fall in a single hit, changing the challenge rules across the run rather than making a routine numerical adjustment.",
+        "The mode is chosen when starting a new game and selecting a save slot, and **cannot subsequently be changed for that save**. Developed by Mega Cat Studios with Santa Monica Studio, the pixel-art 2D action-platform game follows a young Kratos and his brother Deimos. The November 13 additions share a page with the original February introduction; the future PS4 launch should not be described as already released."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a6b66c00d213b4a9dc05a63b",
+      "source_sha256": "8471fd88d6aca6a169536e266587491430f93d0c68f0a543cff5a90d651277e1",
+      "paragraphs": [
+        "China State Railway Group reported on November 14 that **national railways handled 4.13 billion passenger journeys in January–October 2026, up 4.7% year on year**, a record for the same period. An average of 11,670 passenger trains ran daily, up 5.0%. Passenger journeys and train services measure travel frequency and capacity respectively; 4.13 billion journeys does not mean 4.13 billion different people.",
+        "On October 1, railways handled 25.204 million passenger journeys and operated 14,885 passenger trains, both described by the group as daily records. Those figures refer to National Day itself, not the daily average for all of October. The first ten months included 3,236 tourist-train services and 1,084 special services for concertgoers, sports fans and educational trips, all cumulative counts for the reporting period.",
+        "Cross-border journeys on the Guangzhou–Shenzhen–Hong Kong high-speed railway totaled 29.23 million, up 11.0%, while the China–Laos Railway handled 289,000, up 33.0%. National railways also carried 22.52 million journeys by foreign passengers, up 32.9%; that category differs from cross-border travel. The group said multi-ride and season-ticket products covered 75 routes, with tourist multi-ride products on 28 routes, describing ticket-service coverage."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-fdb68417927b50a65652abf9",
       "source_sha256": "4d0413379ec6483b100ba28bbc3fbc0e77db5efad605374bf834be43f1a1bdd8",
@@ -15,11 +59,11 @@
     },
     {
       "article_id": "article-dd9dc3faf193356ebbe11bad",
-      "source_sha256": "9731af0f77cfed0bc47823c665f02674a1a75268dc2f5a7fdb944e90f9c98fad",
+      "source_sha256": "c4c6743637569b9872d0cb80ee4c58abb9cbd70dcc5740250fee823d3afff7ef",
       "paragraphs": [
-        "The U.S. Federal Aviation Administration imposed a nationwide departure ground stop because of an air traffic control communications failure. It began at 15:54 U.S. Eastern time on November 13, or **04:54 Beijing time on November 14**. At 09:24 Beijing time, BBC live coverage still reported the stop in effect, with no nationwide restoration time. Aircraft already airborne remained under air traffic control; landing and waiting on the ground to depart are different situations.",
-        "Homeland Security Secretary Markwayne Mullin said all airborne aircraft were accounted for and there was no indication of an attack. He also said the communications problem was unrelated to the earlier Microsoft service outage. The disruption involved telecommunications serving air traffic control centers. Authorities had not yet published a complete technical root cause, and a cyberattack had not been established.",
-        "Some exceptions were emerging. San Francisco International Airport said Pacific-bound flights, including services to Hawaii and Asia, had been cleared to depart. United Airlines said domestic departures would remain halted while the stop continued, with international flights handled case by case. Clearance for particular routes therefore did not mean nationwide operations had resumed. The lifting of the national order and clearance of the resulting backlog remained subject to updates from aviation authorities and airports."
+        "The FAA’s nationwide departure ground stop has been lifted. At a White House briefing, Transportation Secretary Sean Duffy said it ended at 20:15 U.S. Eastern time on November 13, or **09:15 Beijing time on November 14**. FAA cancellation Advisory 005 was issued at 01:19 UTC, or 09:19 Beijing time, explicitly confirming cancellation of the nationwide ground stop. The minister’s stated lifting time and the advisory’s issuance time are distinct.",
+        "The stop had begun at 04:54 Beijing time amid communications problems affecting air traffic control centers. Duffy described intermittent radar and communications outages and said old switches, routers and lines had become overloaded with data. Those are officials’ preliminary explanations; a complete technical root cause remains under investigation. Homeland Security Secretary Markwayne Mullin said there was no evidence of a cyberattack or of a connection to the Microsoft 365 outage.",
+        "Delta announced that flights were safely resuming, and United resumed some Friday-night flights in the United States. Aircraft and crews being out of position and the flight backlog still require recovery. NPR cited FlightAware figures of over 8,000 U.S. flight delays and about 7,000 cancellations for Friday as of 21:00 Eastern time, equivalent to 10:00 Beijing time on November 14. **Lifting departure restrictions does not mean operations are fully normal.** Duffy expected ripple effects to last several days."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -36,12 +80,34 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-81860503e76bec96b9d07c92",
+      "source_sha256": "e11250467b2b06bd53f0ce155df17da96ff4185904369245cc1b84709f52ef42",
+      "paragraphs": [
+        "Netflix released first-look footage for the Magic: The Gathering animated adaptation **PLANESWALKER on November 13, confirming a 2027 debut for Season 1**. The project is a partnership with Hasbro Entertainment and Wizards of the Coast. Only a year has been announced, with no confirmed month, day or episode count and no post-release reception data.",
+        "The story centers on conflict among powerful mages known as Planeswalkers, with the pyromancer Chandra at its core. The official synopsis describes her being hunted for her abilities and joining other mages against a war threatening many worlds. The first look shows animated characters, fire magic and battle scenes, offering an initial introduction to the adaptation’s visual direction.",
+        "Terry Matalas and Cindy Appel are co-showrunners, Patrick Osborne is supervising director and executive producer, and DIGIC Pictures is the animation studio. Daisy May West produces, and Gabriel Marano is an executive producer. Matalas’s previous projects include Star Trek: Picard, and the official introduction emphasizes building an animated narrative from the card game’s many worlds."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-7deafdaefb224d33bdc914ec",
       "source_sha256": "597cd27c81db261f2282b506f962a44796b8b1c2f5c2f6bbf8539961757aff2b",
       "paragraphs": [
         "Google announced on November 13 that Google Wallet connections were rolling out to Gemini app users in the United States, on the web and on Android and iOS. Users can opt to connect Wallet through Personal Intelligence and link financial accounts through Plaid, allowing Gemini to explain everyday spending, cash flow and budgets using account information. The connection is optional, and the announcement does not limit it to a particular paid plan.",
         "Official examples include cash-flow charts, recurring-charge detection, noticing subscription price increases and organizing a holiday budget using other information the user has connected. The Wallet integration is for understanding financial information. **Access is read-only: Gemini cannot use it to transfer, manage or invest money.** Users can turn the connection off at any time.",
         "Google also added Memory Summary, a view in which users can inspect and edit the personal information retained by Personal Intelligence. The summary is available wherever Personal Intelligence is offered, a different geographic scope from the U.S. Wallet rollout. Payment availability, account-data access and autonomous payment authority are separate capabilities; this announcement does not combine them into a single authorization."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b5c8544fafe2cba7f202e7a4",
+      "source_sha256": "e9bc759d3b74a5ea7d0dd996430bf797af05f03e2923cc4bc4caef08cd2711c6",
+      "paragraphs": [
+        "GlobalFoundries held a groundbreaking on November 13 for a new 300mm semiconductor fab at its Malta, New York site. It is the first of two factories previously announced under a U.S.–Japan initiative and is **expected to begin operations in 2029**, serving foundational semiconductor demand in automotive, industrial and connected infrastructure markets. Groundbreaking is a construction milestone, not operating manufacturing capacity.",
+        "The two-fab framework provides up to US$21 billion in funding, with Japanese investment and GF’s technology, manufacturing expertise and operations. The first fab has an initial investment of about US$10 billion and US$570 million in New York incentives; roughly another US$10 billion is planned for the second. At full operation, the first is expected to add about 900,000 300mm wafers of annual capacity, with approximately the same from the second. These are future capacity plans.",
+        "GF expects the two-fab initiative to create about 27,000 construction and ecosystem jobs and more than 1,000 high-skilled manufacturing jobs. Those projections are not all current permanent fab hires. The groundbreaking follows the October 14 announcement of GF’s technology-provider and operator role. Construction progress, funding implementation and the 2029 operating target remain subject to actual project delivery."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -91,12 +157,34 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-6841e619fcd7e8d9370258a2",
+      "source_sha256": "c7415b8b850b30e407b03b1a06a0dbe0793277b85f1f48bc0927ad48b977ec10",
+      "paragraphs": [
+        "The llama.cpp team released **version 1.0.0 of the llama.cpp and ggml libraries** on November 13, formally incorporating interface-compatibility boundaries into versioning. The former provides C/C++ large-model inference, while the latter supplies underlying machine-learning tensor operations for local and server inference. The milestone concerns API and ABI stability for downstream applications, rather than the release of a new large language model.",
+        "The team’s rules require a major-version increment for breaking public C API changes, a minor increment for backward-compatible features, backends, model support or API additions, and a patch increment for fixes without API changes. This release removes deprecated interfaces and promotes some speculative-decoding interfaces into the public header, making adaptation requirements more visible to applications that depend on the libraries.",
+        "Release notes also describe FP8 key-value caches, a mixture-of-experts expert cache and server security hardening. The team says the project currently supports more than 150 model-architecture variants and continues expanding automated testing across NVIDIA, AMD, Qualcomm, Arm, IBM and Intel hardware. That is cumulative coverage and development investment, not 150 newly added models in this release or a guarantee of identical inference speed on every device."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-68e7ef59b8e07c93d2932916",
       "source_sha256": "d47b33ca56495acd693fdd68d5e04bdc0bf0d6fa3a2d1cdb4e842865e4bb0ab4",
       "paragraphs": [
         "Sony outlined progress on QSSR for the standard PS5 on November 13. **The update for Marvel’s Spider-Man 2 is already live**, covering both Fidelity and Performance modes. The 2023 game thereby adds AI-guided image reconstruction. Its developer reports improved detail clarity and image stability in motion; the announcement does not provide a uniform frame-rate gain that can be treated as an independent benchmark.",
         "QSSR stands for Quick Spectral Super Resolution. It shares technical foundations and interface concepts with PSSR on PS5 Pro and forms part of Sony and AMD’s Project Amethyst collaboration. Its availability on the standard PS5 does not give that console the Pro’s hardware performance. Developers must integrate support game by game; a support list does not mean every existing PS5 title automatically uses it.",
         "The remaining schedules differ. Control Resonant plans a December update; ARC Raiders and The Finals describe support as coming soon; No Man’s Sky specifies the next few weeks; and Hell Let Loose: Vietnam points to a future update. **Live support and planned updates are separate states.** The announcements establish the technology’s expanding reach, but do not show identical image-quality or performance benefits across every game and mode."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4299a3ba81334a440e04b32d",
+      "source_sha256": "7658458013d04e8d6857190ed96a230c6b4785eb4ac5b21dd0f48a6cde04f079",
+      "paragraphs": [
+        "Nextcloud announced on November 13 that a **ready-to-use download of Nextcloud Office Desktop, powered by Euro-Office, is now available**. It includes document, spreadsheet, presentation and PDF editors, supports offline local work and can connect to Nextcloud Hub for collaboration. Euro-Office’s first production-ready release was on June 9, and the desktop app had already been announced with Hub 26 Summer. The new development is the downloadable ready-to-use version.",
+        "Supported platforms are Windows x64 and ARM64, Linux .deb and .rpm packages, and Apple Silicon Macs. The developer claims high compatibility with DOCX, XLSX, PPTX and open formats including ODT, ODS and ODP. That is a vendor compatibility claim, not an independent test of every complex layout, formula or macro. The macOS list does not also confirm an Intel Mac version.",
+        "The desktop app can use locally installed fonts, set file passwords or editing restrictions, and sign documents using digital certificates. Real-time co-editing requires a connection to Nextcloud; offline local editing does not imply offline multi-party synchronization. Collaborators without the same fonts may see substitutions. The project accepts development contributions under AGPL v3."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -154,6 +242,17 @@
         "Citing Reuters on November 13, Lianhe Zaobao reported that former minister Alan Milburn, who is reviewing youth employment in Britain, is expected to submit a report next week recommending tighter access to some illness- and disability-related benefits for people under 25 and more resources for employment support. These are proposed reforms, not rules already in force, and no final legislative text is supplied.",
         "Estimates released by the Office for National Statistics on August 27 put **981,000 people aged 16–24 in the UK outside employment, education or training in April–June 2026, or 13.0% of that age group**. The number rose by 30,000 year over year but fell by 30,000 from the first quarter. The share increased 0.2 percentage points annually and fell 0.5 points quarterly. These figures describe the second quarter, not newly unemployed people in November.",
         "NEET includes both unemployed and economically inactive young people, with the relevant age-group population as its denominator, unlike the unemployment rate’s labor-force denominator. Milburn argues that spending is tilted toward benefits rather than employment assistance and wants more help for young people returning to work; the report also notes possible opposition from Labour MPs to benefit cuts. ONS cautions that estimates for such small subgroups are subject to sampling variability. Its next NEET release is scheduled for November 26."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a8370c3e10fe20b0058731ec",
+      "source_sha256": "facfead4351ca1071ebc449aefb3a3fe04b856f5529a2d690ea897bb98a6e55d",
+      "paragraphs": [
+        "A Shanghai investigation group published findings on November 13 concerning a child’s death during gene-editing research associated with Shanghai Jiao Tong University School of Medicine. It identified violations in preclinical research, ethics review, informed consent and disclosure. **Two individuals, identified in the notice by the surnames Qiu and Yang, were dismissed and barred for five years from undertaking or participating in science programs and awards**, with entries in the database of serious research-integrity breaches. Other responsible personnel received removal, demotion or disciplinary sanctions.",
+        "The child had Snijders Blok-Campeau syndrome. The family contacted researchers in 2023 seeking a customized gene-editing treatment. A hospital ethics committee approved the clinical research in January 2025; the child received an injection that March and died on March 31 despite resuscitation. The notice says the hospital attributed the death to thrombotic microangiopathy as a gene-therapy complication. The related Nature paper appeared only in February 2026. The death, publication and investigation findings thus belong to different periods.",
+        "Investigators found delayed communication of safety-report results, omission of negative research findings from the paper and undisclosed conflicts of interest. **They found no fabrication of the paper’s data, but did identify breaches of academic standards.** Scientific and ethical reviews were inadequate and informed consent defective. Some personnel also received about RMB1.06 million from the family; the funds were returned or surrendered. Institutions were ordered to rectify problems, medical facilities received administrative penalties, and Shanghai’s health commission is conducting special inspections of clinical research involving new biomedical technologies."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -362,6 +461,28 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-98b29d52632cb6893d820e03",
+      "source_sha256": "1d6a508e62668ce5a76f2a1a9ea083ea20712cb0b03171c91e459de2095dc393",
+      "paragraphs": [
+        "Razer announced the Soma Pro and Soma Sensa HD Haptics chairs on November 13. **Soma Pro combines six haptic actuators, THX Spatial Audio speakers and Chroma RGB lighting**; the other model retains haptics without adding both speakers and lighting. IT Home reported on November 14 that Soma Pro is marketed in China under the Chinese name Huiyueshen Professional Edition, with a listed China-market price of RMB7,999. That is not the simpler model’s price.",
+        "The Sensa HD system uses algorithm-driven multi-zone feedback, which Razer says conveys direction, intensity and distance. Synapse can convert audio into haptics for games, music and films without native support. Built-in speakers can work alone or with front speakers, while RGB synchronizes with supported games and other devices. These are official feature descriptions, not uniform independent experience or latency-test findings.",
+        "The backrest reclines to 132 degrees, and Pro includes 4D armrests, a magnetic head cushion and dual-density cold-cured foam. Communications support 2.4GHz HyperSpeed or Bluetooth LE, but **a single USB-C power connection is still required**, using a wall supply or compatible power bank. Razer specifies three years of warranty for mechanisms and moving parts and two for electronics. Wireless communications do not eliminate external power requirements."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a780569363db0e44e6d625b0",
+      "source_sha256": "bf31b4c113376da2b39b703406ae913935ddf81fccc63189533460cdcf426c16",
+      "paragraphs": [
+        "Cosina announced on November 13 that Sony E- and Nikon Z-mount versions of the Voigtländer NOKTON 35mm F1.2 Aspherical are planned for **December 2026, with an exact date still pending**. Both are fast, manual-focus primes for full-frame mirrorless systems and include electronic contacts. Electronic communication and focusing aids do not imply autofocus.",
+        "Both versions use nine elements in seven groups, twelve aperture blades, a 0.3-meter minimum focusing distance, 1:5.8 maximum magnification and a 58mm filter thread. The E version weighs about 380 grams and measures 68.1 by 60.2mm in maximum diameter and length; the Z version is about 390 grams and 67.6 by 62.4mm. Their optical designs are optimized for their respective sensor systems; matching focal lengths and apertures do not erase version differences.",
+        "The official Japanese product tables list separate suggested prices: **JPY140,000 before tax for E mount and JPY130,000 before tax for Z mount**. On compatible bodies, E communicates focusing distance and supports five-axis in-body stabilization. Z supports three-axis stabilization and focusing aids with compatible electronic communication and firmware. These are Japanese pre-tax list prices; China pricing, stock arrival and independent optical tests are not established by the announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-9bf4b1ea9250a2f54ac66449",
       "source_sha256": "66ba54478da10436fe78b873a457a1e13a03be5ff35d36a8abaf5a581a629197",
       "paragraphs": [
@@ -375,12 +496,12 @@
     },
     {
       "article_id": "article-705a293f07886291804b46eb",
-      "source_sha256": "504f7fac33eca87fdbe94d6eab2a18587aabc9efacc42a560891703b7f3bdb68",
+      "source_sha256": "39d9d4181c0a487425ee54eab71eb9dcfdbe6ae1c6f42671d96deaaf45387551",
       "paragraphs": [
-        "The Microsoft 365 outage has entered a sustained recovery phase. On the morning of November 14 Beijing time, the public enterprise incident said recovery was holding across previously affected environments and that most related impact scenarios were believed to have been addressed. The consumer incident gave a similar account. **Both overall incidents remained marked “Service degradation” and had not been formally resolved.** Given the severity of the disruption, Microsoft was extending monitoring and checking that the email backlog processed successfully.",
-        "The enterprise incident’s impact list centers on Exchange Online and email dependencies, including web and desktop Outlook, mobile synchronization and message delivery. Copilot access to work email, calendars or files, some administration pages, and security and data-protection operations had also been affected. The update describes a recovery trend; it does not mean every listed failure was still continuing across all tenants.",
-        "Most core Teams calls, meetings, group chats and standard-channel messages were unaffected, while calendars, invitations and other Exchange-dependent operations were listed as related scenarios. Files stored directly in SharePoint remained accessible, although some external sharing and email-linked functions had been disrupted. The consumer-wide incident and individual service cards still showed different levels of “degraded” and “operational” status; one operational card does not establish resolution of the overall incident.",
-        "Microsoft had previously extended the email timeout window to 48 hours to protect queues and delayed messages during recovery. That was not a promise to finish every repair within 48 hours. The focus is now sustained health monitoring and backlog processing. Microsoft previously said it had found no indication of malicious activity causing the incident; a complete root-cause and follow-up remediation report remains pending."
+        "Microsoft’s overall consumer Microsoft 365 incident changed to **“Service restored” in a final update at 11:51 Beijing time on November 14**. Microsoft said previously affected environments had fully recovered and the email backlog had been processed, completing remediation. The public enterprise incident still showed “Service degradation,” with recovery and mail queues under monitoring. Consumer closure does not establish resolution for every enterprise tenant.",
+        "The consumer final notice retrospectively lists the impact period as 10:05 UTC on November 12, 2026 to 16:10 UTC on November 13, equivalent to 18:05 Beijing time on November 12 through 00:10 on November 14. **The stated impact end precedes the final confirmation announcement.** These represent the incident period and the public confirmation respectively; 11:51 is not the moment every consumer’s service first recovered.",
+        "The enterprise impact list still centers on Exchange Online and email dependencies, including Outlook access, delivery, Copilot work data and some administration and security functions. Microsoft said most related scenarios were believed addressed, but monitoring was extended because of the severity. Most core Teams calls, meetings and standard-channel messages had been unaffected, and files stored directly in SharePoint remained accessible. Dependent-function disruption does not mean every product was wholly unavailable.",
+        "Microsoft had extended email timeouts to 48 hours to protect queues. Consumer backlog processing is now confirmed complete, while enterprise monitoring and verification of mail processing continue. Microsoft previously said it had found no indication of malicious activity causing the incident. A complete root-cause and follow-up remediation report remains pending."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1523,11 +1644,11 @@
     },
     {
       "article_id": "article-c3459d772f5c3c544ea60b54",
-      "source_sha256": "8e429387303646751962578872409947c451efecd64cb3ef6e1a3d26ccb2e124",
+      "source_sha256": "92b2bc524e49f264539a75ecf8e69edde0a076c7b3d5d23dd120e7feac118fd4",
       "paragraphs": [
-        "Huawei announced preorder arrangements for its MateBook Fold S compact foldable HarmonyOS computer on November 10: **preorders open at 10:08 Beijing time on November 14**. Official promotional images also confirm the Live mini display and three finishes: Cloud Blue, Sky White and Phantom Black. This is an advance preorder announcement; that opening time had not yet arrived on November 10.",
-        "Official images carried by IT Home show a separate small display remaining visible on the outside when the device is folded. An earlier teaser video posted by Richard Yu showed a design resembling a phone’s rear display. The report lists a 14.7-inch unfolded screen. Further details of the small display’s interactions await official clarification.",
-        "As of this announcement, Huawei had not disclosed the specific processor, memory and storage configurations or price. The preorder notice also did not provide a verifiable date for in-stock delivery. The confirmed information concerns the appearance and preorder timing of this HarmonyOS foldable computer for China; overseas availability and regional specifications remain unspecified."
+        "Huawei’s HarmonyOS foldable computer MateBook Fold S **opened for preorder in China at 10:08 Beijing time on November 14**, moving beyond the earlier advance announcement. IT Home’s 10:12 report listed four memory and storage combinations and a November 24 balance-payment date. That payment milestone is not a confirmed in-stock delivery or receipt date; the final price was still undisclosed at that point.",
+        "The configurations are 16GB plus 256GB, 16GB plus 512GB, 24GB plus 512GB and 32GB plus 1TB. All include a keyboard and sleeve, with a stylus additionally included in the highest configuration. Color options are black, white and blue. The screen measures 10.7 inches folded and 14.7 inches unfolded, while the external Live display presents lightweight information such as time, notifications and calendar items.",
+        "Huawei’s promotional material shows UTG glass, its Xuanwu waterdrop hinge, multi-angle positioning and HarmonyOS PC multi-screen collaboration. This update establishes China preorder availability and configuration bundles. The exact processor model, complete performance data, final price and actual delivery arrangements await fuller disclosure. Overseas versions and sales eligibility were not confirmed alongside this preorder news."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3386,122 +3507,12 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-947296f0e581562eb2c66f7e",
-      "source_sha256": "53dc0e3f4158aa3ff73e30ff110e4175e1198f38913852ce27e77e24156216dd",
-      "paragraphs": [
-        "On November 4 Beijing time, the first quarterfinal of the 2026 League of Legends World Championship concluded in Allen, Texas, with **iG defeating TES 3-1 to become the first team through to the semifinals**. iG won Games 1, 3 and 4, while TES took Game 2. Riot's official schedule marked the series as completed, recording three wins for iG and one for TES. The 1-1 score after the first two games, reported in the morning, was an intermediate score.",
-        "In the decisive fourth game, Wei played Naafiri and repeatedly worked with TheShy's K'Sante to create openings in the top lane, also stealing an early dragon. TES fought back around a dragon fight, but iG regained the initiative through Rift Herald, mid-lane pressure and jungle aggression. Around the 29-minute dragon fight, Meiko's Alistar and JiaQi's Jhin combined, with Rookie's Taliyah following up. iG took down four TES players and pushed straight through to finish. The game ended after roughly 31 minutes with a 16-10 kill score; iG secured four dragons, one Baron and eight towers.",
-        "iG will face the winner of GEN versus LYON in the semifinals. That quarterfinal had not yet begun and **was scheduled to start at 6:00 a.m. Beijing time on November 5**. Riot's schedule placed iG's semifinal at 6:00 a.m. Beijing time on November 8; the opposing slot was still awaiting the quarterfinal result."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-24dea360bb8c5d64c5c716f9",
-      "source_sha256": "ab44bb290ba52081179533cd41dd140d5c622beb35fd03c8313eab01d17e29ec",
-      "paragraphs": [
-        "The first quarter-final of the 2026 League of Legends World Championship began in Allen, Texas, at 06:00 Beijing time on November 4, with TES facing iG. **The series stood at 1–1 after two games**: iG won the opener, and TES took Game 2 after 47 minutes 8 seconds with a 20–17 kill score.",
-        "In Game 1, JiaQi’s Kai’Sa and Rookie’s Syndra led iG’s damage, extending their advantage through jungle fights and finishing after securing Infernal Soul. TES answered with 369 on Renekton, Tian on Xin Zhao, Creme on Orianna, JackeyLove on Kalista and Zhuo on Renata Glasc. Tian stole Baron; in the final fight, 369 removed a key target before TES killed four opponents and pushed through mid to win.",
-        "The **1–1 score is the position after Game 2**, not the final result of the best-of-five series. Knockout matches require three game wins. The remaining quarter-finals are scheduled for 06:00 Beijing time: GEN–LYON on November 5, DK–BLG on November 6, and T1–KC on November 7."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-6ea1e1302492fa00ceedc6ac",
       "source_sha256": "91d721b5464ed476d0c2070dde043d162dea56b4c911c902ff0804be8966fc87",
       "paragraphs": [
         "On November 4, the Hong Kong Polytechnic University’s Department of Civil and Environmental Engineering announced its 2026 National Natural Science Foundation of China funding results. Two projects list **Yong Xia as supervisor**, with awards to postdoctoral fellow Wei Tian and research assistant professor Ye Yuan. Each receives RMB300,000 under the Young Scientists Fund, Category C.",
         "Wei Tian’s project is titled “Parametric Substructuring-Based Digital Twin-Driven Damage Detection.” Ye Yuan’s project is “Spatial-Temporal Data Representation and Physics-Enhanced Multimodal Large Model for Bridge Health Monitoring.”",
         "Across the department, 14 scholars received more than RMB4.5 million through twelve Category C Young Scientists Fund awards and two General Programme awards; ten projects were initiated through the Shenzhen Research Institute. **The RMB4.5 million-plus figure is the department-wide total**, not the amount for Xia’s two supervised projects. This is a funding announcement; experimental data and research findings for the two projects have not been disclosed."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-9e49ad7916ca6612b9dfa6e7",
-      "source_sha256": "dde7c1c6b4386f354a29aff92092cd96c78a09eaf96330eb7f9790c868069a23",
-      "paragraphs": [
-        "OpenAI released **Images 2.6** on November 4 for ChatGPT and Codex across subscription tiers on desktop, mobile and the web, with GPT-Image-2.6 Flare and Sunburst available through the API. Flare emphasizes speed; Sunburst focuses on precision and consistency across edits at medium and high quality.",
-        "The update adds GIF creation, editing through marks placed on specific image areas, and SVG export. An API complexity setting adjusts planning separately from output quality. OpenAI reports 50% faster generation overall and low-quality Flare output in as little as approximately six seconds; these are vendor-reported results, with timing dependent on settings and tasks."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-031a31a419f57268fc228643",
-      "source_sha256": "edefa1b4b108e0f50e7dd3e0deb97a3b8ac2af71c2afd519985c539ad5c1190c",
-      "paragraphs": [
-        "On November 4, Qualcomm reported fourth-quarter and full-year fiscal 2026 results for the period ended September 27. **Quarterly GAAP revenue was US$10.322 billion, down 8% year on year**. Net income of US$1.251 billion reversed a US$3.117 billion loss a year earlier. Adjusted non-GAAP net income was US$2.332 billion and earnings per share US$2.17, both down 28%.",
-        "Chip revenue diverged by business: QCT handsets generated US$5.137 billion, down 26%; automotive reached **US$1.990 billion, up 89%**; and IoT contributed US$1.888 billion, up 4%. The company rounded automotive revenue to its first US$2 billion quarter in the headline; the segment table’s precise figure remains US$1.990 billion.",
-        "Full-year GAAP revenue was US$43.120 billion, down 3%, while net income rose 146% to US$13.628 billion, including a one-time US$5.7 billion income-tax benefit. Full-year non-GAAP net income fell 15% to US$11.311 billion, moving in the opposite direction to GAAP profit. Qualcomm also announced renewed long-term patent licenses with Apple, Huawei and Transsion.",
-        "Qualcomm projects non-handset revenue growth above 60% in fiscal 2027 and targets US$5 billion in data-center revenue; these are management forecasts for the next fiscal year. Automotive and data-center expansion is changing the revenue mix, but did not fully offset this quarter’s handset decline."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-5abbc73b74175c4f1c1ff6bb",
-      "source_sha256": "ccbea23c0ac0fbfc8ae0f27d32e609de535b6a8f01b8284b28af1dfb847cf97e",
-      "paragraphs": [
-        "The ninth China International Import Expo and Hongqiao International Economic Forum **opened in Shanghai on November 5**, with Ding Xuexiang attending the opening ceremony and delivering a keynote speech. The expo runs from November 5 to 10 at the National Exhibition and Convention Center in Shanghai. The opening updates the earlier preparations and installation reports.",
-        "A China News Service report republished by the CIIE Bureau on November 4 put total exhibition space above 440,000 square meters and the business exhibition above 370,000 square meters, both firsts for the expo. It listed participation from 162 countries, regions and international organizations and 4,142 overseas companies, including more than 300 Fortune Global 500 companies and industry leaders, and more than 2,000 first-time exhibitors.",
-        "The Foreign Ministry’s November 5 account said Ding outlined four priorities: sharing markets, investment cooperation, innovation and mutual understanding. He called for stronger market connections and industrial-chain cooperation, new areas of trade, and consultation over differences and trade barriers. These were policy directions presented in the opening speech.",
-        "Ding subsequently visited the business exhibition and toured it with foreign guests. Installation photographs from November 3 had already shown aircraft-engine models, embodied robots and humanoid robots. With the expo open, attention shifts from venue preparation to exhibits, procurement and cooperation."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-b8d3233e608d83579b371168",
-      "source_sha256": "088e937ceae1f40d385fa847555cf983deec4cef51ccfc6abb848a1100cd8b70",
-      "paragraphs": [
-        "Labour-market data for the third quarter of 2026, released by Stats NZ on November 4, showed the seasonally adjusted **unemployment rate rising from 5.6% in the second quarter to 5.7%**. The number unemployed increased by about 3,000 to 174,000. The employment rate fell from 66.7% to 66.4%, with approximately 2.891 million people employed. Employment was still 0.7% higher than in the same quarter a year earlier.",
-        "The underutilisation rate, a broader measure of unused labour capacity, remained at 13.8%, representing about 438,000 people. In addition to the unemployed, this includes underemployed workers and the potential labour force. Around 151,000 were underemployed and 113,000 were in the potential labour force. Labour-force participation fell from 70.6% to 70.4%, meaning that a slightly higher unemployment rate coincided with a decline in the share of people participating in the labour market.",
-        "All-sector salary and wage rates, as measured by the labour cost index, rose **2.1%** in the year to the third quarter, below consumer price inflation of 3.7% over the same period. The separate Quarterly Employment Survey put average ordinary-time hourly earnings at NZ$44.86, up 2.9% from a year earlier. The first measure tracks wage-rate changes, while the second measures average earnings; their statistical bases differ."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-f8a16a4de176fa02f7dd8be1",
-      "source_sha256": "a5df2a299720e571c2dac177c317481d0087d0a08fc3c3533c31a296fabd9993",
-      "paragraphs": [
-        "People's Daily reported on November 4 that the Ministry of Civil Affairs had disclosed the latest progress of care-service consumption subsidies for older adults with moderate or more severe loss of functional ability. **By the end of September 2026, RMB 9.33 billion in subsidies had been redeemed, benefiting 2.43 million people**. The ministry also reported that the program had generated RMB 40.47 billion in care-service spending. All figures are cumulative through the end of September.",
-        "The ministry will continue the subsidy program, improve care arrangements for older adults with functional impairments or dementia and meal-assistance policies, and guide local authorities in streamlining the establishment of care institutions and applications for older-person welfare benefits. Further work includes developing a professional qualification system for care-service practitioners."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-8801ead606fc4db5063474fe",
-      "source_sha256": "21cd64b616b7fe7d8b9f44298b2fb2e6368e6e8280cb4b637a4b444337df4d68",
-      "paragraphs": [
-        "AMD reported fiscal third-quarter 2026 results for the period ended September 26: revenue of **$13.377 billion, up 45% year on year** and 16% sequentially. GAAP net income was $2.428 billion, diluted earnings per share $1.46 and gross margin 54%. Non-GAAP EPS was $2.09, a separate adjusted measure.",
-        "Data Center revenue reached approximately $8.5 billion, **up 97% year on year**, which AMD attributed to demand for EPYC processors and Instinct MI450 GPUs. Combined Client and Gaming revenue was about $3.7 billion, down 8%: Client was roughly $2.9 billion, up 7%, while Gaming was $773 million, down 40%, reflecting weaker semi-custom and graphics revenue. Embedded revenue was about $1.1 billion, up 29%.",
-        "Management forecasts fourth-quarter revenue of about $17 billion, plus or minus 3%, implying 66% year-on-year growth at the midpoint, and a 55% non-GAAP gross margin. These are forecasts, not realised revenue. AI data-centre growth and Gaming contraction coexisted in the quarter, so company-wide growth does not describe every segment."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-968580948772fb681129715f",
-      "source_sha256": "80a57f192c0e61e38278bc94f4e881220a84a224b35c68b1db02cf96aba1669c",
-      "paragraphs": [
-        "Spanish Transport Minister Óscar Puente announced his resignation at the end of a parliamentary hearing on November 3 and withdrew from the candidate list for the November 29 snap election. A high-speed rail collision near Urda, south of Madrid, on October 28 had killed **at least 69 people**, intensifying questions about political responsibility.",
-        "The collision involved state-owned Renfe and private operator Iryo. AFP reported that an automatic safety-system failure stopped trains along a 63-kilometre section, but a control centre subsequently authorised the Renfe train to proceed. It hit the stationary Iryo service ahead. Signalling and dispatch decisions are central to the investigation; final responsibility has not been established by its findings.",
-        "Puente proposed second-operator confirmation of dispatch decisions when the automatic system is down, improved anomaly alerts, and changes to controller breaks and fatigue monitoring. He also announced €30 million in aid for victims’ families. A separate Spanish rail crash in January killed 46 people; **the casualty totals concern two different accidents**."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-0c5c5a34246f3af68879f93f",
-      "source_sha256": "b3e3e28217e4807ceb58c299a8227c44ce993a40565f31ef671c2a344b9b1246",
-      "paragraphs": [
-        "Xbox announced its first-half November Game Pass schedule. Escape Academy 2: Back 2 School is a **day-one addition on November 5** for Ultimate and PC Game Pass, covering cloud, Xbox Series X|S, PC and handheld optimisation. The sequel expands escape-room puzzles into an open world and supports local or online two-player co-op.",
-        "Warhammer Survivors is due as a day-one addition on November 10 for Ultimate and PC Game Pass, developed by Auroch Digital with Vampire Survivors developer poncle. Thronefall joins Ultimate, Premium and PC Game Pass on November 11, combining daytime kingdom-building with night-time defence. Their dates and subscription tiers differ.",
-        "Void/Breaker reaches its full 1.0 release on November 4 and comes to Xbox Series X|S and cloud gaming. Titles including 1000xResist, Moonlighter and Total Chaos are scheduled to leave on November 15. **Joining a subscription catalogue is not a simultaneous release on every platform**; the handheld designation indicates optimisation for handheld play."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -3860,18 +3871,6 @@
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-4261a99eadcb40f887ac2f90",
-      "source_sha256": "13ff7bf1863813a0ff981235a80968b307d29892f14b620b976e2b1cd3015092",
-      "paragraphs": [
-        "**Season two of North of North arrived on Netflix on November 5, 2026, with eight episodes of approximately thirty minutes each**. It had already aired on Canada’s CBC Gem and APTN+ in September; this is its Netflix release window. The story remains set in the fictional community of Ice Cove, Nunavut, where young Inuk mother Siaja, played by Anna Lambe, tries to build a new life around parenting, work and intimate relationships.",
-        "This season, Siaja seeks greater responsibility at the community center and the trust of her boss, Helen. At home, she raises her daughter Bun with help from her mother Neevee and other family members, while learning about a newly discovered half-sister. Creators Stacey Aglok MacDonald and Alethea Arnaquq-Baril continue the comedy’s small-community structure, where relatives and colleagues all know one another. The series is a collaboration between CBC, APTN and Netflix, with location filming including Iqaluit.",
-        "In a positive review of season two published on September 18, Dorothy Woodend, culture editor at Canadian outlet The Tyee, particularly praised the jokes, clothing and small moments between characters. She argued that the series uses gentle humor to address everyday community difficulties such as drinking water and food prices, grounding weightier issues in specific people and situations.",
-        "**As of November 5, the Rotten Tomatoes page for season two listed only two critic reviews and fewer than fifty audience ratings, with no aggregate scores displayed**. The available named reviews offer positive assessments, but the new season’s rating sample remains very limited."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-21e0fdc0ffe2e76e529fb65e",
