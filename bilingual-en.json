@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T04:16:39.312Z",
+  "generated_at": "2026-11-14T09:15:20.383Z",
   "translations": [
+    {
+      "article_id": "article-e8447cb02264cc1df53dbd1a",
+      "source_sha256": "7bf724fec9c66dca5af9bcfe52e69dde75694cb07c83a4a3944b96f7f002870d",
+      "paragraphs": [
+        "France is scheduled to hold street rallies for a fifth consecutive week on Saturday, November 14, bringing together children’s-rights groups, high-school students, unions and Yellow Vest participants with different demands. AFP reports that the main Paris rally is due at **13:00 local time, or 20:00 Hong Kong/Beijing time**, with dozens of other rallies planned nationwide. These are arrangements, not final attendance or policing results for the day.",
+        "Children’s-rights advocates seek stronger protection against sexual abuse. Other participants oppose a bill granting a presumption of self-defense to police officers who fire their weapons. The report says the National Assembly has passed it and Senate consideration is next. Supporters say it would prevent automatic suspicion of excessive force; opponents fear weaker accountability. These competing assessments remain a political dispute.",
+        "High living costs and school blockades form the background to more than a month of protests. AFP describes most rallies as peaceful, with sporadic violence and disputes over policing at some earlier events; that history does not establish what happens in Paris on November 14. Unions separately plan a November 17 strike against the proposed 0.6% minimum-wage increase, on a different date from Saturday’s rallies."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-01544f2ebfebdf916145d2ac",
+      "source_sha256": "a62de89eb5d795e91c9782866d1ae774ae28c59f0aa7ca46c5ea18b3d76fee34",
+      "paragraphs": [
+        "After a Police College passing-out parade on November 14, Hong Kong Police Commissioner Joe Chow announced that facial recognition in the force’s SmartView CCTV system will start on **Monday, November 16**. He described it as protection for law-abiding residents and surveillance and deterrence for potential offenders. The announced start is next Monday, rather than full operation already on November 14.",
+        "Asked whether masked people could be identified, Chow declined to disclose technical capabilities or limitations, saying disclosure could help people evade enforcement. This was the police account of the system, without published accuracy, false-positive or occlusion-test data. His confidence does not establish accurate identification under every condition.",
+        "The program began in 2024. The report says police have installed over 10,000 cameras and plan a total of 60,000 by 2028; the latter remains a construction target. Previously stated uses include estimating crowds, finding missing people, pursuing suspects, detecting incidents and collecting criminal evidence. Police say recordings are accessed under the Personal Data (Privacy) Ordinance and retained for no more than 31 days."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bac65d1cd28ba2f7e3de47b9",
+      "source_sha256": "52c5bb5deca3bdcfe811ade1c21cea27455dfb4b3a9cd7dc97ba658d3d23ce0d",
+      "paragraphs": [
+        "Shenzhen Customs reported on November 14 that the city’s goods trade totaled RMB5.25 trillion in January–October 2026, up 40.9% year on year. It became the first mainland Chinese city to exceed RMB5 trillion. Exports were RMB2.71 trillion, up 19.7%, and imports RMB2.54 trillion, up 73.7%. **These are cumulative January–October figures, rather than a single month or completed full year.**",
+        "Private enterprises accounted for RMB3.89 trillion, up 52.7%, or 74.2% of the city’s trade. Foreign-invested enterprises recorded RMB1.29 trillion, up 23.5%, or 24.6%. Hong Kong, ASEAN and Taiwan were the three largest trading partners, at RMB1.06 trillion, RMB796.02 billion and RMB517.77 billion respectively. The top ten partners accounted for RMB4.08 trillion, or 77.8%.",
+        "A publicly identified CCTV News republication also reports electromechanical exports of RMB2.11 trillion, up 23.1%, representing 78% of exports; corresponding imports were RMB2.02 trillion, up 69%, or 79.7% of imports. These are goods-trade flows, with markedly different export and import growth. Total-trade growth does not directly establish GDP, corporate-profit or full-year economic growth."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8a0f0f74608f7f99c5ebe51f",
+      "source_sha256": "9a45f0a0168779eb83e0b254695d93deda753611a7b5f8dfeaca5a4935b83d11",
+      "paragraphs": [
+        "TCL CSOT and Lenovo displayed a Legion laptop prototype with a 360Hz OLED panel at DTC2026. IT Home reported on November 14 that the 16-inch panel has a 2560×1440 resolution, stated 100% DCI-P3 coverage and 500-nit peak brightness. **This is a panel and prototype demonstration; no launch date or price for a corresponding retail laptop has been disclosed.**",
+        "The panel uses inkjet-printed OLED, depositing liquid organic materials into predefined subpixel areas, unlike vacuum evaporation. The report describes lower production costs and clearer text as potential advantages, without independent finished-product measurements of brightness, power, lifespan or motion clarity.",
+        "In a separate interview at the same event, CSOT CEO Zhao Jun said Wuhan’s t12 line increased monthly capacity from 3,000 to 9,000 motherglass substrates. Yield for its first product rose from single digits at the April production start to about 70%. A separately shown 27-inch QHD 500Hz printed OLED remains under development, with launch timing dependent on customer brands. These line-level figures do not establish full-scale delivery of the 360Hz laptop panel."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5ca902446ad4e5953e1f23c0",
+      "source_sha256": "2f7c32dcfe1f547953e00270fd8248eb93582e0bd4bb74c889d31e4c41dfd175",
+      "paragraphs": [
+        "COMAC’s 10-tonne-class CE-25A electric commercial aircraft completed its first piloted intelligent flight in Binzhou, Shandong, on November 14, carrying two pilots and one flight-test engineer. Xinhua quoted COMAC as saying the aircraft operated normally and met expectations. COMAC information published by The Beijing News gives a 57-minute-46-second test, including 16 minutes 38 seconds airborne over 60.4 kilometers.",
+        "Developed with CATL, Shanghai Jiao Tong University and other partners, CE-25A targets intercity commercial flights. Published design specifications are 19 passengers, a 10-tonne maximum takeoff weight, 300 km/h cruising speed, a 2,400-meter cruising altitude and a 400-kilometer range, using distributed electric ducted-fan propulsion above the wings. **The 19-seat and 400-kilometer specifications do not mean this flight carried 19 passengers over 400 kilometers.**",
+        "The milestone follows the February 2 unmanned intelligent maiden flight. COMAC says the aircraft has completed 19 unmanned autonomous flight validations and that China’s civil aviation regulator has accepted its type-certificate application. Acceptance starts the certification process, rather than constituting certification or commercial passenger service. This piloted aircraft test is a further development-stage validation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-3f4629927f7d3ef1ef629331",
       "source_sha256": "66d8a68413e2540dbe611621abc546c0acd467029b31349609a64aca65b4e986",
@@ -36,12 +91,34 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-70275d0e699d06687aefcbb5",
+      "source_sha256": "2eeb14abe5600d3b58c954f20b0d01ef82289c382fbc7b15a797cbe0907ae2e7",
+      "paragraphs": [
+        "White House spokeswoman Olivia Wales said Trump plans to meet Xi Jinping and Vladimir Putin in Shenzhen near the end of next week’s China visit to discuss nuclear-arms reductions and other issues. Under the US itinerary, Trump would hold bilateral talks with Xi on Thursday, November 19, followed by the trilateral meeting, after attending ASEAN-related meetings in the Philippines. **At the time of the BBC update, Beijing and Moscow had not publicly confirmed the trilateral arrangements.**",
+        "The BBC and ABC separately reported that US officials expect Iran to be discussed but do not intend to address Russia’s war against Ukraine at this meeting. Senior US officials described an initial discussion and did not anticipate an immediate concrete agreement. A proposed meeting, its agenda and an accomplished arms-control or ceasefire agreement remain distinct stages.",
+        "The US-Russia New START treaty expired in February 2026, and Trump has advocated a replacement involving China. Chinese official reporting on November 13 announced bilateral activities for Xi during APEC, without announcing this trilateral meeting. Attendance, the final agenda and any outcomes await subsequent official confirmation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-a6b66c00d213b4a9dc05a63b",
       "source_sha256": "8471fd88d6aca6a169536e266587491430f93d0c68f0a543cff5a90d651277e1",
       "paragraphs": [
         "China State Railway Group reported on November 14 that **national railways handled 4.13 billion passenger journeys in January–October 2026, up 4.7% year on year**, a record for the same period. An average of 11,670 passenger trains ran daily, up 5.0%. Passenger journeys and train services measure travel frequency and capacity respectively; 4.13 billion journeys does not mean 4.13 billion different people.",
         "On October 1, railways handled 25.204 million passenger journeys and operated 14,885 passenger trains, both described by the group as daily records. Those figures refer to National Day itself, not the daily average for all of October. The first ten months included 3,236 tourist-train services and 1,084 special services for concertgoers, sports fans and educational trips, all cumulative counts for the reporting period.",
         "Cross-border journeys on the Guangzhou–Shenzhen–Hong Kong high-speed railway totaled 29.23 million, up 11.0%, while the China–Laos Railway handled 289,000, up 33.0%. National railways also carried 22.52 million journeys by foreign passengers, up 32.9%; that category differs from cross-border travel. The group said multi-ride and season-ticket products covered 75 routes, with tourist multi-ride products on 28 routes, describing ticket-service coverage."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-31254896e88e7a0ca280ce35",
+      "source_sha256": "3f433b1ffb491e07d9128362e5cabd29a8084c09d138fef203ae05222e78d181",
+      "paragraphs": [
+        "On November 14, China’s National Healthcare Security Administration and Ministry of Human Resources and Social Security published the 2026 basic medical-insurance and commercial-insurance innovative-drug lists. **Both take effect on January 1, 2027.** The basic list adds 107 drugs, including 51 Class 1 innovative drugs, covering cancer, rare diseases, chronic conditions and mental illness. It removes 34 drugs with limited clinical value, better alternatives or supply-related issues.",
+        "After additions, removals and dosage-form consolidation, the basic list gains 78 numbered entries, reaching 3,331: 1,935 Western medicines and 1,396 Chinese patent medicines. CAR-T drugs for lymphoma, previously costing over RMB1 million, enter basic coverage for the first time. Two products move from the 2025 commercial list into basic coverage. The revised commercial list has 28 drugs, adding 12, including solid-tumor CAR-T and hemophilia gene therapies.",
+        "Basic coverage requires an appropriate diagnosis, authorized indication and eligible payment scope. Negotiated payment standards include both fund and patient contributions; local authorities determine their shares, so listing does not establish one nationwide out-of-pocket amount. Commercial-list drugs remain excluded from basic pooled and work-injury insurance funds; commercial coverage depends on the policy. The notice is dated November 13 and was published November 14."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -478,6 +555,28 @@
         "Cosina announced on November 13 that Sony E- and Nikon Z-mount versions of the Voigtländer NOKTON 35mm F1.2 Aspherical are planned for **December 2026, with an exact date still pending**. Both are fast, manual-focus primes for full-frame mirrorless systems and include electronic contacts. Electronic communication and focusing aids do not imply autofocus.",
         "Both versions use nine elements in seven groups, twelve aperture blades, a 0.3-meter minimum focusing distance, 1:5.8 maximum magnification and a 58mm filter thread. The E version weighs about 380 grams and measures 68.1 by 60.2mm in maximum diameter and length; the Z version is about 390 grams and 67.6 by 62.4mm. Their optical designs are optimized for their respective sensor systems; matching focal lengths and apertures do not erase version differences.",
         "The official Japanese product tables list separate suggested prices: **JPY140,000 before tax for E mount and JPY130,000 before tax for Z mount**. On compatible bodies, E communicates focusing distance and supports five-axis in-body stabilization. Z supports three-axis stabilization and focusing aids with compatible electronic communication and firmware. These are Japanese pre-tax list prices; China pricing, stock arrival and independent optical tests are not established by the announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f8c0a66c91a26dc126df66ca",
+      "source_sha256": "aaee576c7e82cab735015452148bc3f5fac1dfa213a0db26ec78a8b71e9adf08",
+      "paragraphs": [
+        "The Federal Reserve released its Financial Stability Report on November 13. A New York Fed survey conducted in September and October received responses from 23 contacts at banks, broker-dealers, investment funds and advisory firms. **AI-related risks were mentioned by 87% of contacts**, versus 50% in spring. Other leading concerns included a risk-asset correction, higher long-term rates, cyberattacks and fiscal debt sustainability.",
+        "AI concerns involved elevated equity valuations and potentially disappointing earnings; AI-enabled cyberattacks or damage from frontier models themselves; and complex financing, borrowing and circular arrangements around data-center construction that could amplify losses. A risk-asset correction was cited by 52%, higher long-term rates by 48%, and cyberattacks and fiscal debt sustainability by 43% each.",
+        "These percentages measure mentions within a small contact survey, rather than probabilities or an official Federal Reserve ranking. The report expressly attributes these views to respondents, not the Board or New York Fed. It generally reflects information available through October 28, 2026, rather than real-time market conditions on November 14."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bea6f68aca51de60ac08342a",
+      "source_sha256": "b3b934563df9207e693a652fde4ebf9498c00b869cdb8f0324fb25abbe7bc039",
+      "paragraphs": [
+        "On November 13, Google Research reported progress with Antigravity’s /teamwork, combining Gemini 4 models, specialized tools and independent evaluators for mathematics and software engineering. Google says external users can currently access /teamwork and /boost in Antigravity and Deep Review, while formal-proof patterns and some specialized workflows await later updates.",
+        "Google reports that /teamwork-LEAP produced a machine-checked formalization of the Weil conjectures using about 28,800 subagent calls and 1.8 million lines of Lean. **This formalizes existing mathematics rather than proving the Weil conjectures for the first time**: Deligne completed the classic proof in 1974. Mathematicians must still confirm that the formal theorem statement matches the original problem.",
+        "Google also reports a roughly 170,000-line Rust migration of its libgav1 AV1 decoder, with bit-exact output in its conformance tests and, after optimization, 20–30% faster performance under the tested video and hardware conditions. These are Google’s published test results. Applications are open for 10,000 academic researchers to receive six months of free access at the highest usage tier, subject to program eligibility and allocation rather than an automatic grant to everyone."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3393,115 +3492,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
-      "article_id": "article-7876251db412b954ce588f7b",
-      "source_sha256": "e7085cc740336b215780789f62e0fd248ee8cb29bd894e10062f9d8dc727c5d1",
-      "paragraphs": [
-        "In its November 5 announcement for the 2026 China International Import Expo, Sony presented two mobility technologies from Sony China Research Laboratory: **vision-language-model-based driver-takeover hazard warnings and passenger motion-sickness risk assessment combining two video inputs**. Exhibited as research and development solutions, they address automated-driving handovers and the cabin experience respectively.",
-        "The takeover solution analyzes road scenes and issues graded prompts for the driver to prepare, take over proactively or take over urgently as automated driving approaches its capability limits. A vision-language model interprets the scene and organizes the prompts, supporting decisions about handover timing and human-machine interaction design. The announcement provides neither a single quantitative accuracy figure nor a list of production vehicles using it.",
-        "The motion-sickness solution combines video of the road ahead with video from the cabin entertainment screen, representing vehicle movement and the content watched by passengers respectively, and assesses their combined contribution to motion-sickness risk. It focuses on the interaction between vehicle motion and visual content, providing technical input for carmakers seeking to improve cabin comfort.",
-        "The exhibition also includes a concrete deployment advance. A see-through connected-vehicle warning system demonstrated on a PC last year has now moved onto an in-vehicle computing platform, with collaboration beginning with automotive supply-chain companies. Sony says the deployment reduces warning-display latency. The system uses semantic communication to transmit key information about obscured pedestrians and vehicles, then reconstructs and displays it in the vehicle to help drivers recognize blind spots."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a839079dd91fee2212b9f8c5",
-      "source_sha256": "c82cbd66620d7d449ab6e3ed00412349155ffd9d8b5371e76aeff4fefa172cf7",
-      "paragraphs": [
-        "Microsoft began rolling out two Xbox Cloud Gaming input previews on November 4: **using a phone browser as a virtual controller for a Smart TV, and connecting the Xbox Nano Controller directly to cloud-game servers over Wi-Fi**. Both remain tests, with limits on supported devices, games and regions.",
-        "The phone-controller preview supports compatible Smart TVs in countries where cloud gaming is available, using supported Android or iOS phones to display browser-based controls. Some games offer tailored layouts. It provides input when no physical controller is available; it does not establish cloud-gaming access for every TV, phone or mainland Chinese account.",
-        "The Nano Controller’s Cloud Connect preview is currently US-only and works with supported Smart TVs and web experiences. Instead of routing through a Bluetooth connection to the TV, the controller connects over Wi-Fi directly to the server running the game. Microsoft says this can reduce input latency, but the announcement provides no independent millisecond measurements. Setup uses the Android Xbox beta app or the PC Accessories app; PC setup requires Xbox Insider enrollment."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-baeb958ddc2f9e36b4affc13",
-      "source_sha256": "81d2d51ac7e703e18f2fdbcc44044b89c980f1cd6ea51ab85606f609ae3ab1b7",
-      "paragraphs": [
-        "In the preprint Perceptive Humanoid Motion from Simulation, submitted to arXiv on November 4, an Apple research team introduced HALO. The system lets a humanoid robot use its own cameras and natural-language instructions to find targets, sit, open doors, crouch, crawl and push boxes in indoor spaces that have not been scanned in advance. The project page and code repository are public.",
-        "The system divides work into three layers: a vision-language model decomposes instructions roughly every two seconds; a motion generator replans five seconds of whole-body motion at about 3 Hz; and a low-level tracker executes the plan at 50 Hz using depth images and proprioception. Training primarily uses **300 hours of simulated task data from 1,000 procedurally generated homes**, linking language, first-person images and human motion.",
-        "The physical platform is a Unitree G1 carrying a Mac mini M4 Pro with 64 GB of memory, with an onboard Jetson Orin NX handling low-level control. The default task orchestrator is a four-bit-quantized Qwen3.6-35B-A3B running locally on the Mac mini, enabling operation without an internet connection. The system can optionally use cloud-model APIs.",
-        "The authors tested six single-task categories ten times each in six unmapped real-world environments unseen during training: **360 trials in total, with a mean success rate of 91%**. Success required completing the task without falling or getting stuck. Crouching achieved 100%, sitting 85% and pushing boxes 88%. These results apply to the environments and tasks specified in the paper.",
-        "Longer composite tasks proved substantially harder. The team tested three task sequences ten times each in one real-world environment, achieving a mean success rate of 70%. The most complex sequence—crouching, going to a target and pushing a box—succeeded in 50% of trials. Reported failures included the robot’s head orientation leaving a box outside its field of view after crouching, as well as perceptual difficulties involving contact and occlusion. The single-task results therefore do not directly establish competence at arbitrary household tasks."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-6be6d44834d7aa94fda7ee2c",
       "source_sha256": "f97bbff0181ee43061fcbcbf074c5d37a8148ed96aaf7b4101113ca245be4944",
       "paragraphs": [
         "Netflix unveiled the trailer and release date for political thriller Trinity on November 4. **All seven episodes will arrive on Netflix on December 1, 2026**. Bodyguard creator Jed Mercurio writes and leads the series, starring Gugu Mbatha-Raw and Richard Madden. It centers on a dangerous connection between a nuclear-submarine officer and the US secretary of defense.",
         "Mbatha-Raw plays Commander Katherine Decker, second-in-command aboard the nuclear submarine USS Kansas. Madden plays technology-minded Secretary of Defense Webb Preston. Their connection draws Decker into a top-secret program code-named Trinity, forcing choices between military duty, personal trust and an emerging political conspiracy. The submarine’s confined spaces intertwine with power struggles around the Pentagon.",
         "In the studio interview, Mercurio cites No Way Out as an inspiration for combining high-stakes conspiracy with a naval officer’s predicament. Michael Cuesta directs the first two episodes and executive produces. Other cast members include Marcia Gay Harden as a business-family matriarch, JD Pardo, Bruce Greenwood and Robert Wisdom."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-38eadf69e106854cfe63c132",
-      "source_sha256": "722069ac3d21943238aa24f10388b3b2b16144268337bf3ec1dc6fa1303a0431",
-      "paragraphs": [
-        "France’s blood establishment, EFS, confirmed that cold rooms storing blood were affected by recent cyberattacks that raised temperature settings. Staff intervened to protect supplies. **EFS said no health impact had been identified and no blood products had been lost**. The BBC reported on November 4 that attacks previously associated mainly with European supermarket freezers had also affected medical facilities.",
-        "Several cybersecurity firms used decoy freezer systems, or honeypots, to observe prior scanning. Previdian saw simultaneous temperature changes across locations as evidence of planning and coordination. Lupovis said probing of its decoys focused on Europe. Sekoia noted that some scans might have been automated and not necessarily malicious.",
-        "**No formal attribution has been made**. Online claims of involvement do not establish responsibility for these waves of freezer attacks. Sekoia said it had no technical evidence of Russian-speaking groups’ involvement, and different waves may have involved separate actors or copycats. Authorities in several countries are investigating and warning affected industries."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-27c884392a2cbbbbb440168d",
-      "source_sha256": "f57d2a591a6ac061f36d668c06f7e9c402fd46b7ab684e0797cbf1d759462bd0",
-      "paragraphs": [
-        "OpenAI announced plans to acquire The Pierre Computer Company, developer of code-collaboration tools including Code Storage, Trees, Diffs and Highlights. **The transaction remains subject to regulatory and other closing conditions, and the companies will operate independently until completion**. No purchase price was disclosed.",
-        "The deal targets code storage, branch browsing and change review for parallel coding-agent work. Trees and Diffs already power Codex’s file browser and change views. OpenAI says the open-source projects will remain open source and existing Code Storage customers can continue using the service after closing while product integration proceeds."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-0ffbcc105a5e283a50cd0e7b",
-      "source_sha256": "45ecf72af0386a99836b1e4caa65b208565d72fd380b728ea1ee4ff4493b9052",
-      "paragraphs": [
-        "The IEM Beijing group stage has concluded. **The MongolZ and MOUZ earned direct semifinal places**, while NAVI, PARIVISION, FURIA and BETBOOM will start in the quarterfinals. HLTV published the full playoff bracket on November 4.",
-        "NAVI claimed the final Group A playoff berth by beating Falcons 2-1: an 11-13 loss on Ancient followed by 13-4 on Inferno and 13-3 on Mirage. NAVI’s attacking half on the decider was 12-0. b1t and w0nderful posted series Rating 3.0 figures of 1.78 and 1.58. BETBOOM beat Liquid 13-5, 11-13 and 13-11, with zorte’s five-kill round breaking an 11-11 tie in round 23 of Mirage.",
-        "In the seeding matches, The MongolZ lost Inferno before taking Cache 13-8 and Dust2 13-11 to reverse FURIA and end its seven-match winning streak. MOUZ defeated PARIVISION 13-2 and 13-9. FURIA and PARIVISION had already qualified for the final six: these losses changed their starting round rather than eliminating them.",
-        "Playoff times in Beijing: **PARIVISION versus NAVI at 2:30 p.m. and FURIA versus BETBOOM at 5:45 p.m. on November 6**. On November 7, The MongolZ will face the first quarterfinal winner at 2:30 p.m.; MOUZ will face the other winner at 5:45 p.m. The final is scheduled for November 8 at 3:30 p.m."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-1d8a654f2ecba890169e9622",
-      "source_sha256": "8006f8198331aeeae923b5cecfebe58afde5cb3798aab149ec4b699227916832",
-      "paragraphs": [
-        "Tencent **released the full version of Hunyuan Hy4 on November 4**, adding visual understanding and computer-use capabilities to Hy4 Preview. Its announcement describes combining images, reasoning, command lines and graphical interfaces for chart analysis, visual mathematics, professional software and cross-application tasks, with specialized training for Blender and CAD.",
-        "The announcement lists Tencent Cloud TokenHub, WorkBuddy, CodeBuddy, Yuanbao, WeCom’s assistant and ima as access points. **Model weights and the system card were scheduled for release “soon”**, separately from products and APIs already available at the time. Hy4 Flash was also a future plan.",
-        "Tencent reported an average WorkBuddy internal-evaluation score of 83.18 and a 96.15% pass rate. For game development, it worked with Tencent IEG developers on UE, Unity and Godot tasks involving features, gameplay logic, state understanding and asset handling. These results and adaptation claims come from the vendor’s evaluations.",
-        "The announced API list prices were RMB6 per million input tokens, RMB18 per million output tokens and RMB0.3 per million cache-hit input tokens. Tencent Cloud TokenHub was offered at half the list price through December 31, 2026. WorkBuddy and CodeBuddy offered limited free allowances from November 4 to 15, a separate arrangement from base API list pricing."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-86d5c720b5bd89c83e644ef4",
-      "source_sha256": "13ee59dd1ab9961913554f694f518e6d2a454cb48e9ecb09161fbbb210236a59",
-      "paragraphs": [
-        "OpenAI described a controlled Linux-security experiment conducted in mid-October. Its automated pipeline produced 2,308 candidate findings, dynamically reproduced 1,724, and generated **948 working local privilege-escalation proofs of concept** plus 291 information-leak proofs of concept. The experiment used an upcoming cybersecurity model and approximately US$1.2134 million in API credits.",
-        "These are experimental findings and validation programs: **they do not mean 948 fixes have already been merged into Linux**. Candidate patches require maintainer review. Local privilege escalation presupposes local execution access rather than remote intrusion into arbitrary Linux hosts.",
-        "A separate announcement the same day brought GPT-5.6 Cyber through Daybreak Red to approved AWS GovCloud US-East customers via Bedrock. Access requires OpenAI approval and AWS provisioning. This is restricted security-research and defensive access, not general public or worldwide developer availability."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-f9de4a42ebbb22df72a6ed9f",
-      "source_sha256": "ee8ee81017d08a825019796002cbc32a0b5086846cec0919b3be016ec9b2c1f7",
-      "paragraphs": [
-        "On November 4, the IEM Beijing lower-bracket semifinals concluded with NAVI and Falcons eliminating B8 and HEROIC, respectively, both by 2-0 scores. **They were scheduled to contest Group A's last playoff place at 6:30 p.m. Beijing time**. Falcons won Ancient 13-8 and Dust2 13-6, with kyousuke recording 44 kills and a 1.90 HLTV Rating 3.0 across the series. NAVI also took Ancient 13-8 before resisting B8's comeback to close Dust2 13-11.",
-        "In Group B, Liquid eliminated TYLOO 2-0, winning Mirage 13-11 and Anubis 13-4. TYLOO saved four consecutive map points on the opener but could not force overtime. EliGE posted 43 kills and a 1.67 Rating 3.0 across the series, while NAF recorded 22 kills on Anubis. TYLOO's tournament ended with its earlier victory over 9z as its only series win.",
-        "BETBOOM defeated Aurora with two 13-5 maps. Magnojez led the series with 35 kills and a 1.70 Rating 3.0, while Aurora finished in 9th-12th place. Liquid and BETBOOM would contest the final Group B playoff spot; as of 5:07 p.m. Beijing time, that deciding series had no final result. Each group's final deciding series awards one playoff place."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
