@@ -1,7 +1,152 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T09:16:40.131Z",
+  "generated_at": "2026-11-14T01:27:55.887Z",
   "translations": [
+    {
+      "article_id": "article-fdb68417927b50a65652abf9",
+      "source_sha256": "4d0413379ec6483b100ba28bbc3fbc0e77db5efad605374bf834be43f1a1bdd8",
+      "paragraphs": [
+        "The tanker Atlantic Asphalt struck the docked paddlewheel riverboat American Heritage on the Mississippi River in New Orleans around midday on November 13, leaving the riverboat severely tilted and partly submerged. The collision occurred at about 12:30 local time, approximately **02:30 Beijing time on November 14**. At 09:24 Beijing time, 32 people had reportedly been taken to hospital, none listed in critical condition. No deaths had been reported, and everyone aboard had been accounted for.",
+        "The Port of New Orleans said the riverboat carried 129 passengers as well as crew; that passenger figure excludes crew members. ABC, citing local officials, said those hospitalized included 30 passengers and two police officers. Tugboats, police vessels and nearby boats joined the rescue, including recovering people from the water. Arrangements were made to accommodate evacuated passengers.",
+        "The U.S. Coast Guard closed the section of the Mississippi between river miles 93 and 96 while assessing conditions for reopening. A Coast Guard official described an apparent loss of steering, but **the cause remained under investigation**. That preliminary account did not establish a specific mechanical failure or responsibility. The National Transportation Safety Board planned to send investigators, with the tanker’s maneuvering, impact on the moored riverboat and rescue sequence among the matters to be examined."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dd9dc3faf193356ebbe11bad",
+      "source_sha256": "9731af0f77cfed0bc47823c665f02674a1a75268dc2f5a7fdb944e90f9c98fad",
+      "paragraphs": [
+        "The U.S. Federal Aviation Administration imposed a nationwide departure ground stop because of an air traffic control communications failure. It began at 15:54 U.S. Eastern time on November 13, or **04:54 Beijing time on November 14**. At 09:24 Beijing time, BBC live coverage still reported the stop in effect, with no nationwide restoration time. Aircraft already airborne remained under air traffic control; landing and waiting on the ground to depart are different situations.",
+        "Homeland Security Secretary Markwayne Mullin said all airborne aircraft were accounted for and there was no indication of an attack. He also said the communications problem was unrelated to the earlier Microsoft service outage. The disruption involved telecommunications serving air traffic control centers. Authorities had not yet published a complete technical root cause, and a cyberattack had not been established.",
+        "Some exceptions were emerging. San Francisco International Airport said Pacific-bound flights, including services to Hawaii and Asia, had been cleared to depart. United Airlines said domestic departures would remain halted while the stop continued, with international flights handled case by case. Clearance for particular routes therefore did not mean nationwide operations had resumed. The lifting of the national order and clearance of the resulting backlog remained subject to updates from aviation authorities and airports."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-6756af101ccd97a8ceb7af00",
+      "source_sha256": "12ef3b4022978c51502442d430d65ab999c2c93e26e9f1ce3ac85d51ca434f2d",
+      "paragraphs": [
+        "SpaceX launched Starship’s fifteenth test flight from Starbase in Boca Chica, Texas, at 16:45 local time on November 13, or **06:45 Beijing time on November 14**. Super Heavy’s planned return to the launch tower for a mechanical-arm catch was aborted, and the booster was diverted toward the Gulf of Mexico. BBC footage showed flames during its descent. Recovery of both stages had not been completed.",
+        "After separation, the Ship upper stage continued its flight, with plans to deploy 26 next-generation Starlink V3 satellites into an orbit around 275 kilometers high. The mission calls for roughly 14 orbits before a possible return about 22.5 hours after launch. The aborted booster catch and continued upper-stage flight are separate mission phases; the former does not mean the entire flight had already ended.",
+        "The upper stage’s potential return is around 21:15 UTC on November 14, or **05:15 Beijing time on November 15**. SpaceX will assess the vehicle in orbit before deciding whether to attempt a catch, with ocean disposal available if problems arise. That recovery had not occurred when checked for this edition. Earlier tests demonstrated some booster recoveries and upper-stage orbital flight, but a tower catch of the Ship remains unproven. A mission plan alone does not establish commercially operational full reusability."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7deafdaefb224d33bdc914ec",
+      "source_sha256": "597cd27c81db261f2282b506f962a44796b8b1c2f5c2f6bbf8539961757aff2b",
+      "paragraphs": [
+        "Google announced on November 13 that Google Wallet connections were rolling out to Gemini app users in the United States, on the web and on Android and iOS. Users can opt to connect Wallet through Personal Intelligence and link financial accounts through Plaid, allowing Gemini to explain everyday spending, cash flow and budgets using account information. The connection is optional, and the announcement does not limit it to a particular paid plan.",
+        "Official examples include cash-flow charts, recurring-charge detection, noticing subscription price increases and organizing a holiday budget using other information the user has connected. The Wallet integration is for understanding financial information. **Access is read-only: Gemini cannot use it to transfer, manage or invest money.** Users can turn the connection off at any time.",
+        "Google also added Memory Summary, a view in which users can inspect and edit the personal information retained by Personal Intelligence. The summary is available wherever Personal Intelligence is offered, a different geographic scope from the U.S. Wallet rollout. Payment availability, account-data access and autonomous payment authority are separate capabilities; this announcement does not combine them into a single authorization."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f4aab3e216f34e9232e6049f",
+      "source_sha256": "dd6dbb2be3c3f6914a2be88c7ab6ddabf21cc69e74ea767fb59b919778be5586",
+      "paragraphs": [
+        "Germany’s Bundestag approved an intelligence reform on November 13, expanding the powers of the foreign intelligence service BND and domestic agency BfV against espionage, terrorism and sabotage. The changes extend beyond information gathering to **active intervention under specified conditions**, including cyber measures, encrypted-communications surveillance and biometric-data comparisons. Available reports confirm parliamentary approval but do not establish when every provision enters into force.",
+        "The reform allows the BND to act against hostile infrastructure abroad, for example by disabling servers used by foreign hacking groups. Under statutory conditions, the BfV may covertly enter premises to address weapons or explosives risks and interfere with attack infrastructure, redirect traffic or delete material used for attacks. Arrests and overt searches remain police functions. Some measures require advance legality review by an oversight body with members from judicial backgrounds.",
+        "Interior Minister Alexander Dobrindt said the expanded powers were needed to respond to threats from abroad and at home and reduce reliance on allied intelligence. Supporters emphasized democratic resilience and oversight, while opponents warned that domestic intelligence was moving closer to policing and weakening the institutional separation between them. The dispute concerns the scope, authorization thresholds and adequacy of oversight, rather than the removal of all constraints on German intelligence activity."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-860bd9a10a50ccf66c83e858",
+      "source_sha256": "1c30e7e55112b51e861cb797bebb958a243310e1b978e02ad153dabaf2399f74",
+      "paragraphs": [
+        "In an AFP interview during the UN climate conference on November 13, UN Development Programme Administrator Alexander De Croo urged national delegations and institutions including the IMF to increase funding for developing countries vulnerable to El Niño. The policy brief he cited, The Cost of Waiting in a Warmer World, was actually published on **November 10**. It compares anticipatory action with post-disaster assistance, rather than adding a new measure of realized losses on November 13.",
+        "For scenarios protecting vulnerable households in developing countries, the brief estimates that pre-arranged support could require up to about **US$36 billion**, compared with roughly **US$73 billion** if assistance waits until after the shock. These are modeled household-protection costs dependent on assumptions about impacts and policy responses. They are neither total economic damage from El Niño nor an already allocated UN aid budget.",
+        "The policy proposals include preparing social protection, arranging finance in advance and reducing disaster risks to ease household burdens from interacting food-price, income and climate shocks. The report examines how response timing changes assistance needs; it does not establish a particular location’s disaster date, eventual intensity or casualties. Climate-risk assessments and actual national funding availability remain separate matters."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-90a5432ca3c3d97ab18d2168",
+      "source_sha256": "c8cc58c59f893f2e9001d8eeb948c08b1b90dff95f9f65ba8864fdb07c167eb3",
+      "paragraphs": [
+        "OpenAI introduced ChatGPT Wallet on November 13, initially for **ChatGPT Pro users in the United States aged 18 or over**, with eligible U.S.-issued cards and integration with its shopping agent. Payment-network partners include American Express, Mastercard and Visa. The initial rollout does not cover every region, every ChatGPT plan or a generally available developer payments API.",
+        "After a user adds a card, the agent can help find products and prepare a transaction. Before payment, the user still reviews the items, total and selected card, then approves through a security check such as facial or fingerprint authentication. Payment networks use tokens instead of actual card details, so the agent and merchant do not receive the real card number. Eligible existing card rewards and dispute protections continue to apply.",
+        "OpenAI also described a future direction involving advance authorization within spending, category or time limits. That remains prospective. The present release centers on **review and approval for each purchase**, rather than unrestricted autonomous spending. Merchant tools and guidance accompany the launch, with the initial focus on connecting product discovery, checkout preparation and cardholder confirmation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4a5ec78455cded28608d9140",
+      "source_sha256": "9cb471789c8f3eb3520c4def588fb7a97892991979ec5d02110ca224fd7ae7a5",
+      "paragraphs": [
+        "Both quarterfinals at BLAST Rivals 2026 Season 2 have concluded. **Falcons eliminated G2 2–1, while MOUZ beat Vitality 2–0.** The semifinals are therefore MOUZ versus Spirit and Falcons versus FURIA. Spirit and FURIA had already secured semifinal places; these two knockout series completed the final four and their pairings.",
+        "Falcons lost Dust2 11–13, leveled the series with a 13–2 win on Mirage and completed the comeback 13–8 on Anubis. MOUZ won Mirage 13–8, then closed out Cache 16–14 in overtime to eliminate Vitality. The two teams advanced through a comeback and a straight-maps victory respectively, ending G2’s and Vitality’s runs at this event.",
+        "The organizer’s schedule and HLTV timestamps agree: **MOUZ face Spirit at 16:00 Beijing time on November 14, followed by FURIA versus Falcons at 18:30.** Those times correspond to 08:00 and 10:30 UTC. Neither semifinal had started when checked for this edition. The advancement follows official knockout results; only the eventual winners qualify for the final, whose pairing cannot yet be declared."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-68e7ef59b8e07c93d2932916",
+      "source_sha256": "d47b33ca56495acd693fdd68d5e04bdc0bf0d6fa3a2d1cdb4e842865e4bb0ab4",
+      "paragraphs": [
+        "Sony outlined progress on QSSR for the standard PS5 on November 13. **The update for Marvel’s Spider-Man 2 is already live**, covering both Fidelity and Performance modes. The 2023 game thereby adds AI-guided image reconstruction. Its developer reports improved detail clarity and image stability in motion; the announcement does not provide a uniform frame-rate gain that can be treated as an independent benchmark.",
+        "QSSR stands for Quick Spectral Super Resolution. It shares technical foundations and interface concepts with PSSR on PS5 Pro and forms part of Sony and AMD’s Project Amethyst collaboration. Its availability on the standard PS5 does not give that console the Pro’s hardware performance. Developers must integrate support game by game; a support list does not mean every existing PS5 title automatically uses it.",
+        "The remaining schedules differ. Control Resonant plans a December update; ARC Raiders and The Finals describe support as coming soon; No Man’s Sky specifies the next few weeks; and Hell Let Loose: Vietnam points to a future update. **Live support and planned updates are separate states.** The announcements establish the technology’s expanding reach, but do not show identical image-quality or performance benefits across every game and mode."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-aca4f7069258250bf4ba748a",
+      "source_sha256": "2fcede7e653bc750393cf35671efa2e2453a9cc8506b13dcb4158e3ba8c36e70",
+      "paragraphs": [
+        "Ocelot Technologies announced in the PlayStation Blog on November 13 that Guild Saga: Vanished Worlds is planned for **PS5 in May 2027**. Only a month has been given, with no exact release date. The announcement concerns the PS5 version; it does not reset other platforms’ status or turn an existing edition into a newly released game today.",
+        "The tactical role-playing game is set in the Respite Archipelago, with an adventure emerging from a shipwreck and a maelstrom. According to the developer, progression includes around 200 skills across ten disciplines, with cross-discipline combinations. Companions’ attributes, equipment and backgrounds can be customized, while personal quests bring their histories into the adventure. Cross-discipline builds and environmental interactions are central to its combat design.",
+        "Combat emphasizes interactions between abilities and the environment, including geomantic summons, rain effects and lightning. Materials collected while exploring support crafting weapons, arrows and food, alongside mining, gathering and loot systems. These are the developer’s descriptions and version plans, not independent review findings for this PS5 release. The confirmed development is the formal announcement of the platform and launch window."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d0f9bf46fa9dba7cc8efaedf",
+      "source_sha256": "542852ce8ec9486a9627b4359037199db17075f26f3b5283582ea40649d7793d",
+      "paragraphs": [
+        "Google DeepMind opened the SatWeave and PARDIG datasets behind WeatherNext 3 on November 13, providing historical archives and live feeds for weather, hydrology and climate applications. SatWeave unifies observations from different geostationary weather satellites into an hourly global mosaic, with an archive spanning more than a decade. It lets the model observe developing clouds and storms at shorter initialization intervals.",
+        "PARDIG is trained on sparse spaceborne radar observations from NASA’s Global Precipitation Measurement Core Observatory, using SatWeave imagery and atmospheric fields from ECMWF as inputs. Its global precipitation maps have **15-minute temporal resolution and roughly 10-kilometer spatial resolution**, with an average latency of about five hours. Fifteen minutes describes the data time grid, not a guarantee that all results are available within 15 minutes of observation.",
+        "The developers evaluated the data against radar networks in the United States, Europe and Japan and more than 36,000 weather stations worldwide. They report over 30% better hourly detection skill for light-to-moderate precipitation than NASA’s IMERG-Final. The article’s CSI curves use 2016–2023 radar data and different precipitation thresholds. This is a developer comparison on specified metrics, not a 30% reduction in every location’s precipitation error or an independent measure of flood-forecast accuracy.",
+        "PARDIG’s historical archive covers 1999–2026. Both datasets are openly available through Google Cloud Storage, while PARDIG historical catalogs are also in Google Earth Engine. The team hopes to support improved flood, landslide and drought models. Those downstream applications still require validation for particular regions, terrain and events; precipitation reanalysis data alone do not constitute a completed disaster-warning system."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-46c0bed69a65a7f1fddbaf25",
+      "source_sha256": "8dbba3d1014e3fef73a78be250ee31c547f50d91e589f03ecc0216caa90cf2d3",
+      "paragraphs": [
+        "Netflix released the trailer for the Indian comedy Dhindora Season 2 on November 13, confirming a **November 20, 2026 premiere on Netflix**. This is a trailer and scheduling announcement ahead of release. It does not specify an episode count, episode-by-episode schedule or exact release time, nor does it establish equivalent platform service or distribution arrangements in mainland China.",
+        "Bhuvan Bam again plays multiple family and friendship-circle characters, including Titu Mama, Babloo, Janki, Sameer and Bancho. New cast member Sanjeeda Sheikh plays Kavita Mami, Titu Mama’s wife. The season centers on Titu Mama’s financial troubles and attempts to repair relations with his in-laws. The trailer continues the exaggerated characters and family-conflict comedy.",
+        "Season 2 is directed by Sneha Shetty Kohli and written by Bhuvan Bam, Abbas Dalal, Hussain Dalal and Chetan Dange, with Rohit Raj and Bhuvan Bam producing. The show extends the BB Ki Vines digital character world onto Netflix, with the platform’s larger scale and familiar characters central to its promotion. These are pre-release production and distribution details; reliable post-release audience samples or reception findings for this season are not yet available."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3ac3ef4a58bf62318e58a498",
+      "source_sha256": "0b35c66ff16b4f4ef1600276644dd4251c5cbdce2696de753cffc7cae34c7935",
+      "paragraphs": [
+        "The People’s Bank of China released preliminary October financial statistics on November 13. **Aggregate financing to the real economy stood at RMB469.16 trillion at the end of October, up 7.2% year on year.** Broad money, M2, totaled RMB359.06 trillion, up 7.1%. The former is the outstanding financing balance obtained by the real economy from the financial system, while the latter is a money-supply measure. They cannot be added together as new financing for the month.",
+        "Aggregate financing flows totaled RMB28.61 trillion in January–October 2026, RMB2.29 trillion less than a year earlier. Within that measure, renminbi loans to the real economy increased RMB10.91 trillion, RMB3.61 trillion less year on year. Net corporate-bond financing was RMB3.10 trillion, up RMB1.27 trillion, while net government-bond financing was RMB11.49 trillion, down RMB459.2 billion. These are cumulative January–October flows describing financing composition, not October-only amounts.",
+        "Under the financial-statistics measure, renminbi loans increased **RMB11.42 trillion** in the first ten months. Their end-October balance was RMB283.33 trillion, up 4.7% year on year. Household loans fell RMB1.46 trillion over the period, while loans to enterprises and public institutions rose RMB12.39 trillion. Total renminbi loans have a different scope from renminbi loans to the real economy within aggregate financing; RMB11.42 trillion and RMB10.91 trillion are therefore not contradictory readings of the same indicator.",
+        "The monthly weighted-average interbank lending rate was 1.30% in October, down 0.10 percentage points from September. The pledged bond-repurchase rate was 1.33%, down 0.07 percentage points. These are monthly averages from market transactions, not an announcement of an equivalent same-day central-bank policy-rate cut. The figures remain preliminary and may subsequently be revised."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-ee2ade2bed289b38d5f3280a",
       "source_sha256": "665f4f671b479cc0def67ee5eff126f6facb3d0924c74f7154395d4503ec868d",
@@ -194,6 +339,29 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-e547d0d8cbe359a051232396",
+      "source_sha256": "fdc3e085e916b76bb09f526ec5a048a8fb36fd4c9be473848fe715473e6d14d7",
+      "paragraphs": [
+        "DeepSeek updated its developer documentation on November 13 to open application capabilities including web and image search, file input, URL reading, model safety checks, and standalone speech recognition and synthesis APIs. The change brings tools previously combined in its web and mobile experience into developer interfaces, with the service handling tool calls and context assembly. **This is not a new foundation-model or model-weight release.**",
+        "The existing deepseek-flash model supports the tools through the Messages, Responses and Chat Completions APIs. With thinking disabled and deepseek_web_search enabled, it searches the web or images as needed and supplies citations. With thinking enabled, it can search and read links across multiple reasoning steps. The deepseek_read_url tool retrieves URLs in user messages and adds their contents to the conversation context.",
+        "File input accepts PDFs, Office files and images, using plain-text extraction or rich-layout parsing before the model answers. Optional safety checks review input and output and return a refusal marker when a risk is detected. Search and Fetch, OCR, ASR and TTS are also available separately, and the company open-sourced a demo chat client. These are specific application and API capabilities; equivalent changes to model weights, every tool’s price or regional eligibility cannot be inferred."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-24f1c85b6b6f73795909dae2",
+      "source_sha256": "9cf33e620cb0aa9162d8456a30955bc30e155abeb100b1d4e3e7f9094096ae53",
+      "paragraphs": [
+        "Riot published its international League of Legends event roadmap for 2027 on November 13. **First Stand: All In will be a one-off expanded tournament in China**, with more teams and players. The previously announced Southeast Asian hosting plan moves to 2028, when the event returns to its traditional format. Details of the 2027 expansion, including format and qualification, are due in January 2027, with corresponding changes to regional Split 1 schedules.",
+        "MSI 2027 will take place at Feria de Valencia in Valencia, Spain, the tournament’s first visit to Spain. This announcement does not provide the full competition dates or ticketing arrangements. Confirmation of a host city does not mean ticket sales have started.",
+        "Worlds 2027 will span Japan and South Korea. Nagoya will host the Swiss Stage, marking the championship’s first appearance in Japan. Quarterfinals and semifinals move to Suwon Convention Center, with the final at Seoul Arena. Riot is also considering whether the Demacia Cup could replace the traditional Play-In Stage and create more best-of series. **That format change is not finalized.**",
+        "The ongoing 2026 World Championship is a separate edition. Its official schedule lists GEN.G versus BLG in the final at 19:00 UTC on November 14, or **03:00 Beijing time on November 15**, with the match still unstarted. The 2027 hosting roadmap does not change that pairing, and an initial 0–0 schedule display is not a final result."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-9bf4b1ea9250a2f54ac66449",
       "source_sha256": "66ba54478da10436fe78b873a457a1e13a03be5ff35d36a8abaf5a581a629197",
       "paragraphs": [
@@ -207,12 +375,12 @@
     },
     {
       "article_id": "article-705a293f07886291804b46eb",
-      "source_sha256": "23fe85086bab75b739154908a1616189fa3fa5ebc9723a2a7902160993eb8d2e",
+      "source_sha256": "504f7fac33eca87fdbe94d6eab2a18587aabc9efacc42a560891703b7f3bdb68",
       "paragraphs": [
-        "Microsoft is making progress on the continuing Microsoft 365 outage. The **17:10 Beijing-time business-incident update on November 13** reported early signs of stabilization across affected infrastructure, but service capacity had not returned to normal and health remained variable as traffic was gradually reintroduced. The incident remained marked “Service degradation,” without full recovery. An earlier 15:29 update said a patch to part of the upstream authentication/routing-configuration infrastructure had improved server stability.",
-        "Business Exchange Online users may still encounter failed mailbox connections through web or desktop Outlook, Exchange ActiveSync or REST, as well as delayed email delivery. Exchange-dependent Copilot, calendar and some administrative functions remain within scope. Microsoft further lists possible failures or delays involving Defender for Office 365 Safe Links processing, release of quarantined mail and some protection-policy operations.",
-        "Most core Teams calls, meetings, group chats and standard-channel messages remain functional, while calendars, invitations and other Exchange-dependent functions may fail. Files stored directly in SharePoint remain accessible, but sharing with people outside an organization may also be affected. The consumer incident’s 14:24 Beijing-time update continued to list Outlook.com, OneDrive, OneNote, To Do, Teams and Microsoft 365 for the web, with parallel efforts to identify the source and restore the environment.",
-        "Microsoft is cycling affected infrastructure through traffic draining, restarts, remediation and staged return to service, prioritizing delayed mail and queue health. **The email timeout window is being extended to 48 hours** to protect delayed messages during recovery; this is not a promise of complete repair within 48 hours. The overall consumer incident and some individual cards still carry different degraded/normal status markings. Microsoft says it has found no indication of malicious activity causing the incident and will publish a root-cause and follow-up repair report after recovery."
+        "The Microsoft 365 outage has entered a sustained recovery phase. On the morning of November 14 Beijing time, the public enterprise incident said recovery was holding across previously affected environments and that most related impact scenarios were believed to have been addressed. The consumer incident gave a similar account. **Both overall incidents remained marked “Service degradation” and had not been formally resolved.** Given the severity of the disruption, Microsoft was extending monitoring and checking that the email backlog processed successfully.",
+        "The enterprise incident’s impact list centers on Exchange Online and email dependencies, including web and desktop Outlook, mobile synchronization and message delivery. Copilot access to work email, calendars or files, some administration pages, and security and data-protection operations had also been affected. The update describes a recovery trend; it does not mean every listed failure was still continuing across all tenants.",
+        "Most core Teams calls, meetings, group chats and standard-channel messages were unaffected, while calendars, invitations and other Exchange-dependent operations were listed as related scenarios. Files stored directly in SharePoint remained accessible, although some external sharing and email-linked functions had been disrupted. The consumer-wide incident and individual service cards still showed different levels of “degraded” and “operational” status; one operational card does not establish resolution of the overall incident.",
+        "Microsoft had previously extended the email timeout window to 48 hours to protect queues and delayed messages during recovery. That was not a promise to finish every repair within 48 hours. The focus is now sustained health monitoring and backlog processing. Microsoft previously said it had found no indication of malicious activity causing the incident; a complete root-cause and follow-up remediation report remains pending."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -354,11 +522,11 @@
     },
     {
       "article_id": "article-cfb4faa8387b692a9ae25886",
-      "source_sha256": "9ac59dc949618d284f49475259dffe16ab533aee8d3028127ea2f8443cebf084",
+      "source_sha256": "9cfdb531eb9a22becd7e5cd9bbbd5a54427d9d5bfb5ee1be0147a45998907b7f",
       "paragraphs": [
-        "By the morning of November 13 Beijing time, U.S. envoys Steve Witkoff and Jared Kushner had held talks with Vladimir Putin in Moscow and then traveled to Dublin to meet Ukrainian President Volodymyr Zelenskyy. The shuttle diplomacy followed two days of U.S.–Russia–Ukraine talks in Abu Dhabi, focusing on ending the war and postwar European security arrangements.",
-        "Witkoff said another round of talks had been agreed and that European representatives would participate. Alongside Zelenskyy, Kushner also said Europeans must be at the negotiating table. The BBC reported that the Kremlin had not confirmed the next round’s full composition; the scope and detailed arrangements for European involvement still required implementation.",
-        "Disagreements over territory and security guarantees remain. Putin reiterated his opposition to foreign troops in Ukraine and proposed a five-day humanitarian operation in Kostyantynivka in Donetsk region. Ukraine’s presidential office said Russia had used a similar arrangement to bring in equipment and rotate troops, and that details needed clarification. **A proposal for a localized humanitarian truce is not a jointly accepted ceasefire across the whole front**; these meetings also produced no published final peace text."
+        "European participation in Ukraine peace diplomacy became more concrete. At a press conference following the informal European Council meeting in Dublin on November 13, Council President António Costa announced agreement on **a European negotiating team comprising EU institutions and the E5 countries**: the United Kingdom, France, Germany, Italy and Poland. This establishes Europe’s representation, not a final peace agreement signed by all parties.",
+        "U.S. envoys Steve Witkoff and Jared Kushner had previously met Vladimir Putin in Moscow and then Volodymyr Zelensky in Dublin, discussing further negotiations and European participation. Costa said the European team would coordinate closely and speak with a united position. He reiterated that only Ukraine could decide matters concerning its territory and sovereignty. Reconstruction, prosperity and security guarantees would be important areas of European involvement.",
+        "Lianhe Zaobao reported a conditional Kremlin welcome for a substantive European contribution. That did not settle the detailed negotiating arrangements or differences over territory and security. Russia’s earlier proposal for a five-day humanitarian operation in Kostyantynivka drew Ukrainian requests for clarification; it was not an accepted nationwide ceasefire. **Formation of a representative team is diplomatic procedural progress, while ceasefire and final peace terms remain unsettled.**"
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3339,167 +3507,12 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-adc4efaa5bcbe94a7cb3c445",
-      "source_sha256": "18c4bd9e8c5f45cd760d7fb0c62db877d32aa2d0c2eb90e55fa3f7071a1b3680",
-      "paragraphs": [
-        "Search operations following the November 2 attack on Komyshuvakha in Zaporizhzhia Oblast entered their third day. BBC and Kyiv Independent reports on November 4 put the Ukrainian-reported death toll at the aid center and shelter at **40**. Zelensky said more than 30 people might still be beneath the rubble, with some bodies unidentified. Missing or possibly trapped people are not yet confirmed fatalities.",
-        "Ukraine’s national police released bodycam footage from an officer who was killed. After the first blast, residents cross a damaged area and enter an underground shelter amid warnings of another strike; an explosion follows and the recording ends. **BBC Verify confirmed that the filming location matches emergency-service footage of the aftermath**. Police say the video records the interval between two Russian bombing waves.",
-        "A November 3 statement by the UN Human Rights Monitoring Mission said the aid-distribution location and its November 2 window of 10 a.m. to noon had been publicized. Damage in photos and videos was consistent with powerful aerial bombs. That statement cited the local authorities’ then-reported minimum of 31 civilian deaths and said exact casualties were still being verified. Russia’s defense ministry had claimed it targeted Ukrainian military units; the BBC earlier reported no credible evidence that the aid site was in military use.",
-        "Canine teams and mining-rescue specialists are involved in the search, while the threat of further strikes complicates debris removal and the search for survivors. Two rescuers and four police officers were among the previously reported dead. The UN said the attack appeared to violate fundamental principles of international humanitarian law, with casualty verification continuing."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-039eeeb95278a513425bf59c",
-      "source_sha256": "ea57d10d9c62bf200b76ac647d60de62fe2ec8fc8cc8c88a5a8abf3008f173b4",
-      "paragraphs": [
-        "New PlayStation and Xbox announcements on November 10 both confirm that Grand Theft Auto VI preloading is available, with release still set for **November 19**. PlayStation describes rolling midnight unlocks by country or region, starting in New Zealand. Preloading prepares files and does not grant early gameplay. The earlier 209.758 GB Asia-Pacific PS5 measurement and the official 212 GB free-space requirement use different measures.",
-        "Xbox additionally announced cloud streaming on Xbox One and Xbox Series X|S from 1 a.m. U.S. Eastern Time on November 19, or **2 p.m. Beijing time that day**. Xbox Cloud Gaming uses Series S graphics settings; Series X|S can also install the game natively. Xbox One support here means streaming, not a native Xbox One edition.",
-        "The game must be purchased separately, and cloud availability depends on market, device and account eligibility. Xbox says supported markets can buy cloud playtime without a Game Pass subscription from November 11, but this does not establish GTA VI cloud support on PC. PlayStation also confirms DualSense haptics and adaptive triggers, 3D audio, and PSSR and ray-traced shadows on PS5 Pro. Neither announcement supplies a concrete preorder count."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9f0851e59a48e384cec67cfa",
-      "source_sha256": "0194bb69c0eaa10f965071f36d99bd05e7ab86418df115e574a06da7a67b80bf",
-      "paragraphs": [
-        "On November 3, the European Commission **conditionally approved JD.com’s acquisition of Germany’s Ceconomy** under the Foreign Subsidies Regulation. Ceconomy owns consumer-electronics retailers including MediaMarkt, MediaWorld and Saturn. DW reported that the companies said closing conditions were satisfied and completion was expected within days. Regulatory approval and actual closing remain separate steps.",
-        "The Commission found that preferential financing, tax incentives and grants received by JD.com could distort competition through the combined group’s logistics, technology capabilities and financing. To address this, intra-group transactions and financing provided by JD.com to Ceconomy must take place on market terms to prevent cross-subsidisation.",
-        "JD.com must also offer relevant warehousing, logistics and technology services to third-party retailers on the same terms as Ceconomy. **The commitments last ten years**, with compliance monitored by an independent trustee under Commission supervision. The foreign-subsidies procedure has a different legal basis from ordinary merger-control and national investment-security reviews."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-afd9a1c1cb694ce43cb24640",
-      "source_sha256": "92ce4c755d7b81990a0f96e62a1c952d52f896074e4774cf93992431faf74f6d",
-      "paragraphs": [
-        "Xbox Wire published an official name reveal for The Elder Scrolls VI on November 3, showing the title **The Elder Scrolls VI: Sentinel** and its logo. It is a formal promotional milestone for the next instalment in the series.",
-        "Bethesda Game Studios’ fortieth-anniversary content published the same day also lists the name. The reveal chiefly consists of title artwork and video; its text does not announce a release date, price or complete platform list, nor does it provide an official Chinese rendering of the subtitle Sentinel."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-da38bc697163569b34347a26",
-      "source_sha256": "c71d3dd3d6e72cf22fbe58486f03d5cde006b94739d47cf46de2f71fc68468f2",
-      "paragraphs": [
-        "On November 3, Google DeepMind introduced **Cheminformatics Skills** for Antigravity, connecting RDKit calculations with resources including ChEMBL and PubChem. The language model handles literature navigation, workflow orchestration and analytical reasoning, while deterministic chemistry tools perform molecular calculations. The skills are available through Antigravity’s Science plugin.",
-        "The demonstration examines rigidification of crizotinib, lorlatinib and related compounds: retrieving and curating molecules, comparing rotatable bonds and potency before and after cyclisation, conducting matched molecular pair analysis, and evaluating predictive models with held-out data or scaffold splits. An interactive interface exposes sources and properties, and the agent proposes new macrocycles and synthesis routes.",
-        "The proposed structures and potency estimates remain **computational design hypotheses requiring synthesis and experimental validation**. Inter-laboratory assay noise, sparse data and narrow numerical ranges constrain precision. The company also opened applications offering 10,000 scientists six months at the highest usage tier, with rolling onboarding subject to eligibility, capacity and selection."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-b1acee54f67377df7c225332",
-      "source_sha256": "b1a01d81afa40aec917ff654bbee7878bfcb5df2df28caa39628142a71f31d50",
-      "paragraphs": [
-        "Google announced on November 3 that **teacher-led Guided Learning is rolling out globally in Google Classroom**. Teachers can assign guided activities grounded in uploaded course materials, with questions and step-by-step prompts plus information on student interaction and progress. Related Search capabilities are still scheduled for a pilot in selected US schools later this month.",
-        "The company described a randomised controlled trial with more than 300 University of Tokyo students studying statistics independently for half a day. All could use standard web resources; half also had Gemini’s Guided Learning. Pre-to-post-test gains were **5.3 and 8.1 percentage points**, respectively, a difference of 2.8 points over a single half-day session.",
-        "A separate four-week pilot covered three UK secondary schools and four subjects. Teacher feedback informed improvements to curriculum grounding and interaction insights; those surveys and interviews are not equivalent to the Tokyo trial’s quantified test results. Google also plans to require explicit administrator activation of relevant AI products for K-12 student accounts, with implementation details to follow."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-08c8d386c996c1a2169ee2c1",
-      "source_sha256": "f75fe1aab69d2909ac49b095794e9199ccf523e44c9cee9a895db18fa4b0a70c",
-      "paragraphs": [
-        "In completed Group A matches at IEM Beijing on November 3, **FURIA came back to beat NAVI 2–1 and secure playoffs**. The map scores were 12–16 on Ancient, 16–12 on Nuke and 13–10 on Cache; the first two required overtime. The MongolZ beat HEROIC 2–0, winning Inferno 13–7 and Nuke 19–17 in overtime, also clinching a top-six place.",
-        "In the lower bracket, Falcons eliminated FaZe 2–1: Ancient 13–3, Anubis 10–13 and Mirage 13–7. Having lost to FURIA on day one, FaZe left without a series win. HEROIC and NAVI remained alive in the lower bracket.",
-        "The November 4 schedule in **Beijing time** is Liquid–TYLOO and Aurora–BETBOOM at 10:00; Falcons–HEROIC and NAVI–B8 at 12:30; PARIVISION–MOUZ for a direct semi-final place at 15:00; and The MongolZ–FURIA for the other at 17:30. The two lower-bracket finals are scheduled for 15:00 and 17:30. These are fixtures, not results."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-6d3b5b9ceb736524c424871a",
-      "source_sha256": "11b421021123870eff907ab99d9e2d344383a8036434362aa95b96675e0b78c3",
-      "paragraphs": [
-        "On November 3, OpenAI outlined AI workflows for mechanical, electrical and manufacturing engineering and disclosed research collaboration with Mazda on tasks including aerodynamics and crash safety, balancing airflow, structural, cost and styling constraints. Further technical details of the collaboration remain to be published.",
-        "In an internal prototype example, two employees used GPT-6 Astra to help design a device for talking to Codex, covering requirements, enclosure, PCB and firmware. They **completed the design in under a week**, and a contract manufacturer built a small prototype batch in under a month. Manufacturing still required multiple engineering reviews and revisions; models did not consistently respect tolerances, assembly requirements or manufacturing constraints.",
-        "The company also reported BenchCAD 2.0 scores of 0.875 for an unnamed internal model and 0.594 for GPT-6 Astra at its highest reasoning setting. These are **vendor-reported benchmark results**, not an announcement that a new model is publicly available. A CGR collaboration explores converting 3D scans into editable CAD and 2D drawings, with engineers reviewing manufacturing requirements."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-5e0cc3c9313415ee5064879b",
       "source_sha256": "42178513f11e9374c5ebc7abb9aa4180a18fb4230e91ff1f0c596511e1d9ffea",
       "paragraphs": [
         "The contest for control of Congress reached a decisive stage: **Democrats were projected to win majorities in both the Senate and the House**. CBS published its Senate-control report at 11:41 p.m. US Eastern time on November 3. NPR subsequently confirmed control of both chambers through its own tally of Associated Press race calls.",
         "As of 5:07 p.m. Beijing time on November 4, the BBC results tracker showed 54 Senate seats for the Democratic bloc and 44 Republican seats, with two races uncalled. In the House, 367 districts had been called: 228 for Democrats and 139 for Republicans, with the remainder still being counted. Senate totals include seats not contested this year. Democrats flipped Republican-held Senate seats in North Carolina, South Carolina, Ohio, Texas, Kansas, Iowa and Maine.",
         "The new Congress will take office in January 2027. Democrats will control both chambers' agendas and committees, enabling stronger investigations and oversight of the executive branch and influencing Senate confirmation of presidential nominees. Trump retains his veto power. NPR reported that Democrats and Republicans would still need to negotiate must-pass legislation such as annual appropriations. House Democratic leader Hakeem Jeffries is positioned to seek the speakership, but that election has not yet taken place."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-aaad0b1f24d682ca5334c58c",
-      "source_sha256": "f1c8e18a143ae0709d5b3d965fa48c8d93ffbc99d93a4998bed4f72bd9db11f0",
-      "paragraphs": [
-        "At the China Meteorological Administration’s November 3 briefing, National Climate Center deputy director Gao Rong said a super El Niño formed in the central and eastern equatorial Pacific in September, became the strongest on the monitoring record in October, and is expected to peak in late autumn or early winter. It is expected to substantially affect China’s winter and spring climate.",
-        "For the winter spanning late 2026 and early 2027, the forecast is **above-normal temperatures nationwide, but slightly more frequent cold waves**, with pronounced swings and a colder early winter followed by a warmer late winter. Northeastern Inner Mongolia and western parts of Northeast China are forecast to be cooler, with most other areas near or above normal. December and January may see frequent sharp cooling and warming episodes.",
-        "Precipitation is forecast to be above normal overall, with more heavy-snow episodes across much of northern China and substantially wetter conditions in the south. Parts of eastern, central, southern and southwestern China face episodic freezing-rain and snow risks. These are seasonal forecasts: **a warmer average can coexist with brief, strong cold waves**."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-832758ca182840fe7f89be3d",
-      "source_sha256": "6aaa00364a61a23f6aa3e864b60129eb301f3d2290ed6c1b547d1ac679901ca6",
-      "paragraphs": [
-        "Hong Kong’s Census and Statistics Department reported on November 3 that real GDP **grew 5.2% year on year** in the third quarter of 2026, up from a revised 4.2% in the second quarter. Seasonally adjusted growth was 1.9% quarter on quarter. Real growth over the first three quarters was 5.1%, the fastest for that period in five years. These are advance estimates.",
-        "Exports and investment expanded strongly. On the national-accounts basis, real goods exports rose 30.4% year on year and imports 29.9%. Gross domestic fixed capital formation increased 7.3%, compared with 3.7% in the previous quarter. Private consumption grew 2.8% and government consumption 1.7%; services exports and imports rose 4.3% and 5.6%, respectively.",
-        "The government expects global AI investment to support merchandise exports, with tourism, cross-boundary travel and financial activity supporting services trade. **Revised third-quarter figures and the full-year growth forecast are due on November 13**. The current 5.2% figure is not a full-year result."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-e5096ee1991e88406ef01038",
-      "source_sha256": "24e6036115b9875bf50df94874cb1823d6fc17c3a653cb0d399ef1602d87729b",
-      "paragraphs": [
-        "On November 3, two Group B teams secured clear advancement at CS2’s IEM Beijing: **PARIVISION and MOUZ have both clinched playoff places** and will next contest a direct semi-final berth. MOUZ beat BETBOOM 2–0, winning Ancient 13–6 and Mirage 16–14 in overtime. BETBOOM drop to the lower bracket to face Aurora.",
-        "PARIVISION had also beaten Liquid 2–0, taking Ancient 13–7 and Inferno 13–9. FL1T recorded 36 kills, 22 deaths and a 1.48 HLTV rating across the series. The winner of the Group B upper final between PARIVISION and MOUZ advances directly to the tournament semi-finals; the loser still has a quarter-final place.",
-        "In another completed series, **Aurora eliminated G2 2–1**, with scores of 13–9 on Nuke, 9–13 on Inferno and 16–13 in overtime on Dust2. Wicadia had 26 kills on the decider, finishing the series with 60 kills and a 1.30 rating. According to HLTV, G2 have exited three consecutive events in the group stage and won only one of their last nine series. Liquid remain alive in the lower bracket and need two more consecutive series wins to advance."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-2030bce98493fdb1ff7b5b21",
-      "source_sha256": "9acab2c1734f5d3fc66bf9010f5e8e5e6293f5fa9b1f8f30c33e03da83d91ea9",
-      "paragraphs": [
-        "BBC reported on November 3 that four planned large UK data centres are considering gas generation before grid connection. At continuous full capacity, it estimated combined demand of about 1.3 GW and possible annual carbon emissions of **4.1 million tonnes**. Actual emissions depend on energy mix, load and duration.",
-        "Ofgem says developers have requested 72 GW of grid capacity; actual UK peak demand last year was 45 GW. Requests are not operational load. Some developers face grid-upgrade and connection waits of up to ten years.",
-        "Acre Slough is considering up to 49.5 MW of gas engines. Wapsey’s Wood proposes a 200 MW gas station, with sufficient grid capacity not expected until 2040. Quest Park in Bedfordshire proposes 1 GW of demand, with its energy mix still under review. A Cardiff project seeks up to 49.9 MW of temporary generation for a maximum of five years.",
-        "The government prioritises connections to the decarbonising grid. On-site generation would be tightly controlled, time-limited and reserved for exceptionally strategic projects lacking other sufficient capacity. The new data centre covenant requires developers to bear associated energy-system costs, minimise water use and benefit local communities."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-5ef7c80104be0411299e077b",
-      "source_sha256": "a62061ff007f6439568c205d05be349ea3398de0339a112a84948d64ab53755c",
-      "paragraphs": [
-        "The 2026 World Internet Conference Wuzhen Summit opened on the morning of November 3. In his keynote, Chinese Premier Li Qiang called for technology transfer, knowledge sharing and digital infrastructure cooperation as the internet and artificial intelligence become increasingly integrated. Around 1,800 government officials, international organisation leaders, business representatives and experts attended the opening.",
-        "Li said China would pursue open innovation, respect countries’ legitimate cybersecurity concerns and **oppose a “digital iron curtain.”** He also proposed supporting digital infrastructure and technical capabilities in Global South countries, and improving multilateral governance through open dialogue. Technology-enabled development, trust and control, broadly shared benefits, and open dialogue were the four cooperation priorities in his speech.",
-        "On AI governance, he stressed human agency and machines as trusted tools, alongside algorithmic ethics, security as digital technologies integrate with the real economy, and inequalities in sharing technological gains. The World Internet Conference has run for 13 consecutive years. After the opening, Li visited the Light of Internet Expo and the Wuzhen World Internet Science and Technology Museum."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-cc9df76cb64dec8b57377a60",
-      "source_sha256": "a23ec258c1afa0ce1d9fc54665d5fd98aad11c9ea327577b1cd03499a4ca110e",
-      "paragraphs": [
-        "At the first briefing in its new Five-Year Plan series on November 3, China’s National Development and Reform Commission discussed AI’s effects on employment and social governance. Wang Ruomeng, a deputy director in its innovation and high-technology department, said the commission would monitor changes in employment structure and promote the inclusion of **new occupations such as model trainers and data annotators in the national occupational classification system**.",
-        "For displacement risks, the commission proposed stronger monitoring and early warning, alongside social protection that accommodates changing jobs and working arrangements. Rights-protection priorities include algorithmic discrimination, deepfakes and privacy breaches, better tracing of AI misuse, and particular attention to older people and minors.",
-        "Southern Metropolis Daily’s on-site report also outlined two legislative priorities: foundational, comprehensive AI legislation, and rules covering data, computing power, algorithms and key applications, with safety standards and ethical principles across the AI lifecycle. The rules would be periodically evaluated and adjusted based on their implementation."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
@@ -3859,17 +3872,6 @@
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-b757c35e537bddcb105739e5",
-      "source_sha256": "712ab1848209ade7ad6b0c9c70516a25045ef5c9e52df7d29518b66355ae1e91",
-      "paragraphs": [
-        "[New season to be released] Netflix's official information lists the release window of the second season of \"Blue Eye Samurai\" as January 2027, without specifying a particular date. The pursuit by Mizu will move to London, and creators Amber Noizumi and Michael Green will continue to be involved. The public voice actor list also includes actors such as Jonathan Pryce.",
-        "The long-term narrative of this adult-oriented anime involves identity, revenge, and the costs incurred by characters in pursuit of their goals. The setting shifts from Japan to London, indicating new environments and power dynamics, but currently available information is insufficient to evaluate the action sequences and character development of the new season. The following numbers pertain only to the first season and represent existing reviews that determine whether it is worth continuing to follow, not achievements from the second season in advance. The first season performed well both in media and among audiences, but it still cannot replace the true test of the new series once it is officially released. This article avoids revealing details of the first season's ending and does not treat promotional images as representative of all scenes in the new season.",
-        "[Reputation Section | 2026-11-02] First season (non-upcoming second season): Rotten Tomatoes critic approval rating is 97% (29 reviews), and audience approval rating is 93% (the page shows over 1000 entries). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
     },
     {
       "article_id": "article-21e0fdc0ffe2e76e529fb65e",
