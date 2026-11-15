@@ -1,14 +1,68 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T01:30:37.618Z",
+  "generated_at": "2026-11-15T04:19:44.063Z",
   "translations": [
     {
-      "article_id": "article-5474996ec98f19536b184988",
-      "source_sha256": "fcaa5f34c0b29258caf3bbb2a6419e591376bfaba3543da3cb7c74ef93cd3aca",
+      "article_id": "article-4fc1f8d4773b2aadee4612a3",
+      "source_sha256": "bcc4e722ac29f456426a1db4b5be838e663f75c5a497dba440f80739ae04f9bc",
       "paragraphs": [
-        "The 2026 League of Legends World Championship final has finished. The official LoL Esports schedule marks the best-of-five series completed, with BLG recording three game wins and a win outcome, against GEN’s one game win and loss. **BLG won 3–1 for its first Worlds title.** The final took place on November 14 in the United States; its official 19:00 UTC start was 03:00 on November 15 in Hong Kong/Beijing.",
-        "After GEN took the opener, BLG won three consecutive games. BLG defeated HLE, DK, T1 and GEN at different stages of this tournament: the 2–0 victory over HLE came in the Swiss stage, followed by a 3–0 quarterfinal against DK and a 3–1 semifinal against T1. GEN and BLG had advanced by beating IG and T1 respectively.",
-        "This is the LPL’s fourth Worlds championship, following iG in 2018, FPX in 2019 and EDG in 2021, ending a five-year wait. BLG lost the 2024 final 2–3 to T1 and has now secured its first title. Worlds 2026 is complete, with no further round remaining in this event."
+        "Following HomeView’s overseas release on November 13, early independent reviews show differing assessments. IT Home summarized experiences on November 15; the original Tom’s Guide and TechRadar reviews were both published on November 12. **The launch date, review dates and this report’s date are different.** The device comes in tabletop and wall-mounted forms, with reported starting prices of $299 in the US, £299 in the UK and AU$449 in Australia, not mainland Chinese prices.",
+        "Tom’s Guide praises the design, personalized home views and sound but finds Siri less capable than some rivals and criticizes customization, streaming-app support and the absence of physical privacy switches. In its tests, some Disney+, Eufy and YouTube widgets said the apps were only available on iPhone; the Photos widget could display an image but did not provide the corresponding full app on the hub. These are limitations observed in the reviewer’s configuration, not evidence that every feature is unusable.",
+        "TechRadar’s Jacob Krol tested two HomeViews for eight days, primarily in his kitchen and entryway, praising audio, FaceTime and personal-context integration with iPhone. He also found that complex Siri tasks could take 10–15 seconds and noted the lack of a full App Store at launch. The reviewers have similar positive hardware and audio observations but differ on software maturity and overall value. Their home-based experiences are not a standardized benchmark covering every network, account and operating-system version."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-edae8aa77a1350269710cc21",
+      "source_sha256": "da36ad24d9506fd543e952d5e47a1ee2cca49cc304b81bd05118bacd6ad5b418",
+      "paragraphs": [
+        "Huawei disclosed more details of the Kirin 9050 series’ new Balong AI Modem on November 15, describing Modem AI communications, multisystem coordination and satellite–terrestrial integration. It says the design supports intelligent network selection, a subway mode and rapid reconnection, with **any three active standby cards selected from two physical SIMs plus two eSIMs**. Configuring four cards is different from keeping all four on standby simultaneously.",
+        "Using a comparison device labeled “A phone 18 Pro Max,” Huawei claims 48% less game stuttering on trains, 46% less photo-upload time at concerts, 32% less short-video stuttering on subways and 83% less waiting for outdoor reconnection. Its high-uplink tests claim improvements of 43%, 83%, 49% and 69% in peak, congested, weak-signal and high-speed scenarios respectively. These are different metrics under different conditions, not figures to average into one overall speed gain.",
+        "The company also claims a detection rate above 90% for scam calls rerouted from abroad using AI. The material does not simultaneously provide a uniform sample size, false-positive rate or independent replication, and detection rate does not mean every scam is blocked. Network results depend on the handset implementation, operator, bands, location and load. This disclosure concerns chip communications features, not identical SIM and eSIM support already available on every device and in every region."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2ab29357266d638441f1af97",
+      "source_sha256": "ffb2b842d87dd130238f2329aad39c608d5927346ff5dbe6635071c07e681a15",
+      "paragraphs": [
+        "Purism has unveiled the Librem 5 v2 project with an **eight-core SpacemiT K1 RISC-V processor and PureOS**, replacing the first generation’s Arm platform. The official store lists $1,599 and explicitly marks it invitation-only and not yet generally released; the campaign schedules its public phase from November 17. This is a development crowdfunding project, not a mass-produced phone in stock.",
+        "The proposed design includes a 5.7-inch 720×1440 display, 8GB RAM, 128GB storage, a removable 4,500mAh battery, dual SIM, a 3.5mm headphone jack and SD-card system boot. Cellular and Wi-Fi/Bluetooth use separate modules, with hardware switches for cellular, wireless networking and microphones/cameras. The accompanying pictures are manufacturer renders and design illustrations, not an independent teardown or battery test.",
+        "The campaign targets 2,500 orders by February 15, 2027, with several hardware iterations and a fourth-quarter 2027 beta phase. IT Home gives an April 2028 shipment target, whereas the official text says approximately 15 months after campaign close and explicitly warns that delivery is not guaranteed and milestones and features may change. An open RISC-V instruction set does not establish completed validation of every component and application. The $1,599 is the current campaign reward price, excluding optional monthly services."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-253cd6ce4364a376da5d8ddb",
+      "source_sha256": "0a6259d5ddcd97e4f72182ce8bcfd03f68ea7d436e176f80e76b97bf8d0db52b",
+      "paragraphs": [
+        "At a dedicated briefing on November 15, CCPIT Vice Chair Li Qingshuang said the **2026 APEC CEO Summit will take place on November 17–18 at the Qianhai International Convention Center in Shenzhen**. Xi Jinping and the leaders of eleven other APEC economies—Australia, Canada, Chile, Hong Kong, China, Indonesia, South Korea, Malaysia, Mexico, Russia, Thailand and Vietnam—are scheduled to attend, deliver speeches or remarks, or join panel discussions. These are future attendance arrangements, not confirmation that all leaders have arrived.",
+        "Organizers said representatives of 115 Fortune Global 500 companies will participate. US companies form the largest contingent among foreign participating economies, accounting for nearly 20%. The 115 figure counts companies, not individual delegates; the nearly 20% concerns the composition of foreign participating companies, not global market share or investment value.",
+        "The CEO Summit forms part of APEC Leaders’ Week but has different dates and activities from the informal leaders’ meeting on November 18–19. Business participation, leaders’ speeches and possible inter-economy meetings are separate arrangements. The announcement establishes the participants and event framework; it does not report an already adopted joint document or a value of commercial agreements."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a1bc38cdaa887c516ef3a2cb",
+      "source_sha256": "74923c5dab6adfba9fe6a0da37581b7abad7b402b6d3d95df9e3dd76e7a8915b",
+      "paragraphs": [
+        "On November 15, Richard Yu released a retrospective video about Huawei’s Mate X series and revealed the **Mate X8 name and appearance** at its conclusion. He said the device was coming soon, with further advances in its screen, cameras and performance. This is an official teaser; the material read provides no complete launch-event date, preorder or retail-sales timetable, or price.",
+        "The video looks back over the Mate X series’ eighth year and concludes with the new phone’s folding form and exterior, showing a purple body and circular camera module. Images of a purple phone being held had already circulated on November 13; Yu has now directly disclosed the Mate X8 name and teaser. Screen, imaging and performance improvements remain manufacturer preview claims, without a complete specification sheet, standardized quantitative results or independent tests accompanying the video. Circulating component rumors are not final sales configurations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5474996ec98f19536b184988",
+      "source_sha256": "180f0bcc1f850c06e6e116d98ba6d97202566160342d328d9ab3c6463d3af247",
+      "paragraphs": [
+        "The 2026 League of Legends World Championship has ended. **BLG beat GEN 3–1 for its first Worlds title, and mid laner Knight received the finals MVP award.** The official LoL Esports schedule marks both the final and tournament completed, with three and one game wins respectively. The official November 14, 19:00 UTC start corresponds to 03:00 on November 15 in Hong Kong/Beijing.",
+        "GEN won the opener before BLG took three consecutive games. BLG defeated HLE, DK, T1 and GEN at different stages: the 2–0 over HLE came in the Swiss stage, followed by a 3–0 quarterfinal over DK and 3–1 semifinal over T1. Knight’s FMVP recognizes his individual performance in the final, while the championship belongs to the whole team.",
+        "The LPL’s previous Worlds titles were won by iG in 2018, FPX in 2019 and EDG in 2021. This is its fourth championship, ending a five-year wait. BLG lost the 2024 final 2–3 to T1 and has now secured its first title. The tournament is over with no further round."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -158,11 +212,11 @@
     },
     {
       "article_id": "article-70275d0e699d06687aefcbb5",
-      "source_sha256": "2420bc2456eae07992a4ecf08d06200a4f708782c58b769c52f1dd05d5a61cab",
+      "source_sha256": "2e48aada45629794b342cb0b41c6913e675ee6629b52a020379f2123b6b2797d",
       "paragraphs": [
-        "Kremlin spokesman Dmitry Peskov told TASS that the three sides had agreed to a meeting of Vladimir Putin, Xi Jinping and Donald Trump **in Shenzhen on November 19**. This adds a formal Russian response to a plan previously announced by the United States. The BBC’s latest report still says China has not responded to the three-leader meeting arrangement. Russia’s account of trilateral agreement is distinct from China issuing its own public confirmation.",
-        "Trump previously said he wanted to discuss nuclear arms control and Iran with Putin and Xi Jinping during the APEC meetings. The United States has not listed Ukraine as an agenda item for this planned encounter or forecast an immediate agreement. Public details of the format, agenda and possible documents remain incomplete; the meeting is still a future event.",
-        "This development concerns contact among major-power leaders and arms issues, distinct from the separate Ukraine peace discussions. There is no trilateral joint statement, newly signed arms-control treaty or ceasefire resulting from this meeting. Chinese confirmation, actual attendance and any subsequent documents remain separate developments to verify."
+        "Kremlin spokesman Dmitry Peskov told TASS that the three sides had agreed to a meeting of Vladimir Putin, Xi Jinping and Donald Trump in Shenzhen on November 19. **That is Russia’s account of the trilateral arrangement. China has publicly said it is communicating with the parties, without confirming the date or agenda in that response.** The meeting remains a future plan and has not taken place.",
+        "The Chinese Foreign Ministry’s November 13 briefing transcript records Mao Ning answering AFP’s question about a possible three-leader meeting by saying China remained in communication with relevant parties and would release further information when available. That response is already public, but gives no itemized meeting date, venue or agenda for the three leaders and publishes no jointly confirmed meeting document.",
+        "Trump previously said he wanted to discuss nuclear arms control and Iran during APEC. The United States has not listed Ukraine as an agenda item for this planned encounter or forecast an immediate agreement. There is no trilateral statement, new arms-control treaty or ceasefire resulting from this meeting. Formal arrangements, actual attendance and subsequent documents remain separate developments to verify."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -212,22 +266,23 @@
     },
     {
       "article_id": "article-fdb68417927b50a65652abf9",
-      "source_sha256": "f3bd6a921b89072546a229ef2afece9fa7d4588dfa2295e79ed4a2c5892dfd88",
+      "source_sha256": "80d3eeb388d46c776ca9ea1ef3dff158533e2faf402eee82dafbbe7783e19cb5",
       "paragraphs": [
-        "Injury figures from the Mississippi River vessel collision in New Orleans have been updated. ABC News’ report, updated at 17:42 local time on November 14, or 06:42 on November 15 in Hong Kong/Beijing, quotes the mayor as saying that **eight of the original 32 hospitalized people remained in hospital, two in serious condition and the others stable**. The original hospital group comprised 30 passengers and two police officers. Everyone has been accounted for and the search-and-rescue phase is over. This later account supersedes the earlier nine-patient figure.",
-        "The collision occurred at approximately 12:30 local time on November 13, or 02:30 on November 14 in Hong Kong/Beijing. A tanker struck the docked cruise vessel Creole Queen, damaging it. The Coast Guard previously identified a possible loss of steering on the tanker as an investigative lead, without establishing the mechanical cause or final responsibility. Passenger counts and totals including crew have different denominators and cannot be added or interchanged.",
-        "The National Transportation Safety Board has 16 investigators on scene and has recovered the tanker’s voyage data recorder. Crew interviews and reconstruction are among the next steps. The tanker was moved away on November 14, while safely salvaging the cruise vessel could take weeks. Vessel removal, completion of rescue and determination of the cause are separate stages; no final investigative finding has been issued."
+        "The damaged cruise vessel in the New Orleans Mississippi River collision is **American Heritage, and the tanker that struck it is Atlantic Asphalt**. Both the BBC and ABC News identify the two vessels by those names. American Heritage, operated by American Cruise Lines, was struck while docked in New Orleans and capsized. Everyone has been accounted for and the search-and-rescue phase is complete.",
+        "ABC’s update at 17:42 US Eastern time on November 14, or 06:42 on November 15 in Hong Kong/Beijing, quotes the mayor as saying eight of the original 32 hospitalized people remained in hospital, two in serious condition and the others stable. The original group comprised 30 passengers and two police officers. The collision occurred at approximately 12:30 New Orleans time on November 13, or 02:30 on November 14 in Hong Kong/Beijing. Passenger counts and totals including crew use different denominators.",
+        "The NTSB has 16 investigators on scene, has recovered the tanker’s voyage data recorder and will conduct crew interviews and reconstruct events. The tanker was moved away on November 14; safely salvaging the cruise vessel could take weeks. The Coast Guard said some river sections had reopened to two-way traffic while a 500-foot safety zone remained at the site, rather than the entire stretch staying completely closed. A possible loss of steering remains an investigative lead, without a final mechanical-cause or responsibility finding."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-dd9dc3faf193356ebbe11bad",
-      "source_sha256": "d47c6949d1ae1be73bb3c31f4bbe16bafc4a57ea5cddc4f3170fe35c2a0600fe",
+      "source_sha256": "3fc68fee3a0f9b081389044f4129a1f20dd37984b1613e5a105f9ac1d1a08fbf",
       "paragraphs": [
-        "US Transportation Secretary Sean Duffy said on November 14 that the previous day’s nationwide ground stop was linked to maintenance replacing copper telecommunications lines with fiber, performed by L3Harris. His preliminary account describes a router flooding other air-traffic-control systems with data and disrupting communications with aircraft. **Investigators have not established whether installation or operational error, or faulty router hardware, was responsible.** This is not a final finding of liability.",
-        "FAA Administrator Bryan Bedford said there was currently no evidence of malicious activity or AI involvement. L3Harris said it was assisting the FAA’s investigation and had completed over 70% of communications-infrastructure modernization before the stoppage. That completion figure neither clears the affected equipment nor means the nationwide upgrade is finished.",
-        "The ground stop was lifted at 20:15 Eastern time on November 13, or 09:15 on November 14 in Hong Kong/Beijing; FAA cancellation advisory 005 followed at 01:19 UTC. The BBC’s November 14 update cited FlightAware counts exceeding 3,500 cancellations and 2,000 delays on US Saturday, cumulative at that reporting point rather than final daily totals. Flights can depart, while displaced aircraft, crews and backlogs continue to cause disruption."
+        "At a November 14 briefing, FAA Administrator Bryan Bedford apologized to travelers, said the worst phase had passed and **expected US air transportation to return to normal by the evening of November 15 local time**. This is a recovery forecast, not a finding that nationwide operations have already fully recovered. The ground stop was lifted at 20:15 EST on November 13, or 09:15 on November 14 in Hong Kong/Beijing, but displaced aircraft, crews and backlogs prolonged disruption into the weekend.",
+        "Transportation Secretary Sean Duffy’s preliminary account points to a new router installed by L3Harris at a remote facility during a copper-to-fiber transition. He says it flooded other air-traffic-control routers with data, disrupting communications. Authorities are still investigating installation or operational error versus faulty hardware; L3Harris says it is cooperating. Bedford said there was currently no evidence of malicious activity or AI involvement. Final technical responsibility remains undetermined.",
+        "New York Governor Kathy Hochul issued a statement on November 14 demanding Duffy’s resignation or removal by the president and calling for a congressional investigation. She cited controller shortages and repeated communications failures. These are the governor’s political accountability demands, not confirmation that the secretary has left office or a substitute for technical findings. WABC published the statement.",
+        "The BBC’s November 14 report cited FlightAware counts of more than 3,500 cancellations and 2,000 delays on Saturday at that reporting point. These are not final full-day November 15 totals. Lifting the ground stop, permitting departures and clearing the entire backlog are separate recovery stages."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -272,6 +327,17 @@
         "Google announced on November 13 that Google Wallet connections were rolling out to Gemini app users in the United States, on the web and on Android and iOS. Users can opt to connect Wallet through Personal Intelligence and link financial accounts through Plaid, allowing Gemini to explain everyday spending, cash flow and budgets using account information. The connection is optional, and the announcement does not limit it to a particular paid plan.",
         "Official examples include cash-flow charts, recurring-charge detection, noticing subscription price increases and organizing a holiday budget using other information the user has connected. The Wallet integration is for understanding financial information. **Access is read-only: Gemini cannot use it to transfer, manage or invest money.** Users can turn the connection off at any time.",
         "Google also added Memory Summary, a view in which users can inspect and edit the personal information retained by Personal Intelligence. The summary is available wherever Personal Intelligence is offered, a different geographic scope from the U.S. Wallet rollout. Payment availability, account-data access and autonomous payment authority are separate capabilities; this announcement does not combine them into a single authorization."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9ca03827ccc9ae04d804c5e9",
+      "source_sha256": "07612d9ddc8f56c559553006554a1d58d7443baa36f289e39ff47528ef12b1e9",
+      "paragraphs": [
+        "In its public report summary published on November 13, Jon Peddie Research says **worldwide PC client CPU shipments totaled 60.8 million in Q3 2026, down 3.4% sequentially and 6.5% year over year**. Desktop CPU shipments fell 13% year over year and notebook CPU shipments 4%. These are processor shipments, not final PC retail sales or a decline in processor performance.",
+        "Server CPU shipments reached 8.13 million, up from 7.83 million in Q2 and 6.59 million a year earlier, moving in the opposite direction from clients. JPR gives AMD 34.1% and Intel 65.9% of server CPU units, not revenue. Integrated GPU shipments totaled 54.9 million, down 3% sequentially and 3.8% year over year; AMD held 23% and Intel 77%. These iGPU shares do not represent the entire discrete GPU market.",
+        "JPR attributes the weak client market to lean OEM inventories after Q2 restocking and soft DIY demand, with expectations for memory and other component prices affecting purchase timing. It expects difficult PC conditions through the first half of 2027; that is a forecast, not an observed full-year outcome. The public page provides the quarterly figures and charts; additional analysis and workbooks in the paid report have not been treated as material read."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3410,18 +3476,6 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-27b87d65d3f99406683fa7dd",
-      "source_sha256": "4239ee7ebca1698cfff765adbc60eb83855bcec3da157280ab8fd3283e5c5a3f",
-      "paragraphs": [
-        "Google introduced **Gemini Omni 1.2 Flash on November 5, supporting videos from 3 to 15 seconds in one-second increments**, up from the previous ten-second maximum. Google says it improves character and object consistency and supports iterative edits to existing clips, reducing the need to regenerate an entire video.",
-        "The model can use reference images, short motion clips and audio. Its workflow includes 360p and 720p drafts, with upscaling to 1080p or 4K. The Gemini API price for 720p video is US$0.07 per second, which Google says is 30% below Omni 1.1. That rate cannot be assumed to cover every resolution and upscaling workflow.",
-        "Omni 1.2 Flash is generally available through the Gemini API, Google Cloud and Gemini for Business. Fifteen-second video in the Gemini app is rolling out first to Google AI Ultra users. Generated content includes SynthID marking.",
-        "Google Vids announced a separate option the same day: **users with a Google account or Workspace subscription can generate three fifteen-second videos free each month**. The Vids allowance, metered API pricing and Gemini-app Ultra eligibility are separate product rules."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-90a287db20b286d8d4c0a039",
       "source_sha256": "799db6e21261a7204522178778c0acf7bf9741645820e137f4aeae04b48f613c",
       "paragraphs": [
@@ -3432,67 +3486,6 @@
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-adb3875b04d439409ea17f79",
-      "source_sha256": "5ac03a79b38d47364ce18ccfdf6c7df0e37a62136060a51e18b0dca84403310e",
-      "paragraphs": [
-        "The final scale of the Asian technology sell-off became clearer after markets closed on November 6. In its 15:27 Beijing-time update, the BBC reported that **Japan’s Nikkei closed down 6%, while South Korea’s Kospi also ended about 6% lower**. Korean shares had fallen more than 8.5% and triggered a circuit breaker in early trading, before narrowing their losses by the close.",
-        "Chip supply chains remained under pressure. The BBC listed SK Hynix down more than 10% and Samsung down 6.4%, with Japan’s Kioxia and Tokyo Electron also sharply lower. Larger declines in the earlier reports describe intraday readings, a different stage from the closing statistics now available.",
-        "In the preceding US session on November 5, the Nasdaq fell 5.5%. The BBC estimated a roughly $2.5 trillion decline in Nasdaq market value and a combined $1 trillion loss for the Magnificent Seven; NVIDIA fell more than 9%, while AMD and Micron each dropped more than 17%. The two market-value estimates overlap and cannot be added together as the overall loss.",
-        "Investor concerns center on returns from enormous AI infrastructure investments and possible restrictions on data-center construction after the US midterms. Analysts quoted by the BBC linked the two factors. Proposals by Democratic candidates, including moratoriums on new construction, still require subsequent policy processes before becoming actual restrictions."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-bfc26278ca87f545d93125c3",
-      "source_sha256": "191f506884f6b5d6dcdf0b439a211e5832fe4ce43dc9ed6e1ffbcf63caec1e24",
-      "paragraphs": [
-        "Ubisoft released a major free update for Assassin’s Creed Valhalla on November 5, centered on the long-requested **New Game Plus mode**. PlayStation confirmed availability for PS5 and PS5 Pro; Xbox’s announcement also covers Xbox Series X|S and Xbox One.",
-        "After completing the Holy Day quest, players can restart with their existing character progression, with greater challenges in subsequent runs. A new Mithril resource upgrades Divine gear, raising its cap from level 13 to 27. Extended Progression incorporates gear upgrades, runes and masteries into power growth.",
-        "Ravensthorpe gains a stash, while the Rune Forge supports silver-funded upgrades and a new Superior tier. Ubisoft lists more than 300 engravable runes. Together, these systems expand the post-completion character and equipment loop beyond individual bug fixes.",
-        "PS5 Pro separately gains upgraded PSSR support. Ubisoft says its Quality mode delivers a 4K image at 60 frames per second. This is the vendor’s performance description; the PS5 Pro PSSR changes do not apply to Xbox, and independent media testing has not been established here."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-434aef3d4bb223f9917e4c96",
-      "source_sha256": "8f31bcd5de82748aeea65491349816b8b9b28b2145ee5b142f4e253cafa1304f",
-      "paragraphs": [
-        "Researchers from Tsinghua University, the Institute of Automation of the Chinese Academy of Sciences, and the Shanghai Qizhi Institute introduced HITCH in a preprint submitted on November 5. The framework lets a vision-language model control a humanoid through interfaces that can measure the scene. Using Qwen3.8-27B, it learns how to position the body, crouch, reach and look, then transfers those body-operation skills to new tasks.",
-        "The model can select target points in head-camera images and receive their corresponding 3D positions. The execution interface converts commands for the pelvis, torso, hands, walking and gaze into whole-body motion. The team generated trajectories with teacher policies over five base-task categories, including pick-and-place, carrying, navigation, opening drawers or cabinet doors, and opening room doors, and fine-tuned the model on them.",
-        "Across six selected SIMPLE simulation tasks with 30 evaluation episodes each, the model trained only on the base tasks achieved a 51.1% success rate. Adding **five demonstration trajectories per new task raised it to 95%**. On four selected HumanoidArena tasks excluded from task training, the base-task-trained model achieved 42.5%. The benchmarks differ in task selection, scenes and success criteria.",
-        "The physical G1 experiments were more limited. The robot used rubber hands without finger control and held a box between its palms. The model was trained without real images, ran on a remote server and exchanged observations and commands with the robot over Wi-Fi. It completed **13 of 20 box-carrying trials and six of ten obstacle-navigation trials**.",
-        "Removing active 3D position measurements reduced the base-task-trained model’s SIMPLE success rate from 51.1% to 2.8%. The current planner does not support some actions, including sitting, kicking a ball and stepping over obstacles, and physical testing covered only carrying and navigation. The paper’s 95% figure applies to few-shot training on the specified simulation tasks."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9434ac3945d97bda5d81dd9f",
-      "source_sha256": "d4dae07244afe4032bc1fb5f08bdc16524721efb819ab9f197fb93042b667563",
-      "paragraphs": [
-        "OpenAI released **GPT-6 Cyber on November 5, initially providing API and Codex access only to selected, approved Daybreak Red customers**. Based on GPT-6 Astra, it receives specialized training for vulnerability discovery, validation and remediation research. Broader access remains planned.",
-        "OpenAI reported an ExploitGym score of 48.5%, compared with 32.1% for GPT-5.6 Cyber. The system card classifies its cybersecurity capabilities as Critical, the same category as GPT-6 Astra. These are vendor evaluation results, rather than a vulnerability-detection rate applicable to arbitrary real systems.",
-        "In scope-control testing without an additional deployment prompt, 99.93% of tested behavior stayed within authorized boundaries; the figure was 100% with the prompt. Those results apply to the specific evaluation environment. The system card still requires identity and security approval, organizational access controls, system checks and monitoring.",
-        "The release combines frontier cybersecurity capabilities with restricted deployment: customer eligibility, operating environment and security processes determine access. A standard ChatGPT account does not automatically gain this specialized service."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-07d6e248e2b40b0db9d42e83",
-      "source_sha256": "e4b3df3c9bfcb10555a721523ecd341686010f061bf3a8003dcd31bae48ce60d",
-      "paragraphs": [
-        "Huawei unveiled the **Qingyun HM650 HarmonyOS desktop series** at its November 5 office-industry summit, targeting fixed workstations and centralized management in government, finance and energy. IT Home reported that day that the desktops use the Kirin X90 processor, with ten cores and twenty threads in the HM650.",
-        "Huawei’s specification page lists HarmonyOS V1.0 Enterprise Edition and LPDDR5 memory, with SSD storage, optional hard drives on some models and an optional DVD-RW drive. The chassis measures 293 × 93 × 315.5 mm and weighs about 3.6 kg without the optical drive and hard disk.",
-        "The front has one USB-C and three USB-A ports; the rear adds four USB-A ports, gigabit Ethernet, HDMI and DisplayPort, among other connections. Enterprise features emphasize centralized deployment, unified authentication, staged upgrades and lifecycle management. System-level Xiaoyi supports documents, meetings and research; effectiveness claims come from the vendor.",
-        "**The official purchase guide places the products in enterprise and government sales channels and gives no uniform retail price**, stating that they are not sold through e-commerce or physical experience stores. It lists October 15 at 10:00 as the formal sales start, preceding the November 5 summit announcement. Those are separate milestones."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-6be6d44834d7aa94fda7ee2c",

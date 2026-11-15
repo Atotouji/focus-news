@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "recorded_at": "2026-11-15T04:19:43.423Z",
+  "baseline_commit": "7973eaa4b05e7b30d79aaa34a45a381b05e07e7f",
+  "news_alert_ids": [],
+  "corrections": [
+    {
+      "article_id": "article-fdb68417927b50a65652abf9",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+      "published_at": "2026-11-13T23:40:45.150Z",
+      "changed_fields": [
+        "title_zh",
+        "body_zh",
+        "preview_zh",
+        "reference_urls",
+        "matching English paragraphs and source_sha256"
+      ],
+      "reason": "受损游船误写为Creole Queen；BBC和ABC均明确为American Heritage，油轮为Atlantic Asphalt。",
+      "before_title_zh": "新奥尔良撞船后8人仍住院、2人重伤，调查组取回油轮航行记录仪",
+      "after_title_zh": "新奥尔良受损游船为American Heritage，8人仍住院、2人重伤",
+      "before_body_zh": "美国新奥尔良密西西比河撞船事故的伤员数字继续更新。ABC News于当地11月14日17:42、即香港／北京时间11月15日06:42更新报道，市长称最初送院的32人中，**仍有8人住院，其中2人伤势严重，其余情况稳定**。最初住院者包括30名乘客和2名警员；所有涉事人员已清点，救援搜寻阶段结束。较早报道的9人仍住院已被这一较晚通报更新。\n\n碰撞发生于当地11月13日约12:30，即北京时间11月14日02:30。一艘油轮与停靠的游船Creole Queen相撞，游船受损。美国海岸警卫队此前将油轮可能失去转向能力列为调查方向，但尚未确定机械原因或最终责任；乘客人数与包括船员的总在船人数口径不同，不能相加或互换。\n\n国家运输安全委员会已派16名调查人员到场，并取回油轮的航行数据记录仪，接下来包括船员访谈及事故重建。油轮已于14日移离，但游船的安全打捞可能还需数周。船只移离、人员救援结束及事故原因查明是不同阶段，目前没有最终调查结论。",
+      "after_body_zh": "新奥尔良密西西比河撞船事故涉及的受损游船为**American Heritage，撞击它的油轮为Atlantic Asphalt**。BBC与ABC News均明确写出这两个船名。游船由American Cruise Lines运营，在新奥尔良靠泊时遭撞击并侧翻，所有涉事人员已清点，救援搜寻阶段结束。\n\nABC于美国东部时间11月14日17:42、即香港／北京时间11月15日06:42更新报道，市长称最初送院的32人中，仍有8人住院，其中2人伤势严重，其余情况稳定。最初住院者包括30名乘客及2名警员。碰撞发生于新奥尔良当地13日约12:30，即北京时间14日02:30；乘客人数与包括船员的总人数口径不同。\n\nNTSB已派16名调查人员到场，并取回油轮航行数据记录仪，将开展船员访谈及事故重建。油轮于14日移离，游船安全打捞预计仍需数周。海岸警卫队称，部分河段已经恢复双向通航，事故地点仍保留500英尺安全区；这不等于整段河道继续完全封闭。可能失去转向能力仍是调查方向，尚无最终机械原因或责任结论。",
+      "evidence_urls": [
+        "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+        "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847"
+      ],
+      "excluded_from_latest_article_ids": true,
+      "preserved_id_date_and_highlights": true
+    },
+    {
+      "article_id": "article-70275d0e699d06687aefcbb5",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do",
+      "published_at": "2026-11-14T02:05:55.266Z",
+      "changed_fields": [
+        "title_zh",
+        "body_zh",
+        "preview_zh",
+        "reference_urls",
+        "matching English paragraphs and source_sha256"
+      ],
+      "reason": "早间沿用BBC的“中方尚未回应”表述，但外交部11月13日实录已公开回应保持沟通；未确认具体安排不等于未回应。",
+      "before_title_zh": "俄方称三国领导人会晤定于19日在深圳举行，中方尚未公开确认",
+      "after_title_zh": "俄方称三国元首会晤定于19日；中方已回应保持沟通，尚未确认安排",
+      "before_body_zh": "克里姆林宫发言人佩斯科夫向塔斯社表示，三方已达成安排，普京、习近平与特朗普的会晤定于**11月19日在深圳举行**。这使此前由美方宣布的计划增加了俄方正式回应；BBC最新报道仍称，中国尚未就三国领导人会晤安排作出回应。俄方所述三方安排与中方自行发布确认，是不同层次的公开证据。\n\n特朗普此前表示，希望在亚太经合组织会议期间与普京、习近平讨论核军备控制及伊朗问题。美国方面没有把乌克兰列为此次计划会谈的议题，也没有预告届时会立即达成协议。各方对参会形式、详细议程及可能文件的公开信息仍不完整，会面日期属于未来安排。\n\n这项进展涉及大国领导人之间的接触及军备议题，与另行进行的乌克兰和平磋商并非同一场谈判。当前没有三方联合声明、已签署的新军控条约或此次会晤产生的停战成果。后续仍需分别核对中方确认、实际出席和会后文件。",
+      "after_body_zh": "克里姆林宫发言人佩斯科夫向塔斯社表示，三方已达成安排，普京、习近平与特朗普的会晤定于11月19日在深圳举行。**这是俄方对三方安排的表述；中方已公开回应正在沟通，但没有在该回应中确认具体日期和议程。**会晤仍属未来计划，尚未实际举行。\n\n中国外交部11月13日例行记者会实录显示，毛宁回答法新社有关三国元首可能会晤的问题时说，中方同相关方保持着沟通，如有进一步信息会及时发布。这份回应已经公开，但没有逐项列出三位领导人的会晤日期、地点和议程，也没有发布三方共同确认的会面文件。\n\n特朗普此前表示希望在APEC期间讨论核军备控制及伊朗问题，美方未把乌克兰列为这次计划会谈的议题，也没有预告立即达成协议。当前没有由此次会晤产生的三方联合声明、新军控条约或停战成果；后续需要分别核对各方正式安排、实际出席及会后文件。",
+      "evidence_urls": [
+        "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202611/t20261113_12058837.shtml",
+        "https://tass.com/politics/2218203"
+      ],
+      "excluded_from_latest_article_ids": true,
+      "preserved_id_date_and_highlights": true
+    }
+  ]
+}
