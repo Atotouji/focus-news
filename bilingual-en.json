@@ -1,7 +1,96 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T04:19:44.063Z",
+  "generated_at": "2026-11-15T09:18:15.897Z",
   "translations": [
+    {
+      "article_id": "article-daf49a915e4f5b80d0a33273",
+      "source_sha256": "73e8b29e881b19ed6dacd991329612c0864737734a0831a6cd92a7742e3b8901",
+      "paragraphs": [
+        "Nintendo’s Japanese support pages say that, because repair-part costs have risen, **new reference repair prices apply to consoles arriving at Nintendo on or after November 16**. Arrival of the repair item determines applicability, rather than the application or shipping date. This concerns repair service in Japan, with tax-inclusive yen prices, not a uniform increase in worldwide console retail prices.",
+        "The Switch 2 CPU-board replacement reference price rises from JPY 27,500 to JPY 37,400. Standard Switch and Switch Lite rise from JPY 14,300 to JPY 24,200, and Switch OLED from JPY 16,500 to JPY 26,400—each an increase of JPY 9,900. Switch 2 LCD-related repair rises from JPY 15,400 to JPY 16,500, with some other component repairs also increasing by JPY 1,100.",
+        "The changes concern console repairs explicitly dated in Nintendo’s tables; Joy-Con, docks and every accessory do not all rise by the same amount. Reference prices are grouped by the component repaired or replaced, and similar symptoms can involve different parts; inspection determines the actual repair."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-6d8f0dff3438fc392071c012",
+      "source_sha256": "d63dbab5a184c8109501ed5fabf3b073bba7d530d9986089bd874686351fa638",
+      "paragraphs": [
+        "Hamas’s Al-Qassam Brigades announced that **Rafah Brigade commander Samir Abu Younis was killed in an Israeli strike in Al-Mawasi, southern Gaza, on November 14**. The BBC reports that the Israel Defense Forces and Israel’s security agency also confirmed his killing in a Telegram statement. Anadolu separately reported Al-Qassam’s announcement; both sides have confirmed his identity and death.",
+        "According to the BBC, Abu Younis was 53 and succeeded Nael Abu Obeid after his predecessor was killed on September 15. Al-Qassam says he helped plan and oversee the October 7, 2023 attack. Israel accuses him of rebuilding the Rafah Brigade and organizing attacks against Israelis. These descriptions of his responsibilities and activities come from the respective belligerents.",
+        "Witnesses told the BBC that missiles hit tents in Al-Waha camp in Al-Mawasi, causing a fire. A Nasser Hospital source told the BBC it received one body and three injured people; Anadolu’s earlier hospital account listed two injured, so the casualty reports differ. Gaza’s ceasefire took effect in October 2025, with strikes continuing afterward. The confirmed death of this commander and implementation of the overall ceasefire are separate matters."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-93a7ae380c47907841907d93",
+      "source_sha256": "3b66d91955516471d6167f4d4bccb94cb7d8b82667d300d494c06a63fedc27f3",
+      "paragraphs": [
+        "The Beijing Stock Exchange marked five years of trading on November 15. Reporting information obtained from the exchange that day, China News Service says it had **355 listed companies with a combined market value of approximately RMB 800 billion**, compared with 81 companies and less than RMB 300 billion at opening. This is a five-year market-size snapshot; market capitalization, daily turnover and cumulative financing are different measures.",
+        "The exchange says more than 60% of listed companies are national specialized “little giants,” over 90% are high-tech enterprises and twenty have become manufacturing segment champions. Since opening, it has facilitated nearly RMB 90 billion of financing for small and medium-sized enterprises, with more than 80% of proceeds directed to green and low-carbon industries, the digital economy, high-end equipment and new materials. Company-composition shares and use-of-proceeds shares have different denominators.",
+        "Qualified investor accounts exceed 11.8 million, institutional investor accounts exceed 200,000, and participating public mutual-fund products have grown from just over one hundred at opening to over 3,000. Accounts do not directly count unique individuals, and fund products do not count management companies. The anniversary statistics describe market capacity and financing functions, without forecasting share prices, returns or economic growth."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4d9fe2f621ea187ce48b9c2c",
+      "source_sha256": "a2d105feccefc830d98d06bd997f619c7fa75b40ad9cb7bf223d82ce2864f1cf",
+      "paragraphs": [
+        "The Game Awards will reveal its 2026 nominees in a livestream hosted by Geoff Keighley at 09:00 Pacific Time on November 17, or **01:00 Hong Kong/Beijing time on November 18**. The awards ceremony takes place in Los Angeles on December 10 local time. Nominations and the awards ceremony are separate events; no final nominee list or winners have yet been announced.",
+        "The official FAQ gives the general commercial-release eligibility cutoff as **21:00 Pacific Time on November 20, equivalent to 13:00 Beijing time on November 21**. The nominee reveal therefore precedes that deadline. GTA VI, scheduled for November 19, can meet the timing requirement; eligibility is not confirmation of nomination. Players’ Voice uses a separate November 30 release deadline rather than that same cutoff.",
+        "Official rules allow expansions, DLC, remakes, remasters and new seasons to compete, subject to jury assessment of their new creative and technical work and value. Early-access games may also be nominated if the jury considers them worthy. General jury awards use a blended 90% jury and 10% public vote, with winners revealed at the awards ceremony."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2d920913699772a9505e1d83",
+      "source_sha256": "0d19187729599b482b9d26516e666f34c1bbb261a68a45a87c93675103f946a3",
+      "paragraphs": [
+        "Yunnan’s Tianbao–Malipo Expressway is scheduled to **open and begin networked toll collection at 11:00 on November 24**. The operator’s November 13 announcement, reproduced by Kaiping News, postpones the original November 20 midnight opening for electromechanical commissioning and safety checks to ensure reliable toll and monitoring systems. This is a future opening plan; traffic has not yet been admitted.",
+        "The 52.831 km, four-lane expressway has a design speed of 80 km/h, 27 bridges and seventeen tunnels, with bridges and tunnels accounting for 80.4% of its length. It forms part of the G5615 Tianbao–Houqiao route and connects to the already open Malipo–Wenshan Expressway. Travel from Wenshan city to Tianbao border port is expected to fall from about two hours to eighty minutes after opening.",
+        "The announcement also schedules the Tianbao, Chengzishang and Malipo South toll stations, plus Anle on the Malipo–Wenshan road, for networked collection. Connecting the two sections completes the Tianbao–Wenshan expressway corridor; it does not mean the entire G5615 Tianbao–Houqiao route is finished. Tianbao is on the China–Vietnam border, and the new connection chiefly changes road access to the port within Wenshan Prefecture."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a32c7d9f2a0e04c542ba8304",
+      "source_sha256": "ae6483d4f33f3adc9a9c2cf6304fe56f89c43702ef8ed478fa052d844c78b839",
+      "paragraphs": [
+        "Motphys released the **MotrixSim 1.0 physics simulation engine on November 14** for robot control, reinforcement learning and industrial simulation. Its public project description lists rigid-body dynamics, collision detection, generalized-coordinate modeling and in-house constraint solvers. The CPU backend is developed in Rust, with a Python API and compatibility with MJCF models.",
+        "The technical report illustrates humanoids, quadrupeds, arms, dexterous hands and construction machinery as multibody systems, with joints, limits, contact and friction included in the dynamics solve. Its closed-chain example is a Strandbeest with twelve legs, 92 links and 36 closed kinematic loops. The figures depict simulation systems and the solver process, rather than uniform physical validation of all these machines.",
+        "In the developer’s Franka grasp tests, the same control trajectories grasp a sphere, cube and bottle at 2 ms and 10 ms time steps to assess disturbance resistance. A pass means reaching 20 seconds without triggering the drop criterion, not zero slip. The report also covers critical friction, detailed geometric collision, sensors and CPU/GPU parallel computation. Its comparisons are developer tests under specified conditions, not universal accuracy or training-speed advantages across robot tasks."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0e301eeda6b8051c5d8ed283",
+      "source_sha256": "89b77bd6c572c6018d412d740420497819ff04715486f2fc8cc48c51db898a3a",
+      "paragraphs": [
+        "The revised Beijing rules on unmanned aircraft **take effect on November 15**. They designate the entire municipal administrative area as controlled airspace, prohibit flights, possession and storage of unmanned aircraft and their core components in Beijing, and prohibit bringing or transporting them into the city. The sales and rental prohibition also applies to organizations and individuals located in Beijing; e-commerce operators must implement it.",
+        "Special arrangements remain available for counterterrorism and stability operations, disaster relief, major events, teaching, research and production at schools, research institutions and manufacturers, and agricultural and forestry production. Organizations require review by the responsible authority and a police safety assessment, followed by list-based management. Approved organizations must maintain purchasing, transport, storage and use procedures, and flights remain subject to national rules. Research or commercial use does not automatically qualify.",
+        "Illegal flights can result in an order to stop, confiscation and a fine of RMB 1,000–10,000. Violations concerning possession, storage, transport into Beijing, sales or rental can lead to confiscation and fines of RMB 500–5,000 for individuals or RMB 5,000–50,000 for organizations. The relevant departments will define the core-component list. Self-powered flying toys and airborne floating objects are subject to separate municipal measures.",
+        "The earlier buyback and scrappage subsidies and free EMS shipment out of Beijing applied to previously verified personally owned equipment disposed of by November 14. The scrappage subsidy was RMB 200 per aircraft in September–October and RMB 100 on November 1–14. **These transition windows have ended**; the old amounts are not current benefits open for application from November 15."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-83e5ad01ee1ec4ac2c862dc4",
+      "source_sha256": "d0813cc74a2d6f22db491452a6c21a02ac3f2a4b2943320fc1da66e2ce5a4350",
+      "paragraphs": [
+        "Hong Kong’s M+ has canceled both screenings of Hou Hsiao-hsien’s **The Time to Live and the Time to Die, scheduled for November 22 at 14:30 and December 12 at 14:00**. The film page marks both sessions canceled and says technical issues caused all screenings to be withdrawn, with ticket holders to be contacted about refunds. Cancellation was announced on November 13, with explanations reported on November 14–15.",
+        "Citing HK01, Lianhe Zaobao reports that M+ said on November 14 it had not received permission from the Office for Film, Newspaper and Article Administration. The office said it processes submissions under the Film Censorship Ordinance and established procedures, without commenting on individual applications. The public statements concern these submissions and screenings; they give no specific reason for withholding permission and announce no permanent ban across all settings.",
+        "The film dates from 1985, runs 137 minutes, was shot by Mark Lee Ping-bing and draws on Hou’s childhood. It was part of “Lightcatcher: The Cinematography of Mark Lee Ping-bing.” M+ lists the overall program as November 21–December 26, differing from an end date in some media coverage. Lianhe Zaobao reports that the other nine films in the program are unaffected; the cancellation covers the two revival screenings specified above."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-4fc1f8d4773b2aadee4612a3",
       "source_sha256": "bcc4e722ac29f456426a1db4b5be838e663f75c5a497dba440f80739ae04f9bc",
@@ -102,11 +191,11 @@
     },
     {
       "article_id": "article-8e826b0de963224592ad51a8",
-      "source_sha256": "cbaf2d2b7cdbcd26e95de49aa46431f8555d01b46316bb2d62474d3cb7fca372",
+      "source_sha256": "0241e5d78f44445031aa93d07d6165b530bc06aa5f83df65bb0eccdeacfc6f36",
       "paragraphs": [
-        "Both Counter-Strike 2 semifinals at BLAST Rivals 2026 Season 2 in Hong Kong have finished. **Spirit beat MOUZ 2–0 and FURIA beat Falcons 2–0, advancing to the final.** The organizer schedules the best-of-five final for 08:00 UTC on November 15, or 16:00 today in Hong Kong/Beijing. At this edition’s verification time, the final had not started and no champion had been decided.",
-        "Spirit won Mirage 13–7 and closed the series with a 13–11 victory on Ancient. On the second map, MOUZ moved into an 11–8 lead before Spirit won five consecutive rounds. In the other semifinal, FURIA took Ancient 16–14 in overtime and Dust2 13–5. Each 2–0 is the final map score of its respective semifinal.",
-        "MOUZ and Falcons exit in the semifinals, leaving FURIA and Spirit to contest the title. Separate HLTV match reports confirm the two qualifications, while TalkEsport summarizes both matches and the next-round schedule. An unstarted final’s displayed score is not a result; the outcome remains dependent on completion of the best-of-five series."
+        "Both Counter-Strike 2 semifinals at BLAST Rivals 2026 Season 2 in Hong Kong are complete: **Spirit beat MOUZ 2–0 and FURIA beat Falcons 2–0 to reach the best-of-five final**. The final was scheduled for 08:00 UTC on November 15, or 16:00 Hong Kong/Beijing time. HLTV marked it LIVE when checked at 17:16 on November 15; no champion had yet been decided.",
+        "Spirit won its semifinal 13–7 on Mirage and 13–11 on Ancient, taking five consecutive rounds after MOUZ had led the second map 11–8. FURIA beat Falcons 16–14 in overtime on Ancient and 13–5 on Dust2. Both 2–0 series scores and those map scores are completed semifinal results.",
+        "MOUZ and Falcons exit in the semifinals, leaving FURIA and Spirit in the title contest. While the final is in progress, live rounds, incomplete maps and simulated win probabilities are not the final series result. No completed championship result was available at the verification time stated above."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -266,11 +355,12 @@
     },
     {
       "article_id": "article-fdb68417927b50a65652abf9",
-      "source_sha256": "80d3eeb388d46c776ca9ea1ef3dff158533e2faf402eee82dafbbe7783e19cb5",
+      "source_sha256": "f7fc2fe086fc9669313c5bb2e53988699f13212decda4b8413268fcd94e7b986",
       "paragraphs": [
-        "The damaged cruise vessel in the New Orleans Mississippi River collision is **American Heritage, and the tanker that struck it is Atlantic Asphalt**. Both the BBC and ABC News identify the two vessels by those names. American Heritage, operated by American Cruise Lines, was struck while docked in New Orleans and capsized. Everyone has been accounted for and the search-and-rescue phase is complete.",
-        "ABC’s update at 17:42 US Eastern time on November 14, or 06:42 on November 15 in Hong Kong/Beijing, quotes the mayor as saying eight of the original 32 hospitalized people remained in hospital, two in serious condition and the others stable. The original group comprised 30 passengers and two police officers. The collision occurred at approximately 12:30 New Orleans time on November 13, or 02:30 on November 14 in Hong Kong/Beijing. Passenger counts and totals including crew use different denominators.",
-        "The NTSB has 16 investigators on scene, has recovered the tanker’s voyage data recorder and will conduct crew interviews and reconstruct events. The tanker was moved away on November 14; safely salvaging the cruise vessel could take weeks. The Coast Guard said some river sections had reopened to two-way traffic while a 500-foot safety zone remained at the site, rather than the entire stretch staying completely closed. A possible loss of steering remains an investigative lead, without a final mechanical-cause or responsibility finding."
+        "The Port of New Orleans commission has filed a federal lawsuit over the November 13 Mississippi River collision, naming the **Atlantic Asphalt tanker, owner Nave Shipping SA and manager Thome Ship Management Pte Ltd**. Citing the complaint, the BBC and CBS say port damage exceeds $1 million. The port seeks cleanup, inspection, repair and other costs, and requests seizure and sale of the tanker to cover losses. Allegations of negligence and gross negligence are the port’s claims, without a final liability ruling.",
+        "The struck and overturned cruise vessel is **American Heritage**, operated by American Cruise Lines, not another New Orleans sightseeing vessel. The collision occurred around 12:30 local time on November 13, or 02:30 Hong Kong/Beijing time on November 14. Everyone on both vessels has been accounted for and the search-and-rescue phase has ended. The BBC and CBS lawsuit reports appeared on November 14; the suit was filed the previous evening.",
+        "ABC’s update at 17:42 Eastern Time on November 14, or 06:42 Beijing time on November 15, quotes the mayor saying eight of the original 32 hospitalized people remained in hospital, two with serious injuries and the others stable. Those initially hospitalized included thirty passengers and two police officers. This later hospital status and the initial report of no critical injuries have different verification times.",
+        "The NTSB dispatched sixteen investigators and retrieved the tanker’s voyage data recorder. The tanker was moved away on November 14; its manager says the crew is safe and cooperating. Safe salvage of the cruise vessel is expected to take weeks. Some river sections have reopened in both directions, with a 500-foot safety zone at the scene. Possible loss of steering is an investigative lead; the final mechanical cause, vessel liability and court-awarded damages remain undetermined."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -972,11 +1062,11 @@
     },
     {
       "article_id": "article-28eb2d57ffc701d64e74f1d1",
-      "source_sha256": "29b7c1dce3bb315fe94b7cebb9f9bfa9b96ee0c4fc063cbca05f0c9cb2dbfb41",
+      "source_sha256": "c8c389208d02351ef0c9df3fae593fdaa9684cdeddda4285835f872afc3d4ccf",
       "paragraphs": [
-        "Volcengine introduced Seedance 2.5 flash on November 12 for frequent and batch video creation. The company claims quality close to Seedance 2.5, twice the generation speed and lower pricing. Its quoted 720p text-to-video and image-to-video price is **about RMB0.99 per generated second, roughly 34% below the flagship**. This is a pricing example for specified resolution and task types, not a universal charge.",
-        "Flash supports clips up to 30 seconds, accepting up to ten images, five videos and five audio inputs per request, with 480p and 720p output. The official comparison also positions the flagship for 1080p and 4K production and a Draft workflow for selecting previews before final generation; those capabilities do not all carry over to flash.",
-        "The model is rolling out to platforms including Jimeng, LibTV, Updream, Creao AI and TapNow. **The Volcengine Ark API is scheduled for November 15**, so today’s announcement does not make every app and API entry available immediately. Speed and quality comparisons are vendor claims, with results dependent on inputs, duration and generation scenario."
+        "Seedance 2.5 flash, announced on November 12, now appears in Volcengine Ark’s current API documentation. The official tutorial updated at 13:55 on November 15 explicitly lists **doubao-seedance-2-5-flash-261115** and invocation information, giving the earlier November 15 API launch plan a concrete service entry. fal also lists an image-to-video endpoint with input, resolution, duration and audio options; running it requires signing in.",
+        "flash supports videos up to 30 seconds, inputs of up to ten images, five videos and five audio clips, and 480p or 720p output. fal’s image-to-video page specifies 4–30 seconds, native audio and optional end-frame control. Ark distinguishes the standard and flash input limits and states that **flash does not support Draft mode**. The standard model’s draft-first, higher-resolution production workflow therefore does not apply in full to flash.",
+        "Ark’s tutorial requires one of three conditions for activation: an account balance above RMB 200, an active plan in the RMB 200 tier or higher, or remaining resource-pack capacity. Public documentation and third-party endpoints do not establish unrestricted access for every account and region. The earlier manufacturer example of about RMB 0.99 per second for 720p text- or image-to-video, around 34% below the flagship, remains configuration- and platform-dependent. Speed and quality comparisons are manufacturer claims."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3381,54 +3471,6 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-c47f0be11a67ab3588f075d3",
-      "source_sha256": "256688b1186f029d5156271923d316a1b9d8f5fc9e278c9cd09b22fab39d761e",
-      "paragraphs": [
-        "ARD’s November 5 DeutschlandTrend poll found that **73% understood the aims of youth protests and 22% did not**. DW reported the findings on November 6. Education investment, living costs, rents and military-service arrangements were among the concerns; protest objectives and particular actions were measured separately.",
-        "Infratest dimap randomly surveyed 1,297 eligible German voters aged eighteen or older by telephone and online from November 2–4. The published typical sampling variation is about two to three percentage points. The figures describe attitudes in that sample and period.",
-        "**Ninety-five percent considered violence against people or property unjustified as political expression**, while 89% accepted participation in authorized demonstrations. Sixty-five percent opposed temporary road blockades and 66% rejected temporary occupations of schools, universities or public offices. Sympathy with aims is therefore distinct from approval of tactics.",
-        "Eighty-two percent thought politicians addressed young people’s concerns inadequately, and 58% believed today’s young generation faces greater difficulty building wealth. Among eighteen-to-thirty-four-year-olds, 55% disagreed that anyone can become prosperous through diligence and effort, highlighting the intergenerational economic expectations behind the debate."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-1eb34af47b1b02ba3a596e75",
-      "source_sha256": "3bb84bebe4833a3bfecb8d30f8fb9246766483e2c670eb65854a371eeb4f6552",
-      "paragraphs": [
-        "An AFP report carried by Lianhe Zaobao on November 6 said lawyers for at least eighteen injured French protesters **plan a complaint to the Court of Justice of the Republic, or CJR, seeking accountability from Interior Minister Laurent Nuñez**. This is an announced legal plan, not a court finding that he committed a crime.",
-        "At a press conference, lawyer Arie Alimi alleged that the minister ordered weapons capable of causing severe permanent injuries to be used. The lawyers said about ten clients agreed to join the complaint. The CJR handles alleged offenses by ministers in the exercise of office; further proceedings depend on the applicable legal process.",
-        "The protests began with high-school students demanding better learning conditions, later encompassing living costs and challenges to policing. AFP’s count said riot-launcher rounds or grenades had seriously injured at least twenty people since mid-September, including teenagers. Those are injuries compiled in the reporting.",
-        "Citing informed sources, the report said police had opened 105 internal investigations by October 30: fifty-two involving high-school protests, forty-eight concerning October 17–18 demonstrations and five concerning October 24. Investigations and lawyers’ allegations are distinct from completed judicial findings."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-bb2f60476accc99bd99058ff",
-      "source_sha256": "8a550c646a49f4eddce4982c344e2a74e6a71a3dd820ebe2d8d16b0033a3634e",
-      "paragraphs": [
-        "European aviation faced another wave of bomb threats on November 6, the third such disruption that week. The BBC reported affected routes involving Lisbon, Rome, Prague and Sofia. Hungarian authorities said **fighter jets escorted three threatened passenger aircraft**. No explosives had been found on the relevant planes as of the report.",
-        "At least eleven flights were targeted in the Czech Republic and Bulgaria together, and France reported at least four, all landing safely. Earlier days had brought diversions, searches and military escorts. Those precautionary responses caused disruption without establishing that bombs were aboard.",
-        "The threats also reached media organizations. RTÉ’s Dublin headquarters was evacuated, with alerts at Irish Independent, Newstalk and TodayFM offices. Sky said it assessed a threat and notified authorities. Reuters reported signed emails to Irish and Bulgarian newsrooms; their authenticity and senders remain under investigation.",
-        "Ireland’s government described a possible coordinated disruption campaign but had not identified those responsible or established a specific connection between the media and aviation threats. Investigative theories, claimed email identities and verified flight responses remain separate; no responsible party has been confirmed."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-fd2e433408d0bccfb3155ff2",
-      "source_sha256": "02e110e408941947196ce609a7234d0b1bd0010a161e5a2a67ea858c5ed9dde6",
-      "paragraphs": [
-        "Huawei Japan announced the FreeBuds SE 5 MAX true-wireless earbuds on November 6, with an **expected Japanese retail price of ¥8,580 including tax**. The white version went on sale that day. Black and blue versions opened for preorders at the same time, with sales scheduled to begin on November 20. This announcement concerns Japan, with availability differing by color.",
-        "Battery figures distinguish the earbuds from their charging case. Huawei rates the earbuds for up to ten hours per charge and 80 hours including case recharges with active noise cancellation off, or seven and 57 hours respectively with it on. Huawei’s laboratory battery tests used settings including AAC encoding and 50% volume; the test with noise cancellation off used a Mate 80 Pro. The 80-hour figure does not describe continuous playback from a single earbud charge.",
-        "The earbuds use approximately 10 mm dynamic drivers and add LDAC support at a maximum bitrate of 990 kbps, requiring a compatible device and appropriate settings. The claimed peak active-noise reduction of 52 dB comes from specific frequencies and laboratory conditions. Noise-cancellation options include several fixed strengths and a dynamic mode that adapts to the surroundings, alongside an ambient-sound mode.",
-        "Multipoint connectivity supports two devices, allowing switching between devices such as a phone and a computer. Each earbud weighs about 4.3 g and comes with tips in three sizes. The earbuds carry an IP55 dust- and water-resistance rating, which does not extend to the charging case. Huawei also rates a ten-minute quick charge for up to four hours of playback."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-d6fd19bace15dc0197483f1a",
       "source_sha256": "cac7308e39fe6977f48d7f58c5a056a4b6c4d6a2bd7ad3483cbe2a3d6454d8c5",
       "paragraphs": [
@@ -3438,42 +3480,6 @@
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
-      "article_id": "article-7a29b99991007e12673167bf",
-      "source_sha256": "2ec914945368ee6743124856a8f1ddc63d4ac2c354905cccb29be16631c78571",
-      "paragraphs": [
-        "Workers across France struck and marched on November 5 to demand higher wages, tax changes and better public services. An updated AFP report carried by CNA cited revised Interior Ministry figures of **about 575,000 participants nationwide, including 60,000 in Paris**. The CGT union estimated roughly 1.6 million nationally. The government and union counts use different approaches and produce different totals.",
-        "Most demonstrations were peaceful, with localized clashes in some cities. A vehicle was burned in Lyon, where police used tear gas. Police reported 448 arrests nationwide and 53 injured officers as of 18:00 French local time, equivalent to 01:00 Beijing time on November 6. Those figures do not establish the total number of injured demonstrators.",
-        "Education, transport and other public services were disrupted, and the Eiffel Tower and Arc de Triomphe closed. Students also protested over school conditions and living costs. The CFDT’s advance public-service strike notice identified purchasing power, career development and funding for public services as central demands.",
-        "The BBC reported that Prime Minister Sébastien Lecornu planned a **social conference with unions and employers on November 9**. Pay and public-spending disputes remain unresolved, while turnout, service disruption and incidents of violence differed between locations."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-51dc1d2f6b3bd6dfbc4a53cc",
-      "source_sha256": "da24c335e5f7729e936e238a671616a57ae8c0840bfcf184ea62c136c2b73231",
-      "paragraphs": [
-        "GitHub detailed its new Git storage architecture, **Project Rubicon**, in a November 5 engineering post. The company said internal stress testing supported 5,000 concurrent agents working in one repository and 7,200 pushes per second, while maintaining low read latency. These are results reported from GitHub’s internal tests.",
-        "Rubicon allows object storage, request handling and repository maintenance to scale separately. Git objects are immutable and can be stored in parallel; the main operations that require coordination and ordering are updates to references such as branches. Virtual replicas handle reads and writes, Azure Blob Storage holds data, and separate components manage reference state and data cleanup.",
-        "GitHub explained that repeated agent pushes also trigger CI, deployments and reads by other agents, amplifying read demand as writes increase. Its example repository averaged about 44 million requests per day in March 2026 and 181 million in May, roughly a fourfold increase. This describes request growth at one repository, rather than a uniform rate across all users.",
-        "**The architecture is in a limited private preview, with a broader rollout planned for early 2027.** It changes GitHub’s underlying infrastructure while retaining familiar push, fetch and branch workflows."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d76a0c9ca448c0ab546ef1f4",
-      "source_sha256": "d072d621883cd867f4872e1e730f40548cbb4531bb8f57ca6b5b6079fbdd2f5d",
-      "paragraphs": [
-        "Microsoft announced a revised Xbox experience across PC, web and cloud gaming on November 5, **starting the PC rollout as an Xbox Insider preview**. The changes focus on loading, libraries and social navigation. The full interface is not arriving for every stable-release user that day.",
-        "Microsoft reports up to 60% faster startup, 50% faster Home, Store and Game Pass page loads, and 65% faster in-app windows in its tests. These are company measurements, with improvements varying by device, network and configuration.",
-        "The PC app reorganizes library filters and categories and moves friends and social features into primary navigation. Unified search covers installed games, add-ons and people, alongside updated cards, settings and animations. The redesigned web experience will expand over the following weeks, with early opt-in at play.xbox.com.",
-        "The cloud library displays eligible owned games alongside Game Pass titles, sortable by genre, input method and recently played. Desktop layouts add light and dark themes and five high-contrast options. Rollout also begins on supported televisions and VR headsets, with availability dependent on device support."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
       "article_id": "article-90a287db20b286d8d4c0a039",
@@ -3838,17 +3844,6 @@
         "【New Drama Reviews】\"A Knight of the Seven Kingdoms\" is adapted from George R. R. Martin's \"Duncan and Egwene\" stories, set approximately a century before the main storyline of \"Game of Thrones.\" The journey of the tall knight Dunk and the young squire Egg allows viewers to enter Westeros from the perspective of travelers and local conflicts, rather than continuing the story after the original series ended.",
         "The value of this perspective lies in the fact that identity, honor, and class can be demonstrated through specific encounters, without needing to rely on wars that cover the entire continent every time. Compared to the grand portrayals of dynastic groups, it may be more suitable for those who wish to see how personal relationships and knightly codes are applied in daily life. While the first season has surpassed this column's screening line in both media and audience reception, there is a difference in the level of recognition between the two ends. This article only organizes the relationships between works, the public premises, and the reviews, without pre-announcing the development of Egg's identity or referring to the prequel as a direct continuation of the original series.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 94% (180 reviews), and the audience positive percentage is 79% (the page shows 2500+ reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-6ca10350d32baaf267d7c993",
-      "source_sha256": "3d11007df4f8933bb9a38b78245cf8d0b930540534b5afc9d76fd8a5487775dc",
-      "paragraphs": [
-        "【New Drama Reviews】The publicity for \"Small Prophets\" centers around Michael Sleep, who lives alone. An old diary leads him to a strange experiment in a suburban cabin, introducing supernatural elements into an otherwise ordinary and solitary life. The genre entry is not about grand battles but rather the contrast between daily environments, personal loss, and strange events.",
-        "From the plot foundation and public evaluation materials, this series is more suitable for those who are willing to accept a quiet pace, eccentric humor, and a sense of magical realism. Small-scale does not mean there is no emotional weight; the key lies in whether the mysterious setting helps the characters to face relationships and time again. The current positive media ratio has reached 100%, but the sample size is only 23 articles, so it cannot be understood as a unanimous vote from all around the world of film critics, much less that each article is a perfect score. This article provides an open-ended introduction without considering the rituals or formulas in the story as real verifiable methods, and does not claim to have watched each episode in sequence.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 100% (23 reviews), and audience positive percentage is 95% (the page shows 100+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
