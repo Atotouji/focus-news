@@ -1,14 +1,80 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T09:15:20.383Z",
+  "generated_at": "2026-11-15T01:30:37.618Z",
   "translations": [
     {
-      "article_id": "article-e8447cb02264cc1df53dbd1a",
-      "source_sha256": "7bf724fec9c66dca5af9bcfe52e69dde75694cb07c83a4a3944b96f7f002870d",
+      "article_id": "article-5474996ec98f19536b184988",
+      "source_sha256": "fcaa5f34c0b29258caf3bbb2a6419e591376bfaba3543da3cb7c74ef93cd3aca",
       "paragraphs": [
-        "France is scheduled to hold street rallies for a fifth consecutive week on Saturday, November 14, bringing together children’s-rights groups, high-school students, unions and Yellow Vest participants with different demands. AFP reports that the main Paris rally is due at **13:00 local time, or 20:00 Hong Kong/Beijing time**, with dozens of other rallies planned nationwide. These are arrangements, not final attendance or policing results for the day.",
-        "Children’s-rights advocates seek stronger protection against sexual abuse. Other participants oppose a bill granting a presumption of self-defense to police officers who fire their weapons. The report says the National Assembly has passed it and Senate consideration is next. Supporters say it would prevent automatic suspicion of excessive force; opponents fear weaker accountability. These competing assessments remain a political dispute.",
-        "High living costs and school blockades form the background to more than a month of protests. AFP describes most rallies as peaceful, with sporadic violence and disputes over policing at some earlier events; that history does not establish what happens in Paris on November 14. Unions separately plan a November 17 strike against the proposed 0.6% minimum-wage increase, on a different date from Saturday’s rallies."
+        "The 2026 League of Legends World Championship final has finished. The official LoL Esports schedule marks the best-of-five series completed, with BLG recording three game wins and a win outcome, against GEN’s one game win and loss. **BLG won 3–1 for its first Worlds title.** The final took place on November 14 in the United States; its official 19:00 UTC start was 03:00 on November 15 in Hong Kong/Beijing.",
+        "After GEN took the opener, BLG won three consecutive games. BLG defeated HLE, DK, T1 and GEN at different stages of this tournament: the 2–0 victory over HLE came in the Swiss stage, followed by a 3–0 quarterfinal against DK and a 3–1 semifinal against T1. GEN and BLG had advanced by beating IG and T1 respectively.",
+        "This is the LPL’s fourth Worlds championship, following iG in 2018, FPX in 2019 and EDG in 2021, ending a five-year wait. BLG lost the 2024 final 2–3 to T1 and has now secured its first title. Worlds 2026 is complete, with no further round remaining in this event."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b59ac7a81a6d3aa2708c748d",
+      "source_sha256": "58f725ca1643540a15d2c091180ca653be1d9faed126d145ffb500bf452ff954",
+      "paragraphs": [
+        "League of Legends announced League of Legends: New Dawn, called “Shuguang” in Chinese, during the World Championship. IT Home’s November 15 report and its reproduced official teaser show plans for a new client and visual upgrades to Summoner’s Rift in 2027. **This is an announced development direction, not a client that is already available.** The official website has opened a New Dawn entry page and developer-update video.",
+        "The teaser also mentions deeper gameplay, additional play experiences and improvements for new players. A new client and map upgrades represent substantial changes to the underlying experience, beyond routine maintenance, isolated balance adjustments or a single cosmetic item. The preview provides no immediately downloadable new version or complete gameplay and migration details.",
+        "The team says **more information will be revealed in January 2027**. The public material establishes the project name, principal development directions and next disclosure window; it does not fully specify the launch date, regional rollout, hardware requirements or migration process. The completed Worlds championship result is separate from this next-year client plan."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a2e4f8948c514022303df164",
+      "source_sha256": "7b4e3fd1f6ccac9c3b072094d57298dcfc6354b9de6d131b91b39690f9ccc1ab",
+      "paragraphs": [
+        "Italy’s data-protection authority, Garante, fined Meta Platforms Ireland Limited **€805 million** over a Facebook feature offering content suggestions from a phone’s gallery. The regulator says the feature, introduced in 2023, accessed photos, videos and associated metadata on the devices of about 20 million Android users in Italy without specific, adequately informed consent for that purpose. Operating-system permission to access a gallery does not automatically authorize every subsequent processing purpose.",
+        "The investigation began with a consumer complaint in July 2025 and included the authority’s own technical analysis. Garante requires Meta to introduce a separate, explicit consent request within 60 days, with the feature off by default even for users who previously granted general gallery permission. Meta must also notify the authority of planned action within 30 days and report implemented measures within 90 days. The deadlines concern distinct requirements.",
+        "Meta told the BBC it would appeal, disputing the factual findings, legal interpretation and fine, and saying device permissions still control access and can be revoked. **The decision is not a finding that Meta used these photos to train AI.** Meta denies that use. The regulator treats another cloud-gallery feature introduced in 2026 as a separate investigation whose outcome cannot be assumed in this case."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-41e97f7719d3c8efb5da7506",
+      "source_sha256": "23a3c1b705071938d1602efaa9e539ae9bd41e85d6a2e81f5033aa7a2dc1daa1",
+      "paragraphs": [
+        "DW and KFF Health News reported on November 14 that a Pan American Health Organization review had found the United States no longer met measles-elimination standards, ending a status maintained since 2000. KFF’s report, carried by NPR Illinois, cites people with direct knowledge of the decision and says a public announcement is planned for **November 17**. **At this edition’s verification time, this remains a media-reported review outcome; PAHO has not publicly issued the final decision announcement.**",
+        "PAHO said on March 2 that it would review US and Mexican measles-elimination status in November. A central criterion concerns whether local transmission has continued for at least 12 months. Elimination does not mean global eradication of the pathogen or the complete absence of imported cases. A prolonged transmission chain can turn individual outbreaks into sustained transmission incompatible with elimination status.",
+        "DW cites CDC data showing 5,182 US measles cases in 2026 as of November 12, compared with 2,289 in all of 2025. That statistical cutoff differs from the review decision’s public-announcement date. The reported status change reflects a setback in transmission control, while the formal basis, relevant transmission chains and full decision wording await PAHO’s announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8e826b0de963224592ad51a8",
+      "source_sha256": "cbaf2d2b7cdbcd26e95de49aa46431f8555d01b46316bb2d62474d3cb7fca372",
+      "paragraphs": [
+        "Both Counter-Strike 2 semifinals at BLAST Rivals 2026 Season 2 in Hong Kong have finished. **Spirit beat MOUZ 2–0 and FURIA beat Falcons 2–0, advancing to the final.** The organizer schedules the best-of-five final for 08:00 UTC on November 15, or 16:00 today in Hong Kong/Beijing. At this edition’s verification time, the final had not started and no champion had been decided.",
+        "Spirit won Mirage 13–7 and closed the series with a 13–11 victory on Ancient. On the second map, MOUZ moved into an 11–8 lead before Spirit won five consecutive rounds. In the other semifinal, FURIA took Ancient 16–14 in overtime and Dust2 13–5. Each 2–0 is the final map score of its respective semifinal.",
+        "MOUZ and Falcons exit in the semifinals, leaving FURIA and Spirit to contest the title. Separate HLTV match reports confirm the two qualifications, while TalkEsport summarizes both matches and the next-round schedule. An unstarted final’s displayed score is not a result; the outcome remains dependent on completion of the best-of-five series."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-45c521b7acedad650db433e1",
+      "source_sha256": "c7200c7b1221eec9b0a41b63ec15abf4cab55e2aa6d3dbd2972116c59532d265",
+      "paragraphs": [
+        "Ukrainian President Volodymyr Zelensky said on November 14 that US negotiators had floated Ukrainian withdrawal from the parts of Donbas it still controls in return for NATO membership. **This is Zelensky’s account of the discussions; Washington has not confirmed a finalized territorial-exchange proposal.** A US official told the BBC that many ideas had been discussed and any final settlement would require agreement from both Russia and Ukraine.",
+        "Zelensky said he would put a concrete package containing security guarantees, no restriction on the size of Ukraine’s military and reconstruction funding to a referendum. This does not mean Ukraine has accepted withdrawal or NATO members have agreed to admit it. Russia has insisted on Ukrainian neutrality and opposed its NATO membership, leaving substantial differences over territory and security arrangements. Donbas comprises the Donetsk and Luhansk regions, parts of which remain under Ukrainian control.",
+        "US envoys Jared Kushner and Steve Witkoff met Vladimir Putin in Moscow this week before meeting Zelensky in Dublin. Kushner subsequently emphasized confidentiality, saying privately explored ideas, maximalist demands and political statements are not a final agreement. The reporting announces no general ceasefire, peace accord or NATO admission decision; the territorial exchange remains a disputed negotiating idea."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e8447cb02264cc1df53dbd1a",
+      "source_sha256": "a7fee3a34fa296d73dd76acefafc451e9cc0e4d754371d8ca052c64a893b0244",
+      "paragraphs": [
+        "France held its fifth consecutive Saturday of protests on November 14. The Interior Ministry reported about 106,000 participants across 137 street actions, including 24,000 in Paris; youth organizers counted 200,000 nationwide and nearly 100,000 in Paris. **The official and organizer estimates remain separate counts, not one established total.** The official figures were below the previous week’s 146,000 nationwide and 46,000 in Paris.",
+        "The ministry’s count at 18:00 local time, or 01:00 on November 15 in Hong Kong/Beijing, was 219 arrests nationwide and ten lightly injured police officers. It described the situation as broadly controlled, with projectiles, burning bins and property damage in cities including Marseille, Lyon and Bordeaux. AFP reported largely peaceful marching and dispersal in Paris before smaller groups continued; BFMTV journalists were attacked in Lyon. The demonstrations, localized violence and official assessments of responsibility are distinct.",
+        "Demands included protection of children and teenagers, opposition to a presumption-of-self-defense bill for armed police, wages and education resources. Unions and youth groups continue to call for mobilization on November 17, which remains a plan rather than a completed strike."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -92,11 +158,11 @@
     },
     {
       "article_id": "article-70275d0e699d06687aefcbb5",
-      "source_sha256": "2eeb14abe5600d3b58c954f20b0d01ef82289c382fbc7b15a797cbe0907ae2e7",
+      "source_sha256": "2420bc2456eae07992a4ecf08d06200a4f708782c58b769c52f1dd05d5a61cab",
       "paragraphs": [
-        "White House spokeswoman Olivia Wales said Trump plans to meet Xi Jinping and Vladimir Putin in Shenzhen near the end of next week’s China visit to discuss nuclear-arms reductions and other issues. Under the US itinerary, Trump would hold bilateral talks with Xi on Thursday, November 19, followed by the trilateral meeting, after attending ASEAN-related meetings in the Philippines. **At the time of the BBC update, Beijing and Moscow had not publicly confirmed the trilateral arrangements.**",
-        "The BBC and ABC separately reported that US officials expect Iran to be discussed but do not intend to address Russia’s war against Ukraine at this meeting. Senior US officials described an initial discussion and did not anticipate an immediate concrete agreement. A proposed meeting, its agenda and an accomplished arms-control or ceasefire agreement remain distinct stages.",
-        "The US-Russia New START treaty expired in February 2026, and Trump has advocated a replacement involving China. Chinese official reporting on November 13 announced bilateral activities for Xi during APEC, without announcing this trilateral meeting. Attendance, the final agenda and any outcomes await subsequent official confirmation."
+        "Kremlin spokesman Dmitry Peskov told TASS that the three sides had agreed to a meeting of Vladimir Putin, Xi Jinping and Donald Trump **in Shenzhen on November 19**. This adds a formal Russian response to a plan previously announced by the United States. The BBC’s latest report still says China has not responded to the three-leader meeting arrangement. Russia’s account of trilateral agreement is distinct from China issuing its own public confirmation.",
+        "Trump previously said he wanted to discuss nuclear arms control and Iran with Putin and Xi Jinping during the APEC meetings. The United States has not listed Ukraine as an agenda item for this planned encounter or forecast an immediate agreement. Public details of the format, agenda and possible documents remain incomplete; the meeting is still a future event.",
+        "This development concerns contact among major-power leaders and arms issues, distinct from the separate Ukraine peace discussions. There is no trilateral joint statement, newly signed arms-control treaty or ceasefire resulting from this meeting. Chinese confirmation, actual attendance and any subsequent documents remain separate developments to verify."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -124,34 +190,66 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-fdb68417927b50a65652abf9",
-      "source_sha256": "4d0413379ec6483b100ba28bbc3fbc0e77db5efad605374bf834be43f1a1bdd8",
+      "article_id": "article-12ae502bed5dd8ec45794c5f",
+      "source_sha256": "997fe68750ef803a68e38d0e7843cda1c881a9fe130cbecdbe7c5510f753b780",
       "paragraphs": [
-        "The tanker Atlantic Asphalt struck the docked paddlewheel riverboat American Heritage on the Mississippi River in New Orleans around midday on November 13, leaving the riverboat severely tilted and partly submerged. The collision occurred at about 12:30 local time, approximately **02:30 Beijing time on November 14**. At 09:24 Beijing time, 32 people had reportedly been taken to hospital, none listed in critical condition. No deaths had been reported, and everyone aboard had been accounted for.",
-        "The Port of New Orleans said the riverboat carried 129 passengers as well as crew; that passenger figure excludes crew members. ABC, citing local officials, said those hospitalized included 30 passengers and two police officers. Tugboats, police vessels and nearby boats joined the rescue, including recovering people from the water. Arrangements were made to accommodate evacuated passengers.",
-        "The U.S. Coast Guard closed the section of the Mississippi between river miles 93 and 96 while assessing conditions for reopening. A Coast Guard official described an apparent loss of steering, but **the cause remained under investigation**. That preliminary account did not establish a specific mechanical failure or responsibility. The National Transportation Safety Board planned to send investigators, with the tanker’s maneuvering, impact on the moored riverboat and rescue sequence among the matters to be examined."
+        "China’s Ministry of Commerce announced on November 14 that the two countries had held **the first Trade Council meeting under their economic and trade consultation mechanism by video on November 13**. Discussion covered tariff arrangements, reciprocal tariff reductions, agricultural trade, implementation of earlier consultation outcomes and each side’s concerns. The meeting preceded the announcement by one day; it was not a new in-person encounter on November 14.",
+        "The ministry described the discussion as candid, in-depth and constructive, saying both sides agreed to maintain communication and address their concerns. The notice publishes no new itemized tariff schedule, uniform rate, effective date or complete agreement text. The first meeting establishes that the mechanism has begun operating and identifies its agenda, but does not support calculating a new tariff-reduction total or declaring all trade disputes resolved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4b91571a2a456ca79485f64b",
+      "source_sha256": "ed99baf897786acdd6671ea1ca95a1d22cde1bdc43bd305e884627d8d428d11e",
+      "paragraphs": [
+        "Hong Kong Disneyland confirmed a cyber incident after detecting abnormal activity, strengthened ticket verification at entry and suspended ticket purchases and hotel reservations through its website. RTHK’s November 14 evening report says police received the report the previous day, **November 13**. It describes a suspected theft of about 17,000 ticket QR codes as information it had learned, not a company-confirmed count of individuals whose personal data leaked.",
+        "Police classified the case as access to a computer with criminal or dishonest intent, with Lantau District criminal investigators handling it; no arrests had been made at the reporting time. Disneyland said it had reported the matter to police and would notify the Privacy Commissioner for Personal Data. The technical pathway, actual scope of QR-code access and any involvement of other customer data were not fully established.",
+        "The website maintenance notice says online ticket purchases are suspended. The resort also identified authorized travel partners, other platforms and main-entrance ticket counters as purchasing channels. **Suspension of website services does not mean the park is closed or every existing ticket is invalid.** The identified effects concern the online transaction channels and verification measures; expert theories about vulnerabilities are not completed forensic findings."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-fdb68417927b50a65652abf9",
+      "source_sha256": "f3bd6a921b89072546a229ef2afece9fa7d4588dfa2295e79ed4a2c5892dfd88",
+      "paragraphs": [
+        "Injury figures from the Mississippi River vessel collision in New Orleans have been updated. ABC News’ report, updated at 17:42 local time on November 14, or 06:42 on November 15 in Hong Kong/Beijing, quotes the mayor as saying that **eight of the original 32 hospitalized people remained in hospital, two in serious condition and the others stable**. The original hospital group comprised 30 passengers and two police officers. Everyone has been accounted for and the search-and-rescue phase is over. This later account supersedes the earlier nine-patient figure.",
+        "The collision occurred at approximately 12:30 local time on November 13, or 02:30 on November 14 in Hong Kong/Beijing. A tanker struck the docked cruise vessel Creole Queen, damaging it. The Coast Guard previously identified a possible loss of steering on the tanker as an investigative lead, without establishing the mechanical cause or final responsibility. Passenger counts and totals including crew have different denominators and cannot be added or interchanged.",
+        "The National Transportation Safety Board has 16 investigators on scene and has recovered the tanker’s voyage data recorder. Crew interviews and reconstruction are among the next steps. The tanker was moved away on November 14, while safely salvaging the cruise vessel could take weeks. Vessel removal, completion of rescue and determination of the cause are separate stages; no final investigative finding has been issued."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-dd9dc3faf193356ebbe11bad",
-      "source_sha256": "c4c6743637569b9872d0cb80ee4c58abb9cbd70dcc5740250fee823d3afff7ef",
+      "source_sha256": "d47c6949d1ae1be73bb3c31f4bbe16bafc4a57ea5cddc4f3170fe35c2a0600fe",
       "paragraphs": [
-        "The FAA’s nationwide departure ground stop has been lifted. At a White House briefing, Transportation Secretary Sean Duffy said it ended at 20:15 U.S. Eastern time on November 13, or **09:15 Beijing time on November 14**. FAA cancellation Advisory 005 was issued at 01:19 UTC, or 09:19 Beijing time, explicitly confirming cancellation of the nationwide ground stop. The minister’s stated lifting time and the advisory’s issuance time are distinct.",
-        "The stop had begun at 04:54 Beijing time amid communications problems affecting air traffic control centers. Duffy described intermittent radar and communications outages and said old switches, routers and lines had become overloaded with data. Those are officials’ preliminary explanations; a complete technical root cause remains under investigation. Homeland Security Secretary Markwayne Mullin said there was no evidence of a cyberattack or of a connection to the Microsoft 365 outage.",
-        "Delta announced that flights were safely resuming, and United resumed some Friday-night flights in the United States. Aircraft and crews being out of position and the flight backlog still require recovery. NPR cited FlightAware figures of over 8,000 U.S. flight delays and about 7,000 cancellations for Friday as of 21:00 Eastern time, equivalent to 10:00 Beijing time on November 14. **Lifting departure restrictions does not mean operations are fully normal.** Duffy expected ripple effects to last several days."
+        "US Transportation Secretary Sean Duffy said on November 14 that the previous day’s nationwide ground stop was linked to maintenance replacing copper telecommunications lines with fiber, performed by L3Harris. His preliminary account describes a router flooding other air-traffic-control systems with data and disrupting communications with aircraft. **Investigators have not established whether installation or operational error, or faulty router hardware, was responsible.** This is not a final finding of liability.",
+        "FAA Administrator Bryan Bedford said there was currently no evidence of malicious activity or AI involvement. L3Harris said it was assisting the FAA’s investigation and had completed over 70% of communications-infrastructure modernization before the stoppage. That completion figure neither clears the affected equipment nor means the nationwide upgrade is finished.",
+        "The ground stop was lifted at 20:15 Eastern time on November 13, or 09:15 on November 14 in Hong Kong/Beijing; FAA cancellation advisory 005 followed at 01:19 UTC. The BBC’s November 14 update cited FlightAware counts exceeding 3,500 cancellations and 2,000 delays on US Saturday, cumulative at that reporting point rather than final daily totals. Flights can depart, while displaced aircraft, crews and backlogs continue to cause disruption."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-6756af101ccd97a8ceb7af00",
-      "source_sha256": "12ef3b4022978c51502442d430d65ab999c2c93e26e9f1ce3ac85d51ca434f2d",
+      "source_sha256": "af790f58b19b72a880b22e8da160c618a65207696a189c54d2279bdd5e3a0196",
       "paragraphs": [
-        "SpaceX launched Starship’s fifteenth test flight from Starbase in Boca Chica, Texas, at 16:45 local time on November 13, or **06:45 Beijing time on November 14**. Super Heavy’s planned return to the launch tower for a mechanical-arm catch was aborted, and the booster was diverted toward the Gulf of Mexico. BBC footage showed flames during its descent. Recovery of both stages had not been completed.",
-        "After separation, the Ship upper stage continued its flight, with plans to deploy 26 next-generation Starlink V3 satellites into an orbit around 275 kilometers high. The mission calls for roughly 14 orbits before a possible return about 22.5 hours after launch. The aborted booster catch and continued upper-stage flight are separate mission phases; the former does not mean the entire flight had already ended.",
-        "The upper stage’s potential return is around 21:15 UTC on November 14, or **05:15 Beijing time on November 15**. SpaceX will assess the vehicle in orbit before deciding whether to attempt a catch, with ocean disposal available if problems arise. That recovery had not occurred when checked for this edition. Earlier tests demonstrated some booster recoveries and upper-stage orbital flight, but a tower catch of the Ship remains unproven. A mission plan alone does not establish commercially operational full reusability."
+        "After approximately 22.5 hours of flight, the Ship upper stage of SpaceX’s fifteenth Starship test returned to Starbase, Texas, on November 14 local time and was caught by the launch tower’s arms, early on November 15 in Hong Kong/Beijing. **This was the first tower capture of a Starship upper stage after orbital flight.** The BBC’s updated actual liftoff time is 16:47 on November 13 locally, or 06:47 on November 14 in Hong Kong/Beijing, two minutes later than the previously reported planned time.",
+        "Ship deployed 26 Starlink satellites and completed 14 orbits. The Super Heavy booster aborted its intended tower catch minutes after launch, diverted toward the Gulf of Mexico and subsequently exploded. AP’s report carried by NPR Illinois quotes SpaceX as saying its engines stopped early and guidance judged its position unsuitable, triggering the diversion. Engineers are still investigating the cause.",
+        "The two stages had different outcomes. SpaceX previously caught Super Heavy three times; this mission first demonstrated Ship’s post-orbit tower capture but did not recover both stages on one flight. Upper-stage recovery advances full reusability, while repeat-flight reliability, turnaround and economics remain to be demonstrated. One capture does not establish routine reuse of the complete vehicle."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-df3cc718c499a12d46727d93",
+      "source_sha256": "58af19160a3adced7c1a15c42bbcd8b942eb5d27880262154428a1b7ee118723",
+      "paragraphs": [
+        "Netflix released a clip and streaming details for the documentary short One Last Order on November 13, announcing a **November 24, 2026 Netflix release**. Directed by Lauren DeFilippo and Sam Soko, the approximately 22-minute film centers on Sighle Williams, an employee of Mac’s Drive-Thru in Gainesville, Florida. This is a streaming-date announcement, not confirmation that playback is already available in every territory.",
+        "Williams worked at the restaurant for 37 years. Using her approaching retirement as its thread, the film explores how everyday service connects regular customers and the community. The new clip focuses on conversation, food and personal relationships; its small-scale subject concerns the emotional connections built through years of work. This account does not reveal the ending or details of the farewell.",
+        "The film previously won the documentary jury award and audience award at Aspen Shortsfest 2026, with both honors listed in the festival’s official annual archive. These are earlier festival results, not new November awards or a critics’ average score or audience approval percentage. Netflix announces a release date, while territorial catalogs and local availability remain dependent on regional platform listings."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -595,12 +693,12 @@
     },
     {
       "article_id": "article-705a293f07886291804b46eb",
-      "source_sha256": "39d9d4181c0a487425ee54eab71eb9dcfdbe6ae1c6f42671d96deaaf45387551",
+      "source_sha256": "a7159b817b04fbb8f64eb65dc7d0ff66d8f7564f71e91d85c58df4672c8b681f",
       "paragraphs": [
-        "Microsoft’s overall consumer Microsoft 365 incident changed to **“Service restored” in a final update at 11:51 Beijing time on November 14**. Microsoft said previously affected environments had fully recovered and the email backlog had been processed, completing remediation. The public enterprise incident still showed “Service degradation,” with recovery and mail queues under monitoring. Consumer closure does not establish resolution for every enterprise tenant.",
-        "The consumer final notice retrospectively lists the impact period as 10:05 UTC on November 12, 2026 to 16:10 UTC on November 13, equivalent to 18:05 Beijing time on November 12 through 00:10 on November 14. **The stated impact end precedes the final confirmation announcement.** These represent the incident period and the public confirmation respectively; 11:51 is not the moment every consumer’s service first recovered.",
-        "The enterprise impact list still centers on Exchange Online and email dependencies, including Outlook access, delivery, Copilot work data and some administration and security functions. Microsoft said most related scenarios were believed addressed, but monitoring was extended because of the severity. Most core Teams calls, meetings and standard-channel messages had been unaffected, and files stored directly in SharePoint remained accessible. Dependent-function disruption does not mean every product was wholly unavailable.",
-        "Microsoft had extended email timeouts to 48 hours to protect queues. Consumer backlog processing is now confirmed complete, while enterprise monitoring and verification of mail processing continue. Microsoft previously said it had found no indication of malicious activity causing the incident. A complete root-cause and follow-up remediation report remains pending."
+        "On November 14, Microsoft said it had addressed the underlying issue and **restored service for the remaining affected customers and regions**. The statement, reported by AFP and carried by Lianhe Zaobao on November 15, advances the status beyond the earlier consumer closure and continued enterprise monitoring. The public Microsoft 365 enterprise status card now says Available, with the detailed incident banner withdrawn.",
+        "The consumer final record still lists the impact period as 10:05 UTC on November 12 to 16:10 UTC on November 13: 18:05 on November 12 to 00:10 on November 14 in Hong Kong/Beijing. Its closure notice appeared at 11:51 on November 14, with the email backlog cleared. These consumer timestamps do not establish one recovery time for every enterprise tenant. The latest statement gives no workload-by-workload enterprise end times.",
+        "The incident involved mail infrastructure and dependencies, affecting Outlook and some Teams and Copilot scenarios; core Teams calls and meetings were not all unavailable. Microsoft attributes it to technical problems and infrastructure load, saying cyberattacks, AI and agents were not responsible. These are the company’s findings; a complete technical post-incident report remains outstanding.",
+        "Microsoft also warned of phishing emails impersonating service notices and claiming blocked messages would be deleted unless recipients clicked a recovery link. This subsequent exploitation of the outage does not establish that a cyberattack caused the original disruption."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1743,11 +1841,11 @@
     },
     {
       "article_id": "article-c3459d772f5c3c544ea60b54",
-      "source_sha256": "92b2bc524e49f264539a75ecf8e69edde0a076c7b3d5d23dd120e7feac118fd4",
+      "source_sha256": "2d1b76061499bb8e7fbfe5485c921697f305bafbe9d3b8eed090acc04d4cf328",
       "paragraphs": [
-        "Huawei’s HarmonyOS foldable computer MateBook Fold S **opened for preorder in China at 10:08 Beijing time on November 14**, moving beyond the earlier advance announcement. IT Home’s 10:12 report listed four memory and storage combinations and a November 24 balance-payment date. That payment milestone is not a confirmed in-stock delivery or receipt date; the final price was still undisclosed at that point.",
-        "The configurations are 16GB plus 256GB, 16GB plus 512GB, 24GB plus 512GB and 32GB plus 1TB. All include a keyboard and sleeve, with a stylus additionally included in the highest configuration. Color options are black, white and blue. The screen measures 10.7 inches folded and 14.7 inches unfolded, while the external Live display presents lightweight information such as time, notifications and calendar items.",
-        "Huawei’s promotional material shows UTG glass, its Xuanwu waterdrop hinge, multi-angle positioning and HarmonyOS PC multi-screen collaboration. This update establishes China preorder availability and configuration bundles. The exact processor model, complete performance data, final price and actual delivery arrangements await fuller disclosure. Overseas versions and sales eligibility were not confirmed alongside this preorder news."
+        "Huawei’s compact HarmonyOS folding computer, the MateBook Fold S, has entered preorders. IT Home’s November 10 preview gave a November 14, 10:08 opening time; its November 15 follow-up lists the balance-payment window as **17:00 on November 24 through 17:00 on November 25**. This remains a preorder arrangement. The reports provide no confirmed official selling price, and a payment date does not establish delivery of every order.",
+        "Reports list four configurations: 16GB/256GB, 16GB/512GB, 24GB/512GB and 32GB/1TB, in black, white and blue. Packages include a keyboard and computer bag, with a stylus added to the top configuration. The product targets native HarmonyOS; application compatibility, sales regions and actual delivery status require separate verification. Preorder specifications do not establish complete software compatibility.",
+        "The screen descriptions conflict: IT Home’s November 14 article gives a 10.7-inch folded display, while its November 15 article says 10.2 inches; both state 14.7 inches unfolded. **Neither conflicting folded measurement can currently be selected as an established official specification.** Complete specifications remain dependent on readable, verifiable official Huawei material."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3397,101 +3495,6 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-c39675d166075949710edcc3",
-      "source_sha256": "95eec926e59fef575a6a91d46f480a730d87561a44a9c1e07f85a0d95b15458c",
-      "paragraphs": [
-        "Hong Kong’s High Court Court of First Instance sentenced Joshua Wong to **ten years in prison** on November 5 for conspiracy to collude with foreign countries or external elements to endanger national security. A Hong Kong government statement that day confirmed that he had admitted the charge and the relevant facts on September 2. Both the BBC and the Associated Press reported the sentencing.",
-        "Prosecutors said the activities took place between July and late November 2020, when Wong conspired with Nathan Law and others to lobby foreign countries to impose sanctions, blockades or other hostile measures against China and Hong Kong. According to the Associated Press, Judge William Tam treated the offense as grave, taking thirteen years as the starting point and reducing the sentence to ten years because of the guilty plea.",
-        "Wong was already serving four years and eight months for conspiracy to subvert state power in a separate case involving an unofficial primary in 2020, and had previously been expected to be released in January 2027. **Two months and two days of the new sentence will run concurrently with his existing term**. The two cases involve separate charges and sentences.",
-        "The Hong Kong government said the sentence upheld national security. Chief Executive John Lee said the sanctions-related activities damaged Hong Kong’s stability and public well-being. Human Rights Watch criticized the ruling as unjust, arguing that the authorities were stacking national-security charges to keep influential pro-democracy figures imprisoned."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-4684e2e591706ff956dd7550",
-      "source_sha256": "047cb9af238d8f6e89cbf5fa7ffd7e2535c6ca701818c78716d7f95fab4e8795",
-      "paragraphs": [
-        "On the morning of November 5 Beijing time, GEN **defeated LYON 3-0 to reach the semifinals** of the 2026 League of Legends World Championship in Allen, Texas. Both eToday and Hupu Esports confirmed the final series result. GEN closed Game 3 in 33:29 with a 16-10 kill score.",
-        "In the deciding game, GEN fielded Kiin on Aurora, Canyon on Pantheon, Chovy on Taliyah, Ruler on Xayah and Duro on Rakan, repeatedly pressuring top lane early. LYON fought back through champions including Inspired’s Trundle and Saint’s Anivia, winning favorable midgame fights in the jungle and near dragon. At roughly 26 minutes, GEN killed three LYON players and secured Baron, regained pushing control and eventually aced its opponent to destroy the Nexus.",
-        "**GEN’s semifinal against IG is scheduled for November 8 at 6:00 a.m. Beijing time**. The two remaining quarterfinals are DK versus BLG on November 6 at 6:00 a.m. and T1 versus KC on November 7 at 6:00 a.m.; they will determine the qualifiers in the other half of the bracket. All times above are Beijing time; the local date in the United States may be one day earlier."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-c015fed1fc92be23ce5112ff",
-      "source_sha256": "e02b5000a29fb40a9a2bf3a27cc55b9781552337a1cfa27f9eb6ef5fb4f5e048",
-      "paragraphs": [
-        "The Bank of England announced on November 5 that Bank Rate would rise from 3.75% to **4%, an increase of 25 basis points**. At its meeting ending November 4, the Monetary Policy Committee voted 8–1 for that increase. The remaining member preferred 50 basis points, taking the rate to 4.25%. All nine favored tightening, but disagreed on its size.",
-        "UK consumer-price inflation was 3.5% year on year in September. The Bank projected that it would reach **about 5% in mid-2027**, chiefly because of the continuing Middle East conflict and energy prices. That is a forecast; the published September inflation rate remains 3.5%.",
-        "The committee judged that energy costs were continuing to pass through supply chains and that activity was stronger than previously expected, warranting action against broader price pressures. Evidence of spillovers into wages and other prices remained limited. Subsequent decisions will consider inflation persistence and economic data.",
-        "The objective remains a return to 2% inflation over the medium term. The Bank committed to no fixed path for further increases; its next rate decision is scheduled for December 17."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-4d8d334a13b7d79187db2b22",
-      "source_sha256": "66254da5cc0727c87e240d282533293b56fba4162d8666c23347d31e71f208a9",
-      "paragraphs": [
-        "Independent evaluator METR published an assessment of Anthropic’s research progress on November 5. Its August 12–October 29 investigation examined pretraining, reinforcement learning, compute and model evaluations, alongside staff interviews. It considered growth on well-specified tasks and possible acceleration from AI-assisted research.",
-        "Including internal models and benchmarks, METR estimated that growth in Anthropic’s capability index, AECI, since October 2025 was **1.9 times the earlier slope, with a 95% confidence interval of 1.5–2.8 times**. A separate subjective synthesis put overall acceleration around twice the historical rate, with a plausible range of 1.3–3 times. That judgment is distinct from the statistical interval.",
-        "METR considered AI assistance the likely source of most acceleration and did not regard faster growth in training compute as the main explanation, but could not confidently establish causation. The findings concern AI assistance within human research processes; they do not establish fully autonomous recursive self-improvement.",
-        "The assessment mainly covers well-specified tasks and benchmark capabilities, potentially missing bottlenecks in open-ended research. Anthropic redacted much of the most informative evidence, preventing the public from independently examining every detail. METR’s conclusions partly depend on that unpublished material."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-850ffbfc56c1fbbd5e042b00",
-      "source_sha256": "f40ffdb62fe95a58030b2ccc3adf614ade69553ec08b0fb80ecd28224d916bb8",
-      "paragraphs": [
-        "Mistral AI introduced an expanded Studio on November 5, bringing **managed agents, workflows and applications** into one enterprise development and operating platform. The update concerns deployment and governance rather than a new open-weight model, connecting models with internal data, tools and business processes.",
-        "Managed agents support skills, code environments, subagents and hooks, with developer-defined tool, data and action boundaries. Workflows combine fixed rules, agent steps and human approvals, resume interrupted runs, and respond to enterprise-system events. A visual graph shows execution paths.",
-        "The application layer integrates hosting, authentication and access permissions. Teams can reuse approved components, move from local testing to a deployment link, and develop with Mistral Vibe. Connectors and MCP integrate enterprise resources, while OpenTelemetry records model calls, tool actions and approvals.",
-        "Mistral lists cloud, private-cloud, on-premises and hybrid deployment options, together with evaluations on enterprise datasets. Access, deployment and service scope depend on configuration and commercial arrangements. The announcement does not describe every feature as freely available to individuals."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-b1feafc8620ed538b62a3022",
-      "source_sha256": "4a606c295addbbfcd46967db8b8bdb3635442e45d5ca2bc785ac71fb376890ab",
-      "paragraphs": [
-        "NVIDIA published performance details for Vera CPUs in agent workloads on November 5, emphasizing CPU demand from tool calls, databases and code execution. The report concerns CPU–GPU coordination in agent systems and throughput under data-center power constraints.",
-        "In a comparison framed around a 100-megawatt data center, NVIDIA says Vera supports **1.6 times as many agents per watt** as its fastest x86 comparator, and twice the agent speed of its most energy-efficient x86 comparator. These figures use different baselines and cannot be multiplied or combined into a single performance ratio.",
-        "Partner Perplexity reports approximately 1.5-times-faster agentic coding, with production deployment still planned. DeepInfra reports up to 2.2-times-faster agent orchestration than its best x86 comparator in a four-architecture test. Each result concerns the partner’s own workloads.",
-        "The figures come from NVIDIA and partner companies, rather than an independent ranking across applications. They describe the role and testing progress of server CPUs in agent toolchains, not the launch of a new retail processor for personal computers."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-596a3e67a2c5cb1a73874d45",
-      "source_sha256": "dbd62629a92459f5d175d8a9896a9e959629f0780ea370a5130c9899012f7b41",
-      "paragraphs": [
-        "The first sitting of Serbia’s new National Assembly is scheduled for **November 17 at 10:00 local time, or 17:00 Beijing time**. Speaker Ana Brnabić announced the arrangements on November 8, with confirmation on both parliamentary and government websites. The Electoral Commission had adopted the final-results report on November 5: the Student List won 140 of 250 seats and the bloc led by Aleksandar Vučić 103.",
-        "The new development concerns parliamentary procedure after final counting. Brnabić said the Electoral Commission adopted the allocation of mandates and the relevant report on November 6 and submitted them to the Assembly, fulfilling the conditions for convening its first sitting. It will verify MPs’ mandates, elect the Speaker and Deputy Speakers, appoint the Secretary General, and elect members of working bodies and standing international delegations.",
-        "The sitting will take place in the Grand Hall of the National Assembly building in Belgrade. Until a new Speaker is elected, the oldest MP, Professor Stojan Radenović, will preside. These are arrangements to constitute the 15th legislature: **the meeting date is confirmed, but a new government has not thereby been formed**.",
-        "Voting took place on October 25, followed by repeat voting at 53 polling stations on November 1. The final report lists 4,385,065 valid votes and 56,571 invalid votes, including 2,354,417 for the Student List and 1,731,323 for Vučić’s bloc. Minority lists received the remaining seven seats."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-21ef27b7b49c3e5ed71443f3",
-      "source_sha256": "c008caad75d4b7addaa7de835ffa35ba65dba25653a6fef69bab8e6a2c5f8d54",
-      "paragraphs": [
-        "Ant Ling launched **Ling-3.2-flash, a natively multimodal model**, in its November 5 platform update. Official documentation lists 560 billion total parameters, 25 billion activated parameters and a context window of one million tokens, with native image, text and video input.",
-        "The update highlights complex visual understanding, multimodal long-horizon agents, 3D understanding and interaction, and medical multimodal capabilities. These are the vendor’s stated areas of emphasis. The medical-capability description does not provide clinical-validation results and therefore does not establish certification for clinical use.",
-        "The model is available through Ant Ling’s web chat and APIs compatible with OpenAI and Anthropic protocols. Protocol compatibility makes existing calling conventions easier to connect; it does not mean either company supplies the model. The pricing page lists a limited free period covering the first two weeks after launch.",
-        "**The confirmed forms of access are the web service and API.** These release materials do not list downloadable 3.2 weights or an associated open license, and the pricing table does not yet give its regular post-promotion price separately. The 3.1 release’s weight license and pricing cannot simply be applied to the new model."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
       "article_id": "article-6be6d44834d7aa94fda7ee2c",
       "source_sha256": "f97bbff0181ee43061fcbcbf074c5d37a8148ed96aaf7b4101113ca245be4944",
       "paragraphs": [
@@ -3853,17 +3856,6 @@
         "【New Drama Reviews】The publicity for \"Small Prophets\" centers around Michael Sleep, who lives alone. An old diary leads him to a strange experiment in a suburban cabin, introducing supernatural elements into an otherwise ordinary and solitary life. The genre entry is not about grand battles but rather the contrast between daily environments, personal loss, and strange events.",
         "From the plot foundation and public evaluation materials, this series is more suitable for those who are willing to accept a quiet pace, eccentric humor, and a sense of magical realism. Small-scale does not mean there is no emotional weight; the key lies in whether the mysterious setting helps the characters to face relationships and time again. The current positive media ratio has reached 100%, but the sample size is only 23 articles, so it cannot be understood as a unanimous vote from all around the world of film critics, much less that each article is a perfect score. This article provides an open-ended introduction without considering the rituals or formulas in the story as real verifiable methods, and does not claim to have watched each episode in sequence.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 100% (23 reviews), and audience positive percentage is 95% (the page shows 100+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-62ed9b73d4ddfb46d8b77656",
-      "source_sha256": "daad736425c0e0a576a5e4f42e9d5daffd2e3b65ad9304faac0c956b94642953",
-      "paragraphs": [
-        "The new play \"Widow's Bay\" places the story on an island in New England. Local officials hope to attract tourists and change the local economic situation, but they encounter a series of unusual events that cannot be easily handled through ordinary administrative means; the locals' stories about curses become increasingly difficult to ignore. The public setting combines local governance, tourism expectations, and horror comedy.",
-        "Its distinctive feature is that the characters must face practical problems alongside extraordinary threats: a decision may be an economic choice while also being seen by residents as breaking a taboo. Both critics and audiences currently show strong approval. It may appeal to viewers who enjoy suspense and can also appreciate black humor. This overview uses only the first season's publicly described premise and reception. It does not reveal whether the curse is real or treat disasters on a fictional island as actual local news. Audience responses continue to change; the figures shown are a snapshot taken when checked.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 98% (109 reviews), and the audience approval rating is 92% (the page shows over 1000 reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
