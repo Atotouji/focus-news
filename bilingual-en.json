@@ -1,7 +1,151 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T09:18:15.897Z",
+  "generated_at": "2026-11-16T01:26:19.293Z",
   "translations": [
+    {
+      "article_id": "article-8ccbb48288e67e3b9bf54228",
+      "source_sha256": "08118dfc0991ee17f4a0bfe1471df405a39d3ce159e792902387e212ff2973f3",
+      "paragraphs": [
+        "ULA launched Vulcan’s LV-01 mission at 12:40 Eastern Time on November 15, or **01:40 Hong Kong/Beijing time on November 16**. ULA says an anomaly about ten minutes into flight prevented delivery of Amazon’s mission to orbit. Amazon’s official mission page confirms the payload was lost: **forty Leo internet satellites** were aboard.",
+        "This was Amazon Leo’s first Vulcan launch and its largest planned single satellite deployment so far. Amazon had booked 38 Vulcan missions intended to carry more than 1,500 first-generation Leo satellites. The confirmed loss concerns this forty-satellite payload.",
+        "Reuters describes this as Vulcan’s fifth flight and its return after roughly nine months, following investigations into earlier solid-booster and BE-4 engine issues. ULA says the fresh anomaly has not yet yielded enough specific data to explain it. Earlier engine or booster problems do not establish this failure’s cause, and no official return-to-flight date has been announced."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d71b63f25b4d8aa9f5530167",
+      "source_sha256": "ff3c3ec4a0770fca708139e62aa66b45e0cd00f534a10c0d2aad50cc7e7e8286",
+      "paragraphs": [
+        "Wingtech disclosed additional interim measures issued by the Amsterdam Court of Appeal’s Enterprise Chamber on November 11 concerning Nexperia. They require Wingtech, Yuching, Nexperia China and relevant individuals to respect the court-appointed officials, permit market contacts and withdraw some claims in China. **Aggregate penalties for violating the obligations and injunctions are capped at EUR 300 million**; this is not an order to pay EUR 300 million immediately.",
+        "As summarized in the filing, the measures prohibit obstruction of normal operations, capacity expansion, financing and IP licensing. Some penalties accumulate at EUR 5 million per violation or day, with individual and overall caps. Wingtech rejects the ruling as interference in Chinese proceedings and an infringement of shareholder rights, says lawyers are assessing it and plans an appeal within the statutory period. Its statements about effectiveness within China are the company’s position.",
+        "Nexperia and its court-appointed officials separately said on November 12 that the measures protect their mandate and business continuity. Market sounding will assess investor interest in majority or minority stakes, without a decision to dilute Wingtech’s ownership. The parties disagree over management authority, cross-border measures and long-term solutions. Interim relief, final adjudication and an actual share sale are separate stages; no completed forced sale resulting from these measures has been reported."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-40873cc0da5ecbb38ce648da",
+      "source_sha256": "ad18dfd8d8f84031840c61656e1d424109a12af05f28aef0a3cafac962bd36f1",
+      "paragraphs": [
+        "Under its security response updated on November 12, Microsoft **begins removing default trust for the remaining eMudhra roots on November 16**. Windows will remove ten roots through its automatic certificate-trust endpoint; Windows devices, including those in Azure, that can reach it receive the change automatically. Certificates chaining to those roots lose default trust once the update reaches a device, potentially causing website, service or software-signature validation failures.",
+        "Edge and WebView2 distribute the change through PKI Metadata, normally checked every ten hours and shortly after app launch, without requiring a full browser release. Azure Linux, .NET containers and the APIM self-hosted gateway also depend on their servicing or upstream images. November 16 therefore does not mean every product and device completes the transition simultaneously.",
+        "The earlier confirmed key risk concerned eight intermediate CAs: six for TLS and two for code signing. Microsoft blocked affected intermediates in October and removed seven related certificates that month. Distrusting the remaining roots is a broader trust decision, not confirmation that every root private key leaked. Microsoft identifies this as a third-party eMudhra incident, not a breach of Microsoft systems. The November 10 security update covers the October removals; disconnected devices still require the applicable subsequent trust-list or servicing updates."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7a49b6ca04a9e9c85b8331d7",
+      "source_sha256": "d1735558bbe1ec2275908b049a2aede1fe792ec75262d6a2bea5adfc5cbb843c",
+      "paragraphs": [
+        "The Jilin Petrochemical–Jilin Oilfield CO2 pipeline has entered operation. CCTV and Jiemian reported CNPC’s announcement on November 16: the trunk line is **277.6 km long, designed for 14.5 MPa and capable of transporting 3.3 million tonnes annually**. It crosses Jilin, Changchun and Songyuan, linking petrochemical capture facilities to oilfield enhanced-recovery and geological-storage areas.",
+        "The upstream Jilin Petrochemical recovery project, rated at 800,000 tonnes per year, entered full production in October. It purifies, mixes and pressurizes CO2-containing by-product gas from ammonia and asphalt-gasification units. That recovery-project scale and the pipeline’s 3.3-million-tonne design capacity are not an already equal actual annual flow. Some sections previously underwent gas-injection trials; the new report concerns completed-project operation.",
+        "The system uses supercritical/dense-phase transport with centrifugal compression and fiber-optic leak detection. CO2 is used for enhanced oil recovery and geological storage, combining CCUS with oilfield production. Pipeline capacity, actual injection, long-term storage and lifecycle net-emissions reduction are different metrics. The announced annual design capacity is not an achieved 3.3-million-tonne net-emissions reduction."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a4ace8307775c6b56645d757",
+      "source_sha256": "4fbf079a46dc29b82851d6ccd250c50f619abc88c26473149c5a2e232f60ebd6",
+      "paragraphs": [
+        "Paris police announced a five-day restriction on November 15: **from November 16 through 20 local time, undeclared gatherings or marches are prohibited within 100 meters of ten secondary schools and five university sites**. Police chief Patrice Faure cited continued blockades at some educational entrances, property damage, violence against education personnel and clashes with police as reasons to secure access.",
+        "Citing Interior Ministry figures, the BBC reports about 106,000 demonstrators across France on Saturday, November 14, including 24,000 in Paris. There were 219 arrests nationwide that day, including 45 in Paris. Faure separately gave 1,548 cumulative Paris arrests since this wave of protests began. The 1,548 figure covers the whole protest wave, while 219 and 45 cover November 14 alone.",
+        "AFP lists specific sites including Lycée Charlemagne and Sorbonne University’s Faculty of Science and Engineering. Student organization UNEF says the order fails to clearly define thresholds such as the number constituting a gathering, demands withdrawal and seeks urgent administrative-court relief. Police emphasize access and the right to education; the student organization challenges restrictions on assembly. No ruling on this challenge is yet available."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-cbef9a7a25f712ac63dd68aa",
+      "source_sha256": "45c0b9d68a4ca931cae90535b3ddd6192870f0fdb46282b0c472b0e101332a86",
+      "paragraphs": [
+        "OpenAI launched its science blog on November 15, with an inaugural guest article by UC Santa Barbara particle theorist and OpenAI visiting scientist Nathaniel Craig. He describes developing a **candidate nonperturbative lattice definition of the Standard Model with GPT-6 Astra**. The associated paper, “A gauge-invariant measure for lattice chiral fermions,” was submitted to arXiv on October 6. This is a new account of the research process, not the paper’s first appearance on November 15.",
+        "The work concerns chiral gauge theories on four-dimensional Euclidean lattices. It compares chiral projectors on successively finer lattices to construct a fermion measure with gauge-invariance and locality properties. Craig says he proposed the refinement strategy and Astra helped represent fields on finer grids, establish convergence and lead development of the detailed proof. Human lattice theorists also discussed and questioned the construction.",
+        "The proposal has explicit conditions and open questions: it supplies a candidate construction at finite lattice spacing under a bound on field strengths at the grid scale. Craig is still examining reflection positivity at finite spacing and says considerable work is needed for realistic simulations. The paper is publicly available as a preprint. Expert discussion does not constitute completed formal peer review or final community confirmation of the full continuous-spacetime Standard Model."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a242169afebd032538f54c0f",
+      "source_sha256": "78a21fd69bbe8251a7ed1e76b16f3ac0c1e6b8857a98c53964e9d108aa12fad7",
+      "paragraphs": [
+        "On November 15, Ukrainian President Volodymyr Zelensky said **Starshield terminal movement-speed limits still hinder interception of Russian drones**, urging the US government and SpaceX to lift them. He says interceptor drones lose operator contact at about 161 km/h, or 100 mph, preventing pursuit of Russian jet-powered Shahed drones. These are Ukraine’s descriptions of operation and combat impact. The speed refers to the terminal moving with the aircraft, not network bandwidth.",
+        "Starshield is a military system provided to Ukraine by the US government, with a different role from ordinary Starlink battlefield communications. Restrictions were disputed in October and reported again by Ukraine in November. Zelensky places the latest limits along the front and in Russian-occupied areas, not across every Ukrainian Starlink terminal. The BBC says it sought White House and Starlink comment. Public accounts still differ over who ordered the limits and their precise implementation.",
+        "Zelensky links the issue to defending the winter power grid against fast incoming drones. Some members of the US Senate Foreign Relations Committee wrote to Musk on November 13 requesting preservation of records concerning Starlink and Starshield in Ukraine. The letter reflects oversight questions, not a completed independent technical investigation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7aaf12aa88cef79f932bf74d",
+      "source_sha256": "107e91ce40b1985c9fc01fbfac00f7816ddc9c65b7511483110fa6d2f3123ae3",
+      "paragraphs": [
+        "A large rally at Prague’s Letná Park on November 15 opposed replacing regular public TV and radio fees with state-budget funding. **AP and the BBC respectively quote organizer estimates of about 350,000 and 400,000 participants**. Both are organizer figures, not independently confirmed police counts.",
+        "Million Moments for Democracy demands withdrawal of the reform, fearing political control through funding. Prime Minister Andrej Babiš denies plans to interfere with editorial independence, calls the current system outdated and seeks cost savings. Household fees currently total CZK 205 per month. Reports say the proposal would reduce Czech Television and Czech Radio funding by about 15%, potentially bringing layoffs and reduced production and programming.",
+        "The bill passed the first of three lower-house readings early on October 24, not the entire legislative process. After media employees struck on November 3, universities, unions and cultural groups continued mobilizing. The rally came two days before the anniversary of the 1989 democratic transition. The dispute concerns adequate, predictable public-media financing and protection from political interference, on which the government and opponents disagree."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bce10019af3bed040508e348",
+      "source_sha256": "8e14b59a1f8903f55090fe8ee88cb79b324888c14aa683bbf5df4f655b694382",
+      "paragraphs": [
+        "The Bundestag Budget Committee completed its final adjustment of Germany’s 2027 federal budget draft on November 13, backed by CDU/CSU and SPD and opposed by AfD, the Greens and the Left. **The final plenary vote remains scheduled for November 27**. This is committee approval, not completed enactment, and the 2027 expenditure has not yet occurred.",
+        "Parliament’s official account lists revised spending of EUR 560.92 billion, EUR 5.48 billion above the government proposal and 6.9% above the EUR 524.54 billion 2026 budget. Investment rises to EUR 61.85 billion. DW rounds spending to about EUR 561 billion; these are different levels of precision for the same revised version.",
+        "The core budget plans EUR 122.97 billion of net new borrowing. Some defense and security expenditure falls under an exception to the debt-brake calculation, while special funds have separate borrowing powers. Core-budget net borrowing, overall new borrowing including special funds, debt stock and debt-to-GDP are therefore distinct measures. Supporters stress security and investment needs, while opponents criticize the debt burden. The dispute does not establish that Germany is already in a fiscal crisis."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2f14351265a6e0105646e398",
+      "source_sha256": "7e89895d5ef593f991743410533b9e294b8eb153ab516d27e8ddad77858aa602",
+      "paragraphs": [
+        "At DTC 2026, TCL CSOT displayed three **10.95-inch RGBX four-primary OLED tablet panels**, targeting dual-mode gamut, low power and reduced blue-light hazard respectively. These are different implementations on a common platform, not one panel already achieving every listed metric. The disclosure concerns exhibits and display technology, without complete retail plans for corresponding consumer devices.",
+        "RGBX adds a fourth primary, X, to red, green and blue. TCL selects deep-red, blue-phosphorescent or light-blue EL materials for different objectives. The gamut exhibit claims switchable 89% and 95% BT.2020 coverage. The reduced-blue-hazard variant uses light-blue material with ordinary and eye-comfort modes; these are material and display-mode metrics, without accompanying clinical health results.",
+        "The low-power tablet combines phosphor-sensitized fluorescence, or PSF, blue technology with a claimed 20% power reduction. A separate 6.36-inch phone display claims 30% lower power at equal brightness. PSF transfers triplet-exciton energy through a sensitizer. The two percentages concern different products and test measures, not a combined universal device-battery improvement.",
+        "The presentation also includes a 2.86-inch micro-camera display and other blue-emission formats. TCL CSOT says it is researching mixed-host designs and MIX-BH/sensitizer combinations while refining processing and chamber-atmosphere control. These exhibits concern material and panel designs, without announced mass-production, pricing or retail dates for devices using them."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7889913091ebb837e31eb955",
+      "source_sha256": "79b9a333bee275c82df8b613d943f77b24df53cf744eeaf7bcd88fa1b8bf0025",
+      "paragraphs": [
+        "South Korea’s top tax-accountancy examination scorer, Han Won-seok, admitted on his lawyer’s YouTube channel on November 15 that he used electronic devices and generative AI in both exam rounds. The BBC says the 34-year-old scored **397.5 out of 400, missing just one of 160 questions**, in the first round. Seoul police confirm receipt of a written account through his lawyer and assignment to investigators. His admission and the criminal investigation’s conclusions are separate stages.",
+        "The Employment and Labor Ministry and Human Resources Development Service held an emergency meeting on November 15. Their official notice calls for prompt steps to invalidate the exam result, revoke qualification, impose a five-year exam ban and refer the case, while cooperating with police. They will expand checks beyond the tax exam to **all national qualification examinations held in 2026**, using this case’s suspicious patterns to investigate similar AI cheating.",
+        "Plans include online and offline reporting channels, stronger proctor training and dedicated supervision, scrutiny of equipment distribution and consideration of radio-detection equipment still under development. A joint task force aims to produce comprehensive measures by year-end. Reviewing every exam does not establish that all other successful candidates cheated, and planned equipment development or adoption does not mean deployment in every examination room."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a9327f224ac51407c564364a",
+      "source_sha256": "f2033fae86e236fcf3318bad527af48d7a9cf19bee78f06ea6f23039ebe84193",
+      "paragraphs": [
+        "Huawei Cloud added **openPangu-2.1-Pro to its preset MaaS model service on November 15**. The official model list specifies a 512K sequence length, chain-of-thought support, Function Call, prefix completion and prefix caching, focusing on HarmonyOS ArkTS app development, Ascend operator generation and complex agent tasks. Huawei says specialized data improves Skills triggering and tool selection and invocation; these improvements are its product claims.",
+        "The official table charges in renminbi per million tokens: RMB 0.8 for regular input, RMB 3.2 for output and RMB 0.016 for cache-hit input. The cache rate applies only to matched input, not all input. Charges depend on actual token usage; cloud access is not free access.",
+        "The official quick-start guide updated on November 15 limits this feature to the Southwest–Guiyang 1 region and requires real-name verification, MaaS authorization and service activation or an endpoint. It documents a cloud API without attaching downloadable weights or license terms for this specific version. The openPangu brand and this MaaS listing are separate matters. Access through AgentArts, CodeArts and OfficeAce remains subject to each product’s actual rollout."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2b4c33e5b1724957700146d6",
+      "source_sha256": "4506d3be8081c9bcb610900214c80af9509ce69dd3c4806925ea11c931703952",
+      "paragraphs": [
+        "China Eastern opened a scheduled C919 service from Shanghai Hongqiao to Zhengzhou on November 15, with the inaugural aircraft arriving at Zhengzhou Xinzheng that morning. **The new route has entered commercial operation**.",
+        "Citing CCTV, Lianhe Zaobao reports a planned daily service with a one-way flight time of about one hour forty minutes. China Eastern operates seventeen C919s, the largest domestic fleet of the type. Adding Shanghai–Zhengzhou brings its C919 network to sixteen cities and eighteen destinations. Cities and airport destinations are different measures because one city can contain multiple airports.",
+        "The first C919 was delivered to China Eastern in December 2022 and commercial operations began in May 2023, followed by gradual network expansion. Shanghai–Zhengzhou extends the commercial operating network of an existing aircraft type."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-daf49a915e4f5b80d0a33273",
       "source_sha256": "73e8b29e881b19ed6dacd991329612c0864737734a0831a6cd92a7742e3b8901",
@@ -191,11 +335,11 @@
     },
     {
       "article_id": "article-8e826b0de963224592ad51a8",
-      "source_sha256": "0241e5d78f44445031aa93d07d6165b530bc06aa5f83df65bb0eccdeacfc6f36",
+      "source_sha256": "94be418a9564c97498dee02cd8f07de6b3713850b50fec3bd36dee4ab5423c54",
       "paragraphs": [
-        "Both Counter-Strike 2 semifinals at BLAST Rivals 2026 Season 2 in Hong Kong are complete: **Spirit beat MOUZ 2–0 and FURIA beat Falcons 2–0 to reach the best-of-five final**. The final was scheduled for 08:00 UTC on November 15, or 16:00 Hong Kong/Beijing time. HLTV marked it LIVE when checked at 17:16 on November 15; no champion had yet been decided.",
-        "Spirit won its semifinal 13–7 on Mirage and 13–11 on Ancient, taking five consecutive rounds after MOUZ had led the second map 11–8. FURIA beat Falcons 16–14 in overtime on Ancient and 13–5 on Dust2. Both 2–0 series scores and those map scores are completed semifinal results.",
-        "MOUZ and Falcons exit in the semifinals, leaving FURIA and Spirit in the title contest. While the final is in progress, live rounds, incomplete maps and simulated win probabilities are not the final series result. No completed championship result was available at the verification time stated above."
+        "FURIA **beat Spirit 3–0 to win** the Counter-Strike 2 BLAST Rivals 2026 Season 2 final in Hong Kong, completed on November 15. The organizer lists the final 3–0 score and HLTV marks the match over. FURIA won three consecutive maps in the best-of-five series.",
+        "From FURIA’s perspective, the map scores were Ancient 13–11, Dust2 13–5 and Mirage 13–8. Ancient and Mirage were both tied 6–6 at halftime, with FURIA taking seven rounds in each second half. On Dust2, FURIA led 7–5 before winning six consecutive second-half rounds. The reserved Cache and Nuke maps were not played.",
+        "Both teams had advanced 2–0 in the semifinals: Spirit eliminated MOUZ and FURIA eliminated Falcons. FURIA is champion and Spirit runner-up; the semifinal 2–0 scores and final 3–0 score concern different rounds."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -355,24 +499,23 @@
     },
     {
       "article_id": "article-fdb68417927b50a65652abf9",
-      "source_sha256": "f7fc2fe086fc9669313c5bb2e53988699f13212decda4b8413268fcd94e7b986",
+      "source_sha256": "d34e721e0f22e100622b969266ace9f577159005a0eb739b71c26e8dc71bfc89",
       "paragraphs": [
-        "The Port of New Orleans commission has filed a federal lawsuit over the November 13 Mississippi River collision, naming the **Atlantic Asphalt tanker, owner Nave Shipping SA and manager Thome Ship Management Pte Ltd**. Citing the complaint, the BBC and CBS say port damage exceeds $1 million. The port seeks cleanup, inspection, repair and other costs, and requests seizure and sale of the tanker to cover losses. Allegations of negligence and gross negligence are the port’s claims, without a final liability ruling.",
-        "The struck and overturned cruise vessel is **American Heritage**, operated by American Cruise Lines, not another New Orleans sightseeing vessel. The collision occurred around 12:30 local time on November 13, or 02:30 Hong Kong/Beijing time on November 14. Everyone on both vessels has been accounted for and the search-and-rescue phase has ended. The BBC and CBS lawsuit reports appeared on November 14; the suit was filed the previous evening.",
-        "ABC’s update at 17:42 Eastern Time on November 14, or 06:42 Beijing time on November 15, quotes the mayor saying eight of the original 32 hospitalized people remained in hospital, two with serious injuries and the others stable. Those initially hospitalized included thirty passengers and two police officers. This later hospital status and the initial report of no critical injuries have different verification times.",
-        "The NTSB dispatched sixteen investigators and retrieved the tanker’s voyage data recorder. The tanker was moved away on November 14; its manager says the crew is safe and cooperating. Safe salvage of the cruise vessel is expected to take weeks. Some river sections have reopened in both directions, with a 500-foot safety zone at the scene. Possible loss of steering is an investigative lead; the final mechanical cause, vessel liability and court-awarded damages remain undetermined."
+        "The NTSB’s preliminary New Orleans collision briefing on November 15 says the **Atlantic Asphalt experienced a steering problem that left its rudder to starboard, turning its heading toward the Mississippi River’s east bank**. Investigator Bart Barnum says the specific malfunction and its cause remain unknown. Voyage-recorder evidence now gives a more concrete account of the earlier possible steering loss, without establishing final liability.",
+        "Reuters reports that investigators obtained more than nine hours of bridge audio, rudder-angle, propulsion and speed data. The recorder places the steering problem around 12:26 local time on November 13 near the Crescent City Connection bridge, roughly two minutes before impact. Audio includes whistles, radio warnings, assistance requests and anchor-deployment and emergency-handling orders. Whether anchors were actually deployed, and at what depth, remains under investigation. A preliminary report is expected in about thirty days.",
+        "The struck cruise vessel was American Cruise Lines’ American Heritage. Everyone is accounted for and no one died. ABC’s hospital update at 17:42 Eastern Time on November 14 still listed eight hospitalized people, two seriously injured; that is a dated snapshot, not a new November 15 hospital bulletin. The docked cruise vessel overturned after impact, the tanker was subsequently moved away, and salvage will take considerable time.",
+        "On the evening of November 13, the Port of New Orleans sued the tanker, owner Nave Shipping SA and manager Thome Ship Management Pte Ltd, alleging port damage exceeding $1 million and requesting compensation funded through seizure and sale of the ship. Civil claims, the NTSB safety investigation and final liability adjudication are separate proceedings. The claimed damages and negligence allegations remain the port’s position."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
       "article_id": "article-dd9dc3faf193356ebbe11bad",
-      "source_sha256": "3fc68fee3a0f9b081389044f4129a1f20dd37984b1613e5a105f9ac1d1a08fbf",
+      "source_sha256": "75d48af6e9179c2dc62483343543f054e23ac0cc720da51d153cce707dfdf12f",
       "paragraphs": [
-        "At a November 14 briefing, FAA Administrator Bryan Bedford apologized to travelers, said the worst phase had passed and **expected US air transportation to return to normal by the evening of November 15 local time**. This is a recovery forecast, not a finding that nationwide operations have already fully recovered. The ground stop was lifted at 20:15 EST on November 13, or 09:15 on November 14 in Hong Kong/Beijing, but displaced aircraft, crews and backlogs prolonged disruption into the weekend.",
-        "Transportation Secretary Sean Duffy’s preliminary account points to a new router installed by L3Harris at a remote facility during a copper-to-fiber transition. He says it flooded other air-traffic-control routers with data, disrupting communications. Authorities are still investigating installation or operational error versus faulty hardware; L3Harris says it is cooperating. Bedford said there was currently no evidence of malicious activity or AI involvement. Final technical responsibility remains undetermined.",
-        "New York Governor Kathy Hochul issued a statement on November 14 demanding Duffy’s resignation or removal by the president and calling for a congressional investigation. She cited controller shortages and repeated communications failures. These are the governor’s political accountability demands, not confirmation that the secretary has left office or a substitute for technical findings. WABC published the statement.",
-        "The BBC’s November 14 report cited FlightAware counts of more than 3,500 cancellations and 2,000 delays on Saturday at that reporting point. These are not final full-day November 15 totals. Lifting the ground stop, permitting departures and clearing the entire backlog are separate recovery stages."
+        "US flights had not fully recovered by November 15 after the nationwide departure ground stop on November 13. The BBC’s update at 08:03 Hong Kong/Beijing time on November 16 lists **more than 8,800 delayed and 2,400 canceled US flights on November 15**. Transportation Secretary Sean Duffy says aircraft and crews remain out of position and predicts full normality on Monday, November 16 in the US. This is a recovery forecast, not a completed operational state.",
+        "Reuters reports Duffy’s preliminary account of a router replacement at El Dorado, Arkansas triggering faulty broadcasting by another recently replaced device in Amarillo, Texas, flooding other air-traffic centers with data. The FAA says it disabled relevant originating-router functionality and did the same for about sixty similar devices. Equipment replacement, propagation of the fault and the ultimate root cause remain distinct investigative questions.",
+        "The November 13 departure ground stop lasted about four and a half hours, leaving aircraft, crews and passenger itineraries displaced after it ended. Duffy said on November 15 there was no evidence of a cyberattack or malicious intent, while acknowledging that the root cause was still unknown. Lifting the ground stop and restoring schedules are separate milestones, and cancellation and delay totals continue to vary with the reporting time."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3292,149 +3435,6 @@
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
     },
     {
-      "article_id": "article-4fbea2f3c33df53434c797a4",
-      "source_sha256": "242d63439a17ba40c27e1195fc153c7b5d8ac93133678c7ae75c3df368807fbd",
-      "paragraphs": [
-        "On November 6, China’s commerce ministry issued Notices 57 and 56, **opening anti-dumping investigations into EU para-aramid filament yarns and ethylidene norbornene from the EU and Japan**. These proceedings examine alleged dumping and injury; no final dumping finding or new duty rate was announced.",
-        "Para-aramid filament yarn, also called aramid 1414 yarn, has high strength, modulus and heat resistance, with uses in optical-cable reinforcement, protective fabrics, tires and ropes. Sinochem High Performance Fiber Materials and Tayho Advanced Materials submitted the application on October 12.",
-        "Ethylidene norbornene, or ENB, commonly serves as the third monomer in EPDM rubber, affecting vulcanization and cross-linking, and is also used in synthetic resins. Henghe Materials submitted that application on October 9. Its geographic scope covers both Japan and the EU.",
-        "Both investigations examine dumping from July 1, 2025, to June 30, 2026, and injury from January 1, 2023, to June 30, 2026. **They normally conclude before November 6, 2027, with a possible six-month extension in special circumstances**. These are procedural arrangements, not determined monetary losses from imports."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-e800b372ca6a1dc1be591724",
-      "source_sha256": "493973a4cd9142d604f50f4e915cf87a4ce3b8e7ded9cd749804a5c6bbc1f68d",
-      "paragraphs": [
-        "In the November 6 IEM Beijing quarterfinal, **NAVI came from behind to beat PARIVISION 2–1 and reach the last four**. The maps were Mirage 14–16, Inferno 13–9 and Ancient 13–10. PARIVISION finished tied fifth–sixth.",
-        "NAVI trailed 3–9 at halftime on Mirage and recovered to force overtime, but still lost its own map pick. On Inferno, w0nderful’s defensive performance kept the team competitive before NAVI pulled ahead on attack to level the series.",
-        "The teams traded runs on Ancient, with b1t finding crucial opening kills in the final B-site attack. HLTV recorded w0nderful at 64 kills and 41 deaths across the three maps, with 85.2 ADR and a 1.54 Rating 3.0, NAVI’s standout statistical performance.",
-        "**NAVI next faces The MongolZ at 14:30 Beijing time on November 7** for a place in the final. The other semifinal pits MOUZ against BETBOOM. These are upcoming fixtures, not completed results."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-fdf49967a23921afa46333b1",
-      "source_sha256": "41c42e496425f12d4f9983e74ac021166dd579726d9038633d67733e4a29021c",
-      "paragraphs": [
-        "Somalia’s Supreme Court ruled on November 5 that President Hassan Sheikh Mohamud’s one-year extension of his current term was unlawful. Reporting on November 6, the BBC said the court ordered political leaders to **agree on an electoral plan within thirty days and hold elections within ninety days**, challenging the existing 2027 national election timetable.",
-        "Mohamud’s four-year mandate expired in May. His government invoked constitutional amendments passed by parliament in March to extend it by a year, saying time was needed to move from clan-based indirect selection to nationwide direct voting. The court ruled that the amendments could not apply retrospectively to the current term. Opposition groups and some regional administrations had also opposed the extension.",
-        "The president had announced the dismissal of Chief Justice Bashe Yusuf Ahmed and appointed former chief justice Ibrahim Idle Suleiman as his replacement. The presidency described the change as an effort to improve judicial administration. The court separately declared the dismissal invalid, saying the president could not unilaterally replace the judicial head outside established constitutional procedures.",
-        "The electoral commission had scheduled parliamentary voting for April 15, 2027, followed by the presidential election a month later. Mohamud proposed national talks on November 14–18, but opposition leaders challenged his legitimacy to convene them. Claims that security forces entered the court or attempted to arrest judges came from political figures; AFP said it could not independently verify them."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-106be822f2849f4d4d86b569",
-      "source_sha256": "f4a8ab4c46502e75ffbe29966b258c8e628a3f85f20366f5bf4bf54665051f78",
-      "paragraphs": [
-        "BBC Verify reported on November 6 that satellite images taken in November show **substantial excavation and new buildings near Iran’s Garmdareh base by Karaj and its northern Shahroud base**. British intelligence company MAIAR, which analyzed the photographs for the BBC, said at least twelve other military sites also showed signs of repairs.",
-        "The report describes new roofs on damaged buildings at the western Kermanshah missile base, clearance of damaged structures and debris at the Parchin complex east of Tehran, and leveling and concrete reinforcement near its Taleghan 2 facility. Researchers quoted by the BBC interpreted construction at Karaj as potentially including a new entrance to an underground facility.",
-        "Former CIA analyst Jim Lamson suggested that the Shahroud excavations could relate to missile production and an effort by the Revolutionary Guards to move facilities underground. That is an expert interpretation of the images; surface construction does not directly establish the underground spaces’ actual use, equipment quantities or operational status.",
-        "Meanwhile, Trump said at the White House on November 5 that he would decide whether to strike Iran further. On November 6, Xinhua reported those remarks and relayed Axios reporting on three options: military strikes, economic pressure or an agreement. Those remain options under consideration, and the construction visible in the images does not mean a new US attack has already occurred."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-a0d3f6bf9a9de441e1fe835f",
-      "source_sha256": "7da596318202a4e4db553dceb8dca28374ee365a162a5206669d3676ab569835",
-      "paragraphs": [
-        "Macao’s Court of First Instance publicly delivered judgment on November 6 in its first case involving the national security law, sentencing **former lawmaker Au Kam San to a single term of twelve years and six months**. The court listed convictions for one count of subversion, two counts of establishing external contacts to endanger national security, and one breach-of-confidentiality count.",
-        "The individual sentences were eleven years and three months, two terms of three years and nine months, and nine months, followed by a single sentence under the rules governing multiple offenses. Two further subversion charges were dismissed because of doubts about whether the required elements were met. Another external-contact charge attracted no separate penalty because it overlapped with the more serious offense.",
-        "The court said the case involved assisting overseas organizations in collecting, preparing and disseminating information, and disclosing confidential material about casino-license renewal from a closed Legislative Assembly meeting in 2021. Prosecutors filed charges on March 27, a preliminary ruling maintained them on July 2, and the criminal trial took place on September 16 and 18.",
-        "The BBC reported that the trial was closed to the public and that Au’s wife condemned the case as groundless. Accounts also differ on legal representation: relatives previously told the media that he could not choose his own lawyer. The court said it appointed counsel because he had not retained one, that he accepted the appointment, and that regular family visits had been approved."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-581d244e79c170a93d27d94b",
-      "source_sha256": "386b60610ccfa9e363929131ef9c549d5c03af906d4328da204049478d714248",
-      "paragraphs": [
-        "At a November 5 briefing, the National Healthcare Security Administration set a goal of **nationwide direct settlement for recipients using Medical Insurance Wallet 2.0 for cross-province treatment and medicine purchases by the end of 2026**. Economic Information Daily reported the plan on November 6. Version 2.0 launched on September 29, while nationwide cross-province direct settlement remains in rollout.",
-        "The wallet uses the unified medical-insurance platform to manage virtual allowances shared from employees’ personal insurance accounts. Account holders can allocate allowances to close relatives for eligible out-of-pocket costs at designated institutions and insurance contributions. Eligibility expands beyond spouses, parents and children to include siblings, grandparents and grandchildren.",
-        "By November 4, version 2.0 had recorded 2.0261 million instances of cross-province family sharing involving RMB1.582 billion. Treatment and medicine purchases totaled RMB53.2288 million, while 727,000 resident-insurance contribution payments totaled RMB277 million. Usage counts, shared amounts and actual consumption measure different stages rather than the same use-of-funds indicator.",
-        "Nationwide, 749,500 designated medical institutions and pharmacies supported local wallet spending. Insurance contributions through version 2.0 were supported in 344 pooling areas, or 87% of the total. Further work includes assisted offline services, identity verification, family-link registration, allowance management and cross-province settlement and clearing."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-0e567b6d884b24b40ce0c5eb",
-      "source_sha256": "96ebddca0f527e06db6d2b1fc73b1c45a714705251e93a9946e4e7bba3503eed",
-      "paragraphs": [
-        "The twenty-fifth session of the Standing Committee of the Fourteenth National People’s Congress **passed the anti-cross-border corruption law on November 6**. Xinhua’s bulletin says it takes effect upon promulgation.",
-        "The law contains six chapters and forty-seven articles, addressing working mechanisms and responsibilities, case handling and international cooperation, integrity compliance, and legal liability. It places prevention and punishment of cross-border corruption and international cooperation within a dedicated legal framework.",
-        "Its stated objectives include deeper international anti-corruption cooperation, protection of national sovereignty, security and development interests, and improvements to global anti-corruption governance. The reported development is formal legislative passage, following the earlier draft-review stage."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-02502c78edc50ee084879839",
-      "source_sha256": "f01840bb0529fd4cdfdffb291999361da7a0ce793c78f44cda4971d612ef0b7a",
-      "paragraphs": [
-        "Japan’s Ministry of Health, Labour and Welfare released preliminary September labor statistics on November 6: **average total cash earnings were ¥311,409, up 4.6% year on year**. The measure is compensation before deductions such as taxes and social-insurance contributions, primarily covering regular employees, including part-time workers, at establishments with at least five employees.",
-        "Scheduled cash earnings were ¥299,151, up 3.6%. Within that figure, scheduled earnings excluding overtime-related allowances were ¥279,182, up 3.7%. Special payments were ¥12,258, up 32.6%, showing that bonuses and other one-off payments also influenced growth in total earnings.",
-        "Adjusted using the consumer-price index excluding imputed rent for owner-occupied housing, **real cash earnings rose 2.2%, their ninth consecutive positive month**. That price index rose 2.4%. Using the overall consumer-price index instead produces real-wage growth of 2.3%; the two series use different price deflators.",
-        "The release also lists total cash earnings of ¥401,722 for general workers, up 5.0%, and scheduled hourly earnings of ¥1,463 for part-time workers, up 5.4%. These are averages for different worker groups and remain preliminary figures subject to revision in the final release."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-912bbbee3439dc341fb6f020",
-      "source_sha256": "38db8b14ff5839285ee751263a1a2753dfd83a72327dd290e1f1ffd6583c4e4a",
-      "paragraphs": [
-        "The third quarterfinal of the 2026 League of Legends World Championship ended on the morning of November 6, Beijing time, with **BLG sweeping DK 3–0 to reach the semifinals**. The LPL published a qualification poster. LPL second seed BLG won all three games, eliminating LCK fourth seed DK in the quarterfinals.",
-        "In the deciding game, BLG fielded Bin on Jax, Xun on Trundle, Knight on Ahri, and Viper and ON on Lucian and Milio. Bin established a clear top-lane advantage, although an overextended chase allowed DK to counter with an ace. Xun subsequently maintained dragon control. Bin secured a triple kill in a crucial fight, BLG took Baron, and later flanks and a Baron-powered push finished the game.",
-        "BLG had lost twice in the Swiss stage: to MKOI in the opening round and 1–2 to TES in round four. Wins over TLAW and KC, followed by a 2–0 elimination-series victory against HLE, took them to the quarterfinals at 3–2. This win makes them another LPL semifinalist alongside IG.",
-        "**The next quarterfinal is T1 versus KC at 06:00 Beijing time on November 7**. Its winner is scheduled to face BLG at 06:00 on November 9. GEN versus IG, the other semifinal, is scheduled for 06:00 on November 8. These are Riot’s currently published fixtures; T1 and KC have not yet produced a winner."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-ba623d54fc3a0d9c9d0c50c5",
-      "source_sha256": "35dab3bcbe4caa42aed71116f0f4c15263db2473adec87c63a176135ae299fa5",
-      "paragraphs": [
-        "On November 6, China’s cyberspace regulator reported a recent enforcement campaign against AI impersonation of public figures. It said platforms had **removed more than 47,000 items of unlawful or non-compliant content and taken action against 3,961 accounts**. The cumulative campaign figures cover misleading sales promotions, follower acquisition and deception of internet users.",
-        "Sales-related cases included unauthorized synthetic celebrity likenesses and voices, as well as misuse of photographs or altered likenesses of public figures’ relatives to promote products. WeChat, Douyin and Xiaohongshu were among the platforms involved, and the accounts were dealt with under applicable laws and platform rules.",
-        "Other accounts used AI effects to fabricate claims such as illnesses affecting public figures. Some impersonated the individuals in first-person opinions, personal stories or emotional appeals to attract followers. The notice also described synthetic vulgar interactions used for traffic and commercial gain, with Bilibili and Kuaishou among the platforms covered.",
-        "The regulator said platforms with prominent problems would face action under legal procedures and that platform responsibilities would continue to be enforced. The announcement reports content and account enforcement outcomes; it does not identify a common source model or provide criminal judgments or specific fines for each case."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-14ae147b686279fb3ddf1979",
-      "source_sha256": "ef45adf791b6fddde857fc49b2e717dbd028ca48914ca552c0943a2c4f212722",
-      "paragraphs": [
-        "Germany’s Federal Statistical Office released provisional figures on November 6 showing **industrial production up 0.7% month on month in September after price, seasonal and calendar adjustment**. Calendar-adjusted output was 0.4% higher year on year. The less volatile third-quarter total was still 0.4% below the second quarter.",
-        "Automotive production rose 17.1% month on month, providing the main boost. The sector’s base had been low during the preceding two months, partly because of production changeovers and factory holidays. Pharmaceuticals rose 8.0%, construction fell 2.6%, and machinery and equipment manufacturing declined 6.5% after rising 5.8% in August.",
-        "Industry excluding energy and construction grew 1.7% month on month. Capital goods, consumer goods and intermediate goods increased 3.0%, 0.8% and 0.1% respectively, while energy production fell 1.2%. Energy-intensive branches grew 0.8% during the month but were down 3.5% quarter on quarter in the third quarter and 1.9% year on year in September.",
-        "**August’s monthly production growth was revised down from an initial 2.0% to 1.0%**, mainly because construction businesses supplied additional advance VAT return data. The office also corrected a technical calculation error, revising construction and other transport equipment data back to January 2021. The resulting differences in monthly overall-index growth rates range within plus or minus 0.1 percentage points."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-d5764ee3d06ac915983fe52f",
-      "source_sha256": "f48efd5525230f6bfa4ebccdac3233903f23178f0f0fdee87337f9724ebd9039",
-      "paragraphs": [
-        "On November 6, OpenAI and enzyme-design company Ligo introduced BioBasicsBench, with **100 routine wet-lab analysis tasks** spanning protein methods, imaging and cytometry, quantification and assays, nucleic acid methods, and molecular cloning. It uses original images, files and records from real experiments.",
-        "Tasks assess conclusions, measurements, reasoning, error detection and recognition of insufficient evidence. Expert-written rubrics undergo internal review, external review by a PhD-level laboratory scientist, and final internal review. Input categories and skill tags overlap.",
-        "OpenAI reports that at xhigh reasoning effort, **GPT-6 Astra earned 66.7% of available credit on average, versus 43.8% for GPT-5.6 Sol** and 62.0% for GPT-6.1 Sol. This is mean rubric credit, not the proportion of tasks solved completely. The evaluation covered thirty-seven model-and-effort settings, with five attempts per task per setting.",
-        "Published examples show better recognition of mislabeled controls and imaging changes caused by focal depth. Models still allow assumptions to outweigh controls or miss and double-count colonies. One counting example presented by the company overestimated the reference by about 12%, illustrating a concrete remaining failure."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-80959387886cc068e761a0f3",
       "source_sha256": "3db48b1ab397288f99f3ed469447790a9371d33ebfe305a228f4a90b6ca5836d",
       "paragraphs": [
@@ -3454,18 +3454,6 @@
         "It combines QBlade’s native aeroelastic response, residual forcing from fixed-body lift and drag spectra, and motion-correlated vibration growth and saturation. Sectional data calibrate the response law for an H-rotor vertical-axis turbine, while separate blade studies test a tip geometry excluded from training.",
         "In a turbulent-inflow case with prescribed slow idling, **Hybrid VorLap raises the conditional edgewise damage-equivalent load to 2.63 times native QBlade**, but flapwise bending still governs combined longitudinal stress. Combined-stress DEL increases from 12.41 to 13.76 MPa rather than also rising by a factor of 2.63.",
         "Comparisons with approximate normal operation show that fatigue rankings depend on wind exposure and the assumed high-cycle material law. Extreme-wind longitudinal stress changes little at the monitored sections. Quantitative application requires spectral and response-calibration data specific to the structure."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-b0573a75fb7fa967992f182a",
-      "source_sha256": "ef8e8675013b4aab7a24eaa7e2ece4d7b67bf4bb0e22198198c5e48d55f3fa58",
-      "paragraphs": [
-        "The US Bureau of Labor Statistics reported on November 6 that **nonfarm payrolls rose by 165,000 in October and unemployment edged down from September’s 4.2% to 4.1%**. Monthly payroll growth had averaged 48,000 over the preceding twelve months. Unemployment has stayed within 4.1–4.3% since March.",
-        "Professional and business services added 70,000 jobs, health care 42,000, transportation and warehousing 25,000, and manufacturing 19,000. Jobs, hours and earnings come from the establishment survey; unemployment and labor-force status come from the household survey, which measures a different population.",
-        "Average hourly earnings for private nonfarm employees rose $0.14, about 0.4%, to $38.00 and were 3.1% higher year on year. The workweek averaged 34.4 hours. Economic part-time employment increased by 339,000 to about 4.8 million, and participation was 61.9%.",
-        "**August payroll growth was revised from 133,000 to 186,000 and September from 29,000 to 60,000**, a combined upward revision of 84,000. October is preliminary; earlier figures also change with additional survey responses and seasonal adjustments."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
