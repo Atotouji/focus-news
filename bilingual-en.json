@@ -1,7 +1,84 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T04:24:53.004Z",
+  "generated_at": "2026-11-16T09:26:42.086Z",
   "translations": [
+    {
+      "article_id": "article-688fc85321bb7b67d261280a",
+      "source_sha256": "ca0f08f6f79aec0adec230ac19873010c678224fba0fac1a5162d59929e1c894",
+      "paragraphs": [
+        "In a preliminary incident explanation made public on November 16, Microsoft executive Charles Lamanna attributed last week's widespread Microsoft 365 disruption to **a combination of a software defect, traffic migration and reduced available capacity**. The incident began on November 12 and affected Outlook, Exchange Online, Teams, SharePoint and other services. The new disclosure further explains how the failure spread globally.",
+        "According to IT Home's account, a July fix for a networking gateway issue introduced a lock-contention defect that could make processes unresponsive under certain workloads. The software passed routine tests and was progressively deployed worldwide, but testing mainly used older hardware with fewer CPU cores and did not cover conditions more likely to trigger the defect on newer multicore servers.",
+        "Several hours before the outage, Teams traffic moved from a backup gateway to the primary gateway, which also handled Exchange Online. A separate incident had made about 14% of gateway capacity unavailable. Although the remaining 86% could normally handle the workload, the changed traffic and reduced capacity jointly triggered the latent defect. Automatic rerouting to healthy gateways then caused more servers to become unresponsive through the same problem, creating a cascading failure.",
+        "The explanation says about 80% of **networking gateway servers** were affected within less than two hours. That percentage does not refer to all Microsoft servers or all Windows devices. Independent capacity partitions and regional isolation also failed to contain the spread. Microsoft plans to release a detailed report later this week; the current account remains preliminary, with the complete timeline, containment failures and follow-up measures still to be disclosed."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-172ecf30b0e6bd3a415f9379",
+      "source_sha256": "61779a3e28667fefd46b988c16e9d50e29d92b9e27129eee843b46a2fa22a1f7",
+      "paragraphs": [
+        "Sinopec has announced the launch of its Ulanqab green hydrogen and hydrogen pipeline project. CCTV reported on November 16 that the first phase is planned to produce **100,000 tonnes of hydrogen a year, supported by an 805-kilometre hydrogen pipeline**. A China Electric Power News account of the industry meeting shows that the launch had already been announced at an event in Fangshan, Beijing, on November 14. This is the project launch stage; the hydrogen production facilities and pipeline cannot yet be regarded as completed and operational.",
+        "The project will be built in two phases. The first includes 2.45 million kilowatts of wind, solar and other renewable energy capacity to supply electricity for hydrogen production. Completion of the second phase will bring total annual hydrogen production capacity to 200,000 tonnes. The pipeline will cross 21 counties and districts in Inner Mongolia, Hebei, Tianjin and Beijing, with green hydrogen intended for direct supply to Yanshan Petrochemical and Tianjin Petrochemical to replace some conventional grey hydrogen.",
+        "The reports also identify hydrogen blending in natural gas, hydrogen metallurgy, hydrogen transport and green hydrogen trading as potential applications, linking production, storage, transport and industrial use. The stated net emissions reduction of about 1.73 million tonnes a year for phase one is a projected outcome after completion; measured reductions from operation are not yet available."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b4b2fad6b133405684044f3a",
+      "source_sha256": "a99255b3c61593ae95a06193f9d4148e77e0266e318c2107f4928048f7e6be7a",
+      "paragraphs": [
+        "The NetEase operating team for Harry Potter: Magic Awakened announced on November 16 that the game will **end operations and close its servers on March 3, 2027**, because its licensing agreement is approaching expiry. The announcement concerns the services covered by NetEase's notice; it does not establish that every regional version will close together. The mainland Chinese service entered open beta in September 2021, so this is a shutdown plan for a game that has operated for several years.",
+        "The shutdown has two separate milestones. On December 21, 2026, the game will stop accepting payments and new registrations and be removed from all platforms. Its servers will close on March 3, 2027, when character trading and related services will also end. Delisting in December and server closure in March are therefore different events; the former does not mean that existing players all lose server access that day.",
+        "The team subsequently announced that the S23 season, Shiguang Jishi, will be extended until March 3, 2027, aligning it with the server shutdown date. Licence expiry is the reason given by the operator; any subsequent schedule changes will be announced separately."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-58e44da5365a37747ce2a289",
+      "source_sha256": "75161ba954d01870ea0a52136ee740674f7090bf89acf61b419ae2f97323659a",
+      "paragraphs": [
+        "Volcano Engine announced on November 16 that the **Seedance 2.5 4K API is open to developers and enterprise customers**, moving the 4K version released on October 23 into API access. This is a service availability update, rather than the first release of Seedance 2.5 that day, and it differs from the lower-cost flash API introduced earlier.",
+        "The standard version supports a Draft workflow: generate and refine shots at 480P, then produce the final 4K video once satisfied. The current Ark task documentation lists 480P, 720P, 1080P and 4K for the standard version, with 16:9 4K output at 3840×2160. Its 1080P and 4K outputs use 10-bit depth and H.265/HEVC encoding. The flash version still lists only 480P and 720P and does not support Draft mode.",
+        "Volcano Engine says targeted training improves facial expressions, subtle movements, textures, small text and consistency with reference materials, citing film and television customer tests of dialogue scenes. These are vendor demonstrations and assessments, rather than independent comparative production tests. The official tutorial requires an account balance above 200 yuan, a dedicated savings plan priced at 200 yuan or more, or an available resource package; meeting any one condition is sufficient. Opening the API does not mean free or unconditional access for every account."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c117c5b942cdfbafb8c4a659",
+      "source_sha256": "a25054e4ae700a1897f5af5bf7cc8d2598a7f6cd8f3890a373cc07d17cbd3813",
+      "paragraphs": [
+        "Huawei Cloud introduced **CloudRobo-WM1.2** at its embodied world model event on November 16 and announced that it would open the model, training framework and WAM best practices for Ascend computing. Trained on Ascend hardware, the model aims to connect world-state prediction, representation learning and robot action generation. The release comes from Huawei Cloud's industry AI initiative.",
+        "The technical overview lists a PPA multimodal world representation architecture, a shared world model backbone and a native DualAct action generation architecture. It also includes adaptive pretraining with supervision at multiple granularities and cross-embodiment motion modelling that preserves embodiment semantics. Inference offers four modes—World, Expert Action, Joint and Action-only—that can be combined as needed to allocate computation for different embodiments and tasks.",
+        "Huawei Cloud says the model ranks first on RoboTwin 2.0 and LiberoPro 2.0. That ranking is a vendor claim; the report does not provide complete reproducible test configurations or independent replication results. The release description also does not individually specify downloadable weight versions, code licences or commercial-use terms, so the announcement of open sourcing remains distinct from verification of specific files and licences. The CloudRobo platform was introduced in June 2025; today's development concerns WM1.2 and its accompanying opening plans."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2f84c7242b7d38ba2698d453",
+      "source_sha256": "9f5c4dea749434be28523cefb2953736d27f066d9f8604dda38bcd40509a8e8f",
+      "paragraphs": [
+        "Haiti's former first lady Martine Moïse appeared on the presidential registration list on November 15. BBC and AFP reports on November 16 put the field at 33 registered hopefuls, including former presidents Michel Martelly and Jocelerme Privert, as well as Claude Joseph and Dominique Dupuy. **Registration is one step in the candidacy process, rather than final approval of eligibility or an election result.**",
+        "Haiti had planned elections for December 2026 but changed the schedule in October because of the continuing security crisis. The current plan cited by AFP sets the first round of presidential and legislative voting for July 18, 2027. Haiti last held an election in 2016. Candidate registrations indicate that preparations are continuing, but do not establish that security, organizational and practical voting conditions are already in place.",
+        "Martine's husband, former president Jovenel Moïse, was assassinated at their home in Port-au-Prince in July 2021, and she was injured in the attack. She was indicted in connection with the case in 2024; the BBC reports that the indictment was overturned in 2025. Her registration comes amid continuing gang violence and political transition in Haiti, with formal candidate eligibility and subsequent arrangements remaining subject to the electoral process."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3377c34e319f0b0ffc00989d",
+      "source_sha256": "2cc2f5eab382619ae1b3373fe78290ea1d48cd133c6cddc7ba6e400b366420f4",
+      "paragraphs": [
+        "Japan's RIKEN confirmed to ITmedia NEWS on November 16 that systems associated with the Fugaku supercomputer suffered **unauthorized access**, and acknowledged sending notifications to relevant account holders. Public posts claiming receipt of notices had appeared on social media from November 15. The institution's confirmation to the outlet moves the incident from circulating online reports to a formal response.",
+        "The contents of any leak and the scope of impact remain unconfirmed. Text circulating online referred to files in home directories being read, possible exposure of keys or authentication information, and an inability to rule out an impact on all users. RIKEN said these specific claims were still being checked. They therefore do not establish that every user's research files, all keys or corporate secrets have been stolen."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-2fab8b45685f5c1b4d8c7338",
       "source_sha256": "2ad12ed69a9807f52dfc3c89e4b7312d87827f2d6e8f2385a67b5463af360566",
@@ -27,11 +104,11 @@
     },
     {
       "article_id": "article-06442525c639a7bcf5b0f3ba",
-      "source_sha256": "62569344526d8da888386146a6c2fd426aafaf83689a2d40c4eb5e52d3a51bab",
+      "source_sha256": "c18a80a9f1251efe84c259d2a2e2e36794b01cfd6b317f0a1f905782b1d334df",
       "paragraphs": [
-        "Japanese operator NTT Docomo confirmed that from **10:02 Japan time, or 09:02 Beijing time, on November 16**, subscribers to its 5G SA standalone service could experience difficulty with voice calls, mobile data and SMS nationwide. Its third notice at 11:30 Japan time, or 10:30 Beijing time, still described an ongoing incident with recovery work under way.",
-        "The official notice limits the impact to 5G SA subscribers: **ordinary 5G and 4G customers without a 5G SA subscription, MVNO customers using Docomo's network, and emergency calls are unaffected**. Some affected devices may display no service. Nationwide therefore describes geographical scope, not a loss of every service for every Docomo customer.",
-        "The cause and restoration time remain under investigation. The third notice says investigators had not found signs of unauthorized access around the incident or evidence indicative of a cyberattack. This is an interim finding as of that notice, not a determination of the ultimate cause. The operator says switching to 4G and restarting the device or toggling airplane mode may restore service in some cases. It also experienced 5G SA incidents on November 5 and 11, but has not established a shared cause."
+        "NTT Docomo confirmed that voice, data and SMS difficulties affecting some 5G SA users across Japan on November 16 were **fully resolved at 15:58 Japan time, or 14:58 Beijing time**. The disruption began at 10:02 Japan time, or 09:02 Beijing time, and lasted five hours and 56 minutes. Its latest notice says normal service availability has been confirmed.",
+        "The affected group comprised subscribers to 5G SA standalone services, with some devices displaying no signal. Docomo explicitly said that MVNOs using its network, ordinary 5G and 4G services outside the 5G SA subscriber group, and emergency calls were unaffected. Nationwide geographical scope does not mean that every Docomo customer lost connectivity simultaneously, and the notice did not give a specific number of affected users.",
+        "The operator attributed the incident to concentrated communications at switches serving 5G SA subscribers. Its investigation up to the recovery notice had found no traces of unauthorized access or indications of a cyberattack around the incident. For individual devices still unable to connect after recovery, the operator advised restarting or toggling airplane mode. Users who temporarily switched to 4G can restore their previous network settings."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -78,6 +155,17 @@
         "The project involves **KRW 874.6 billion** in joint investment by SK hynix and South Korea's central and local governments, targeting semiconductor materials, parts and equipment companies. The report lists plans for 51 front-end tools and four computer systems, plus 15 spaces where companies can test their own equipment. It will use 12-inch, or 300mm, wafers to provide a validation environment close to actual mass production.",
         "The validation platform and memory production facilities share the same building complex, but have separate access routes and security systems. Suppliers currently face differences between R&D facilities and customer factories, while production equipment is difficult to free up for testing. The platform's foundation aims to shorten technology commercialization cycles by at least 30% and support both localization and overseas expansion. This is a target; actual time savings require operational evidence.",
         "An independent nonprofit organization is intended to operate the platform, with fees based on the minimum cost of running the facility. SK hynix separately plans an R&D challenge compensation program covering up to half of initial development costs in advance. Projects that do not reach mass production or result in purchases could still receive compensation assessed against technical achievements and supply-chain contributions. Construction completion, pilot services and suppliers' actual entry into volume production remain distinct stages."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-da21c6d146dfabee6bc590c4",
+      "source_sha256": "b5a01690716d283e0e7be3380391ea864fb4ffba9f5e0509b76cffbb03251e7d",
+      "paragraphs": [
+        "Japan's Cabinet Office released its first preliminary GDP estimate for July–September 2026 on November 16. Seasonally adjusted real GDP edged down from the preceding quarter, with the quarter-on-quarter rate rounded to −0.0% in the table. **Annualizing that quarterly change gives a decline of 0.1%.** This annualized quarterly rate assumes the same pace continues for a year; it does not mean GDP fell 0.1% year on year in the third quarter or that the full-year economy has already contracted by 0.1%.",
+        "The components show real private consumption falling 0.3% quarter on quarter and private residential investment declining 1.1%, while private non-residential investment rose 1.6%. Exports of goods and services fell 0.2% and imports increased 2.5%. Net exports contributed about minus 0.6 percentage points to the quarterly change in real GDP, broadly offsetting domestic demand's contribution of about plus 0.6 percentage points.",
+        "In this release, real GDP in April–June 2026 grew 0.4% quarter on quarter, or 1.7% at an annualized quarterly rate. The third quarter then edged down, with divergent consumption, investment and trade performance. This first estimate remains subject to revision as additional underlying statistics and seasonal adjustments become available. The official notes say relevant seasonally adjusted series are re-estimated at each release."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -155,6 +243,18 @@
         "A large rally at Prague’s Letná Park on November 15 opposed replacing regular public TV and radio fees with state-budget funding. **AP and the BBC respectively quote organizer estimates of about 350,000 and 400,000 participants**. Both are organizer figures, not independently confirmed police counts.",
         "Million Moments for Democracy demands withdrawal of the reform, fearing political control through funding. Prime Minister Andrej Babiš denies plans to interfere with editorial independence, calls the current system outdated and seeks cost savings. Household fees currently total CZK 205 per month. Reports say the proposal would reduce Czech Television and Czech Radio funding by about 15%, potentially bringing layoffs and reduced production and programming.",
         "The bill passed the first of three lower-house readings early on October 24, not the entire legislative process. After media employees struck on November 3, universities, unions and cultural groups continued mobilizing. The rally came two days before the anniversary of the 1989 democratic transition. The dispute concerns adequate, predictable public-media financing and protection from political interference, on which the government and opponents disagree."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8cac580e220d297586256a30",
+      "source_sha256": "ac4e332ce037b013c1d69daf1c18c6096a079e69f0620ad82ad375b141248eee",
+      "paragraphs": [
+        "A dispute over minimum pay continues to disrupt Bangladesh's garment industry. The BBC reported that nearly 150 factory sites in major textile areas including Savar, Ashulia and Gazipur stopped production over the November 14–15 weekend. **The third Minimum Wage Board meeting, scheduled for 11:00 local time on November 16, has been postponed.** United News of Bangladesh, or UNB, reported that the board's notice cited unavoidable circumstances and said a new date would be announced separately.",
+        "The current minimum monthly wage for garment workers is 12,500 taka, under the structure set in December 2023. Street protesters and some workers' organizations are demanding 30,000 taka, while UNB says worker representatives formally proposed 32,000 taka at the second board meeting on November 9. Those figures reflect different expressions of wage demands; neither is an approved new statutory minimum.",
+        "The protests are concentrated in garment-producing areas. The BBC recorded workers gathering on the Dhaka–Tangail highway in Gazipur on the morning of November 15, blocking traffic for about an hour before police intervened. Factory closure figures cover different locations, dates and temporary stoppages and cannot simply be added into a nationwide total of permanent closures. BGMEA and BKMEA have sought protection for factories and questioned the conditions for continuing wage talks while production is threatened.",
+        "The government formed the wage board on November 1, originally aiming to produce recommendations by the end of November, with a revised wage structure expected to take effect on December 1. Following the November 16 postponement, the final amount and implementation arrangements still require a formal decision. The reported events primarily involve stoppages, demonstrations and local traffic blockages in garment-producing areas, with differing definitions of factory closures across locations."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -378,6 +478,17 @@
         "The 2026 League of Legends World Championship has ended. **BLG beat GEN 3–1 for its first Worlds title, and mid laner Knight received the finals MVP award.** The official LoL Esports schedule marks both the final and tournament completed, with three and one game wins respectively. The official November 14, 19:00 UTC start corresponds to 03:00 on November 15 in Hong Kong/Beijing.",
         "GEN won the opener before BLG took three consecutive games. BLG defeated HLE, DK, T1 and GEN at different stages: the 2–0 over HLE came in the Swiss stage, followed by a 3–0 quarterfinal over DK and 3–1 semifinal over T1. Knight’s FMVP recognizes his individual performance in the final, while the championship belongs to the whole team.",
         "The LPL’s previous Worlds titles were won by iG in 2018, FPX in 2019 and EDG in 2021. This is its fourth championship, ending a five-year wait. BLG lost the 2024 final 2–3 to T1 and has now secured its first title. The tournament is over with no further round."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7ddd1b430e932bcd27c9aa6b",
+      "source_sha256": "dd84124bceeeb788196c35aac45336a682a37487d70172e4496f9556ab3543b5",
+      "paragraphs": [
+        "Mojang confirmed in a November 15 announcement that **The Humblers Awaken, the first paid DLC for Minecraft Dungeons II, will launch on December 1**. Revealed during the TwitchCon San Diego live show, it continues the adventure in the Sift dimension with new quests and environments including fungal sporefields and underground burrows. This is a content announcement and future release date; the DLC is not yet available to play.",
+        "The paid DLC adds three artifacts providing active abilities and four talismans providing passive bonuses, expanding equipment combinations. The announcement also lists the Pearl skin, Baby Nuzzle pet and Nacreous cape, but does not give regional prices.",
+        "A **free update and trial dungeons** will arrive on the same day. Players can access daily and weekly challenges through Brave Haven, with rule modifiers and greater difficulty, to earn gear. Examples include enormous spiders, constant TNT explosions and soul projectiles. The free content also adds weapons, armor and player skins for original-game characters Hal, Hex, Adrienne and Valorie in her original outfit. These additions are separate from the paid DLC."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -2222,11 +2333,11 @@
     },
     {
       "article_id": "article-c3459d772f5c3c544ea60b54",
-      "source_sha256": "2d1b76061499bb8e7fbfe5485c921697f305bafbe9d3b8eed090acc04d4cf328",
+      "source_sha256": "486f451e36cf7cae2ad5677eccd7dec288e16f9c04d426659899a57b91f8929c",
       "paragraphs": [
-        "Huawei’s compact HarmonyOS folding computer, the MateBook Fold S, has entered preorders. IT Home’s November 10 preview gave a November 14, 10:08 opening time; its November 15 follow-up lists the balance-payment window as **17:00 on November 24 through 17:00 on November 25**. This remains a preorder arrangement. The reports provide no confirmed official selling price, and a payment date does not establish delivery of every order.",
-        "Reports list four configurations: 16GB/256GB, 16GB/512GB, 24GB/512GB and 32GB/1TB, in black, white and blue. Packages include a keyboard and computer bag, with a stylus added to the top configuration. The product targets native HarmonyOS; application compatibility, sales regions and actual delivery status require separate verification. Preorder specifications do not establish complete software compatibility.",
-        "The screen descriptions conflict: IT Home’s November 14 article gives a 10.7-inch folded display, while its November 15 article says 10.2 inches; both state 14.7 inches unfolded. **Neither conflicting folded measurement can currently be selected as an established official specification.** Complete specifications remain dependent on readable, verifiable official Huawei material."
+        "Huawei confirmed on November 16 that the MateBook Fold S compact HarmonyOS foldable computer will appear at the **Mate X8 and all-scenario product launch on November 24 at 14:30 Beijing time**. Reservations already opened at 10:08 on November 14. Today's addition is the formal launch event schedule, rather than a claim that reservations have only just begun.",
+        "Previously disclosed sales-page details list a final-payment window from 17:00 on November 24 to 17:00 on November 25, with Midnight Black, Horizon White and Cloud Sea Blue finishes. Configurations comprise 16GB/256GB, 16GB/512GB, 24GB/512GB and 32GB/1TB. The first three include a keyboard and carrying sleeve, while the top configuration also includes a stylus. The launch event, final payment and actual delivery are separate stages; the available materials do not establish a final price or a date for delivery from stock.",
+        "The product combines an unfolded display with a Live small external screen, with the unfolded size reported as 14.7 inches. Earlier reports gave conflicting folded sizes of 10.7 inches and 10.2 inches. The November 16 report again lists 10.2 inches, but the cross-checked materials still do not establish an official explanation for the discrepancy. Complete specifications remain to be matched against the launch event and formal product documentation."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3291,18 +3402,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-b5b7ce5fa3b7b39380ed6224",
-      "source_sha256": "fa9505fa72a30ba6a2d8e458f4fcf99ee67c4d10cb8fbe7d0ba98ee52bc505fc",
-      "paragraphs": [
-        "China’s Ministry of Finance plans to issue **up to RMB4 billion in renminbi-denominated green sovereign bonds in Canada during the week of November 9, 2026**. Its November 5 announcement said the State Council had approved the plan and that specific arrangements would be announced before issuance. Lianhe Zaobao reported on November 7 that this would be China’s first renminbi sovereign-bond issuance in Canada.",
-        "The planned issuer is China’s central government, the denomination is renminbi and the issuance market is Canada. This differs from bonds issued by the Canadian government or renminbi bonds issued by local companies. “Green” is an explicit category of this sovereign issuance.",
-        "China already has offshore renminbi sovereign-bond channels, including its first Hong Kong issuance in 2009 and RMB3 billion in government bonds issued in London in 2016. The Canadian plan adds an issuance market, while details such as maturities, coupons, subscription arrangements and use of proceeds await the offering documents.",
-        "**What is confirmed so far is the issuance plan and the RMB4 billion ceiling.** “The week of November 9” does not specify a single issuance date, nor does the announcement say the sale has been completed or achieved any particular subscription multiple."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
       "article_id": "article-c5d6c7c1ee16328d9c2aac63",
       "source_sha256": "792cf3f9e4bc2d8cfd13205135a2344e9de13c7f8b99c3431a0dd255c7595b22",
       "paragraphs": [
@@ -3310,54 +3409,6 @@
         "The Duffer brothers are developing the project with longtime Stranger Things writer Kate Trefry, who will serve as co-creator, writer and showrunner. Joe Wright will direct the first three episodes, and production will take place in New Mexico in the United States.",
         "The Duffer brothers describe a new story in the same universe, featuring a new setting, heroes and villains. **Netflix has not announced the cast**, so the original series’ actors cannot be treated as confirmed prequel cast members. The project is also not a direct continuation of the original as a sixth season.",
         "The original Stranger Things debuted in 2016 and is set mainly in the 1980s. The prequel moves further back in time. The confirmed platform release plan is for 2028; no specific premiere date, finished-series reviews or audience sample for assessing the new show’s reception is available yet."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
-      "article_id": "article-b3c56b010a38c5c4c1535967",
-      "source_sha256": "c8bab9ab2197a2d253dea578cfbc0b13972334fb332d21d549ed66b3a3510138",
-      "paragraphs": [
-        "Official reserve data updated by China’s State Administration of Foreign Exchange on November 7 put foreign exchange reserves at **US$3.405178 trillion** at the end of October, up from US$3.400251 trillion at the end of September. The month-on-month increase was US$4.927 billion, or about 0.14%. These figures describe changes in month-end reserve balances.",
-        "Gold holdings rose from 77.47 million ounces at the end of September to **78.30 million ounces at the end of October, an increase of 830,000 ounces**. Citing central-bank data, Lianhe Zaobao reported that this was the 24th consecutive month of gold purchases, a run beginning in November 2024.",
-        "An increase in quantity does not mean the dollar valuation also rose. The official table shows the value of gold reserves falling from US$323.517 billion at the end of September to US$306.411 billion at the end of October. Total official reserve assets, which include gold and special drawing rights, are also distinct from the foreign-exchange-reserve component.",
-        "SAFE attributed the monthly change to factors including a stronger dollar index, mixed global financial-asset prices, exchange-rate conversion and valuation changes. The US$4.927 billion increase in foreign exchange reserves therefore cannot simply be equated with the same amount of net cross-border capital inflows that month."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
-      "article_id": "article-186a15260b6b76cdc14f3ff8",
-      "source_sha256": "cd9f65f9ae91bc594a937abeffc8e2911c1419bbbe60c6f87671ad502e6c24cd",
-      "paragraphs": [
-        "China’s Manned Space Agency announced on November 7 that **one Pakistani astronaut will join the Shenzhou-24 mission as a payload specialist**. After a short orbital stay, the astronaut will return to Earth aboard Shenzhou-23, rather than aboard Shenzhou-24, the spacecraft used for the outbound journey.",
-        "Xinhua said that, once undertaken, this will be China’s first joint crewed flight involving Chinese and foreign astronauts, and the Chinese space station’s first visit by a foreign astronaut.",
-        "The cooperation began in February 2025, when China and Pakistan signed an agreement in Islamabad on selecting and training Pakistani astronauts and their participation in Chinese space-station missions. Three selection stages produced two Pakistani trainee astronauts. After completing training in China and passing assessments, one will fly and the other will serve as backup.",
-        "Deutsche Welle reported that the two candidates, Muhammad Zeeshan Ali and Khurram Daud, have been training with Chinese astronauts, including intensive Chinese-language study. **The announcement does not name the final flight participant or give a specific launch date**."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-5f6286e5f00f1a4ba59c6139",
-      "source_sha256": "6ad99792efaed303d065a2eca38cda081d855255d9125e53ded475a93810b5e6",
-      "paragraphs": [
-        "On the morning of November 7 Beijing time, the last quarterfinal of the 2026 League of Legends World Championship ended with **T1 defeating Karmine Corp (KC) 3–1**, securing the final semifinal berth. Riot’s official schedule marks the series as completed. The semifinalists are GEN and T1 from the LCK, and IG and BLG from the LPL.",
-        "T1 won the first two games. In Game 1, Peyz’s Yunara repeatedly finished off opponents in fights around Baron and the dragon pit. T1 built its Game 2 advantage through early river skirmishes and pressure in the top lane. KC recovered in Game 3: Yike’s Xin Zhao secured Baron, and KC extended its advantage through an Elder Dragon fight, with kyeahoo’s Anivia contributing key kills. KC destroyed the Nexus to reduce the series deficit to 1–2.",
-        "In Game 4, Faker’s Annie teleported behind KC near the dragon pit to divide the fight. Peyz’s Miss Fortune scored a triple kill, and T1 won the fight and secured Baron. Another mid-lane fight extended T1’s advantage before its final push closed the series. Peyz received the deciding game’s POG award, finishing with **11 kills, no deaths and five assists**.",
-        "**Both semifinals are scheduled to begin at 06:00 Beijing time**: GEN versus IG on November 8, followed by T1 versus BLG on November 9. Each is a best-of-five series. The final is scheduled for 03:00 Beijing time on November 15 in Brooklyn, New York. Neither semifinal has started, and the finalists have yet to be determined."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c04d7182f30b563bc6facf1f",
-      "source_sha256": "d1c8d469ed593cf1a8f2c437f4d818e69654cfffd7cab35f6f75874c3aede964",
-      "paragraphs": [
-        "Ukrainian authorities expanded their damage and casualty reports after Russia’s overnight attack on November 7. At **16:51 Hong Kong time, Kyiv’s military administration relayed President Volodymyr Zelensky’s statement that nine people had been injured nationwide, including a child**. This total covers multiple areas and has a different geographical scope from the earlier preliminary figures for Kyiv alone.",
-        "Zelensky said the attack involved 172 drones and 36 ballistic missiles, with all the missiles directed at Kyiv and the surrounding Kyiv region. Twelve other regions were also attacked in addition to the capital. These weapon totals and the distribution of strikes are figures released by the Ukrainian side.",
-        "Electricity, water and heating supplies in Kyiv were affected, and homes, the Northern Bridge and a kindergarten were damaged. The statement said substations in Kyiv region linking the Rivne and Khmelnytskyi nuclear power plants to the capital and central Ukraine were struck, along with substations in several other regions. The facilities described are transmission connections; the statement did not report the destruction of nuclear reactors.",
-        "The Associated Press had earlier reported at least five injuries in Kyiv, citing Mayor Vitali Klitschko’s warning that severe energy-supply difficulties were affecting heating and water. Rescue and repair work is proceeding where security conditions allow. Meanwhile, another round of Russian-Ukrainian-U.S. talks is planned in Abu Dhabi next week, with territorial and security disagreements still unresolved."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
@@ -3373,65 +3424,6 @@
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-493cffd68ac9b22996a5b03d",
-      "source_sha256": "0f20ace13c3416f2e75dfc6ba2fa2e6901dda70afcafffb67117d608d573b49c",
-      "paragraphs": [
-        "On the evening of November 6 Beijing time, Chinese Vice Premier He Lifeng held a video call with U.S. Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer. China’s account said they discussed implementing understandings reached by the two presidents in Beijing and Washington and the results of trade consultations. **China expressed serious concerns about recent U.S. economic and trade restrictions targeting China.**",
-        "The U.S. Treasury’s readout emphasized implementation of the Busan trade arrangement. Bessent called for China to fulfill its earlier commitments fully and immediately, raised concerns about recent Chinese actions, and said further progress would depend on concrete results. The Office of the U.S. Trade Representative separately specified that Greer highlighted existing commitments on agricultural purchases, rare earths and other critical minerals.",
-        "Both sides emphasized the value of direct communication. China said the trade consultation mechanism would continue to support cooperation and management of differences; the United States said it would keep monitoring implementation. **The call announced no new tariff rates, purchase amounts or additional agreement.** The public accounts focused on executing existing arrangements and the restrictions each side had raised concerns about."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
-      "article_id": "article-4f4170193f5a417cd55b6cd3",
-      "source_sha256": "1417283ad1256159dba76385470c68ab5a3b22968b43b06ae07d6a6328097751",
-      "paragraphs": [
-        "The Electoral Commission’s preliminary-results release dated November 8 projects a 131-seat New Zealand Parliament: National with 42 seats, ACT with 13 and New Zealand First with 12. **The three incumbent governing parties total 67 seats, one above the 66-seat majority threshold.** This is a more developed seat picture than the early count on November 7, but remains a preliminary allocation.",
-        "Labour received 29.36% of the party vote and National 29.21%, with preliminary seat totals of 36 and 42 respectively. The Greens have 16 seats, Te Pāti Māori five and Opportunity seven on 5.96% of the party vote. Party-vote shares and electorate seats interact, so Labour’s slightly higher party vote does not mean it has secured a governing majority.",
-        "The commission said 2,432,403 ordinary votes, including informal votes, were counted on election night. It separately estimated **399,365 special votes**, including 96,947 overseas and dictation votes. Special votes still require checking and counting, so the preliminary results and seats may change.",
-        "**Official results remain scheduled for November 27.** The next steps include checking electoral rolls, recounting ordinary votes, receiving overseas ballots and assessing special votes. Estimated turnout is 74.6% of enrolled voters, also a provisional figure. Final seats and parties’ governing arrangements have not yet been settled."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-77ee076f1f65c328cd894fd7",
-      "source_sha256": "1162bd8de7b3646a7f789e53a57a4f3be1bea768307186a7424edd979903cdf9",
-      "paragraphs": [
-        "The first CS2 semifinal at IEM Beijing 2026 concluded on November 7, with **The MongolZ defeating Natus Vincere (NAVI) 2–0** to secure the first grand-final berth. Both maps were decided in regulation, so a third map was not needed.",
-        "The opening map, Cache, finished 13–10. bLitz led The MongolZ’s output with 25 kills and 108.8 average damage per round. NAVI’s b1t and w0nderful each recorded 16 kills, but could not prevent their opponents from taking the opening map.",
-        "Inferno was closer. The MongolZ won the final three rounds to close it out 13–11. w0nderful recorded 21 kills and 13 deaths on this map, but NAVI could not level the series. Those figures apply to Inferno alone, rather than the two-map series.",
-        "**The other semifinal, MOUZ versus BETBOOM, is scheduled for 17:45 Beijing time on November 7**; its winner will face The MongolZ for the title. ESL’s official schedule lists the third-place match for 12:00 on November 8 and the best-of-five grand final for 15:30. The third-place match is best-of-three."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
-    },
-    {
-      "article_id": "article-7723ccbf8c3a4f1abae0737e",
-      "source_sha256": "bf9f022cc4193cc5ff9360ddcb09c9a05cca45dbd7df17ec557cdf9d208490e5",
-      "paragraphs": [
-        "NASA announced a set of contracts and mission updates for Moon Base transportation, robotics and infrastructure on November 7. Eight companies—Blue Origin, Firefly Aerospace, Intuitive Machines, ispace-U.S., Lockheed Martin, Northrop Grumman, SpaceX and Voyager—became eligible to compete for lunar deliveries under the new CLPS 2 framework.",
-        "**CLPS 2 is a ten-year, multiple-award contract framework with a combined ceiling of $10 billion**. That ceiling is not money already spent in full. NASA also increased the existing CLPS 1.0 ceiling from $2.6 billion to $4.2 billion. The original contract runs through November 2028, with an additional five-year period for completing awarded deliveries.",
-        "The newly announced six-wheeled PROMISE rover will be managed and built by JPL using spare flight components and engineering test models from Curiosity and Perseverance. Nuclear power is intended to support operations through long lunar nights and in permanently shadowed regions. Instruments include a drill to investigate resources about one meter below the surface, spectrometers, temperature and radiation sensors, and cameras. The mission also plans to demonstrate radiation-tolerant computing and autonomous sensing.",
-        "NASA is targeting **a launch in late 2028 and an 18-month mission**. Blue Origin received a $94 million base contract to deliver the rover to the lunar South Pole, with an optional additional amount of up to $140 million based on performance. The launch date and mission duration are plans.",
-        "For the transportation network, NASA separately awarded six task orders to three companies, worth approximately $1.3 billion combined, for launch, deep-space transfer and related demonstrations under the VADR framework, whose total ceiling is $5 billion. The miniCAST lunar power and communications tower effort will initially procure solar, storage and wireless-power components for integration and testing at Marshall Space Flight Center. A separate solicitation for fully integrated power systems is planned for early 2027."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-73e05271be777c2fdee1ec1c",
-      "source_sha256": "2fffbf75218cd14b1d704aed148d3ce845aa3c4c4b0387173a7413a8825e9fb7",
-      "paragraphs": [
-        "After arriving in West Palm Beach, Florida, on the evening of November 6 U.S. local time, Donald Trump told reporters that **the U.S. military had carried out a new limited strike on an Iranian air-defense installation that day**, describing the operation as small. He gave no further details about the target. Iranian state media reported two explosions in the Suza area of Qeshm Island in the Strait of Hormuz.",
-        "Diplomatic contacts continued alongside the military action. Qatar’s Amiri Diwan said on November 6 that Emir Sheikh Tamim and Trump had discussed de-escalation and Qatar’s efforts to support negotiations. The emir emphasized continued dialogue, avoiding further escalation, and safeguarding maritime navigation and energy supplies.",
-        "The Associated Press, citing two Middle Eastern government officials, reported that Iran was reviewing Qatari proposals intended to pave the way for subsequent nuclear talks. One official said Tehran still wanted Washington to meet ceasefire-related conditions before discussing nuclear activities. **These remain mediation efforts and proposals under discussion; no new ceasefire agreement has been announced.**"
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
       "article_id": "article-b5ac8bbb350992e1b01e3aea",
