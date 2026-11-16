@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T01:26:19.293Z",
+  "generated_at": "2026-11-16T04:24:53.004Z",
   "translations": [
+    {
+      "article_id": "article-2fab8b45685f5c1b4d8c7338",
+      "source_sha256": "2ad12ed69a9807f52dfc3c89e4b7312d87827f2d6e8f2385a67b5463af360566",
+      "paragraphs": [
+        "On November 16, the official Dune: Part Three film account announced theatrical rereleases of the first two films in mainland China: **Dune from November 27 and Dune: Part Two from December 4**, in IMAX and CINITY formats. The original films date to 2021 and 2024, respectively; these are rereleases.",
+        "The official rerelease poster also promises preview footage from Dune: Part Three as part of a Dune-themed month of events. The third film's mainland China release is scheduled for December 31, 2026, distinct from the two rerelease dates. Local theaters will announce their own schedules, showtimes and prices; the advertised formats do not establish availability at every cinema.",
+        "Denis Villeneuve returns to direct the third film, adapted from Frank Herbert's Dune Messiah. The current announcement concerns theatrical distribution and promotion. It does not provide verifiable audience scores or review samples for the unreleased third film, and assessments of the rereleased predecessors cannot substitute for reviews of the new film."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e3c6bc678a2741ba00f851b6",
+      "source_sha256": "13dc6a0556f33153e44ca438c21973442c49defe900fa0cb393d0924f2111e50",
+      "paragraphs": [
+        "On November 15, Saudi-backed southern forces aligned with Yemen's government announced **a redeployment from Dhubab Airport and the Bab al-Mandab area in western Taiz governorate, prioritizing defense of the interim capital Aden and neighboring governorates**. The BBC reports that the shift ends a weeks-long government offensive to recover positions around the strait. Houthi-run media subsequently claimed control of the relevant areas.",
+        "Reuters, citing Yemeni military sources, reports that government troops around the strait moved to al-Suqyah, south of Dhubab and about 150 kilometers from Aden, while still trying to push the Houthis from nearby coastal areas. The withdrawal announcement must be distinguished from this continuing fighting. It does not establish that Aden has fallen, nor can a single statement fully describe control along the entire coast.",
+        "The strait connects the Red Sea and Gulf of Aden and is an important shipping route from Asia to Europe through the Suez Canal. After the Houthis advanced south in September, government forces launched a counteroffensive in October. Fighting around Taiz and in the highlands north of Aden continues to pressure government-held areas. The BBC says Saudi Arabia had not commented on the redeployment; one side's assurance that it will not threaten international ships does not itself establish safe navigation.",
+        "On the humanitarian front, the International Committee of the Red Cross confirmed that authorities in Sanaa unilaterally released **600 conflict-related detainees** on November 15, with ICRC health checks and assistance for their return home. The organization says the release falls outside the Stockholm Agreement and that it did not determine the names or number of those released. This was a unilateral release, not evidence of an agreed comprehensive ceasefire or simultaneous exchange."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-06442525c639a7bcf5b0f3ba",
+      "source_sha256": "62569344526d8da888386146a6c2fd426aafaf83689a2d40c4eb5e52d3a51bab",
+      "paragraphs": [
+        "Japanese operator NTT Docomo confirmed that from **10:02 Japan time, or 09:02 Beijing time, on November 16**, subscribers to its 5G SA standalone service could experience difficulty with voice calls, mobile data and SMS nationwide. Its third notice at 11:30 Japan time, or 10:30 Beijing time, still described an ongoing incident with recovery work under way.",
+        "The official notice limits the impact to 5G SA subscribers: **ordinary 5G and 4G customers without a 5G SA subscription, MVNO customers using Docomo's network, and emergency calls are unaffected**. Some affected devices may display no service. Nationwide therefore describes geographical scope, not a loss of every service for every Docomo customer.",
+        "The cause and restoration time remain under investigation. The third notice says investigators had not found signs of unauthorized access around the incident or evidence indicative of a cyberattack. This is an interim finding as of that notice, not a determination of the ultimate cause. The operator says switching to 4G and restarting the device or toggling airplane mode may restore service in some cases. It also experienced 5G SA incidents on November 5 and 11, but has not established a shared cause."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7de0273ab5e65ddf947d51a0",
+      "source_sha256": "6285afd741e8d11cafde105ff3c400886d0d5375bf686dddf78bc35961b4a8eb",
+      "paragraphs": [
+        "On November 16, CCTV reported information from China Energy Engineering Corporation that **Yuan Chu No. 1, a 300MW artificial-cavern compressed-air energy storage station in Gansu, had successfully connected to the grid**. The project describes itself as the world's first engineering application at this scale using the artificial-cavern approach, marking a transition from technical validation to a large engineering project.",
+        "The station stores air in four excavated caverns in rock 110 meters underground. Its storage cycle converts electricity into the potential energy of pressurized air, then releases compressed air to generate electricity when needed. Artificial excavation is this project's air-storage approach and should be distinguished from salt-cavern storage projects that depend on suitable salt formations.",
+        "The project lists 300MW of power, **1,800MWh of storage and six hours of continuous generation per discharge**, with stated electricity-to-electricity efficiency of 72% and potential annual generation of 600 million kWh. Power, stored energy and annual generation capability are different measures. The confirmed milestone is grid connection; the efficiency and annual generation figures come from project information, not independent full-year operating measurements or electricity already generated."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5712d0898df98f154958a2fd",
+      "source_sha256": "1dc3a5ff9daf8f2925c1b2583800a6168bd9d455d7c9c4fc954b7b97fc3b9a61",
+      "paragraphs": [
+        "China's National Bureau of Statistics released October activity data at 10:00 on November 16: **value added at industrial enterprises above the designated size rose 4.8% year on year, while total retail sales of consumer goods increased 0.4%**. Both slowed from September's 5.5% and 1.1%, respectively. Lianhe Zaobao reported that a Reuters poll had forecast 5.3% and 0.8%. Growth remained positive, but weakened from the previous month.",
+        "Industrial value added increased 0.21% month on month in October. Equipment manufacturing and high-tech manufacturing grew 10.6% and 17.6% year on year, respectively; overall industrial value added above the designated size rose 5.3% in January-October. October retail sales totaled RMB 4.6463 trillion, up 0.02% month on month. January-October retail sales reached RMB 41.6464 trillion, up 1.0% year on year. Retail sales values are nominal, whereas industrial value-added growth is measured in real terms after adjusting for prices.",
+        "**Fixed-asset investment excluding rural households totaled RMB 36.4824 trillion in January-October, down 8.1% year on year**, a steeper decline than the 7.2% fall in January-September. Excluding property development, investment fell 5.1%. Manufacturing investment declined 2.9%, infrastructure investment 5.1%, and property development investment 21.6%. These are cumulative figures for the first ten months; investment in October alone fell 2.93% month on month.",
+        "The nationwide urban surveyed unemployment rate was 5.1% in October, down 0.1 percentage point from September, and averaged 5.2% in January-October. Services production rose 4.6% year on year in October, while retail sales of services grew 4.9% over the first ten months, demonstrating different growth rates for service consumption and goods retailing. This release covers monthly indicators. Industrial value added and services production have distinct statistical coverage, while GDP is compiled quarterly."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-8ccbb48288e67e3b9bf54228",
       "source_sha256": "08118dfc0991ee17f4a0bfe1471df405a39d3ce159e792902387e212ff2973f3",
@@ -9,6 +66,18 @@
         "ULA launched Vulcan’s LV-01 mission at 12:40 Eastern Time on November 15, or **01:40 Hong Kong/Beijing time on November 16**. ULA says an anomaly about ten minutes into flight prevented delivery of Amazon’s mission to orbit. Amazon’s official mission page confirms the payload was lost: **forty Leo internet satellites** were aboard.",
         "This was Amazon Leo’s first Vulcan launch and its largest planned single satellite deployment so far. Amazon had booked 38 Vulcan missions intended to carry more than 1,500 first-generation Leo satellites. The confirmed loss concerns this forty-satellite payload.",
         "Reuters describes this as Vulcan’s fifth flight and its return after roughly nine months, following investigations into earlier solid-booster and BE-4 engine issues. ULA says the fresh anomaly has not yet yielded enough specific data to explain it. Earlier engine or booster problems do not establish this failure’s cause, and no official return-to-flight date has been announced."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b099b0c74a11097f53b9d2d5",
+      "source_sha256": "290640af53f06252d30ae8ebb79291bda6652863e3d8ccc3b9349918fbdf4e0a",
+      "paragraphs": [
+        "Aju Press published a report on its visit to the Yongin semiconductor cluster on November 16, describing conditions seen on November 10. Trinity Fab, planned for the northwestern part of SK hynix's Y1 building, remains under construction, with an approximately 3,305-square-meter clean room on the third floor. The plan is for **clean-room construction to finish in May 2027, followed by equipment installation and performance validation, with pilot services starting in the fourth quarter**. It has not opened today.",
+        "The project involves **KRW 874.6 billion** in joint investment by SK hynix and South Korea's central and local governments, targeting semiconductor materials, parts and equipment companies. The report lists plans for 51 front-end tools and four computer systems, plus 15 spaces where companies can test their own equipment. It will use 12-inch, or 300mm, wafers to provide a validation environment close to actual mass production.",
+        "The validation platform and memory production facilities share the same building complex, but have separate access routes and security systems. Suppliers currently face differences between R&D facilities and customer factories, while production equipment is difficult to free up for testing. The platform's foundation aims to shorten technology commercialization cycles by at least 30% and support both localization and overseas expansion. This is a target; actual time savings require operational evidence.",
+        "An independent nonprofit organization is intended to operate the platform, with fees based on the minimum cost of running the facility. SK hynix separately plans an R&D challenge compensation program covering up to half of initial development costs in advance. Projects that do not reach mass production or result in purchases could still receive compensation assessed against technical achievements and supply-chain contributions. Construction completion, pilot services and suppliers' actual entry into volume production remain distinct stages."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -86,6 +155,18 @@
         "A large rally at Prague’s Letná Park on November 15 opposed replacing regular public TV and radio fees with state-budget funding. **AP and the BBC respectively quote organizer estimates of about 350,000 and 400,000 participants**. Both are organizer figures, not independently confirmed police counts.",
         "Million Moments for Democracy demands withdrawal of the reform, fearing political control through funding. Prime Minister Andrej Babiš denies plans to interfere with editorial independence, calls the current system outdated and seeks cost savings. Household fees currently total CZK 205 per month. Reports say the proposal would reduce Czech Television and Czech Radio funding by about 15%, potentially bringing layoffs and reduced production and programming.",
         "The bill passed the first of three lower-house readings early on October 24, not the entire legislative process. After media employees struck on November 3, universities, unions and cultural groups continued mobilizing. The rally came two days before the anniversary of the 1989 democratic transition. The dispute concerns adequate, predictable public-media financing and protection from political interference, on which the government and opponents disagree."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-992f47682cd0d89b083ab032",
+      "source_sha256": "dbd89b5b1b9d1a3980da4a484a87321eb6c65c0dad27e943582b56e507713be4",
+      "paragraphs": [
+        "Mega Crit released the substantial v0.113.0 beta update for Slay the Spire 2 on November 12, adding **The Fool, its first new character during Early Access, plus the Blitz and Dread modes**. PC Gamer published a hands-on report on November 15. The content is currently being tested only on the public-beta branch, and the developer says The Fool will need extensive content and balance changes before reaching the main branch.",
+        "The Fool is a musician who uses a bow. Her shooting cards' damage is affected by Aim; an arrow that hits an enemy creates an Impale state, and normally needs to be retrieved through Dislodge or supplemented with additional arrows before another corresponding shooting card can be played. PC Gamer writer Harvey Randall found some builds conspicuously powerful in his initial play sessions. That is an individual assessment of the test build, not a final balance verdict.",
+        "Blitz condenses the run into a more focused deckbuilding challenge, removing the map and gold's usual role. It offers five Ascension levels shared across characters and unlocks after completing an Ascension run at any difficulty. Dread targets players who have reached Ascension 10 on every character, including the new one. It enables all Ascension modifiers, strengthens bosses and other enemies in their Acts, and adds mounting curse pressure while climbing.",
+        "The main branch was instead receiving the older, more stable v0.111.0 content at the same time; the new character and modes are not already available by default to all players. The game itself remains in Early Access. The small November 14 beta hotfix mainly addressed icons, translations and bugs, rather than introducing this major content for the first time."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -281,10 +362,11 @@
     },
     {
       "article_id": "article-a1bc38cdaa887c516ef3a2cb",
-      "source_sha256": "74923c5dab6adfba9fe6a0da37581b7abad7b402b6d3d95df9e3dd76e7a8915b",
+      "source_sha256": "e5d6f4d9dce31ac5f8962dc6934e20df94f87d880d0f6787a1aa611e25a053f1",
       "paragraphs": [
-        "On November 15, Richard Yu released a retrospective video about Huawei’s Mate X series and revealed the **Mate X8 name and appearance** at its conclusion. He said the device was coming soon, with further advances in its screen, cameras and performance. This is an official teaser; the material read provides no complete launch-event date, preorder or retail-sales timetable, or price.",
-        "The video looks back over the Mate X series’ eighth year and concludes with the new phone’s folding form and exterior, showing a purple body and circular camera module. Images of a purple phone being held had already circulated on November 13; Yu has now directly disclosed the Mate X8 name and teaser. Screen, imaging and performance improvements remain manufacturer preview claims, without a complete specification sheet, standardized quantitative results or independent tests accompanying the video. Circulating component rumors are not final sales configurations."
+        "On November 16, Huawei announced that **its Mate X8 and full-scenario product launch event will take place at 14:30 Beijing time on November 24**. The earlier name-and-design teaser now has a confirmed event time. Richard Yu said he was already using the Collector's Edition, but this does not establish retail stock availability for consumers.",
+        "Official product materials reproduced by IT Home list five colors: Zijin Jin, Cangqiong Black, Xueyu White, Qingyun Jin and Danxia Jin. Memory and storage combinations are 12GB+256GB, 12GB+512GB, and Collector's Editions with 16GB+512GB or 16GB+1TB. These are the combinations currently disclosed; they do not establish identical availability of every configuration in every color.",
+        "Yu describes the device as bigger, thinner and stronger. Improvements to its display, imaging and performance remain vendor teaser claims. The materials do not list prices, preorder payment dates or retail stock release dates, and do not provide complete chip, display or battery specifications. Online claims about a camera module for the Collector's Edition are not fully confirmed by this set of official materials and cannot serve as a final specification sheet."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -445,11 +527,11 @@
     },
     {
       "article_id": "article-70275d0e699d06687aefcbb5",
-      "source_sha256": "2e48aada45629794b342cb0b41c6913e675ee6629b52a020379f2123b6b2797d",
+      "source_sha256": "1147369012286a8e495d4d94876abc539acd0203a9a1559a0fa924a8bcbca3e1",
       "paragraphs": [
-        "Kremlin spokesman Dmitry Peskov told TASS that the three sides had agreed to a meeting of Vladimir Putin, Xi Jinping and Donald Trump in Shenzhen on November 19. **That is Russia’s account of the trilateral arrangement. China has publicly said it is communicating with the parties, without confirming the date or agenda in that response.** The meeting remains a future plan and has not taken place.",
-        "The Chinese Foreign Ministry’s November 13 briefing transcript records Mao Ning answering AFP’s question about a possible three-leader meeting by saying China remained in communication with relevant parties and would release further information when available. That response is already public, but gives no itemized meeting date, venue or agenda for the three leaders and publishes no jointly confirmed meeting document.",
-        "Trump previously said he wanted to discuss nuclear arms control and Iran during APEC. The United States has not listed Ukraine as an agenda item for this planned encounter or forecast an immediate agreement. There is no trilateral statement, new arms-control treaty or ceasefire resulting from this meeting. Formal arrangements, actual attendance and subsequent documents remain separate developments to verify."
+        "At 09:00 on November 16, China's Foreign Ministry announced that **Xi Jinping will meet Vladimir Putin and Donald Trump in Shenzhen on November 19**. China's public position has therefore moved from saying it was maintaining communication with relevant parties to confirming the date, location and participating leaders. The meeting remains scheduled for this Thursday and has not yet taken place.",
+        "The ministry's November 13 APEC announcement says the 33rd APEC Economic Leaders' Meeting will take place in Shenzhen on November 18-19, chaired by Xi, who will also deliver remarks. The APEC CEO Summit is scheduled for November 17-18. The three leaders' meeting falls in the same week as these multilateral events; it is not an already completed APEC outcome or trilateral agreement.",
+        "RTHK and Deutsche Welle report that the White House previously identified nuclear arms reductions and the Iran war as matters Trump intended to discuss, while the Kremlin also confirmed arrangements for the meeting. China's short November 16 announcement does not list a detailed agenda. Nuclear arms control is currently part of the US description of the planned talks; **no new disarmament treaty or ceasefire outcome has resulted from a meeting that has yet to occur**."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1706,12 +1788,12 @@
     },
     {
       "article_id": "article-100fdf10a41dbce557fb78a3",
-      "source_sha256": "6d8623ddfc6024e3a1e105726b540971245682652180874b800302003bcbb0c7",
+      "source_sha256": "6175d5b3e2a516ddbdb9583cbee85359a8ed9e73da01ebbd369ce5b9434faa39",
       "paragraphs": [
-        "On November 11, Alibaba previewed the next Qwen generation, Qwen4, and opened early access to its flagship Qwen4-Max model. Official QwenCloud documentation lists the model identifier as qwen4-max-preview. **Access is currently restricted to Token Plan subscriptions, with no pay-as-you-go option.** The status of the full Qwen4 release is distinct from this limited preview.",
-        "The documentation sets the preview period from 10:00 on November 11 through 24:00 on November 25, Beijing time. It says the model will not change during that period and will be retired when the preview ends. Developers can access it through individual or team Token Plans. IT Home also reported integration into Qwen’s office product, Qoder, the Qwen app and QwenStudio.",
-        "The model supports text generation, image and video understanding, deep reasoning, function calling, web search and structured outputs for coding, office work, frontend design and complex agent tasks. Its context window is 1M tokens, with a maximum output of 393,216 tokens shared between reasoning and the final answer; the entire allowance is not available for the visible answer alone.",
-        "Its interfaces are compatible with OpenAI Chat Completions, Responses and Anthropic Messages, and thinking is enabled by default. The announcement describes capabilities, specifications and access methods; it does not announce an accompanying release of model weights or a license for them. Promotional currencies and plan prices on different regional subscription pages also do not translate directly into a single model unit price."
+        "Alibaba's Qwen team announced the formal launch of Qwen4-Max on November 16. Unlike the limited preview opened on November 11 exclusively through Token Plan subscriptions, **the production model is now listed on the Qianwen AI platform as qwen4-max, with pay-as-you-go API access**. QwenWork, Qwen Studio and Qoder also offer access to the model. The preview's original time limits and the production model represent different service states.",
+        "The official model page lists text, image and video inputs with text output, a one-million-token context window, deep reasoning, function calling, web search and structured outputs, as well as compatibility with OpenAI and Anthropic APIs. IT Home, citing the team's launch information, reports a new MoE architecture and a 2.4-trillion-parameter backbone. These architecture and capability descriptions are the vendor's.",
+        "The Qianwen AI platform's Chinese pricing page lists **RMB 10 per million input tokens, RMB 30 per million output tokens, and RMB 0.5 per million cache-hit input tokens**. Explicit cache creation is charged separately, so the cache-hit rate is not a universal price for all input. Regional platforms, subscription plans and additional tool charges also need to be distinguished.",
+        "The team identifies professional tool use, long-horizon task execution and delivery quality as upgrade priorities, and says smaller models in the family will be opened later. This Max launch provides a cloud product and API; **the smaller models' weights remain a future plan**. The announcement does not simultaneously specify their sizes, release dates or licenses."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3352,29 +3434,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对段落对应、事实归属、数值与时间，未标为人工翻译"
     },
     {
-      "article_id": "article-c12c28f7937ec14856f369ff",
-      "source_sha256": "6efa7ffce2571cb22b377395b184fb09029b45e8e754989e0705e9e60d968ef3",
-      "paragraphs": [
-        "Epic Communications Director Jake Jones told GamingOnLinux that **the new Epic Games Launcher, still in Preview, is intended to support more Linux distributions, including SteamOS, Fedora, Cachy and Omarchy**. The interview was published on November 6 and updated on November 7, clarifying Epic’s intended support for the SteamOS platform used by Valve.",
-        "The preview initially offered an AppImage before switching to a .deb package for Debian and Ubuntu. Jones said the team was still testing distribution formats and planned to restore AppImage during November 2026. Those packaging changes are part of the preview process; the support list does not establish that final builds for every listed distribution have already shipped.",
-        "For Steam Deck users, the significant development is Epic’s commitment to include its operating system in the native launcher’s coverage. Game compatibility remains a separate issue: the response does not explain specific Wine or Proton integration arrangements, nor confirm that every Epic game or Fortnite already runs properly on Steam Deck."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-7d15d35372241976dbc45358",
-      "source_sha256": "2b6fca8dd50569d85fc98832604b52714ef69f977f83f368687c7ce207b22f6e",
-      "paragraphs": [
-        "On November 6, Meta introduced **spaces, customizable experiences inside the Muse app**. Users describe an idea and have the agent build a gift tracker, travel board, podcast workspace or small game, then refine its appearance and behavior rather than receive only a chat response.",
-        "Spaces can live in the sidebar or main tabs and can be hidden, rearranged or scheduled. After relevant apps are connected, information such as orders and calendars can update in the background. Users can check off tasks, add notes and make edits inside a space. Meta says spaces are available immediately wherever Muse is already offered.",
-        "A separate voice-and-expressive-avatar feature was announced on November 5, with details updated November 6. It starts in the US on mobile, web and Mac. Users can interrupt spoken replies, switch between voice-only, an adjacent avatar and full screen, and choose different voices. AI glasses and Muse Charm support remain future plans.",
-        "Meta also says it is deploying specialized model versions informed by Muse Wonder and exploring sharing and collaboration for spaces. The announcement confirms personal interfaces integrated with existing connections; shared multi-user editing remains exploratory."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
       "article_id": "article-b5ac8bbb350992e1b01e3aea",
       "source_sha256": "62d9763f7da54efde87e66a3799824a917b4def866928e81451829de13bddacb",
       "paragraphs": [
@@ -3382,54 +3441,6 @@
         "The story takes place in Los Angeles in 1977, eight years after the 1969 setting of Once Upon a Time in Hollywood. Alongside bartending and projection work, Cliff Booth fixes problems for Hollywood figures. A call from talent agent Karen Crosby draws him into the complicated world of television star Charlie Peters.",
         "Elizabeth Debicki plays Karen, Scott Caan plays Charlie, and Carla Gugino and Yahya Abdul-Mateen II also appear. Fincher describes a Los Angeles crime story shaped by its people and environment, citing the 1975 film Shampoo as an inspiration for his approach.",
         "The update accompanies a second trailer and new stills. Netflix lists a runtime of two hours and twenty-three minutes. The film awaits those release windows; the available material concerns its creators and premise, without a finished-film rating or plot-ending summary."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-ef4322344dff9bc833348cb3",
-      "source_sha256": "9c37154006f7f4535eb79d2f0fbd5d8b31ffa557716e12818dd67ddf5fa168a1",
-      "paragraphs": [
-        "tinyBuild confirmed in a November 6 PlayStation.Blog announcement that **Hozy comes to PS5 on November 9**. The cozy cleaning, renovation and interior-arrangement game has no timers or scoring pressure. This announcement specifically establishes the PS5 release.",
-        "Each space has its own atmosphere and story. Players clean and repair it before arranging a curated set of furniture and decorations. Mops, crowbars and other tools have distinct feedback; windows, lights, pianos and drawers are interactive, and music changes as a level progresses.",
-        "On PS5, DualSense haptics distinguish actions such as mopping and positioning furniture. Adaptive triggers convey resistance when lifting floorboards, and the controller speaker adds tool sounds. These are publisher-described console features; no independent performance test accompanies the announcement.",
-        "The story has nine unique levels. Game+ adds day/night variation and different furniture sets, while Sandbox opens access to every item. Eleven languages and visual and control settings are supported. Seasonal events and free and paid DLC remain plans rather than content all released simultaneously."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-47b292a5d1f7f3dd3e0fcef7",
-      "source_sha256": "bca0524f6ca28edc6ed177b40dbf0cad60f47f61065473c071d77d804db8f2e7",
-      "paragraphs": [
-        "On November 6, NVIDIA described research using its Aerial and Sionna wireless tools. It reported tenfold growth in developer adoption over the past year, more than one million downloads of its open-source 5G/6G tools, and use at over 8,000 research and academic institutions. These are vendor-compiled adoption figures.",
-        "King’s College London connected a camera-equipped robot arm to Jetson AGX Orin, transmitting compact semantic descriptions of objects, positions and relationships. NVIDIA says fruit-packing and cube-stacking experiments with introduced faults **cut task completion time by up to 52.6%** compared with periodically transmitting full images, while improving recovery from failed actions.",
-        "SoftBank integrated a neural receiver into Aerial ACAR. In controlled interference tests with a commercial 5G phone, uplink throughput exceeded a conventional receiver at all fifteen settings, with gains of up to about 60%. Related ETH Zurich work used local measurements to tune receivers and reduced block error rates by more than one-third versus selected pretrained versions.",
-        "University of Leeds researchers used ten-minute-ahead demand forecasts to guide base-station sleep decisions. Their experiment reported 45.6% lower RAN power use than a full-power baseline while maintaining connections. These findings concern particular test systems, baselines and radio conditions: progress in 6G research methods, rather than widespread commercial 6G deployment."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-8d72e90829254c25382f4e8e",
-      "source_sha256": "3af7483410c11dc679c72bb55f92f9f0c8cacca375c827da16ad7d2b01c18dc8",
-      "paragraphs": [
-        "At the November 6 US close, **the Nasdaq Composite rose 1.1%, the S&P 500 gained 0.3% and the Dow fell 0.4%**. The BBC’s closing report described a partial recovery in AI and technology shares. The Nasdaq rebound recovered only part of the preceding day’s 5.5% decline.",
-        "NVIDIA, SpaceX and Tesla regained some of the market value lost earlier. Outside the US, South Korea’s Kospi closed about 6% lower and SK Hynix fell more than 10%. Major German, French and Spanish indexes also declined, and Britain’s FTSE 100 lost 1.01%.",
-        "The US simultaneously reported 165,000 additional October jobs and unemployment of 4.1%, offering a different economic signal from the technology sell-off. The employment figures concern October, while the market moves describe the November 6 trading session.",
-        "Investors continue to assess returns on large AI infrastructure investments and potential data-center regulatory changes after the US midterms. Interviewed analysts remained cautious about whether the rebound would persist; one session’s recovery does not establish that the earlier pressures have disappeared."
-      ],
-      "method": "machine_translation",
-      "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
-    },
-    {
-      "article_id": "article-8d12dc1702d56b8c6c1be63d",
-      "source_sha256": "da57044d09af4d0de1b010efbd05da42ebf27bcfba1f21247e97da6c51fdda71",
-      "paragraphs": [
-        "In the other November 6 IEM Beijing quarterfinal, **BETBOOM eliminated FURIA 2–1**. BETBOOM won Ancient 13–5, lost Dust2 10–13, then secured the series with a 16–14 overtime victory on Nuke.",
-        "zorte’s AWP and multi-kills helped BETBOOM control Ancient. On Dust2, FalleN’s all-headshot pistol-round ace after the switch revived FURIA, before important kills from molodoy and KSCERATO sent the match to a decider.",
-        "BETBOOM reached match point at 12–7 on Nuke, but FURIA won five consecutive rounds to force overtime. In the final two-versus-two, Boombl4’s fast flank from Heaven killed the planter, preventing FURIA from planting in time and ending the match. zorte finished the series with 62 kills, 36 deaths and a 1.35 HLTV Rating 3.0.",
-        "BETBOOM faces **MOUZ in the semifinal at 17:45 Beijing time on November 7**, a rematch of their group-stage meeting. FURIA and PARIVISION are out; the tournament champion will be determined in the November 8 final."
       ],
       "method": "machine_translation",
       "engine": "OpenAI conversation model; model-reviewed for paragraph alignment, factual attribution, names and numeric consistency; not human-certified."
@@ -3821,17 +3832,6 @@
         "【New Season Reputation】The basic premise of \"Silo\" is that people live in a massive underground silo, and the outside world is described as dangerous, with daily order relying on a strict set of rules. Engineers question existing explanations, gradually connecting survival techniques, information control, and individual pursuit. In the public reception of the third season, the proportion of positive media reviews is relatively high, but viewers are clearly more cautious.",
         "The appeal of this work lies in how the world rules are gradually revealed and why the characters accept or doubt these rules. It is not merely a documentary showcasing the construction of underground facilities, but the engineering environment serves the suspense and power dynamics. For those who have already followed, whether subsequent episodes can provide new interpretations that address previous issues is key to determining the continuity of the series; new viewers should not skip the preceding information setup. This article does not reveal the secrets of the silos or the fates of the characters, and it also does not supplement specific events of the third season based on a series synopsis. The ratings are only for selection cues and cannot eliminate viewers' disagreements about the narrative pace.",
         "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 96% (79 reviews), and audience positive percentage is 72% (displaying 500+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-3f0efdcc070b29efadee0410",
-      "source_sha256": "b0f4c57020365f84e98e3df88dfda0d0dae6b34760354922533f5dba1ba47763",
-      "paragraphs": [
-        "【New Drama Reviews】\"A Knight of the Seven Kingdoms\" is adapted from George R. R. Martin's \"Duncan and Egwene\" stories, set approximately a century before the main storyline of \"Game of Thrones.\" The journey of the tall knight Dunk and the young squire Egg allows viewers to enter Westeros from the perspective of travelers and local conflicts, rather than continuing the story after the original series ended.",
-        "The value of this perspective lies in the fact that identity, honor, and class can be demonstrated through specific encounters, without needing to rely on wars that cover the entire continent every time. Compared to the grand portrayals of dynastic groups, it may be more suitable for those who wish to see how personal relationships and knightly codes are applied in daily life. While the first season has surpassed this column's screening line in both media and audience reception, there is a difference in the level of recognition between the two ends. This article only organizes the relationships between works, the public premises, and the reviews, without pre-announcing the development of Egg's identity or referring to the prequel as a direct continuation of the original series.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 94% (180 reviews), and the audience positive percentage is 79% (the page shows 2500+ reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
