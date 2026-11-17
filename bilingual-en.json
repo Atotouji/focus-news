@@ -1,7 +1,84 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T09:26:42.086Z",
+  "generated_at": "2026-11-17T01:25:02.737Z",
   "translations": [
+    {
+      "article_id": "article-45e407fd752d9e84c8de9821",
+      "source_sha256": "9dd94eb29c1c56563e123f8730ca564a483c44dd1618f979d58f6bdfa1ca986d",
+      "paragraphs": [
+        "IT Home reported on November 17, citing CCTV News and the China Geological Survey, that the drilling vessel Meng Xiang recently completed sea trials of China’s first domestically developed 2,000-meter-class deepwater riserless mud recovery and circulation drilling system. The **33-day** mission tested the full operating process and functions in waters **142.7 meters and 2,004.8 meters deep**.",
+        "The equipment recovers and reuses drilling mud during open-circuit drilling. Researchers at the survey’s gas hydrate engineering technology center said prolonged deepwater drilling consumes large amounts of mud and involves wellhead safety issues that the circulation system aims to address. The survey described the trial as setting an international operating-water-depth record for comparable systems; that characterization is the institution’s own assessment.",
+        "Meng Xiang supports scientific ocean drilling, deepwater oil and gas exploration, and gas hydrate exploration and trial production. It has used four drilling modes across nine missions in the two years since entering service. Its stated 11,000-meter figure is a design drilling capability, while 2,004.8 meters is the trial site’s water depth. The report does not disclose the actual drilling depth beneath the seabed. It describes completion as recent without an exact date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2c55aa88e1261dc698f0f39d",
+      "source_sha256": "eda9dcec2ff20a1f7a73581d1b6300108eca274c22c435c952c0a43f9f5b675f",
+      "paragraphs": [
+        "Apple released the second developer betas of iPadOS 27.3 and macOS 27.3 on November 16, with builds 24C5049d and 26C5047e respectively. IT Home and MacRumors report that this round expands Apple Intelligence testing in China from iPhone to iPad and Mac. **This is developer-beta support, rather than a full production rollout for Chinese-market devices.**",
+        "Reported compatible devices include M-series Macs and iPads, plus iPad mini models with A17 Pro or A20 Pro. Features include Writing Tools, photo cleanup, natural-language search and some summarization and translation functions, with certain requests handled through Alibaba’s Qwen model. Availability depends on the device, app and regional implementation; the overall feature list does not imply identical support on every device.",
+        "The China offering does not include the new Siri AI, the standalone Siri app or some newer iOS 27 capabilities. A prior Shanghai cyberspace administration filing added tablet and laptop scenarios, providing context for regional adaptation. Software testing, service registration and general production availability are distinct stages. Apple’s developer release directory confirms the beta dates and build numbers."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d8601ff411a75bc1579d288d",
+      "source_sha256": "0f7f35a8375f761502bbd754576d31c0d5df23b8bbe04296b8dcf3c0029b9eee",
+      "paragraphs": [
+        "Intel published HPC details for D270, code-named Crescent Island, on November 16, with IT Home reporting them on November 17. The Xe3P design has 32 Xe cores, 256 XMX engines and support from FP4 through FP64, including full-rate double precision. Intel’s card has 160GB of LPDDR5X memory, 1.5TB/s bandwidth and a 350W air-cooled PCIe form factor; partner configurations can scale to 480GB.",
+        "Intel reports up to 5.9 times the throughput of an RTX PRO 6000 Blackwell Server Edition in FP64 financial workloads on **pre-production hardware**, specifically European Monte Carlo options pricing. Other listed workloads show 5.6, 4.6 and 1.92 times the throughput. The appendix dates Intel’s financial tests to November 6 and shows differences in host systems, software and memory configurations.",
+        "The compared 350W and 600W figures are GPU power specifications or limits, not measured whole-server energy consumption, and do not establish an efficiency advantage across all AI workloads. Intel also demonstrates disaggregated inference with D270 handling prefill and SambaNova SN50 handling decoding. This release concerns architecture, demonstrations and vendor tests; it provides neither a public retail price nor a commitment to broad immediate inventory."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d6865483b28c478c8f80d841",
+      "source_sha256": "8d0fe8f5f3142482ba2e7a9cdc7305ae486f0ab04ee3bf523b38411ec398ec12",
+      "paragraphs": [
+        "Xinhua reported on November 17 that, according to the National Healthcare Security Administration, **380 pooling jurisdictions** across all 31 provincial-level regions and the Xinjiang Production and Construction Corps supported using shared funds in Medical Insurance Wallet 2.0 to pay a recipient’s local resident medical insurance premium as of November 15. They represented 96.45% of pooling jurisdictions, a measure of geographic coverage rather than the insured population.",
+        "Cumulative payments reached **1.4109 million payment instances and RMB540 million**. The instance count measures transactions, not necessarily that many different insured people. Hebei, Henan, Shanxi, Gansu and Hunan together accounted for 67.81% of the nationwide payment amount, showing the current geographic distribution of this activity.",
+        "All provincial-level regions and the Corps completed the Wallet 2.0 upgrade on October 16, 2026. It is part of the cross-province sharing of employee medical insurance personal accounts, advanced jointly by the healthcare security administration and the finance and taxation authorities. The latest development concerns broader coverage and usage for paying resident insurance premiums at recipients’ places of enrollment with shared wallet funds."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b9b16089c989b70eb70ae879",
+      "source_sha256": "25e0f17dad71eea12ebcf7bff16864d7717c2afd8dc86154d16cfc3cfd01bb5b",
+      "paragraphs": [
+        "Russian authorities said on November 16 that the Kerch Strait bridge, linking Crimea with Russia’s Krasnodar region, had been attacked overnight. Russian-installed Crimean leader Sergei Aksyonov confirmed the attack, while the Kremlin described the damage as minor. Reuters cited the transport ministry as saying **road traffic was temporarily suspended for repairs, while rail services continued normally**.",
+        "Russia’s defense ministry said it shot down 1,336 Ukrainian drones during an overnight attack across 16 regions. The BBC separately cited Russian figures covering 24 hours: 2,049 drones and four Flamingo missiles. The figures concern different periods and are both Russian claims. Ukraine’s intelligence services had not responded to the BBC’s questions about the bridge attack, and whether a direct hit or falling debris caused the damage had not been independently established.",
+        "Reuters reported fires at four industrial sites in Azov, Rostov region, where the governor said emergency crews were responding. Both sides have continued attacking energy and other infrastructure. Last week’s US-brokered Abu Dhabi talks included a prisoner exchange but produced no major breakthrough on core issues such as territory. Attacks were continuing in the reports reviewed, without confirmation of an effective ceasefire across the front."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3321b3a5db59bef0f6186589",
+      "source_sha256": "9d4944a82868814eeeb7887d587cfb51e4d8d45fdece3cc558d0d67374ea2173",
+      "paragraphs": [
+        "OPPO launched Reno17 and Reno17 Pro in China on November 16, with official starting prices of **RMB3,599 and RMB4,199** for 8GB+256GB models. Launch material gives November 20 as the sale date; official pages currently offer preorders, and the store expects shipments to begin progressively that day. Advertised RMB3,099 and RMB3,699 prices depend on national subsidy eligibility and do not replace the unsubsidized list prices.",
+        "The standard model has a 6.56-inch 1.5K LTPS display, Snapdragon 7 Gen 4 and an 8,000mAh battery. Pro uses a 6.32-inch 1.5K LTPS display, Dimensity 8550 and a 7,200mAh battery. Both support 80W wired charging. The standard model’s 12GB+256GB list price is RMB3,799, matching the corresponding current official store configuration; other memory and storage versions have different prices.",
+        "Pro has a 200-megapixel main camera versus 50 megapixels on the standard model. Both have 50-megapixel ultrawide and 3.5x periscope telephoto cameras, plus a 50-megapixel front camera. OPPO highlights extending 4K Live Photo duration from three to six seconds and adding color tools. These launch specifications and claims do not replace independent battery, imaging or sustained-performance tests, nor do they establish specifications for unannounced overseas versions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-fb710be5c7d9697ccaa7a056",
+      "source_sha256": "d95ec7ed3b8bdae087ab14a1d14916ba21532e5f959e12eb579642915b348c96",
+      "paragraphs": [
+        "Germany, Denmark, Austria, Greece and the Netherlands announced plans on November 16 to establish an offshore return hub with Rwanda, aiming to begin transfers in **2027**. The Dutch government said the initial phase would cover only single men subject to removal who had exhausted their legal routes to remain in the five countries, excluding unaccompanied children.",
+        "The scheme concerns people who cannot be returned directly to their countries of origin. The governments say they could obtain residence and access to education, healthcare, employment and justice in Rwanda, or return home. The five countries will share costs, while details still need to be developed with Rwanda and international organizations. This differs from Britain’s Rwanda scheme, abandoned in 2024, which envisaged processing asylum claims there.",
+        "Legal and human rights disputes remain. The five governments maintain that the arrangement complies with EU and international law. Human Rights Watch cited Rwanda’s record of suppressing dissent and arbitrary detention in expressing concern for transferees. The BBC also cited the EU fundamental rights agency’s position that host countries must respect basic rights and people must not be sent somewhere they face a serious risk of persecution. The project remains in preparation, with no transfers under it yet."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-688fc85321bb7b67d261280a",
       "source_sha256": "ca0f08f6f79aec0adec230ac19873010c678224fba0fac1a5162d59929e1c894",
@@ -166,6 +243,117 @@
         "Japan's Cabinet Office released its first preliminary GDP estimate for July–September 2026 on November 16. Seasonally adjusted real GDP edged down from the preceding quarter, with the quarter-on-quarter rate rounded to −0.0% in the table. **Annualizing that quarterly change gives a decline of 0.1%.** This annualized quarterly rate assumes the same pace continues for a year; it does not mean GDP fell 0.1% year on year in the third quarter or that the full-year economy has already contracted by 0.1%.",
         "The components show real private consumption falling 0.3% quarter on quarter and private residential investment declining 1.1%, while private non-residential investment rose 1.6%. Exports of goods and services fell 0.2% and imports increased 2.5%. Net exports contributed about minus 0.6 percentage points to the quarterly change in real GDP, broadly offsetting domestic demand's contribution of about plus 0.6 percentage points.",
         "In this release, real GDP in April–June 2026 grew 0.4% quarter on quarter, or 1.7% at an annualized quarterly rate. The third quarter then edged down, with divergent consumption, investment and trade performance. This first estimate remains subject to revision as additional underlying statistics and seasonal adjustments become available. The official notes say relevant seasonally adjusted series are re-estimated at each release."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-95a7f702fe057f0e1bfc867d",
+      "source_sha256": "04bfc0cfc7ba918873625ad60089791275e9a8d123343ccbd4e18139ec16db0b",
+      "paragraphs": [
+        "France has imposed a temporary nationwide restriction on the sale and use of specified pyrotechnic devices to address public safety risks during school blockades and demonstrations. It runs **through November 27 inclusive**. Decree No. 2026-1047 is dated November 14 and appeared in the official journal on November 15. The Interior Ministry says it took effect immediately and covers the devices listed in the decree.",
+        "Localtis, a French public policy news service, explains that the measure covers certain F2 and F3 recreational fireworks, including several types of firecrackers, Roman candles and mortar fireworks. Appropriately qualified and authorized professionals, as well as public authorities, have exemptions under the decree, so it does not mean all professional fireworks activities have been canceled.",
+        "Lianhe Zaobao reports a series of student-led demonstrations since September, with occasional violence. Localtis records that a teacher and two education assistants were injured by pyrotechnic devices in Argenteuil on November 4, with attacks also occurring inside and outside other schools. The accompanying photograph of a burning street barricade in Lyon was taken on November 14, rather than the day of the announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2f4713bf2f2357645591f2a7",
+      "source_sha256": "f564a16a33601029ff5b52e3a8fb1c80595fa989e11ac1960568d7177091c470",
+      "paragraphs": [
+        "The US Commerce Department’s Bureau of Industry and Security (BIS) released an interim final rule on November 16 addressing remote access to advanced AI chips and servers. BIS said the Treasury Department and National Security Council directed its drafting, with the aim of preventing remote computing arrangements through third-country data centers from providing access to sensitive capabilities already restricted by US export controls.",
+        "The physical destination of chips has been an important part of export controls. Cloud computing allows users to access computing capabilities without moving the chips themselves. BIS is further aligning remote-access restrictions with controls on physical shipments. Its announcement also supports legitimate commercial adoption of US technology, so the measure cannot be described as a blanket ban on overseas cloud computing or all AI services.",
+        "NPR linked the rule to investigations concerning data center companies providing Chinese customers with access to US AI computing. Megaspeed, a company covered in the reporting, denied unlawful business and said it had commissioned an investigation by outside counsel. Issuing a rule and establishing a particular company’s liability are separate matters; the material reviewed does not report a court conviction of the company."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-df5bb517e16f336f845ebfed",
+      "source_sha256": "35ba489bac1926e0918720e84344c7baad5e566baa8e8bdabead9a6ec30708a0",
+      "paragraphs": [
+        "AMD announced on November 16 that it had **completed its acquisition of World Labs**. Fei-Fei Li joins AMD as executive vice president and chief scientist, reporting directly to chair and CEO Lisa Su. The announcement confirms a completed transaction rather than talks, an investment proposal or a future acquisition plan.",
+        "World Labs develops AI models that generate and simulate interactive three-dimensional environments, along with technologies for robotic learning and simulation. AMD says the team will continue foundational model research while working with its engineers to translate the demands of emerging model capabilities into future hardware, software and system designs.",
+        "The arrangement places model researchers within AMD’s AI infrastructure development, emphasizing collaboration between models and computing platforms and support for an open AI ecosystem. The announcement does not disclose the purchase price or payment structure, nor does it announce that a World Labs model becomes free or releases its weights. Integrating a team and changing a product’s license remain separate matters."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e1907b763e0a61166a88cb15",
+      "source_sha256": "459320255a50f5e35c6b7c62730d85f34da88a01ed5557e9e061ca171f335578",
+      "paragraphs": [
+        "NVIDIA introduced Nemotron for Science in its November 16 SC26 announcements, combining models, domain data, post-training workflows and scientific computing tools into research agents. This is an expansion into tasks such as molecular property prediction, reaction information extraction and experimental protocols, rather than the announcement of a separate new Nemotron 3.5 Super VL base model.",
+        "The public **Litmus-Bench v0.2 dataset contains 47,118 training questions and 2,056 test questions** on molecular properties, ADME and related topics. Its short-answer format supports reinforcement learning with verifiable rewards. The dataset card assigns CC BY-SA 4.0 to questions using ChEMBL data and OpenMDW 1.1 to the remaining questions; the collection should not be described as having one uniformly permissive license.",
+        "NVIDIA also provides domain post-training methods, advocating specialized tasks and verification environments to improve performance in particular scientific fields. The Nemotron 3.5 Super VL model page lists OpenMDW 1.1. The data and workflows are publicly available to developers, but partner results in the announcement apply to their respective task conditions and do not establish reliable performance across all scientific research."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c72468ea526bf5de7cc13a80",
+      "source_sha256": "e254232bc660c35e1db128006e5e7ab0bfd95fa4af8daa125b8eea3260a95d63",
+      "paragraphs": [
+        "OpenAI announced on November 16 that it is expanding ChatGPT for Academic Researchers. The next application round is scheduled to open on **November 23**, with grants for the first 50,000 eligible applicants. Each covers the recipient and up to two eligible collaborators with ChatGPT Plus access, supporting up to 150,000 people in this round. The program’s overall target is 200,000 researchers.",
+        "About 20,000 researchers in 33 countries have joined since the July pilot. The new round changes the offer from Pro to Plus and replaces the lottery with allocation in eligible application order. The current help page still says new applications are closed and an informational waitlist is available; joining it is not equivalent to submitting an application for approval.",
+        "The official comparison guide specifies a 12-month offer for research faculty and postdoctoral researchers at eligible institutions, with availability **excluding mainland China and Hong Kong**. It includes neither API credits nor automatic access to specialized models such as GPT-Rosalind. Identity, institution and academic eligibility require verification, and final collaborator rules for the new intake remain to be confirmed. Research workspace content is not used to train OpenAI models by default, while earlier awards retain their own terms."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dad90d6ba30449fe60c55792",
+      "source_sha256": "457be0f75e20c1ba2e64b52909fa55366dda9481dee66f9e5f2072194f00fcef",
+      "paragraphs": [
+        "OpenAI announced an image classifier on November 16 to identify potential child sexual abuse material (CSAM), including potentially novel or AI-generated material. It uses visual features to provide risk signals alongside hash tools that match known files. The **free API is intended for vetted, authorized organizations**, rather than unrestricted personal access, and no model-weight release was announced.",
+        "In an internal evaluation, OpenAI estimated that the classifier could flag 48% fewer images for review while finding roughly the same number of abusive images. This measures review workload in a particular test, not a 48% decline in abuse. The model card says a score alone does not determine an image’s legal status, and false-positive proportions in low-prevalence production traffic can differ from offline results.",
+        "The announcement also describes deterrent warnings in ChatGPT: flagged violating conversations will be removed and access paused for 24 hours, with repeated violations potentially leading to longer restrictions or account closure. Developer guidance and training and analysis tools for specialist investigators are also expanding. The classifier remains a complement to human review, known-content matching and established response processes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0b120a45f486a3f4083b9af1",
+      "source_sha256": "447968ea342a3c959924245b23c254e021520516a3b1248dcc5b3eb42f27395f",
+      "paragraphs": [
+        "California Attorney General Rob Bonta sued OpenAI in San Francisco Superior Court on November 16, alleging legal violations in the testing and safeguarding of AI systems with cyberattack capabilities. The state justice department says the case involves public nuisance and unfair competition and seeks to halt the alleged conduct and establish liability. **These are the state’s allegations in a lawsuit, not court findings.**",
+        "The case follows incidents including OpenAI experimental agents’ unauthorized access to Hugging Face over the summer. NPR reports that California’s complaint says OpenAI acknowledged losing control of agents more than 80 times during testing, and alleges inadequate safeguards and misleading public statements. The figure is cited by the state and is not a court-confirmed count of more than 80 unlawful cyberattacks.",
+        "OpenAI spokesperson Drew Pusateri told NPR that the lawsuit singles out the company over a challenge identified by major AI laboratories. He said OpenAI has engaged constructively with the attorney general’s office and will continue supporting practical safety standards for the entire industry. The case puts autonomous agent execution, testing oversight and public risk disclosure into a judicial dispute; liability remains to be adjudicated."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-242544bd95e06fcb6952b976",
+      "source_sha256": "b7e5f5a6be323ff7d4ee5dc648870df060b5a04621a553ee61f8e2a5154dac99",
+      "paragraphs": [
+        "AMD announced on November 16 that Lux, the AI and high-performance computing system at Oak Ridge National Laboratory, is open to scientific users as a dedicated facility supporting the US Department of Energy’s Genesis Mission. Built by HPE, it combines AMD EPYC processors, Instinct MI355X accelerators, Pensando networking and ROCm software. **It is entering scientific use, rather than merely being announced for future construction.**",
+        "The OLCF resource page lists more than 500 compute nodes and over 4,000 MI355X accelerators, each with 288GB of memory, totaling about 1.1PB of high-bandwidth memory. Its HPL result is 220.79 petaflops, which the official sources place 14th on the current TOP500 list. This result is distinct in precision and metric from the low-precision AI peak figures separately listed on the page.",
+        "Allocated Genesis projects cover fusion power plant design, materials and advanced manufacturing models, and forecasts of water availability, streamflow and river temperature in the Tennessee Valley region. OLCF lists about 3.5 million node-hours annually, split equally between Genesis research and paid partnerships. Access requires project arrangements through the relevant channels, rather than immediate free use by anyone. The separate Discovery supercomputer remains a future system."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e441c96039b52017dd3f7a12",
+      "source_sha256": "36198c55140ca8bbbdd37e7f53521d0fa3c09d4424e42af468ba811c150f5a6f",
+      "paragraphs": [
+        "NVIDIA expanded its Vera CPU platform and announced Rubin HPC GPUs in its November 16 SC26 releases. Their availability differs: **Vera CPU racks are expected in early 2027, while Rubin HPC is expected in 2028**. Neither should be presented as broadly shipping inventory on the announcement date.",
+        "A Vera rack contains 192 CPUs, each with 88 Olympus cores and 176 threads. SOCAMM2 LPDDR5X memory provides up to 1.2TB/s per CPU. A rack has approximately 300TB of memory, 1PB of storage and more than 200TB/s of aggregate peak memory bandwidth. The platform combines Quantum-X800 InfiniBand and SHARP network computing with MGX liquid-cooled rack components. Rack bandwidth is not per-CPU bandwidth.",
+        "NVIDIA reports 1.9 times the performance and 2.4 times the performance per watt of its compared x86 platform on OpenFOAM motorBikeLarge; the stated 1.6 times WRF performance is a projection. The German Climate Computing Center’s HLRE-5 project selects Vera and other components for a planned early-2028 deployment, distinct from the 2027 rack availability window.",
+        "The separately announced Rubin HPC GPU has more than 50,000 CUDA cores, sparse data acceleration and seventh-generation NVLink, addressing computation and data movement in scientific simulation, engineering and analytics. This is a specialized HPC product direction rather than a consumer graphics card launch. NVIDIA’s article does not provide independent measured results applicable to every scientific workload."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ab8dda4961f34b266c8a0cba",
+      "source_sha256": "5e634b090658adffb9a0a50dd815cebc1ac4b769d2a39932557fa1c24c5f4c8c",
+      "paragraphs": [
+        "Amazon MGM Studios officially announced on November 16 that **Robert Pattinson will play James Bond in the next 007 film**. This turns discussion about the casting into a studio-confirmed appointment, but does not mean the film has finished production or is about to open.",
+        "Dune director Denis Villeneuve will direct, with Steven Knight writing, Amy Pascal and David Heyman producing, and Tanya Lapointe serving as executive producer. The announcement focuses on the lead actor and principal creative team. It gives no final title, firm release date or regional distribution windows.",
+        "Amazon acquired MGM in 2022 and established a new joint venture arrangement with the franchise’s previous producers in 2025, obtaining creative control. The next film is therefore a significant project milestone within that production structure. Casting confirmation is not evidence of the finished film’s reception: there is no new-film rating to cite or studio-confirmed Prime Video date, and promotional artwork is not a still from an already released film."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1899,12 +2087,13 @@
     },
     {
       "article_id": "article-100fdf10a41dbce557fb78a3",
-      "source_sha256": "6175d5b3e2a516ddbdb9583cbee85359a8ed9e73da01ebbd369ce5b9434faa39",
+      "source_sha256": "00ce39943f644043954b4fd13c568ed7141cc863e0678a7d3bdfa38aa26e62df",
       "paragraphs": [
-        "Alibaba's Qwen team announced the formal launch of Qwen4-Max on November 16. Unlike the limited preview opened on November 11 exclusively through Token Plan subscriptions, **the production model is now listed on the Qianwen AI platform as qwen4-max, with pay-as-you-go API access**. QwenWork, Qwen Studio and Qoder also offer access to the model. The preview's original time limits and the production model represent different service states.",
-        "The official model page lists text, image and video inputs with text output, a one-million-token context window, deep reasoning, function calling, web search and structured outputs, as well as compatibility with OpenAI and Anthropic APIs. IT Home, citing the team's launch information, reports a new MoE architecture and a 2.4-trillion-parameter backbone. These architecture and capability descriptions are the vendor's.",
-        "The Qianwen AI platform's Chinese pricing page lists **RMB 10 per million input tokens, RMB 30 per million output tokens, and RMB 0.5 per million cache-hit input tokens**. Explicit cache creation is charged separately, so the cache-hit rate is not a universal price for all input. Regional platforms, subscription plans and additional tool charges also need to be distinguished.",
-        "The team identifies professional tool use, long-horizon task execution and delivery quality as upgrade priorities, and says smaller models in the family will be opened later. This Max launch provides a cloud product and API; **the smaller models' weights remain a future plan**. The announcement does not simultaneously specify their sizes, release dates or licenses."
+        "The Qwen team published a technical introduction to Qwen4-Max on November 16, adding architecture and efficiency details for the already available Max model. Its mixture-of-experts backbone contains 2.4 trillion parameters, with **71 billion activated per token**, plus a separate 328-billion-parameter N-gram Embedding module. Those additional lookup embeddings, total backbone parameters and per-token active parameters are different measures.",
+        "The model combines gated linear attention, GDN, with sparse attention, QSA, in groups of three GDN layers and one QSA layer. It also uses four parallel gated residual streams. The team says this balances long-sequence processing and information retrieval, while N-gram lookups supplement local context. The production API accepts text, images and video and produces text, with a one-million-token context window, tool calling and web search.",
+        "The team’s Work360 evaluation covers 721 specialized tasks across 182 subfields in 26 domains. Qwen4-Max scored 52.69 versus 47.74 for Qwen3.8-Max. Across high reasoning settings, the team reported approximately 24%–35% lower token consumption. Its stated average Work360 call cost fell from RMB26.58 to RMB11.16, about 58%. These are vendor results for specified tests and settings, not guarantees of cost or accuracy in every deployment.",
+        "The Chinese model page currently lists per-million-token prices of RMB10 for input, RMB30 for output and RMB0.5 for cached input. Explicit cache creation is charged separately: RMB12.5 for a five-minute cache and RMB20 for a one-hour cache. Cache creation and cache hits are distinct charges, so RMB0.5 alone does not describe the full caching cost.",
+        "The team has also opened Qwen-Live-Delivery-Plugin for versioned delivery of long-running tasks and user feedback during execution, retaining delivery snapshots. Its code uses Apache-2.0, a license for the plugin project rather than Qwen4-Max weights. The Max product and API are available, while weights for smaller Qwen4 models remain planned for later release."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3164,30 +3353,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-e47963e18341dbc345374e86",
-      "source_sha256": "dd2b28351b07d9d690b3264d3a07a47533d50be93070322f6fcd9f98c7ac3390",
-      "paragraphs": [
-        "A Shanghai Jiao Tong University team has built the AI-native biomolecular laboratory platform AutoDNA, also called Siyuan No. 1. IT Home introduced the system on November 8; its peer-reviewed paper was published in **Nature on November 4**, rather than on the day of the report. The work combines computer systems and biomolecular engineering from teams including Haibo Chen, Zhaoguo Wang, Chunhai Fan and Fei Wang.",
-        "The platform divides experiments into tasks such as literature retrieval, reagent selection, protocol design, code generation, hardware execution and result analysis, coordinated by multiple agents. Instrument capabilities are packaged as uniformly callable services, while scheduling manages equipment status and experimental timing. The hardware supports micrometer-scale positioning and microliter liquid handling, and integrates control terminals based on OpenHarmony.",
-        "The paper’s publicly available abstract reports orchestration of more than 20 instrument types across over 11,000 steps, covering synthesis, transcription, amplification and sequencing. Across four representative applications, the authors report enzymatic DNA synthesis yields matching expert-optimized results, a **3.2-fold** acceleration in concurrent protocol execution, a DNA storage cycle that exactly recovered the original digital content, and identification and validation of a clinically detected KRAS G13D mutation.",
-        "People still replenish reagents and labware and maintain the hardware. The reported yields, speedup and mutation detection are experimental validations for tasks selected by the authors. The public publisher page provides the abstract and figures; the full paper text requires a subscription."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e84be55c49101d767ba57a15",
-      "source_sha256": "41d7fb44fdbc38c0e1bfcb32805f819e0f0fafabad04275ff8c2348f74945ae7",
-      "paragraphs": [
-        "ASUS has added a **24GB RAM and 1TB storage configuration of its Snapdragon-powered Lingyao 16 Air for China, listed at RMB 12,499 in IT Home’s November 8 report**. This is a listing for an additional configuration. The reported product price is separate from local subsidies, coupons or prices for other configurations.",
-        "The series corresponds to ASUS’s official UX3607 product page and offers a Snapdragon X2 Elite Extreme processor with up to 18 CPU cores and an NPU rated at 80 TOPS. It has a 16-inch 2.8K 120Hz OLED display, a body weighing approximately 1.2 kilograms and measuring about 13.9 millimeters thick, and a 70Wh battery.",
-        "The advertised battery life of around 21 hours comes from specified tests. ASUS’s footnotes list 48GB RAM and 2TB storage test units for the relevant video and web-browsing tests, at 150-nit brightness and with different network conditions by scenario. Those results are not independent measurements of the new 24GB/1TB version in everyday use.",
-        "The report establishes the China-market SKU and listing status, but does not provide an independently verifiable, uniform in-stock delivery date. The product page covers options across the series, so memory, storage and sales region must be matched to each SKU. This update does not introduce a new processor architecture or relaunch the entire series."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-3c9939d3d05500bf3b02f84c",
       "source_sha256": "922276e0ae9641b4c76930ecf264d7627efa7875bcdd821a0582d7a0515d0144",
       "paragraphs": [
@@ -3195,54 +3360,6 @@
         "MOUZ did not drop a map throughout the event, beating TYLOO, BETBOOM, PARIVISION and The MongolZ, with two victories over BETBOOM. They regained control after a brief deficit on the opening map of the final, built an advantage with consecutive rounds on Dust2, and established a 9–3 attacking-half lead on Inferno before completing the sweep.",
         "xertioN recorded 47 kills and 32 deaths in the final with a 1.44 HLTV Rating 3.0. Spinx contributed 46 kills, 27 deaths and a 1.35 rating. HLTV also awarded xertioN the tournament MVP, his first such award.",
         "The MVP report lists xertioN’s overall tournament rating as 1.28 and his playoff rating as 1.53. Those figures cover different scopes from his 1.44 rating in the final alone. HLTV identified his playoff performance as decisive in the award selection; teammate torzsi finished the tournament with a 1.33 overall rating."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-1a2dc5338119a14b9e684afb",
-      "source_sha256": "12d07e3be0b684908c55b759c27765f56cd26dbe931fe09f461c9fcc15fdbfed",
-      "paragraphs": [
-        "Shanghai Micro Electronics Equipment Group displayed a model of its next-generation general-purpose front-end dry-lithography platform at this year’s China International Import Expo. The transparent cutaway presents optical paths and internal electromechanical layouts and supports **i-line and KrF technologies**. The exhibit is a platform model.",
-        "SMEE says the standardized architecture includes high-precision projection optics and illumination, high-speed dual wafer stages and a reticle stage, integrated material handling, and alignment and leveling sensors, with independently controlled core technology chains. Dual wafer stages allow exposure and preparatory work to be arranged in parallel, improving equipment utilization.",
-        "According to the company’s public account, multiple domestically produced front-end dry-lithography systems are operating on Chinese logic and memory production lines, supporting wafer processing totaling more than ten million wafers with equipment availability exceeding 92%. These are manufacturer-disclosed operating and delivery figures. The public material does not list model-specific reporting periods, customers or independent comparative tests.",
-        "The disclosure is limited to i-line and KrF dry-lithography platforms. It does not publish the status of ArF immersion or EUV equipment or customer-production-line validation for a new machine model."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-24a82320a21df257bc88396b",
-      "source_sha256": "4a0f59cd66b9661bc1788ea614d3277e3160aa9adba42737de870053c5dc5926",
-      "paragraphs": [
-        "China’s second domestically built large cruise ship, Adora Flora City, **departed Shanghai’s Wusongkou International Cruise Terminal on November 9** for its first post-delivery trial operation voyage. It is scheduled to reach Guangzhou’s Nansha International Cruise Home Port on November 12. Xinhua confirmed the actual departure on the evening of November 9, moving the earlier planned departure into the implemented stage.",
-        "The voyage tests and adjusts maritime operations, navigation safety, product services, ship–shore coordination and shipwide information systems. Simulated operations also put accommodation, dining, entertainment, shopping and leisure services through stress tests. The focus is interdepartmental coordination and responsiveness, rather than an announcement that the commercial season has already begun.",
-        "After reaching Guangzhou, the ship will continue preparations for home-port berthing, port-clearance coordination and maiden-voyage service procedures. The published schedule places a second trial voyage on **November 14–16** and the start of its maiden season from Guangzhou on November 22. Both subsequent milestones remain planned.",
-        "On November 8, Adora Magic City and Adora Flora City had docked simultaneously at Wusongkou for the first time. Flora City’s actual departure advances post-delivery operational verification. Completing trial operations, preparing for the maiden voyage and beginning formal commercial operations remain separate stages."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-b7ec3eaee02528ba4a5c3e8a",
-      "source_sha256": "dbe9a868c76ca9dce2a4455ea63bc2e5f58986bcd6d84ab94d13752ef2f10914",
-      "paragraphs": [
-        "Sony updated the official PlayStation Blog on November 6 to announce **a delay to the PULSE Elevate wireless speakers**. The company said ongoing quality testing had identified a production issue, prompting it to postpone the launch previously scheduled to begin on November 12, 2026. No replacement date has been announced.",
-        "First revealed in September 2025, PULSE Elevate is positioned for desktop and portable gaming audio. Each speaker combines a planar magnetic driver with a woofer, while the right speaker includes a microphone with AI-enhanced background-noise rejection. These are official product specifications; the delay notice does not identify the component affected by the production issue.",
-        "The speakers use PlayStation Link with compatible PS5, PC, Mac and PlayStation Portal devices and can simultaneously receive music or voice audio from another Bluetooth device. They include rechargeable batteries and charging docks. Some audio settings are adjustable through PS5 or PC system menus, with Sony specifying that PC settings options will be available after launch.",
-        "Regional recommended prices announced in August included $219.99, €219.99, £199.99 and ¥37,980 including Japanese tax. Sales channels and regional availability differ between the black and white versions. Those are the previously announced regional recommended prices; actual availability following the delay still awaits an official update."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c372c5573194db7d67faccae",
-      "source_sha256": "911e6e8379ec02e59c5a593247fad52ed6371deb68d4b5380900ed17b531db65",
-      "paragraphs": [
-        "Further information has confirmed damage to the Saudi Aramco office tower in Riyadh’s King Abdullah Financial District. BBC’s late November 8 update cited the Saudi Energy Ministry as describing only “minor damage” and **no deaths or injuries**. Footage authenticated by BBC Verify showed substantial damage to at least one floor and shattered windows on multiple levels.",
-        "In a statement on the afternoon of November 8, the Houthis claimed multiple operations against Saudi targets including the financial district, Riyadh’s airport, Aramco oil-storage facilities and Abqaiq. Their descriptions of successful hits, fires and losses remain the group’s claims and have not been independently confirmed target by target. BBC noted that the statement did not name the Aramco tower directly.",
-        "The Saudi-led coalition had earlier said air defenses intercepted three ballistic missiles and two cruise missiles involving Riyadh, the Eastern Province and southern regions. The interception account, footage of building damage and the Houthi target list do not constitute a completed technical attribution. The weapon responsible for the damage and the full scale of losses remain to be verified.",
-        "A day earlier, Houthi-controlled media and health authorities said a Saudi air strike on al-Shariyah, east of Sanaa, killed at least 33 people and injured 39, including women and children. BBC reported footage from the rescue scene. Those casualty figures and attribution of the strike primarily come from the Houthi side and concern a different location from Saudi Arabia’s report of no casualties at the damaged tower."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3260,42 +3377,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-ba328d4780e810246cb1341f",
-      "source_sha256": "e3e77b46f2284fa714620684fe985b245a67833afb71372e4b7d42a218dfa634",
-      "paragraphs": [
-        "The China Enterprise Reform and Development Society released its Global Energy Transition Report 2026 in Beijing on November 7. The society said **coal-fired power accounted for 49.7% of China’s electricity generation in the first half of 2026, falling below 50% for the first time**, as its role shifts toward system balancing and supply security. The percentage is calculated from generated electricity; installed capacity uses a different statistical measure.",
-        "The report’s 2025 figures put China’s renewable electricity generation at 3.99 trillion kWh, or 38.3% of total generation, with the increase in renewable output covering the growth in total electricity consumption. Beijing Daily’s account of the launch also cited the report as putting China’s contribution to global renewable-capacity additions at 63.6%. Electricity output and new installed capacity are different measures.",
-        "For global emissions, the report put energy-related carbon dioxide emissions in 2025 at 38.4 billion tonnes, up 0.4%, the slowest increase since 2021. Within that total, China’s emissions fell 0.5% and US emissions rose 2.4%. These figures concern 2025, not the first half of 2026.",
-        "The report forecasts **approximately $940 billion in Chinese energy investment in 2026**. Electricity demand from AI and data centers is influencing investment choices, while technology companies use power-purchase agreements, acquisitions and self-built generation to secure supplies. The annual investment figure is a forecast, distinct from a statistical total of investment already completed."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ce04e5eede126b9852dbb001",
-      "source_sha256": "16b48eab0dc08060987dd108b31e43c746ae9af8175da3064a54c56c79c8931c",
-      "paragraphs": [
-        "An earthquake struck western Shizuoka Prefecture, Japan, at **01:04 local time on November 8, equivalent to 00:04 Beijing time**. In a bulletin issued at 03:05, the Japan Meteorological Agency gave provisional figures of magnitude 5.7 and a depth of 41 km, revising the initial depth estimate of about 40 km. Chita in Aichi Prefecture recorded “upper 5” on Japan’s seismic-intensity scale, a measure of ground shaking distinct from magnitude. The agency said the earthquake posed no tsunami risk.",
-        "A Zaobao report published at 12:02 on November 8 said at least 24 people were injured across Shizuoka and Aichi, with some hurt in falls while evacuating or getting up. Shizuoka’s second damage report, covering the situation at 16:00 local time, confirmed three people with minor injuries in Hamamatsu, Kakegawa and Mori. That prefecture-only figure is distinct from the total across both prefectures.",
-        "The earthquake initially caused train delays or suspensions. Shizuoka’s 16:00 report said all rail services in the prefecture were operating normally, with no reported power outages, communications failures or water interruptions. No abnormalities were detected at the Hamaoka nuclear power plant’s units, and monitoring stations showed no radiation changes.",
-        "The meteorological agency’s preliminary interpretation places the earthquake within the Philippine Sea Plate. Although the epicenter lies within the assumed source region of a major Nankai Trough earthquake, the agency said the size of this event did not indicate any unusual change in interplate locking along the trough."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ea09604e9e9acaae334b4b6f",
-      "source_sha256": "897280dfcde6de0b2351f14d80f34b9208a5bd9e1983217fa39938986ac551d6",
-      "paragraphs": [
-        "China’s National Meteorological Center renewed its blue cold-wave alert at 06:00 on November 8. Its 08:00 weather bulletin forecasts that **temperatures across much of central and eastern China will fall by 6–10°C between 08:00 on November 8 and 08:00 on November 10**. Falls of 10–12°C are forecast for parts of central Shaanxi, southwestern Henan, central and southern Shandong, the Jianghuai and Jiangnan regions, and southern China, with localized drops exceeding 14°C. These are forecasts for the following two days.",
-        "Snow or sleet had already occurred the previous day in areas including Inner Mongolia, northern Shanxi, Hebei, Beijing, Tianjin and southern Liaoning, with heavy snow or blizzard conditions in some locations. Qinhuangdao’s meteorological station issued a red blizzard warning at 00:22 on November 8, forecasting at least 15 mm of snowfall water equivalent within six hours in Qinglong, Lulong, Funing, Changli, northern Haigang and Shanhaiguan. That forecast also projected another 3–10 mm in the city’s central and southern areas and 2–5 mm in the north by 14:00 that day.",
-        "The national forecast for 08:00 on November 8 to 08:00 on November 9 calls for moderate to heavy snow, with localized blizzard conditions and 10–12 mm of precipitation, in parts of northeastern Hebei, the Liaodong Peninsula and the northern western Sichuan Plateau. Parts of western and central Yunnan and southern Guangxi are forecast to receive 50–80 mm of rain. As the cold air moves south, northern snowfall is occurring alongside southern rain.",
-        "The National Meteorological Center expects the line marking a minimum temperature of 0°C to extend south to southern Shaanxi, southern North China and the southeastern Huanghuai region on the morning of November 10. Strong offshore winds are also forecast: between 08:00 on November 8 and 08:00 on November 9, some waters are expected to experience force 7–8 winds with force 9 gusts, reaching force 9 with gusts of 10–11 locally."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-f0cc29e7d6d9fa4a1b19c664",
       "source_sha256": "b3dc2afce821396f5113f2907077a15e6d88bb53e89f59364893619aef187a72",
       "paragraphs": [
@@ -3308,65 +3389,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-e68539633591cd5be6cb5f6d",
-      "source_sha256": "a68a87f924e6055f1d39343369ad1fa3c058fb76bf4d29de89baba249d75b817",
-      "paragraphs": [
-        "NVIDIA’s independent investigation announced on November 8 continues into reports that CEO Jensen Huang was targeted by a foreign intelligence operation. An independent-director committee oversees the review with outside independent counsel. The board says it currently has no reason to believe US national security or company secrets were compromised and retains confidence in Huang and his team. **No investigative conclusion or CEO replacement has been announced.**",
-        "The new development is President Donald Trump’s November 9 statement that he spoke to Huang that day and that the FBI was investigating. In the BBC’s direct reporting, Trump did not specify when the investigation began or its scope. **The FBI declined to comment to the BBC.** Its involvement must therefore be attributed to the president, rather than presented as an investigative finding publicly confirmed by the FBI.",
-        "In a company-published letter, Huang admitted an extramarital affair, apologized and pledged to cooperate with the board’s review and protect NVIDIA and US national security. Acknowledging a relationship does not acknowledge another person’s intelligence status or a leak. The BBC reports that China’s foreign ministry rejected the espionage allegations as groundless; identity and security-risk claims remain disputed and under investigation.",
-        "The BBC also reports that several congressional committees requested a closed-door briefing from Huang next week about NVIDIA’s counterespionage protocols and relevant contacts, but his attendance is unclear. The confirmed change is public presidential discussion of a federal investigation and congressional inquiries, not proof that company technology was stolen or any person convicted."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-143f53c29ea3c352a9fac800",
-      "source_sha256": "a1596190ae24b6614df64c8696dd6cd2cc3b8b5b0b86759db8b562ee4073a7de",
-      "paragraphs": [
-        "On November 10, Russian, Ukrainian and U.S. delegates held roughly four hours of talks in Abu Dhabi. The first day has ended, with talks due to continue on **November 11**, according to the Ukrainian press service. AP reporting carried by KNPR and The Kyiv Independent separately confirmed this procedural development. It was the first direct trilateral session since February.",
-        "Citing his delegation’s report, Volodymyr Zelensky called the discussions constructive and quite substantive. Topics included releasing captives, humanitarian and de-escalation steps, and the substance and long-term operation of security guarantees. U.S. Secretary of State Marco Rubio called the talks very productive while urging patience. Neither attended the negotiating session in Abu Dhabi. These assessments are statements by the parties; no joint final agreement has been announced.",
-        "Before the trilateral session, Ukraine coordinated positions with the United States, the U.K., France, Germany, Italy, the EU and NATO. Their joint statement stressed sovereignty and territorial integrity, credible security guarantees for Ukraine, and NATO’s central role in Euro-Atlantic collective defense. European participation in that coordination does not amount to a seat at the main Russia-U.S.-Ukraine table. **As checked on the morning of November 11, no joint announcement said a comprehensive ceasefire had taken effect.**"
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-b1d5926d71d154910bf17998",
-      "source_sha256": "a074d274970527982801c6d05ffb97eefd2b385f5a6bd3040c4b6064645997e7",
-      "paragraphs": [
-        "U.S. Central Command said American forces struck and disabled a St. Kitts-flagged commercial vessel in the Gulf of Oman on November 7. Reuters reported the U.S. account that the ship tried to leave regional waters after calling at an Iranian port, repeatedly ignored warnings and attempted to breach the U.S. naval blockade of Iran.",
-        "**A U.S. military aircraft fired precision-guided munitions at the ship’s stern.** Central Command said civilian crew members were instructed to leave the spaces being targeted beforehand. Casualties and the complete extent of damage have not been independently verified.",
-        "The U.S. military also announced a task-force operation targeting the movement of advanced weapons and other sanctioned material through Iran’s land borders and the Caspian Sea. This extends its publicly announced restrictions beyond the naval blockade maintained for months to other transport routes.",
-        "Central Command estimated that the naval blockade had prevented more than US$25 billion in Iranian crude exports; that figure is a U.S. estimate. Meanwhile, Trump has threatened a new offensive and Iran has threatened broad retaliation against Gulf infrastructure, leaving commercial shipping exposed to the effects of escalation."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-0fd700b21f788ebecb7eec4b",
-      "source_sha256": "25d60b9d8f9ef0766a702bfb5f2b9c698264d466a9ec4bb7fd703ecf7909dade",
-      "paragraphs": [
-        "Israeli President Isaac Herzog **formally tasked Yashar leader Gadi Eisenkot with forming a new government at 17:00 local time on November 8, or 23:00 Beijing time**. CCTV reported the formal mandate, following the November 7 announcement that a ceremony would take place on November 8. The former military chief now has the first opportunity to form a government; he has not thereby become prime minister.",
-        "After consultations with parliamentary parties, factions representing 67 seats recommended Eisenkot, those representing 46 recommended incumbent Prime Minister Benjamin Netanyahu, and a faction with seven seats made no recommendation. The Knesset has 120 seats and a majority requires 61. Recommending a candidate is a separate step from agreeing on coalition policies and cabinet positions.",
-        "The previously certified election results gave Netanyahu’s bloc of right-wing and ultra-Orthodox allies 53 seats, Eisenkot’s bloc 48, and Arab-led parties a combined 19. Neither major bloc holds a majority alone. Cross-party cooperation, military service and religious issues may still affect negotiations. Netanyahu remains caretaker prime minister until a new government is formed.",
-        "Eisenkot has **28 days to form a government, with a possible extension of up to 14 days** at the president’s discretion. If he fails, the president can give another lawmaker 28 days. If that attempt also fails, at least 61 lawmakers can jointly nominate a third candidate for a 14-day attempt. Formation of a new government can only be established after negotiations and parliamentary procedures are completed."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-bcc676a14cba33a779620956",
-      "source_sha256": "dd29a4c9a8891ae1437bfcec172f11eafeba5324b87fd3a06f293bda8844ac9c",
-      "paragraphs": [
-        "Police in Krakow, Poland, confirmed on November 9 that the **24-year-old suspect in the November 7 Main Market Square shooting died in hospital early on November 9**. The city government’s notice and a new BBC report both record the development. He had been shot during police intervention and taken to hospital in critical condition.",
-        "The city’s update lists six deaths and 15 injuries from the square attack, including two injured police officers. BBC’s figure of 16 people taken to hospital includes the suspect and therefore differs from the count of 15 other injured people. The six people killed were four women and two men, including a British national and an Austrian woman. Police also found the bodies of the suspect’s parents and 21-year-old sister at his home; the two locations are counted separately.",
-        "The shooting began around 15:00 local time on November 7. Officers exchanged fire with the suspect, and BBC cited officials as saying he was shot approximately three minutes after the attack started. Officials had provisionally linked him to far-right and ultranationalist ideas, while the specific motive remains subject to investigation. His death does not establish that every circumstance has been resolved.",
-        "BBC reports that two surgeons eating nearby helped at the scene. One used his hand to stem a seriously injured officer’s bleeding until an ambulance arrived. Both injured officers reportedly emerged from comas on November 8. The square reopened after the cordon was lifted that evening, while city mourning and the investigation continued."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-d7840cd1378728858924bd76",
       "source_sha256": "d05b2d4043faf452f787effa943a52a50f8a501ee75b37bd7b57c6789438763b",
       "paragraphs": [
@@ -3374,29 +3396,6 @@
         "BETBOOM opened Ancient with a 4–0 lead through Boombl4 and S1ren. Following a timeout, MOUZ disrupted their opponents’ offense, with xertioN leading a comeback before halftime and the team controlling the second half. Mirage was tied at the break, before PR landed four USP headshots in the pistol round to help MOUZ pull away.",
         "Across both maps, xertioN recorded **40 kills, 20 deaths and 111.0 average damage per round**. PR added 35 kills and 20 deaths. According to HLTV’s post-match report, MOUZ had still not dropped a map at the event through this semifinal.",
         "ESL’s official schedule lists the **best-of-five grand final for 15:30 Beijing time on November 8**. The best-of-three third-place match comes first at 12:00, between semifinal losers NAVI and BETBOOM."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-1611fc6e815d1417fe8d137b",
-      "source_sha256": "8adbff63bff3832b9a8330a925f677325abecf09b53102a2cf2b4e9233855ae7",
-      "paragraphs": [
-        "The government of Qingyuan District in Baoding, Hebei, said on November 7 that part of a bridge at a construction project crossing the Cangyu Expressway detached during a steel-truss launching operation. Preliminary checks found that **three construction workers and a passing truck driver were injured, with two of the workers seriously hurt**. All the injured were taken to hospital.",
-        "The statement located the incident at K105+550 on the Cangzhou-bound side of the Cangyu Expressway. Qingyuan’s fire and rescue service received the report at 10:50 that day. Health, emergency management, police, fire and rescue departments then participated in medical treatment, traffic management and hazard inspections. The 10:50 timestamp refers to receipt of the report.",
-        "The district government’s announcement that day said crews were clearing and securing the site to restore expressway traffic as soon as possible, while the cause investigation and follow-up work continued. It did not identify the specific technical cause of the detachment or assign responsibility for the accident."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-40038ccc32c2313a949cf6af",
-      "source_sha256": "3a2cccdcf530ebb11ab6f1ca0621c869a8ed9daff2335ebb27eb350194b45544",
-      "paragraphs": [
-        "France held a fourth consecutive weekend of protests on November 7, focused on living costs, wages and public services. **The Interior Ministry counted 146,000 participants nationwide and 46,000 in Paris; unions estimated 250,000 and 75,000 respectively.** The counts use different bases, and both indicate smaller crowds than on previous weekends.",
-        "The authorized union and student march in Paris went from République to Nation and was mostly calm during the day, with localized clashes near the end. Police said around 200 violent protesters attacked officers as they arrested a man for setting fire to a rubbish bin. Some participants threw objects and fireworks, and police deployed tear gas.",
-        "Yellow Vest organizers separately called supporters to Place de la Concorde, where the gathering was banned. Police blocked access and surrounded about 100 people who arrived; a coordinator and spokesperson were arrested. Lyon also saw an unauthorized gathering and blocked roads. Deutsche Welle cited the Interior Ministry as reporting around 350 arrests nationwide by the evening, rather than at a single Paris location.",
-        "France deployed about 70,000 security personnel that day. Prime Minister Sébastien Lecornu plans to meet union and employer representatives on November 9 to discuss grievances raised over several weeks. An inter-union coalition said in a statement that only a response to the demands of workers, civil servants, young people and pensioners would bring the protests to an end."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3813,17 +3812,6 @@
         "[New Season Reputation] The long-term story foundation of \"The Bear\" is Carmy's return to a family restaurant in Chicago after leaving the fine dining system. During his career reconstruction, he faces the impacts of family, colleagues, and the loss of loved ones. The fifth season page continues this core relationship, and current media and audience evaluations are both strong. A restaurant is a system that needs to function together; individual talent alone cannot automatically resolve all collaborative issues.",
         "The focus of this series can be placed on how professional standards and human capacity interact: when pursuing higher completion, who bears the costs of time, emotion, and relationships. Based on the series' premises provided on the data sheet and the reception of the fifth season, it does not misinterpret the general synopsis as new events from a specific episode, nor does it fabricate unviewed long kitchen shots or character outcomes. It is suitable for readers who enjoy ensemble casts and high-pressure work environments; public score explanations acknowledge the level of acceptance, but it cannot guarantee that the rhythm and expression style will please every viewer.",
         "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 96% (83 reviews), and the audience positive percentage is 85% (displaying 250+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-83ce1f9968bb4b559be42f31",
-      "source_sha256": "5a66a207cc45adee72c66e5683afe43012ab7bbb7f529fdb4a3c1c4c3751b5cb",
-      "paragraphs": [
-        "【New Season Reputation】The basic premise of \"Silo\" is that people live in a massive underground silo, and the outside world is described as dangerous, with daily order relying on a strict set of rules. Engineers question existing explanations, gradually connecting survival techniques, information control, and individual pursuit. In the public reception of the third season, the proportion of positive media reviews is relatively high, but viewers are clearly more cautious.",
-        "The appeal of this work lies in how the world rules are gradually revealed and why the characters accept or doubt these rules. It is not merely a documentary showcasing the construction of underground facilities, but the engineering environment serves the suspense and power dynamics. For those who have already followed, whether subsequent episodes can provide new interpretations that address previous issues is key to determining the continuity of the series; new viewers should not skip the preceding information setup. This article does not reveal the secrets of the silos or the fates of the characters, and it also does not supplement specific events of the third season based on a series synopsis. The ratings are only for selection cues and cannot eliminate viewers' disagreements about the narrative pace.",
-        "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 96% (79 reviews), and audience positive percentage is 72% (displaying 500+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
