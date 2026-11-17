@@ -1,7 +1,116 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T04:29:45.669Z",
+  "generated_at": "2026-11-17T09:21:19.159Z",
   "translations": [
+    {
+      "article_id": "article-c279a2188aa26a3e014b9a35",
+      "source_sha256": "076e6c338c22f4f8f84df2f102699f42f67836330d156eb5c90730863b45cbf7",
+      "paragraphs": [
+        "Google DeepMind chief strategy officer Jasjit Sekhon confirmed in a public November 16 statement that he **has joined Anthropic**. He says his work will help Claude practice and value rigor in knowledge and judgment, continuing his interest in research methodology, how knowledge is formed and how uncertainty is quantified.",
+        "IT Home reported on November 17 that Sekhon joined DeepMind in March and spent about eight months on strategy. A statistician working on causal inference and machine learning, he previously taught at Harvard, Berkeley and Yale and became a senior scientist and AI leader at Bridgewater from 2018. His statement thanks DeepMind and Google leaders and former colleagues. It describes a research direction rather than announcing a new Claude model or feature launch."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-39ededfb43f9f07e0cca616c",
+      "source_sha256": "a9f5d3167f24513a640154fae1086c4749812347d85e4a2b648cbb0b82520a09",
+      "paragraphs": [
+        "Gold Miner: Party Rush is scheduled to launch on Steam on the evening of November 17, developed and published by Margarite Entertainment. The store still displayed **Coming Soon To Early Access and not yet available** during evening verification. This is an Early Access launch, not a complete version 1.0 release.",
+        "The game turns crane-based gold collecting into online, multi-round competition for two to six players, with friend invitations or matchmaking and cumulative scores. The developer describes the core loop and Quick Play as playable. Dedicated 2v2 and 3v3 teams, Endless survival and a full seasonal ranked system remain planned additions rather than confirmed launch content.",
+        "The developer expects Early Access to last roughly six to twelve months and plans gradual price increases as modes and features arrive. The store had no user reviews at verification and disclosed generative-AI assistance with some assets, including upscaling. These are developer disclosures and plans, with no sufficient player sample for a reception judgment."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-76ea1b6519c3afe251961b9f",
+      "source_sha256": "432c221ab919d9351c12b211eb0b2708f32a58818994c9fcca2466eadd73838d",
+      "paragraphs": [
+        "Agile disclosed on November 16 that it had entered a restructuring support agreement with a group of major offshore creditors, covering approximately **US$5.183 billion** in in-scope principal. The company says the proposed restructuring aims to reorganize its debt and preserve operations. Signing support is a procedural step, not completed repayment or the conclusion of court proceedings.",
+        "The initial creditors are coordination-committee members representing an important syndicated-lender group. They hold about 20.3% of outstanding principal within the listed company’s Hong Kong scheme, 22% within the guarantor’s Hong Kong scheme, or **11.6%** of all in-scope outstanding principal. Those percentages use different denominators and do not indicate acceptance by all creditors.",
+        "Terms reported by The Paper envisage a milestone for filing applications in Hong Kong to convene scheme-creditor meetings within six months of the agreement, with extensions possible under specified conditions. The longstop date is May 16, 2028, also subject to contractual extension or termination. Agile continues to seek other creditors’ participation; progress depends on support, voting and court procedures."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-081e0edc32551e087e69f606",
+      "source_sha256": "e46ce0961a8d17680f9dd6b8455c3cce438790b49f8873710a174ba7d43af337",
+      "paragraphs": [
+        "Japan said on November 17 that two suspected Russian aircraft entered Japanese airspace northwest of Okinoshima in Fukuoka Prefecture early that morning. Air Self-Defense Force fighters scrambled, issued notifications and warnings, and Tokyo protested to Moscow. Nagasaki Prefecture relayed the Kyushu Defense Bureau’s notice placing the incident shortly after 4 a.m. Japan time, or 3 a.m. Hong Kong time.",
+        "Kyodo, citing the defense ministry, says the aircraft entered at approximately 04:07 and 04:09 Japan time, each for about three minutes. The statement did not identify their types. Russia had not responded when the BBC reported. **Their identification as suspected Russian aircraft remains Japan’s assessment**.",
+        "South Korea and Taiwan also reported Russian military activity in their respective air-defense identification zones and responded. Seoul says its airspace was not violated. Such identification zones include buffer areas beyond sovereign airspace. The available material does not establish whether all three were responding to the same aircraft."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1dfcc64f6e9e217c8b6593c0",
+      "source_sha256": "2ddadc5ca1228f5dc941b9a015bec54184a7197189da4a607897388b3f6c040a",
+      "paragraphs": [
+        "China’s industry ministry approved coordinated 6G innovation pilots on November 17 in **Beijing, Hebei, Shanghai, Jiangsu, Zhejiang, Anhui, Hubei and Guangdong**. Reply document 558 of 2026 requires local plans to be refined and implemented in light of international standards and industry research.",
+        "Priorities include developing 6G application industries, strengthening foundational industries and exploring new product paths, with regions using their industrial strengths. The ministry will conduct periodic evaluations and support technical trials, spectrum arrangements, project deployment, applications and ecosystem development.",
+        "The reply requires appropriate telecom-business authorization for commercial applications: **commercial application-scenario exploration may not begin before authorization is obtained**. Frequency use, radio stations and relevant equipment activities also require applicable licenses and type approvals. This approves pilot work rather than announcing a commercial public 6G network."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e1ebc66643a7edcdbe1b4b65",
+      "source_sha256": "8048c9bff33246f0b43b7d74de5968ef181d840174a977cb4c040718d5b30314",
+      "paragraphs": [
+        "INMO announced Future smart glasses on November 17 with a **CNY5,999** introductory list price in China; regional subsidies are separate. The JD promotional image reproduced in the report specifies **sales in December**. The CNY1 reservation purchases reservation benefits, not the physical glasses, and neither that amount nor a subsidized price is a nationwide in-stock price.",
+        "Specifications list an approximately 125-gram device with binocular full-color waveguides, 1080P per-eye Micro OLED displays at 120Hz, a 36-degree field of view and up to 800 nits reaching the eye. The vendor describes a virtual 150-inch image at six meters and active cooling. Those are product and viewing-effect claims rather than independent measurements here.",
+        "Listed hardware includes a 16-megapixel camera, 8GB RAM, 128GB storage and an 880mAh battery, with 3DoF and 6DoF spatial interaction and optional INMO Controller support. AI functions include voice interaction and visual recognition; corrective-lens accessories are specified for -8D to +2D. Stereo speakers and four microphones are built in, with PD3.0 and QC4.0+ fast charging supported."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7cb49e6bb86b07d5484b095e",
+      "source_sha256": "beef4f0c90675e8a0295b51ebba9d8f34797521d5825a21a65da53c34d113200",
+      "paragraphs": [
+        "IT Home reported on November 17 that Uber expanded notifications over its supplier Fireworks AI’s October security incident, with regulatory reporting putting the total notified at **149,346 people**. Affected information includes drivers’ names, addresses, birth dates and license numbers. California’s public Uber notification record lists October 7 as the known incident date; the media update is not the intrusion date.",
+        "In its formal November 9 bulletin, Fireworks says account and billing information was affected, with stored secrets, datasets and unfinished models affected for a limited set of accounts. It separately describes an October 23 incident at a third-party cloud provider, followed the next day by unauthorized access to Fireworks development machines and additional customer-data impact.",
+        "The vendor says it replaced credentials, isolated systems and strengthened logs and storage controls while investigating with Unit 42. It had found no further successful unauthorized access on the customer platform since October 25 and no detected impact on Inference, Training SDK or Nexus. These are ongoing-investigation findings, not evidence that every product or all customer data was compromised."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-65bf58346fb448a6df3e538a",
+      "source_sha256": "70d79c5561caaaf81ba16d151b383d4e6e99d2a27eb9246fbb7065b79b4708a9",
+      "paragraphs": [
+        "China’s disease-control, health and traditional Chinese medicine authorities published guidance on vaccine prescriptions on November 17. The document is dated October 30 and targets **progressive coverage of secondary-level and higher hospitals and primary healthcare institutions during the 15th Five-Year Plan period**. This is a policy goal for linking vaccination services with clinical care, not completed coverage of every institution.",
+        "Vaccine prescriptions give eligible patients vaccination recommendations during medical consultations. Participating facilities also include maternal and child health institutions and specialized disease-control hospitals. Priority departments include general practice, preventive care, pediatrics, geriatrics, infectious diseases and health-check clinics, with attention to children, older people and patients with chronic diseases.",
+        "Qualified physicians in clinical medicine, public health and traditional Chinese medicine may issue prescriptions. Eligible assistant physicians and certified village doctors in remote areas may also do so under the guidance. The official explanation organizes the process into identifying recipients, issuing prescriptions, vaccination services and information management, supported by standardized training, interdepartmental coordination and exploration of incentives."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-56290b1aced4fc8bb1dff49d",
+      "source_sha256": "3b686aab3d86d9a8ac30a6408ac20994d8dfa91fdf976432c778d43cf98e8cdf",
+      "paragraphs": [
+        "Several French unions called public-sector workers to strike and demonstrate on November 17 over wages and the frozen salary index point. This is the third united public-sector action call since September. AFP reports that talks with Prime Minister Sébastien Lecornu the previous Friday failed to satisfy unions, with more organizations subsequently joining.",
+        "The main Paris rally is scheduled for 2 p.m. local time, or **9 p.m. Hong Kong/Beijing time on November 17**. A police source quoted by AFP projected 40,000–80,000 participants in Paris and 220,000–300,000 nationwide. These are advance estimates, not observed attendance. Youth groups and some Yellow Vest activists also plan to participate.",
+        "A November 13 notice from teachers’ union FSU-SNUipp confirms a joint call by eight unions seeking improved purchasing power and education funding. The draft budget contains no general pay increase. Some earlier demonstrations involved localized clashes, but the main Paris march had not begun at this evening edition’s verification time. Its actual attendance and conditions await subsequent reporting."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-050a46d9a837d17aa2220814",
+      "source_sha256": "4d1ddb67e068480d45a88c71c2f82fd51b8e6145e77d976766baa2eae257a0a3",
+      "paragraphs": [
+        "The two-week search following the November 2 attacks on a humanitarian aid center and underground shelter in Komyshuvakha, Zaporizhzhia region, ended on November 16. Ukrainian officials reported **72 deaths and four people missing**. This is a recovery and identification update from the earlier attack, not a new November 17 strike killing 72.",
+        "Ukraine’s public broadcaster and DW, citing local officials, report 58 bodies recovered from rubble, one hospital death and 13 deaths established through DNA analysis. BBC Verify authenticated footage of rescuers taking cover from drones and imagery of damaged emergency vehicles and excavation equipment. Ukraine’s emergency service says repeated attacks during the operation injured three police officers, four workers and two rescue dogs and damaged five vehicles.",
+        "Ukrainian authorities accuse Russia of deliberately targeting recovery operations. The BBC had received no incident-specific response from Russia’s defense ministry; its general November 2 statement said attacks targeted energy and transport infrastructure used by Ukraine’s military. Experts consulted by the BBC found the crater and fragments consistent with a FAB-3000 bomb and its guidance kit. That technical assessment is distinct from establishing intent."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-ee8f264e6cb667c5a7cbc80a",
       "source_sha256": "55d15a6cea23d5c096b0b6a3b1cd68e8813453e092dce168b4328c3e9502c821",
@@ -103,11 +212,12 @@
     },
     {
       "article_id": "article-dc5cefb31b9d0587e969e7ce",
-      "source_sha256": "96acec7018aacba532a64f482715b7a06320f9a4980f9a7c48a6c0c8113701b4",
+      "source_sha256": "bc3b723e7c9ba0d3dd1faddf57bfa49ef96f44a7a292d97a64c5ca8419c809e2",
       "paragraphs": [
-        "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney held a bilateral meeting in Shenzhen on the morning of November 17, with both leading delegations. Lianhe Zaobao, citing Reuters, reported that Carney said relations had gained greater predictability and stability. CCTV News also confirmed the meeting that morning.",
-        "This was their **third meeting since Carney became prime minister**. They previously met during the 2025 APEC gathering in South Korea, and Carney visited China in January 2026, becoming the first Canadian prime minister to do so in almost a decade. The Shenzhen meeting, ahead of the APEC leaders’ gathering, forms part of another visit to China this year.",
-        "Reuters placed Carney’s January visit in the context of Canada’s effort to reduce its heavy economic dependence on the United States. Public opening information from the latest meeting centered on the stability of bilateral relations. Zaobao’s 11:53 a.m. report did not list a newly signed trade agreement, tariff change or specific investment amount from this meeting."
+        "After Xi Jinping and Canadian Prime Minister Mark Carney met in Shenzhen on November 17, Canada released details of an extended and expanded preliminary trade arrangement. Added relief covers frozen pork, cold-water shrimp, geoduck, sea cucumber and Greenland halibut, among other products, representing **approximately C$400 million in Canadian exports**. This is the value of covered exports, not the amount of tax savings.",
+        "Canada’s prime minister’s office says China agreed to suspend the relevant anti-discrimination tariffs from **January 1, 2027, through December 31, 2028**. The expansion builds on the extension announced earlier this month for canola meal, lobster, crab and peas, adding more agricultural and seafood products.",
+        "In exchange, Canada will extend existing remission for certain Chinese steel and aluminium products through the end of 2028 and expand coverage to 32 tariff items with insufficient or unavailable Canadian supply: 23 steel and nine aluminium items. Canada says over 90% of bilateral trade now receives reduced tariffs, which does not mean all products are duty-free.",
+        "Other initiatives include a major Canadian trade mission to China in 2027 and Air Canada’s planned Vancouver–Guangzhou flights from May 2027. China’s foreign ministry readout calls for deeper trade, energy, agriculture and financial cooperation and management of differences. The specific tariff periods and product coverage are detailed in Canada’s release."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -146,12 +256,34 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-d47347f1fb8e842f5238b36c",
+      "source_sha256": "4f7db87cf02727aaca28ca3903f9cf7913f8441f2d48949cc5d3673686d58541",
+      "paragraphs": [
+        "OpenAI said on November 17 that it is working with NATO’s Communications and Information Agency to give core NATO institutions access to advanced cybersecurity models. It reports **up to 300 billion raw input and output tokens per month** under the collaboration. That measures usage; the announcement does not give a corresponding procurement value.",
+        "Daybreak supports authorized defensive work, including software review, suspicious-activity investigations, vulnerability validation and testing fixes. OpenAI also says European cyber agencies and some national agencies have received model access. This does not establish identical deployments in every NATO member.",
+        "NATO’s Cooperative Cyber Defence Centre of Excellence confirms that Crossed Swords 2026, held in Tallinn on November 2–6, introduced AI-agent training and used OpenAI Daybreak in its technical environment for the first time. More than 250 participants from over 40 NATO and non-NATO member states trained cyber and multi-domain coordination with human oversight emphasized. The exercise has concluded."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-575fbccbc93ad4d2828a8844",
       "source_sha256": "81829da6e55ac9572324ea80384fb5f8a480164a1c3c735a679b4c71415a6ec5",
       "paragraphs": [
         "An earthquake struck offshore from Southeast Maluku, Indonesia, early on November 17. Indonesia’s Meteorology, Climatology and Geophysics Agency (BMKG) records the time as 04:11:20 Western Indonesian Time, or **05:11:20 Hong Kong time**. BMKG estimates magnitude 7.1 and a depth of 115 kilometers, about 130 kilometers southwest of Southeast Maluku, and assesses no tsunami potential.",
         "The US Geological Survey’s reviewed estimate for the same event is **magnitude 6.6 at a depth of 68 kilometers**, about 148 kilometers west-southwest of Tual. The agencies’ event times agree, but their magnitude, depth and location solutions differ. The USGS entry used here was updated at 07:18:03 Hong Kong time on November 17; that is not the earthquake’s occurrence time.",
         "BMKG lists intensity III shaking in places including Saumlaki, Tiakur, Dobo, Sorong, Manokwari, Tual and Fakfak, and intensity II in Nabire and Serui. MMI shaking intensity is distinct from earthquake magnitude. Anadolu’s report that day had no immediate casualty or damage information. The institutional data reviewed for this midday edition did not provide a confirmed casualty total."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5cdbb0432c2d7f9c119479f2",
+      "source_sha256": "be280ef580842f9abe1b4922de4e5e2f79a844be459ad98badbff87dd7120189",
+      "paragraphs": [
+        "Google announced on November 16 that **66 regional voices** are rolling out to Gemini on Android and iOS. Listed language–region combinations include US, UK and Indian English, Hindi, Brazilian Portuguese, Indonesian and Korean, emphasizing natural local pronunciation and rhythm.",
+        "Google says the voices adjust everyday cadence, pitch and inflection instead of exaggerating accents. A selected voice carries across Gemini Live conversations and spoken playback of chat answers throughout the app. This expands voice-presentation options rather than releasing a separate foundation model.",
+        "Previews are available through Gemini Live’s three-dot menu or the app’s voice settings. The announcement describes a gradual rollout, not simultaneous availability for every account, and does not list Chinese regional voices or itemized eligibility by region. The stated list therefore does not establish general availability of Chinese accents."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -510,6 +642,39 @@
         "Netflix’s November 16 announcement described its first appearance at the Texas Book Festival in Austin on November 14–15 and several book adaptation developments. Season 2 of **3 Body Problem returns to Netflix on January 14, 2027**, with David Benioff, D.B. Weiss and Alexander Woo among its continuing creators. This confirms a second-season date rather than an already available new season.",
         "Harlan Coben’s novel The Innocent is receiving a new limited-series adaptation from showrunners, writers and executive producers Robert Hull, Bryan Wynbrandt and Steven Lilien, the creative team behind I Will Find You. Netflix has established a new creative partnership with their company StoryMath. Coben executive-produces, with Ben Coben also producing. The announcement gives no lead cast, episode count or premiere date for the new project.",
         "Virgin River has been renewed for Season 9, with Season 8 scheduled to premiere in 2027. Netflix says the seven released seasons have accumulated more than 500 million views, spent 28 weeks in its Global Top 10 and reached the Top 10 in more than 80 countries. These are platform-reported cumulative viewing and chart metrics, not a count of unique viewers; Season 9 remains a renewal."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-19ffc913dde56b3a27cf9c0d",
+      "source_sha256": "baaadd59d78655012f753c6852385aba9e58bd7dbbf57abfe6059719fb6d7e87",
+      "paragraphs": [
+        "Google Threat Intelligence Group and Mandiant’s November 16 quarterly report describes movement from manual prompts toward multi-agent frameworks and automated exploitation. It draws on incident response, threat-actor tracking and platform-defense telemetry: **operational cases within the vendors’ visibility**, not a census of every attack worldwide.",
+        "The report says CAIRN and PentAGI have appeared in real intrusions and describes an automated research-and-attack workflow targeting French media, entertainment and education websites. Some systems continuously compare software before and after updates, identify patched weaknesses and generate and test attacks, shortening the interval between patch disclosure and exploitation. That differs from autonomously discovering previously unknown zero-day flaws.",
+        "GTIG also describes LLMJacking, in which stolen model credentials are resold, and model-assisted production and distribution of influence content. The authors say some frameworks currently sacrifice stealth for speed, leaving recognizable traffic and code traces. Reduced human involvement and greater stealth are their forecast, not evidence that all intrusions are already fully autonomous."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dbd521b65ff46e25f0f5d6fb",
+      "source_sha256": "1f3f90b7c904ea5d4ee345f95dee291775a5ff5f60f54018da4cda482fb19914",
+      "paragraphs": [
+        "Penguin Solutions introduced MemoryAI Photonic Appliance at SC26 on November 16, using Marvell Photonic Fabric silicon-photonic interconnects to let CPU and GPU servers share memory meters away. It complements GPU-local HBM with multi-rack sharing intended to ease memory constraints in inference, long contexts and agent workloads.",
+        "The vendor specifies capacity of **up to 16TB DDR5 RDIMM and 576GB HBM3E**, targeting 57.6Tbps total appliance bandwidth. HBM Direct, DDR5 Direct and HBM-DDR5 Cached modes support static or dynamic allocation. These are announced specifications and targets, not independent measurements. The formal release says 576GB, rather than the 578GB appearing in some secondary reporting.",
+        "The formal release schedules **sampling to selected customers in the second half of 2027**, not broad stock availability now. A separate DDR4 CXL add-in-card collaboration with Marvell targets qualification and enterprise deployment by the end of 2026 through PCIe 5.0 and CXL 2.0. That earlier schedule does not apply to the photonic memory appliance."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bdb62e2a664e08abdcf24099",
+      "source_sha256": "2927bccce9b8929927bc6cedc5b7b5ae2d01e15071dd32ec48f666461f5d6779",
+      "paragraphs": [
+        "TOP500’s formal SC26 release on November 16 announced its 68th edition: **the top ten are unchanged from June, with only 27 newcomers**, or 5.4% of 500 systems, its lowest recorded turnover. The ranking covers submitted HPL benchmark results rather than every large AI-training cluster.",
+        "LineShine at the National Supercomputing Centre in Shenzhen remains first at approximately 2.198 EFlop/s, followed by El Capitan at 1.809, Frontier at 1.353, Aurora at 1.012 and JUPITER Booster at 1.000 EFlop/s. These are measured HPL results, not theoretical peak ratings or direct measures of AI-model training speed.",
+        "The highest-ranked newcomer is HANGANG at South Korea’s KISTI, twelfth with 342.6 PFlop/s on HPL, combining NVIDIA Grace CPUs and GH200 Superchips. The official highlights page separately counts 199 systems using AMD CPUs, or 39.8%, against Intel’s 50.2%. System counts by CPU differ from shares of computing performance or accelerator brands."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3126,101 +3291,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-5f96200ead468b1eb2c4522f",
-      "source_sha256": "3a99b3736ce926679803ee0d18cec46d7cce0f4c36b2bf2e07c9d336923ec751",
-      "paragraphs": [
-        "The leadership of Germany’s CDU formally nominated Bavarian parliament speaker **Ilse Aigner** for federal president on November 9. Chancellor and CDU leader Friedrich Merz appeared with her at a Berlin press conference. The CDU’s announcement says the Federal Convention is scheduled to vote on **January 30, 2027**. This is a nomination; Aigner has not been elected or taken office.",
-        "The 61-year-old belongs to the CSU, the CDU’s Bavarian sister party, which already supports her candidacy. DW reports that governing partner the SPD has indicated support for a jointly agreed conservative nominee. The CDU, CSU and SPD hold a majority in the Federal Convention, and some Greens may also support her. This gives her strong prospects but remains an assessment of a future vote.",
-        "The Federal Convention has 1,260 members, comprising Bundestag members and delegates chosen by the states. President Frank-Walter Steinmeier’s second five-year term ends next March. The president is Germany’s head of state, normally performing cross-party representative, unifying and constitutional duties, distinct from the chancellor’s role leading the government.",
-        "Aigner previously served as federal agriculture minister and a Bavarian minister and has led the state parliament since 2018. She says she wants to bridge divisions and reach people who feel overlooked; these are the candidate’s political positions. If elected, she would become Germany’s first female president, rather than its first female head of government."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-1db04d5b973dbc68e0c599ba",
-      "source_sha256": "7609c810b6b839baa99ac92c98950594bf4982d169cde3cead4e8070561e1632",
-      "paragraphs": [
-        "A migrant boat sank off Kébémer in Senegal’s northern Louga region. **The latest verified toll is at least 34 deaths and one survivor, with the number missing still undetermined.** BBC reported the figures on November 9, citing Senegalese news agency APS and the Interior Ministry. Senegal’s public broadcaster RTS had already relayed an APS update on November 8 saying additional recovered bodies brought the toll to 34.",
-        "The Interior Ministry’s November 8 notice describes an earlier count as of the evening of November 7: 21 bodies and one survivor. Continued searches and recovery subsequently produced the newer count of 34. These are successive figures for the same accident and must not be added together. The total number aboard has not been reliably established, so the complete missing-person count cannot be calculated from known deaths and survivors.",
-        "RTS says Louga’s governor visited relevant sites on November 8 to oversee identification and preservation of bodies. The ministry announced search-and-rescue efforts, assistance to survivors and support for families, with the minister scheduled to visit on November 9. The announced visit does not establish that it has taken place, and the accident’s cause remains subject to further investigation.",
-        "BBC describes the boat as heading for Spain’s Canary Islands, while the Senegalese notice describes passengers attempting irregular migration. The Interior Ministry says it will strengthen cooperation with neighboring countries against networks organizing dangerous crossings and support young people’s employment and socioeconomic inclusion. These are the government’s announced directions for follow-up action."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-2866a5e2d02cdd309b49bed3",
-      "source_sha256": "e7ced3a8505f873ca8b0861669ddaba1ea05955df307ef4a4c66491126110420",
-      "paragraphs": [
-        "QwenWork released version 2.0 on November 9, extending its positioning from an individual assistant toward a Team Agent. National Business Daily and IT Home report that **team Collaboration, human–AI co-creation, an asset space, automatic tasks and cross-device connectivity are fully available in the client**. This is the availability reported by the product provider, rather than an independent productivity test.",
-        "Collaboration spaces let multiple people and digital employees work on projects together. They can associate information from several DingTalk groups, documents, AI spreadsheets and AI meeting notes, with parallel conversations, task management and assignment. Digital employees use the space’s context to organize progress, summarize agreements, and create and follow up on tasks, bringing group-chat and document information into one collaboration.",
-        "**Automatic Tasks initially supports event triggers**, including messages from specified people, mentions of the user in specified groups, and approval tasks. After users configure event subscriptions and handling rules, the Agent starts work when those conditions are met. This differs from scheduled tasks that run only at preset times.",
-        "Human–AI co-creation connects conversation, previews and artifact editing. Users can select document paragraphs, spreadsheet cells, slides or app regions and submit multiple revision notes together. Online documents, AI spreadsheets and Yida applications support simultaneous work by multiple people and Agents. The asset space stores generated or uploaded images, documents, spreadsheets, presentations, webpages, apps and local files, with viewing, search and sharing."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e7d9d2bdf55e895da06d098c",
-      "source_sha256": "766c9ec673dddfa1f91003b235197d7cad034791264b7ff1b6ce5369505c8d99",
-      "paragraphs": [
-        "The Cyberspace Administration of China’s **Internet New Technology and New Application Information Service Filing System officially launched on November 9**, providing a unified entry point for filings involving generative AI, algorithms, deep synthesis and blockchain. Jiangsu’s cyberspace authority republished the China Cyberspace Administration notice that day, specifying the launch date and system name.",
-        "The former Internet Information Service Algorithm Filing System and Blockchain Information Service Filing Management System stopped operating at the same time. The new platform supports online submission and searches of filing information. IT Home reports that public searches can use an entity name, filing name or filing number.",
-        "The announced change consolidates filing entry points and service platforms. The notice does not announce the removal of filing requirements in these fields or new approval deadlines or fees. The new entry point and the retirement of the old systems take effect on the same day."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ac0c3bd270ba9eadad94aadb",
-      "source_sha256": "85f641102b3a0b20a91fffe234f692305cdfe117b6d0471c06809054c2ee13fd",
-      "paragraphs": [
-        "IT Home reported an Alibaba Cloud announcement on November 9 increasing Token Plan personal-subscription allowances: **Lite rises from 11,500 to 20,000 Credits, Essential from 25,500 to 45,000, and Standard from 45,000 to 80,000**. Their monthly fees remain RMB 39, RMB 79 and RMB 139, respectively. The allowance increases are approximately 73.9%, 76.5% and 77.8%.",
-        "**Pro changes from RMB 499 per month with 180,000 Credits to RMB 312 with 200,000 Credits**, reducing its monthly fee by approximately 37.5% and increasing its allowance by about 11.1%. Dividing monthly fees by monthly Credits gives unit-allowance cost reductions of roughly 42.5%–43.8% across the four tiers. That measures subscription Credits, rather than a uniform cut in every model’s token-priced API rates.",
-        "The announcement says new allowances will take effect progressively from November 9, with existing subscribers’ current-cycle total allowances topped up to the new standard. Existing Pro subscribers retain their current-cycle price, with the new price applying from the next subscription cycle; upgrades and renewals use the new price. Public help and promotional tables still contain pre-adjustment figures, so the phased rollout should not be described as a simultaneous completed switch for every account.",
-        "Alibaba Cloud’s official documentation limits the personal plan to China North 2, Beijing. Credits cover model and built-in-tool consumption, with actual deductions varying by model, token usage, reasoning mode and tool calls. The permitted scope is interactive use in compatible AI-coding and Agent tools, excluding custom application backends, automation scripts and noninteractive batch calls."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-b4a550b4a1e9ba74035d31fc",
-      "source_sha256": "39e11cd13df3758e49f89f565193f5f6ba2dd819599edc22d17688ede93148be",
-      "paragraphs": [
-        "Parts of Indonesia’s Batam Island have experienced continuing tap-water disruptions, and dozens of residents recently protested outside the Nongsa Digital Park data-center complex. IT Home’s November 9 report and SBS’s November 8 report cite AFP reporting that residents suspect expanding data centers are linked to shortages affecting cooking, bathing and small businesses.",
-        "The local utility attributed the disruption to **a prolonged drought lowering Nongsa Reservoir levels, compounded by an electrical fault in the water-supply system**. That explanation and residents’ suspicions about data-center use are different kinds of claims. The reports do not provide a water-use audit attributing the entire supply deficit to data centers.",
-        "Batam, near Singapore, has become a destination for regional digital-infrastructure investment. Some data centers use water-intensive cooling. In September, local authorities required developers to build seawater-desalination facilities to supply cooling water and reduce pressure on local sources. That is a construction requirement, rather than confirmation that every project is complete and operating.",
-        "The reports also describe operators proposing closed-loop cooling and water reuse, while the utility pursues supply-system and reservoir-capacity improvements. Household water difficulties coexist with disputes over resource allocation amid industrial expansion; actual improvement still depends on construction and restoration of supply."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d695250ded67036981df26fe",
-      "source_sha256": "2b232ef5cf86f1f17312c1e4fbf051d97881ff38449d3eccc48f0e9bfed4e696",
-      "paragraphs": [
-        "On National Fire Prevention Day, November 9, China’s National Fire and Rescue Administration released fire data for the first ten months of 2026. Statistics reported by CCTV and relayed by IT Home show **696,000 reported fires nationwide in January–October, down 7.0% year on year**. The period ends in October and does not include November incidents.",
-        "Residential properties recorded 239,000 fires, 1,093 deaths and 1,150 injuries, accounting for 34.3% of all fires, 71.2% of fire deaths and 63.3% of injuries. **Homes remain the setting where fire casualties are most concentrated.**",
-        "Electrical causes accounted for 228,000 fires, or 32.7% of the total, causing 467 deaths, 580 injuries and RMB 2.79 billion in direct property losses. Electrical faults were the leading cause. The report also lists careless use of fire, smoking, residual ignition sources and improper production operations among causes.",
-        "Eastern regions accounted for 43.3% of fires, while rural areas recorded 416,000, or 59.8% of the national total. February’s 128,000 fires were the highest monthly count in the ten-month period. The report also notes more fires from daytime to early evening, with fewer but more deadly fires at night."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d9053e03cdba25106ad6a6d0",
-      "source_sha256": "71b165ec7120aec384b67811f925487b0211fcb3f9498e3f9d564f41ae17d30d",
-      "paragraphs": [
-        "China’s Ministry of Public Security announced on November 9 that **five traffic-administration reforms will be introduced from December 1**. They cover one-stop online registration for new imported passenger cars, removal of paper business-license submissions, online services for companies, online temporary plates for test vehicles, and an intelligent-service pilot. The Beijing News obtained the arrangements from the ministry’s traffic-management bureau, and IT Home also reported the detailed measures.",
-        "Registration of new imported passenger cars will add shared pre-inspection information to existing exchanges of sales-invoice, purchase-tax and insurance data, enabling number selection and registration through the Jiaoguan 12123 app. Companies will be able to use electronic business licenses for transactions such as new registrations and used-car transfers, reducing paper submissions.",
-        "Companies with electronic business licenses will be able to register enterprise accounts in Jiaoguan 12123 and check vehicle status, violations, accidents and service notices for themselves and their branches. Vehicle manufacturers will be able to apply for temporary test-vehicle plates through the Internet Traffic Safety Comprehensive Service Management Platform, reducing in-person applications.",
-        "The Jiaoguan Xiao’an intelligent service, which combines questions with transaction handling, is a **city-limited pilot**, initially covering centrally administered municipalities, provincial capitals, autonomous-region capitals and separately planned cities. It is not a simultaneous rollout to every city. The traffic-management bureau said supporting rules and information-system upgrades would accompany implementation."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-07b4db08b49ef049f763e239",
       "source_sha256": "821393db115846a030cb1e97e4de7095cf2208ba19e8b30bed457a1c7def4aaa",
       "paragraphs": [
@@ -3228,79 +3298,6 @@
         "BLG won the opening game, T1 tied the series at 1–1, and BLG then took the next two games. Bin’s K’Sante and Knight’s Orianna helped BLG build an advantage in midgame fights in Game 1. T1 responded in Game 2 through performances including Oner’s Lee Sin, Doran’s Olaf and Faker’s Syndra.",
         "In Game 3, BLG expanded their advantage through a top-lane fight, Dragon Soul and Baron to reach match point. In Game 4, ON’s Seraphine and Xun’s Skarner supplied crowd control in key engagements. T1 won a fight and secured Baron, but BLG countered in later fights and ultimately destroyed the Nexus. The post-game screen shows a Game 4 duration of 37 minutes and 47 seconds.",
         "**The official final is scheduled for November 14 at 19:00 UTC, equivalent to 03:00 Beijing time on November 15, as a best-of-five.** The finalists and start time are confirmed; the champion has yet to be decided."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-aaa6cf65550e45187700231e",
-      "source_sha256": "09afcd3529db7101dcc4bb0222ccbba2be845a084ce6293dd7505905d1f50271",
-      "paragraphs": [
-        "China’s National Bureau of Statistics released October price data on November 9: the **consumer price index rose 0.7% year on year and was unchanged month on month**, while core CPI excluding food and energy rose 0.8% year on year. The **producer price index rose 5.7% year on year and 0.7% month on month**. Lianhe Zaobao reported that the annual PPI increase exceeded the 5.3% economist-survey forecast, while CPI fell short of the 0.8% forecast.",
-        "Food prices fell 2.9% year on year, while non-food prices rose 1.5%. Fresh vegetables fell 16.9%, subtracting approximately 0.31 percentage points from CPI; pork fell 8.6%. Transportation and communications rose 5.5%, healthcare rose 2.4%, and housing fell 0.3%, showing differing price pressures across consumption categories.",
-        "Industrial price increases were concentrated in production materials, which rose 7.4% year on year. Mining rose 27.9%, raw materials 11.6% and processing 3.5%, while consumer goods at the factory gate fell 0.1%. Within industrial purchasing prices, fuel and power, chemical raw materials, and nonferrous metal materials and wires rose 18.6%, 16.8% and 16.7%, respectively.",
-        "For January–October on average, CPI rose 0.9% and PPI rose 2.7% from the same period a year earlier. These year-to-date averages cover a different statistical period from October’s monthly annual and sequential changes. The NBS notes that CPI moved to a 2025 base year in 2026, with corresponding changes to classifications, representative items, collection outlets and category weights."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-07cfd2db462dffdc49dcd9e7",
-      "source_sha256": "3ccfb23213b3116cdf4c96a7d36d1b3437f95c29873bc184f68b60475e5af56c",
-      "paragraphs": [
-        "Several Chinese departments announced extensions on November 9 to suspensions of certain U.S.-related trade measures. The Customs Tariff Commission’s Announcement No. 6 of 2026 provides that **from 13:01 Beijing time on November 10, the 24% additional tariff remains suspended for two months while the 10% component stays in place**. This concerns the additional rates under Announcement No. 4 of 2025; the retained 10% is not a uniform rate for all applicable taxes and duties.",
-        "The Ministry of Transport’s Announcement No. 90 of 2026 extends the suspension of special port fees for U.S.-related vessels and their implementing rules, together with the investigation into effects on shipping, shipbuilding and related supply chains’ security and development interests, **until January 10, 2027**. It covers Announcements Nos. 54 and 55 of 2025 and implementing document No. 59 of 2025, rather than abolishing all port charges.",
-        "The Commerce Ministry separately announced in the afternoon that measures under the Unreliable Entity List mechanism’s April 4, 2025 Announcement No. 7, covering 11 U.S. entities, would remain suspended for two months from November 10. Chinese companies may apply to trade with those entities, with approval still subject to a lawful review of whether conditions are met.",
-        "Another statement concerns the Commerce Ministry’s Announcement No. 21 of 2025, covering 16 U.S. entities on the export-control list. Those measures also remain suspended for two months from November 10. **Exports of dual-use items to those entities still require applications, review and licenses**. Suspending the specified announcement does not remove dual-use export administration.",
-        "Tariffs, port fees and the two entity-related measures are governed by separate announcements with differing scopes and start and end formulations. Officials describe them as implementing leaders’ meeting or eighth-round trade-talk agreements. The extensions announced on November 9 do not remove all bilateral trade restrictions or establish that a new comprehensive trade agreement has entered into force."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-5b372cbfe6616a5a1a7e0c02",
-      "source_sha256": "1c55d6bc70f9b5b602b902088d2ac69925dca3a66dafa1b4b7613ede67814706",
-      "paragraphs": [
-        "LG AI Research announced on November 9 that **K-EXAONE 2.5 is available free through the EXAONE API Platform**. Developers, companies and research institutions can obtain an API key and use it for service development and research. Version 2.5 is positioned as a technology-validation model, with further training applied to the version released in August.",
-        "The official API documentation describes a text-only model with a maximum context of **524,288 tokens**. Input tokens and the configured maximum generation length together must fit within that limit. The API uses an OpenAI-compatible format and offers low, high and max reasoning-effort settings. The announcement opens hosted API access and does not announce downloadable version 2.5 weights.",
-        "LG’s self-reported scores on public datasets are 74.6 on AutomationBench-Openset, 59.2 on SWE-Bench Pro, 78.0 on BrowseComp and 77.3 on Claw-Eval. The company says these results make its agentic performance competitive with open-weight models such as DeepSeek-V4.1-Flash and GLM-5.3. These are LG’s tests, rather than independent comparative findings.",
-        "Free access is still rate-limited. The public documentation says calls can be limited by second, minute and day, with a 429 error when limits are exceeded and remaining allowances reported in response headers. Its example values are not presented as fixed allowances guaranteed to every user. The announcement does not give an end date for free access."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-34ff9f2f2fd123dbcaab8c61",
-      "source_sha256": "6580d7219497fd2c89ac0dacd4ab76db7744e3d998d0cabbb016849516c80af9",
-      "paragraphs": [
-        "Sony Interactive Entertainment announced the Japanese-only Midnight Black PlayStation Portal Player in Japan on November 9, with a **tax-inclusive suggested retail price of JPY 39,980 and a December 10 release date**. Reservations will begin progressively from 10:00 Japan time on November 13, or 09:00 Beijing time. This is an announcement and preorder schedule, rather than current retail availability.",
-        "The model is restricted to use in Japan, supports Japanese as its only system language, and requires a PlayStation account whose country or region is set to Japan. It includes one month of PlayStation Plus Premium. This is not a general-purpose version announced for China, and the account rules for other global Portal models should not be assumed to apply.",
-        "It retains an eight-inch 1080p 60fps LCD and features such as haptic feedback and adaptive triggers in supported games. Cloud streaming requires Premium and can run supported PS5 games without owning a PS5 console. Remote Play connects to the user’s own PS5, which must be powered on or in rest mode and paired with the device.",
-        "Sony is changing the product name from “Remote Player” to “Player,” reflecting the broader uses enabled by cloud streaming since 2025. **The new model also adds onboard storage** for future features, but the announcement does not disclose its capacity or the relevant feature details. It does not establish that local installation of PS5 games has been enabled."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9f35db9318a0aa5f7b53c212",
-      "source_sha256": "87853d609e45d2cbe6ce94b42b909119cf50988a762d51e8e8224ac5b1b0dbc8",
-      "paragraphs": [
-        "Japan Investment Corporation and Mitsui Chemicals announced on November 9 that a share-transfer agreement for JSR has been signed, with Mitsui Chemicals and the Development Bank of Japan participating in the acquisition. **The stated transaction value is JPY 1.84 trillion, with completion targeted for the second half of fiscal 2027**. The agreement has been signed; closing has not occurred.",
-        "Mitsui Chemicals’ disclosure breaks the amount into JPY 1.3921 trillion of equity value, including a JPY 200 billion DBJ investment, and JPY 447.9 billion of interest-bearing debt and other items. The final acquisition consideration remains subject to adjustments at closing. The JPY 1.84 trillion is therefore not entirely an equity cash payment to the seller.",
-        "JSR’s businesses include photoresists and other semiconductor and optical materials. JIC says combining JSR’s photoresists with Mitsui Chemicals’ pellicles and back-end materials could broaden coverage across fabrication stages and strengthen joint research. These are anticipated synergies described by the parties, rather than additional revenue or technological achievements already realized.",
-        "The transaction requires procedures under Japanese and overseas competition and foreign-investment rules. Mitsui Chemicals plans to consolidate JSR as a subsidiary. DBJ’s ordinary shares are expected to convert to nonvoting preferred shares after the transaction, giving Mitsui Chemicals all voting rights. The announcement states that the time needed for regulatory procedures may change the completion schedule."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-3d7aaab50d1518401308d641",
-      "source_sha256": "6febf0c71a4ca8bdfcff43775757fa1c2b653a7caa781fe1d74ac65ffaa06042",
-      "paragraphs": [
-        "ByteDance’s Seed team introduced **Seedream 5.5 for image generation and editing** on November 9, focusing on iterative editing, transparent assets and more realistic images and text. Its demonstration applies 100 successive edits to one person’s image, using each preceding output as the next input. The team says unedited areas can remain stable at the pixel level, reducing accumulated color shifts, detail loss and degradation.",
-        "The model supports **native RGBA output**, directly generating images with an alpha channel and fully or partially transparent areas. Official examples include feather edges, textured lettering and separate character assets intended for layout and compositing. Demonstrations involving people, flowers and interiors also show how the model handles changing occlusion, contact, perspective and lighting during edits.",
-        "On MagicArena, the Seed team had experienced image-generation evaluators assess usability rates and mean opinion scores across e-commerce, marketing, film and television, gaming, office productivity and fashion design. The company reports improvements over 5.0 Pro in all six categories, with usability in film and television and office productivity more than doubling. In a separate paired-preference evaluation, image-to-image realism reached a GSB score of +55.62% against the previous version. That figure is not an accuracy rate or a general success rate.",
-        "Tests covering Chinese, English and densely arranged small text reportedly reduced severe text corruption to 0.4% and minor corruption to 1.7%. These are Seed’s evaluations and do not establish performance across every real-world task. The product page provides trial and API entry points, but the announcement does not specify API pricing, regional eligibility or downloadable weights. Seedream 5.5 Pro is described as a forthcoming version."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3397,18 +3394,6 @@
         "In game one, Canyon’s Qiyana helped GEN establish an advantage through top-lane fighting and the contest over Void Grubs. Mid-lane teamfights involving Kiin and Ruler then extended the lead. IG’s Wei secured first blood in the bottom lane in game two, but GEN won successive dragon contests and mid-lane fights. After Canyon’s Lee Sin secured Dragon Soul, the team pushed to end the game.",
         "IG initially gained numerical advantages in top- and bottom-lane fights in game three. The dragon contest around 30 minutes proved pivotal: Canyon stole the dragon, Ruler’s Yunara scored a triple kill, and GEN subsequently took Baron. Later, Duro’s Nautilus connected with an engage, allowing GEN to win the fight and push through the base to complete the sweep.",
         "**T1 versus BLG is scheduled for 06:00 Beijing time on November 9**, in a best-of-five series. Riot lists the final for 19:00 UTC on November 14, equivalent to 03:00 Beijing time on November 15. GEN’s opponent still depends on the other semifinal."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d7840cd1378728858924bd76",
-      "source_sha256": "d05b2d4043faf452f787effa943a52a50f8a501ee75b37bd7b57c6789438763b",
-      "paragraphs": [
-        "The CS2 grand-final pairing at IEM Beijing 2026 is set. In the second semifinal on November 7, **MOUZ eliminated BETBOOM 2–0**, winning Ancient 13–7 and Mirage 13–8. MOUZ will face The MongolZ, who had earlier beaten NAVI, for the title.",
-        "BETBOOM opened Ancient with a 4–0 lead through Boombl4 and S1ren. Following a timeout, MOUZ disrupted their opponents’ offense, with xertioN leading a comeback before halftime and the team controlling the second half. Mirage was tied at the break, before PR landed four USP headshots in the pistol round to help MOUZ pull away.",
-        "Across both maps, xertioN recorded **40 kills, 20 deaths and 111.0 average damage per round**. PR added 35 kills and 20 deaths. According to HLTV’s post-match report, MOUZ had still not dropped a map at the event through this semifinal.",
-        "ESL’s official schedule lists the **best-of-five grand final for 15:30 Beijing time on November 8**. The best-of-three third-place match comes first at 12:00, between semifinal losers NAVI and BETBOOM."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
