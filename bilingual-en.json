@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T01:25:02.737Z",
+  "generated_at": "2026-11-17T04:29:45.669Z",
   "translations": [
+    {
+      "article_id": "article-ee8f264e6cb667c5a7cbc80a",
+      "source_sha256": "55d15a6cea23d5c096b0b6a3b1cd68e8813453e092dce168b4328c3e9502c821",
+      "paragraphs": [
+        "Apple’s November 16 App Store Connect release notes confirm that regulatory materials such as ICP records, game licenses and medical-device declarations have moved to a new App Compliance page, covering AIGC and functions requiring security assessment in mainland China. Official help documentation says existing mainland China App Store apps must complete the declarations and verification by **January 31, 2027** to remain available there.",
+        "All apps distributed in mainland China must declare whether they provide the relevant functions. Apps without them, or with those functions disabled or restricted locally, can declare no. AI chatbots, image or video generation, and voice or face generation or editing require approved language-model or algorithm registration details. Third-party technology also entails authorization or a usage agreement from its provider.",
+        "For functions subject to security assessment under applicable rules, Apple specifies proof of approval on the national internet security management service platform and a copy of the assessment report, among other materials. App-version approval and compliance verification are separate statuses: without verified compliance, an app may launch in other selected regions but not mainland China. These clarify platform submission and verification requirements rather than imposing an identical requirement on App Stores worldwide."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e5f636f5510c6d29206f117a",
+      "source_sha256": "f82191ca2672f972e509eedd7bbfafbc6dfe23980d6e2b056128682f9dc8bf64",
+      "paragraphs": [
+        "IT Home reported on November 17 that StarFive announced mass production and customer deliveries of its RISC-V BMC chip JH-B100. The company says it passed product adoption and review processes at several server manufacturers and internet companies, while **customer servers using it are about to enter mass production**. Chip delivery and server production are distinct stages.",
+        "A BMC is a server’s baseboard management controller, primarily responsible for monitoring and management rather than replacing the host CPU that runs general workloads. StarFive’s product page lists a quad-core RISC-V design, DDR4 and DDR5 support and dual-node management. Interfaces including PCIe 4.0, eSPI, PECI and LTPI support out-of-band management designs for different server platforms.",
+        "Official specifications also list secure boot, PFR, a platform root of trust and SM2, SM3 and SM4 algorithms. The accompanying SDK follows Yocto standards and connects with OpenBMC. These describe vendor capabilities and ecosystem support, not independent security certification or complete-system test results. The report gives no specific customer names, shipment quantity or date for broad server availability."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-56f7b36d6f1852b8bb2c3d23",
+      "source_sha256": "fb3b2865451e3fd072a6d16adedecb4f91616a21ff509cd14a37a62d26848bb9",
+      "paragraphs": [
+        "Xinhua reported on November 17 that the Chinese Academy of Sciences Aerospace Information Research Institute and partners recently completed a high-rate bidirectional Q/V-band communication experiment at the Lijiang station of China’s remote-sensing satellite ground network. **The experiment used a ground platform simulating an orbiting satellite**, rather than measuring a deployed satellite internet service for users.",
+        "Testing proceeded through wired closed-loop tests, far-field wireless connections and end-to-end evaluation, using domestically developed antennas, amplifiers, channel and baseband equipment. It covered different modulation schemes, data rates and signal-to-noise conditions. Q/V bands offer substantial spectrum resources, but their millimeter-wave links are sensitive to RF nonlinearity and phase noise. The work includes lightweight antennas and signal and phase-noise compensation.",
+        "The report gives a maximum single-channel bidirectional rate of 6.75Gbps in 512QAM mode, 2.25 times the compared existing domestic single-channel rate in the same bands. Dual carriers and polarization multiplexing raise the bidirectional rate to **27Gbps**. The team describes this as a domestic record for the bands and aims to exceed 50Gbps later; that higher figure remains a research target rather than a result of this experiment."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9a07f8ec29e8beb1530c2e7a",
+      "source_sha256": "404f2ee774cd6c987195ff2b591378a5ecad8c3006baf40d5df75959d4cae67e",
+      "paragraphs": [
+        "CCTV News reported on November 17, citing China North Industries Group, that the domestically developed seven-tonne-class Chang Ying-8 transport and airdrop drone recently completed a delivery trial. It flew a planned route to the drop zone, released a pallet automatically at **300 meters altitude**, deployed its parachute and returned to land. This is progress in transport and airdrop testing, rather than a first-flight announcement.",
+        "The trial covered loading checks, route programming, climb, cruise, door opening, automatic release, parachute-line retrieval and landing-point assessment, focusing on modular pallet loading and release sequencing. The reported aircraft dimensions are 17 meters long with a 25-meter wingspan and an 18-cubic-meter cargo hold compatible with standard aviation containers and cold-chain containers.",
+        "Published capabilities include a seven-tonne takeoff weight, 3.5-tonne payload, maximum range exceeding 3,000 kilometers and takeoff and landing distances as short as 200 meters. These are design or capability figures; the report gives neither the actual trial payload nor flight distance. Planned partnerships cover logistics, emergency support, island transport and fresh-food cold chains. The program is moving from trials toward applications, without a published start date for regular commercial routes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f5680444573177c1376ac5cd",
+      "source_sha256": "e337df54ee037d5e437b0bf2e0ea615fc9475121a645ba578ae017b49ac34142",
+      "paragraphs": [
+        "The GNSS & LBS Association of China released its 2026 BeiDou Industry Development Index Report at the BeiDou space-time industry forum in Beijing on November 17. IT Home reports that applications of BeiDou terminal equipment approached 42 million units or sets as of **the first half of 2026**, explicitly **excluding consumer electronics**. That was almost nine million more than a year earlier, or growth of about 27%.",
+        "The report also gives comprehensive BeiDou application penetration above 90%, referring to adoption among relevant industry terminal devices rather than all residents or all electronic products. Consumer metrics are separate: domestic smartphone shipments reached 124 million in the first half, with more than 98% supporting BeiDou positioning.",
+        "In the same period, passenger-car shipments with BeiDou terminals were approximately ten million, and electric-bicycle sales with BeiDou positioning approximately 26 million. Installed terminal applications, phone and car shipments, and bicycle sales are different metrics and cannot simply be added into a new-user total. The association’s October forum notice scheduled the report for the morning of November 17; its figures concern the first-half statistical period, not devices added on the release day."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-45e407fd752d9e84c8de9821",
       "source_sha256": "9dd94eb29c1c56563e123f8730ca564a483c44dd1618f979d58f6bdfa1ca986d",
@@ -42,6 +97,61 @@
         "Xinhua reported on November 17 that, according to the National Healthcare Security Administration, **380 pooling jurisdictions** across all 31 provincial-level regions and the Xinjiang Production and Construction Corps supported using shared funds in Medical Insurance Wallet 2.0 to pay a recipient’s local resident medical insurance premium as of November 15. They represented 96.45% of pooling jurisdictions, a measure of geographic coverage rather than the insured population.",
         "Cumulative payments reached **1.4109 million payment instances and RMB540 million**. The instance count measures transactions, not necessarily that many different insured people. Hebei, Henan, Shanxi, Gansu and Hunan together accounted for 67.81% of the nationwide payment amount, showing the current geographic distribution of this activity.",
         "All provincial-level regions and the Corps completed the Wallet 2.0 upgrade on October 16, 2026. It is part of the cross-province sharing of employee medical insurance personal accounts, advanced jointly by the healthcare security administration and the finance and taxation authorities. The latest development concerns broader coverage and usage for paying resident insurance premiums at recipients’ places of enrollment with shared wallet funds."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dc5cefb31b9d0587e969e7ce",
+      "source_sha256": "96acec7018aacba532a64f482715b7a06320f9a4980f9a7c48a6c0c8113701b4",
+      "paragraphs": [
+        "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney held a bilateral meeting in Shenzhen on the morning of November 17, with both leading delegations. Lianhe Zaobao, citing Reuters, reported that Carney said relations had gained greater predictability and stability. CCTV News also confirmed the meeting that morning.",
+        "This was their **third meeting since Carney became prime minister**. They previously met during the 2025 APEC gathering in South Korea, and Carney visited China in January 2026, becoming the first Canadian prime minister to do so in almost a decade. The Shenzhen meeting, ahead of the APEC leaders’ gathering, forms part of another visit to China this year.",
+        "Reuters placed Carney’s January visit in the context of Canada’s effort to reduce its heavy economic dependence on the United States. Public opening information from the latest meeting centered on the stability of bilateral relations. Zaobao’s 11:53 a.m. report did not list a newly signed trade agreement, tariff change or specific investment amount from this meeting."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3d7f5b3a638dea8e969b090b",
+      "source_sha256": "9902e63671e1bf7a112dd0de46a5729055122d24f62ea7dfd18364b0d3ad5b18",
+      "paragraphs": [
+        "In his November 16 evening address, Ukrainian President Volodymyr Zelenskyy said Ukrainian, US and European negotiating teams held working-level online consultations that day, with Europe represented for the first time by its full group for subsequent talks with Russia. He named France, Germany, Britain, Italy, Poland, the European Commission, the European Council and NATO. Steve Witkoff and Jared Kushner joined online for the United States.",
+        "Zelenskyy described a difficult discussion but said partners would meet in Berlin under the Coalition of the Willing framework to develop joint negotiating steps. He emphasized Ukraine’s pursuit of a dignified end to the war and security guarantees. This is Ukraine’s account of progress and planned arrangements, rather than a completed agreement to end the war.",
+        "Lianhe Zaobao reports that Russian presidential aide Yuri Ushakov said the same day that Russia-US-Ukraine talks would continue, but Russia had not discussed enlarging them to include European countries with any party. **European participation in preparatory Ukraine-US consultations and Russian agreement to expanded formal talks are distinct stages.** The reviewed material does not confirm an effective ceasefire across the front."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4e2a1f371891e18eebe3d774",
+      "source_sha256": "9afc39c4ef46178b7a0219c789672334f76634805a75fa7978fa0b3c9f6c2d15",
+      "paragraphs": [
+        "Lianhe Zaobao reported on November 17, citing Bloomberg, that Alibaba, Tencent and Moonshot AI have reduced some offensive cyber capabilities in recent flagship models while preserving or strengthening defensive uses. The report concerns different adjustments to products including Qwen4-Max, Hy4 and Kimi K3.1 Pro, rather than simultaneous releases or identical restrictions.",
+        "Moonshot’s public K3.1 Pro technical introduction provides a specific comparison. It identified and removed cyber-related data during mid-training and reinforcement learning while retaining general coding tasks. On an internal exploit benchmark at pass@3, a checkpoint without the two-stage filtering scored 90.5%, versus **81.0%** for the final model. This compares risk reduction within the same training pipeline, not a 9.5-percentage-point decline from the previous generation. The team says the final model’s cyber capability still improved over its predecessor.",
+        "Qwen4-Max offers products and an API without releasing Max weights, while Kimi K3.1 Pro weights are publicly obtainable. Weight availability and capability filtering are separate dimensions. On regulation, the report cites an October consultation draft from China’s commerce and science ministries covering technology exports, including AI-generated malicious code and AI-assisted vulnerability discovery. **Proposed export restrictions remain distinct from rules in force**; the draft does not establish a new blanket prohibition taking effect today."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-68f0e4f4126ce29e403ffe7d",
+      "source_sha256": "f4e386d2c946168b7dc1401797ea41be0bd9b6e7a34ea278b10588999aec1a1f",
+      "paragraphs": [
+        "Sharp announced AQUOS sense11 for Japan on November 17, with sales starting progressively on **November 26** through carriers and SIM-free channels; some channels have opened preorders. Rakuten Mobile lists the 8GB+128GB model at JPY91,920 including tax. IT Home reports JPY94,600 for the same capacity through Sharp’s direct SIM-free channel. Channel and promotion differences mean these are not one nationwide transaction price.",
+        "The phone uses Snapdragon 7s Gen 3 and an approximately 6.2-inch FHD+ Pro IGZO OLED display, weighing about 157 grams and measuring 7.6 millimeters thick, with a 5,000mAh battery. The advertised 240Hz mode inserts black frames between 120 display refreshes per second to produce 240 changes in display state. **It is not a native 240-new-frame-per-second refresh**, and depends on the app and display settings.",
+        "It ships with Android 17 and promises up to four major OS upgrades and six years of security updates after launch. Configurations include 8GB+128GB and 12GB+256GB, with some options or colors varying by channel. Both rear cameras have approximately 50.3 megapixels, with optical stabilization on the standard camera, alongside AI removal of unwanted people and shadows. The two-day battery claim is a vendor estimate based on ten hours of mixed use daily, not an independent measurement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-575fbccbc93ad4d2828a8844",
+      "source_sha256": "81829da6e55ac9572324ea80384fb5f8a480164a1c3c735a679b4c71415a6ec5",
+      "paragraphs": [
+        "An earthquake struck offshore from Southeast Maluku, Indonesia, early on November 17. Indonesia’s Meteorology, Climatology and Geophysics Agency (BMKG) records the time as 04:11:20 Western Indonesian Time, or **05:11:20 Hong Kong time**. BMKG estimates magnitude 7.1 and a depth of 115 kilometers, about 130 kilometers southwest of Southeast Maluku, and assesses no tsunami potential.",
+        "The US Geological Survey’s reviewed estimate for the same event is **magnitude 6.6 at a depth of 68 kilometers**, about 148 kilometers west-southwest of Tual. The agencies’ event times agree, but their magnitude, depth and location solutions differ. The USGS entry used here was updated at 07:18:03 Hong Kong time on November 17; that is not the earthquake’s occurrence time.",
+        "BMKG lists intensity III shaking in places including Saumlaki, Tiakur, Dobo, Sorong, Manokwari, Tual and Fakfak, and intensity II in Nabire and Serui. MMI shaking intensity is distinct from earthquake magnitude. Anadolu’s report that day had no immediate casualty or damage information. The institutional data reviewed for this midday edition did not provide a confirmed casualty total."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -148,10 +258,12 @@
     },
     {
       "article_id": "article-3377c34e319f0b0ffc00989d",
-      "source_sha256": "2cc2f5eab382619ae1b3373fe78290ea1d48cd133c6cddc7ba6e400b366420f4",
+      "source_sha256": "4216d7ace663fe1c452b87ed219235fd930a9b4f2fd02cef45d1d1e6cf9e69fe",
       "paragraphs": [
-        "Japan's RIKEN confirmed to ITmedia NEWS on November 16 that systems associated with the Fugaku supercomputer suffered **unauthorized access**, and acknowledged sending notifications to relevant account holders. Public posts claiming receipt of notices had appeared on social media from November 15. The institution's confirmation to the outlet moves the incident from circulating online reports to a formal response.",
-        "The contents of any leak and the scope of impact remain unconfirmed. Text circulating online referred to files in home directories being read, possible exposure of keys or authentication information, and an inability to rule out an impact on all users. RIKEN said these specific claims were still being checked. They therefore do not establish that every user's research files, all keys or corporate secrets have been stolen."
+        "RIKEN formally announced on November 16 that Fugaku’s operational systems had suffered unauthorized access, with some home-directory files and authentication-system information exfiltrated or potentially exfiltrated. The potential upper limit is **4,222 Fugaku users and 375 RIKYU users, totaling 4,597**, not confirmation that all data belonging to everyone in that group was leaked.",
+        "RIKEN says suspicious communications were detected on November 12 and intrusion confirmed on November 13. Investigators identified activity from November 10–13 involving the public Fugaku status dashboard as an entry point into the operational network. **Fugaku was stopped and external access blocked at 04:30 Japan time on November 14**, or 03:30 Hong Kong time. Running and queued compute jobs were also stopped when users were notified on November 15.",
+        "Potentially affected material includes names, email addresses, user IDs, research files and credentials users stored for external institutional systems. RIKEN confirmed malicious programs and tampering on some servers, and attempts to use some obtained credentials to connect to other systems. Possible secondary damage remains under investigation. The institution also says it has not confirmed specific evidence that research results were leaked.",
+        "RIKEN has isolated systems, replaced administrative keys, disabled user login public keys and notified regulators and research infrastructure partners. Planned measures include fixing vulnerabilities, rebuilding compromised servers, reviewing network architecture and clarifying emergency operational responsibilities before restarting. The announcement gives no firm restart date, and the scope of exfiltration and subsequent losses remains under investigation."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -354,6 +466,50 @@
         "Amazon MGM Studios officially announced on November 16 that **Robert Pattinson will play James Bond in the next 007 film**. This turns discussion about the casting into a studio-confirmed appointment, but does not mean the film has finished production or is about to open.",
         "Dune director Denis Villeneuve will direct, with Steven Knight writing, Amy Pascal and David Heyman producing, and Tanya Lapointe serving as executive producer. The announcement focuses on the lead actor and principal creative team. It gives no final title, firm release date or regional distribution windows.",
         "Amazon acquired MGM in 2022 and established a new joint venture arrangement with the franchise’s previous producers in 2025, obtaining creative control. The next film is therefore a significant project milestone within that production structure. Casting confirmation is not evidence of the finished film’s reception: there is no new-film rating to cite or studio-confirmed Prime Video date, and promotional artwork is not a still from an already released film."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5e4a69593c89a53300ceab5d",
+      "source_sha256": "43a5175163ea4f5255945eb91c92a884a7b098695b028c406c180291735421b9",
+      "paragraphs": [
+        "JPMorgan Chase’s Chase bank experienced an hourslong service disruption on November 16, with some customers having trouble using online accounts, completing transactions or obtaining branch services. NBC News subsequently reported that the bank said Monday evening that **transactions were posting normally again**.",
+        "The bank attributed the problem to a software bug in its on-premises hardware systems, saying it was not a cyberattack or a systemic failure of the entire banking network. Downdetector figures cited by CNN showed more than 4,700 Chase problem reports by 2 p.m. Eastern Time. Those are user reports, not a count of affected customers. Chase said customers retained access to accounts and funds, although some transactions took longer.",
+        "Customers at other banks also reported delays, particularly in Zelle payments to or from Chase accounts. Zelle and U.S. Bank said their own systems were not directly down and linked delays to counterpart financial institutions. Neither NBC nor CNN established a common cause with earlier Microsoft or aviation-system outages. The total number of affected accounts remains unpublished."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-31b4da8462301bded6782fb3",
+      "source_sha256": "906e18d2a52af0b6b43236ba5a0f4e40c969e6977c045d14e972b8d4f28a08fd",
+      "paragraphs": [
+        "Apple announced on November 16 that macOS 27.3 beta 2 changes Device Control and Data Access and Full Disk Access permissions. Device control is split into **System & App Protection Override and Accessibility**, with options to limit access to specific apps or folders. The changes concern automation, AI assistants and other software requesting extensive access.",
+        "Apps can be configured to request permission whenever access is needed instead of only receiving persistent broad access. A menu-bar transparency indicator appears when an app controls another through System & App Protection Override, and the scope of data and control under full authorization is made more visible.",
+        "Apple asks developers to adjust onboarding and handle access limited to selected folders or apps gracefully. **Permissions previously granted by users remain effective**. Disk-backup and assistive-technology software have specific entitlement arrangements; Apple says known apps currently retain their existing experience, with more entitlement details to follow. The announcement concerns new permission requests in a beta and does not provide a general production-system rollout date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0f13e34240505e908ad0305d",
+      "source_sha256": "5276354190400851d93ddd7052c236df5c33450473362a5de5049421d9e4e610",
+      "paragraphs": [
+        "NVIDIA introduced the DGX Spark HPC Developer Kit in its November 16 SC26 announcements for multi-node scientific computing, AI models and agent development. It comprises four DGX Spark systems with GB10 Grace Blackwell chips, connected directly in a ring through ConnectX-7 networking, each linking to two neighbors without an additional network switch.",
+        "The four-node configuration provides **512GB of combined memory and 20TB of NVMe storage**. These are capacities distributed across systems, not one directly accessible GPU memory pool. NVIDIA says NVFP4 low-precision deployment supports models of up to approximately 700 billion parameters locally, such as DeepSeek V4.1.",
+        "Demonstrated four-system workloads include LAMMPS with Kokkos and NAMD. NVIDIA positions the kit for multi-node development, debugging and communication checks before larger supercomputer runs. It says hardware and cables are available through partner OEMs and Marketplace, while the **NVIDIA HPC SDK installation playbook is still forthcoming** to support cluster configuration of C, C++ and Fortran compilers, libraries and MPI tools."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-520cd3e1593b3e1178df4aca",
+      "source_sha256": "f7eab9b18f14401acdbf864a817da78184a050969cac8004b8384b02dfe7fd7e",
+      "paragraphs": [
+        "Netflix’s November 16 announcement described its first appearance at the Texas Book Festival in Austin on November 14–15 and several book adaptation developments. Season 2 of **3 Body Problem returns to Netflix on January 14, 2027**, with David Benioff, D.B. Weiss and Alexander Woo among its continuing creators. This confirms a second-season date rather than an already available new season.",
+        "Harlan Coben’s novel The Innocent is receiving a new limited-series adaptation from showrunners, writers and executive producers Robert Hull, Bryan Wynbrandt and Steven Lilien, the creative team behind I Will Find You. Netflix has established a new creative partnership with their company StoryMath. Coben executive-produces, with Ben Coben also producing. The announcement gives no lead cast, episode count or premiere date for the new project.",
+        "Virgin River has been renewed for Season 9, with Season 8 scheduled to premiere in 2027. Netflix says the seven released seasons have accumulated more than 500 million views, spent 28 weeks in its Global Top 10 and reached the Top 10 in more than 80 countries. These are platform-reported cumulative viewing and chart metrics, not a count of unique viewers; Season 9 remains a renewal."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -2879,6 +3035,17 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-3b66cafdd721f2a1383c7a80",
+      "source_sha256": "242d0611e3ca0da93c99d84fd0e207e814dae8f8fa2889bad8ea6a055e938e99",
+      "paragraphs": [
+        "Institutional information published by Guangzhou University on November 10 described its Earthquake Engineering Research and Test Center’s vibration reduction, disaster prevention and safety team as entering the relevant 2026 national outstanding professional technical team list. The body refers to public notice of **proposed award recipients** and gives no formal award date. This records the notice stage described there, rather than a new award ceremony on November 17.",
+        "The university identifies academician Zhou Fulin as team leader, academician Hong Hao as chief scientist and researcher Ma Yuhong as the person responsible for the team. Its work centers on structural vibration control, disaster mitigation and core safety technologies, encompassing research, engineering applications and training. The listing concerns team development and professional technical contributions.",
+        "The team entered the education ministry’s innovation-team development program in 2013, received continued support in 2017 and joined the second national Huang Danian university teacher-team cohort in 2022. The university says the national outstanding professional technical talent awards are organized jointly by the organization and publicity departments and the human resources and science ministries every five years, emphasizing contributions to national strategies, major research projects and major engineering works."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-caa9073cefb43725f1a58e80",
       "source_sha256": "27581478f34eafe0b00ebb65e85bdf9bf6fd909489ddf563406cb644ba653243",
       "paragraphs": [
@@ -3139,30 +3306,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-8a51216eaa74efa92e8b5dcb",
-      "source_sha256": "254fe7efefd0fdfe9f51f70950914a4380d9f16eb3c9f1f40edda35fd24b067e",
-      "paragraphs": [
-        "NVIDIA, Korean AI-chip company Rebellions and SK Telecom announced a collaboration to connect Rebellions’ Rebel R200 neural processing units to NVIDIA infrastructure through NVLink Fusion and the MGX rack architecture. Korea’s Ministry of Science and ICT supports the collaboration. SKT plans to deploy the systems in its AI data center, linking them with proprietary models such as A.X K2 and public-facing services.",
-        "The companies plan to explore **disaggregated inference, using NVIDIA GPUs for prefill and Rebellions NPUs for decode**. Prefill processes the input context, while decode generates the output incrementally. The partners aim to improve throughput and energy efficiency by assigning stages to suitable processors. MGX provides common design elements for rack dimensions, power and cooling, while NVLink supplies high-speed connections within the rack.",
-        "R200 remains a next-generation processor under development, targeting inference workloads including multitrillion-parameter mixture-of-experts models. The announcement says **the systems are expected to be ready for deployment in 2028**. It does not announce volume deliveries or provide independently verifiable R200 throughput, power-consumption or price figures.",
-        "The same round of Korean collaboration announcements includes NVIDIA B200-optimized Dynamo deployment recipes for SKT’s A.X K2, LG’s K-EXAONE 2.0, Upstage’s Solar Open 2 and Motif-3. NVIDIA claims up to twice the performance from these recipes. That is a vendor claim about B200 software deployment, rather than a result from the future R200 systems. Dynamo is an open-source distributed inference-serving framework; the models’ weight licenses apply separately."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-01c2b0431fa7a4eeda592c61",
-      "source_sha256": "0f9318d43fa70739d2ce44b1a9616a3f38da7101d2f65ac7ac36f5d4038d6bb2",
-      "paragraphs": [
-        "Rakuten Group and AST SpaceMobile announced on November 9 that they **agreed on November 6 to establish Rakuten AST**, with incorporation planned for that month. Rakuten will hold 51% of voting rights and AST’s Japanese subsidiary 49%, with legal capital of JPY 100 million. The Japanese project will connect commercially available smartphones to low-Earth-orbit satellites for everyday coverage and emergency resilience.",
-        "The venture’s project was selected under Japan’s Ministry of Internal Affairs and Communications J-LEO satellite-infrastructure program. It is expected to receive **up to JPY 148 billion in support** over approximately three years through fund administrator CIAJ. That is a support ceiling and expected funding arrangement, rather than money fully received on the announcement date. The official release says the grant follows the venture’s establishment.",
-        "Rakuten AST and AST will deploy and manage satellites compatible with mid-band spectrum, targeting network construction and the start of Japanese domestic operations by the end of March 2029. Plans include emergency roaming among operators during disasters and ground-based base-station equipment intended to let Japanese operators manage the network autonomously. Construction and operational implementation remain ahead.",
-        "AST will provide satellites and core technology, while the partners also plan to explore AI spectrum management and edge computing. Separately, Rakuten says commercial-environment testing of satellite-to-phone service under its existing 2020 strategic partnership is planned within 2026. That test and the new J-LEO venture’s 2029 network target are different arrangements and do not establish a full commercial launch this year."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-a989f1582084d0cf153c32d2",
       "source_sha256": "a794cc654fa305552ed815aed08f80bd294a15963435c2e56729d3c3659e0b65",
       "paragraphs": [
@@ -3170,41 +3313,6 @@
         "Standard pricing is **$8 per million input tokens and $40 per million output tokens**. Optional fast mode costs $16 and $80, respectively. Anthropic says output can be up to 30% faster than version 5.1, while fast mode can generate tokens up to 2.5 times as quickly as standard mode. These claims concern generation speed, rather than equivalent reductions in an entire complex task’s duration.",
         "Fable 5.2 is available through the Claude Platform and channels including AWS, Google Cloud and Microsoft Azure, with the platform identifier claude-fable-5-2. Fast mode covers Claude Code, the Claude Platform and the specified Google Cloud and Microsoft Foundry hosting channels. Mythos fast mode remains limited to verification-program organizations. Claude Security for Claude Enterprise can also use the model family, including Mythos 5.2.",
         "The release presents prerelease experiments in code migration, electronic-device design and formal mathematics. On FrontierCode 2.0, version 5.2 scores 49.1% at Xhigh reasoning effort, against 32.4% for version 5.1, according to Anthropic’s specified evaluations. Its Fermat’s Last Theorem example formalizes an existing proof rather than claiming a newly discovered proof. These demonstrations do not establish that all research or engineering work can be completed without human review."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c4652db63a2f873df76057b7",
-      "source_sha256": "95e19fc887eed964a84033c980fc1894549e3def9f75191e54ee5f89e88ccbe5",
-      "paragraphs": [
-        "Meituan’s LongCat team announced **open weights for LongCat-2.5** on November 9. The official Hugging Face repository provides a model card, file access and deployment guidance. The model had already appeared in online products earlier in November; the new development is weight availability, rather than a new date for the earlier API launch.",
-        "The native multimodal mixture-of-experts model has 1.6 trillion total parameters, with roughly 48 billion activated per token. It targets long-horizon agents, complex codebases, full-project builds, creative design and 3D tasks. The model card describes converting native-resolution visual features into discrete tokens processed with text in a shared semantic space. Thinking and non-thinking modes are supported.",
-        "The weights include an **MIT license**, permitting use, modification and redistribution, including commercial use, subject to conditions such as retaining copyright and license notices. Open weights do not mean that all training data and the complete training pipeline are public. The model card links to NPU deployment and SGLang-FluentLLM and describes W4A4 expert-weight and activation quantization; this does not establish that ordinary consumer computers can run the model.",
-        "The team reports 88.4 on Terminal Bench v2.1 and 38.5 on v4.0, which use their respective task versions and evaluation setups and are not directly comparable. The card distinguishes quoted external results from internal measurements and labels unstarred scores as in-house and indicative only. Long-context capability, quantized throughput and agent deliverables likewise depend on specific evaluation conditions."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-02a4c1ebebdc739d053948b2",
-      "source_sha256": "89c0ad7c38a03135e22b6c8174c977957d5576345168410a9709ef06dd1c2517",
-      "paragraphs": [
-        "The Mobile Intelligent Terminal Ecosystem Alliance announced on November 9 that **OPPO, vivo, Xiaomi and Honor are introducing Android Developer Verification, or ADV, for sideloaded apps in mainland China**, with mutual recognition of verification results. The mechanism links developers with their applications to improve traceability of malicious, impersonating or fraudulent apps.",
-        "Under the announcement, platforms automatically submit apps already registered and listed through the four developer platforms, without a separate application for that situation. Unverified apps display an “unverified” prompt during sideloading and require manual confirmation to continue installation. This adds source warnings and confirmation, rather than announcing a blanket ban on every unlisted app.",
-        "The arrangement concerns the four manufacturers’ mainland-China platforms and should not be generalized to all Android devices, overseas models or Google services. Verified developer identity also does not guarantee every aspect of an app’s behavior is safe. Each developer platform provides its own submission procedure; the announcement does not specify a date when every existing handset will receive a corresponding system update."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-bc9cc02cb41bd2cd720261aa",
-      "source_sha256": "042629b373ff3ecf539c148c456f982f593d4ba11ef72683d0b70978d4012e73",
-      "paragraphs": [
-        "Greece’s coast guard reported on November 9 that a Morocco-flagged cargo ship rescued 18 people about 15 nautical miles, or 28 kilometers, south-southwest of Kaloi Limenes, Crete. Coast-guard crews then found **13 bodies** in the same migrant boat. One rescued person was confirmed dead after transfer to the Moires health center, bringing **this boat’s death toll to 14**.",
-        "The coast guard says the bodies included 12 men and one woman. Three other rescued people, including a minor, went to hospital, while 14 survivors were transferred to temporary shelter in Rethymno. The case involved 31 people: the 18 initially rescued were not all confirmed survivors, and the earlier single-boat toll of 13 is outdated.",
-        "The AP’s updated November 9 report also describes a separate weekend incident in which 28 Sudanese people were rescued, eight bodies recovered and two people reported missing. Together, the two incidents caused at least 22 deaths over three days. Sudanese nationality pertains to the other boat; identities, nationalities and specific causes of death in Monday’s case had not been announced.",
-        "More than 180 people were found and rescued from three additional boats that day in separate operations and should not be added to the single-boat count. The International Organization for Migration says increasing arrivals along the eastern Libya–Crete route and gaps in rescue capacity intensify humanitarian risks. Death and missing-person counts reflect the reports read for this November 10 morning edition."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3234,29 +3342,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-efd278ab82a4951f8a33a7c6",
-      "source_sha256": "d34eea2886817333cbfc4ae7775d1ac146ae0e2236c1fa3a82a0af2b81ef63d6",
-      "paragraphs": [
-        "In an attribution statement on November 9, France’s foreign ministry said refrigeration controllers used at more than 700 major retail locations in France were attacked **overnight on October 11–12**, causing equipment damage, fires and food losses. France estimated food losses at tens of millions of euros; this is the French authorities’ estimate.",
-        "The French government attributed the destructive operation to the SHAHID KAVEH cyber unit, which it linked to the Islamic Revolutionary Guard Corps’ electronic and cyber center. France’s C4 cyber crisis coordination body published a technical report in parallel. **This is the French government’s attribution finding.** The operation occurred in October; the statement does not attribute every November refrigerator incident across Europe to the same actor.",
-        "The ministry said it would summon Iran’s ambassador and propose new sanctions on implicated Iranian entities and individuals to European partners. These are planned diplomatic and sanctions measures, rather than an announcement that the EU has already adopted the new sanctions. Lianhe Zaobao also reported a lack of public independent evidence sufficient to establish a single operational chain linking refrigerator attacks in different countries and on different dates."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a38e8333ef55c6e595c30392",
-      "source_sha256": "b1ee8c55815838aa1a94c5feeb16ec5f87be6bbcfe94e2debf3be5483b64cd31",
-      "paragraphs": [
-        "Adobe and Disney announced a multiyear strategic alliance at Adobe MAX on November 9, naming Adobe an Official AI Innovation Partner of The Walt Disney Company. The arrangement includes early access to Firefly, Firefly Foundry for customized models, Premiere and Photoshop, together with dedicated engineering and research support across parks, cruises, film innovation labs and sports content.",
-        "The companies plan artist-led use of proprietary generative models tailored to Disney’s character attributes, environments and visual styles. Adobe said Walt Disney Imagineering Research & Development is already using Foundry in park development, including converting hand-drawn sketches into fully rendered 2D concept art and generating images consistent with particular brands and franchises.",
-        "StudioLAB will work with Adobe on internal creative workflows, while ESPN Edge will explore sports fan engagement and new uses of archival footage. The announcement says co-innovation projects are already underway, with other activities and experiences rolling out over the multiyear term. It does not provide launch dates for every project.",
-        "**The announcement does not open Disney character models to the public or grant general rights to use its characters.** Descriptions of commercially safe and production-ready output are Adobe’s claims about the customized workflows. The companies already had a longstanding relationship; this expands their technical and business cooperation rather than marking Disney’s first use of Adobe tools."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-1068278eb7a02a06b7a02937",
       "source_sha256": "970b29b02d9a99c5e34bab2c70e3cda60f7b824bf0c8ecda499225de342622c3",
       "paragraphs": [
@@ -3276,78 +3361,6 @@
         "Latcham will oversee DC’s film, television and animation slate, creative development, production, talent and strategy, reporting to Skydance Motion Picture Group co-chairs Dana Goldberg and Josh Greenstein. He joined Marvel in 2004 and worked on projects including Iron Man, The Avengers, Guardians of the Galaxy and Spider-Man: Homecoming, before founding his own production company after leaving in 2017.",
         "The outgoing leaders remain involved in Man of Tomorrow. **The official announcement schedules its theatrical release for July 9, 2027**, and says it is in post-production, rather than the 2028 date appearing in some secondary reporting. Gunn remains writer and director, and produces alongside Safran.",
         "The announcement also confirms that The Batman Part II is in production and that filming has finished on the eight-episode The People v. Gorilla Grodd, expected in 2027. The leadership change is confirmed; subsequent project quality, box-office results and slate changes remain undetermined. It does not establish that every existing plan has been canceled."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-708c7713bb2c69be9c7e4677",
-      "source_sha256": "b781d9f4a9cb9b430e875d380b4d3c8f7cd296f1fb173c67968d580513f2636d",
-      "paragraphs": [
-        "AMD introduced the Instinct Coder 355 enterprise AI coding platform on November 9, combining servers, the GLM-5.3 model and Spectro Cloud management software. Everyday code generation, testing, documentation and review are intended to run locally by default. Administrator policies can still route justified requests to approved external models, so the platform does not keep every request permanently on premises.",
-        "The Supermicro configuration uses eight Instinct MI355X GPUs with 288GB of HBM3e each, two 64-core EPYC 9575F processors, 3TB of DDR5 memory and about 63.36TB of storage. The vendor lists capacity for up to 85 developers per node, with 50 concurrent users. On November 10, Spectro Cloud separately announced that a Dell PowerEdge configuration could be ordered through its channels; the two server configurations must be distinguished.",
-        "The claim of roughly 98% of frontier-model performance comes from a specific leaderboard cited by AMD: on the September 1 update of Vals AI’s SWE-bench Verified, GLM-5.3 and Claude Opus 5 resolved 95.4% and 97.0% of tasks using the same Mini-SWE-agent harness. **The 98.4% figure is the ratio of those scores**, rather than an independently measured accuracy for this server across all coding tasks.",
-        "The roughly 75% reduction in total cost of ownership is also an AMD modeling estimate. It assumes 85 developers previously spending $2,000 each per month, a $590,000 server amortized over three years, continued external API costs equal to 10% of the original budget, and $50,000 in annual data-center operating costs, producing an annual cost of about $513,500. Changes in utilization, model selection and external request routing would change the result."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a32771a8dbf631c1f5fb47f3",
-      "source_sha256": "af190a1849b0f0939837ce828fa1c2d814992f34ee1a04e002bf182575314ce7",
-      "paragraphs": [
-        "According to IT Home’s November 9 report, Tencent Yuanqi’s previously announced business-adjustment schedule provides for **public application access, data reads and writes, API calls and console services to end that day**. Agents distributed through Yuanqi to channels including WeChat official accounts, service accounts and customer service will also stop responding to conversations.",
-        "The shutdown is phased: creation of new agents and distribution of API keys stopped on October 29, while November 9 is the termination date for existing services. Launched by Tencent in May 2024, Yuanqi was a one-stop agent creation and distribution platform supporting prompts, plugins, knowledge bases and workflows.",
-        "Data exports have a separate post-shutdown window. The arrangements allow requests through a data-export console, with **no new export requests accepted after January 9, 2027**. User data will be deleted as scheduled except for logs and other records that laws and regulations require to be retained.",
-        "Unused resources or balances in resource packages purchased on Tencent Cloud through the old entry point can be eligible for refunds according to actual usage. Tencent lists its Agent Development Platform, ADP, and WeChat official-account intelligent replies as alternatives. These are separate products, and the arrangements do not state that existing applications will migrate automatically."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-76ccdd6626e6a5f19031bb36",
-      "source_sha256": "0644bf981cd7837c9dc1998c5fd9a47bea400a894187135bfbf2ad6718307e8c",
-      "paragraphs": [
-        "The Zaporizhzhia nuclear power plant lost all external power on November 8 after damage to the 330-kilovolt Ferrosplavna-1 transmission line. Xinhua reported early on November 9 that **repairs restored the line on the evening of November 8, reconnecting the plant to external power and returning backup diesel generators to standby**.",
-        "The plant’s press office said protection equipment disconnected the damaged line and diesel generators immediately supplied equipment needed for safe operation. Management reported normal safety-system operation, no breaches of operating limits or conditions, and normal radiation levels at the site and in the monitoring area. These operational claims come from plant management.",
-        "Xinhua separately cited the International Atomic Energy Agency’s statement that this was the plant’s **27th loss of external power since the full-scale escalation of the Russia–Ukraine conflict**. On-site experts said fuel stocks at the time could keep emergency diesel generators running for about two weeks. Director General Rafael Grossi stressed the importance of restoring grid connections and increasing diesel reserves.",
-        "The plant has been under Russian control since 2022 and has experienced repeated external-power outages. This update concerns restored electricity for safety equipment; it does not establish that the reactors have resumed commercial power generation. The cited statements do not independently establish the specific cause of damage to the line."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d0612e29a21eef13958f90bf",
-      "source_sha256": "b6ad40f9de810c60f10deb796f72fb82189c62fffc882cdd66d5e1332ff97eb4",
-      "paragraphs": [
-        "Xinhua reported that at **04:24 Beijing time on November 9**, a Long March 12 rocket lifted off from the Hainan Commercial Space Launch Site, placing the Satellite Internet Low-Orbit Group 29 satellites into their planned orbit and completing the launch successfully.",
-        "IT Home says the Fifth Academy of China Aerospace Science and Technology Corporation led development of the satellites. CASC’s commercial rocket company led development of the rocket, undertaken by its Eighth Academy. The mission is part of a low-orbit satellite-internet deployment. “Low-Orbit Group 29” is a mission-batch designation and does not by itself mean 29 satellites were launched.",
-        "Long March 12 has a four-meter-diameter body and is approximately 62 meters long. Its published design capabilities include lifting at least six tonnes to a 700-kilometer sun-synchronous orbit. That describes the rocket’s capability, rather than this mission’s actual orbital altitude or total payload mass. The brief launch announcement does not specify the satellite count or a commercial service activation date."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-1069919706c861a1d2936c5f",
-      "source_sha256": "1da7ce1edf16719d0468c9de0c36cb71f3b582a0009f3201d1b495e5eff3da59",
-      "paragraphs": [
-        "Two passenger trains collided in Al-Ayyat, Giza province, Egypt, on November 8. **As checked on the morning of November 9 Beijing time, BBC reported at least seven deaths and more than 100 injuries; local outlet Egyptian Streets cited an updated Health Ministry count of seven deaths and 112 injuries.** The earlier tally of four deaths and 88 injuries has been superseded by subsequent updates.",
-        "Railway authorities said a train traveling from Giza to Fayoum struck the rear of another traveling in the same direction from Cairo to Aswan, between Kafr Ammar and Al-Raqqa stations. BBC reported that the train struck was stationary on the tracks. Several carriages derailed and fell down an embankment, and one train driver was among those killed.",
-        "Nearby hospitals heightened their readiness, treating injuries including broken bones and head trauma. Railway authorities deployed emergency crews and cranes to clear the wreckage. Services between Giza and Upper Egypt were temporarily suspended, with no timetable announced for restoration. The Red Crescent provided assistance to affected people and their families at the scene.",
-        "President Abdel Fattah al-Sisi ordered a swift investigation and accountability for negligence. Prosecutors have opened an inquiry, while the specific technical cause and responsibility remain undetermined. The available casualty figures come from updates issued on the day of the accident and may change as rescue and medical operations progress."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-0d1d7f1d79f1e51e6f015d7b",
-      "source_sha256": "cd0cd590930c58475bb8eb9f42a9dd3a57c8ebf0effaad0dc13ae0d0de5f4f38",
-      "paragraphs": [
-        "A Xinhua follow-up published on the evening of November 10 detailed the mixed-use layout and past fire-safety penalties at Taiyuan’s Haosheng International Apartments. At a November 9 briefing, a city fire official said plentiful combustible interior materials had accelerated upward fire spread through passages and produced large amounts of toxic smoke. Inadequate initial emergency action and delayed reporting made rescue and evacuation harder.",
-        "As of that November 9 briefing, the fire had killed **14 people and left 25 in hospital, including nine in critical condition**. It began at 16:59 on November 8; open flames were extinguished at 19:00 and the search ended at 20:30, with 60 people evacuated or rescued. Xinhua also reported that 13 people were rescued or evacuated from outdoor platforms, a location-specific count within the overall rescue total.",
-        "The complex has a 41-story main tower and a nine-story podium combining training centers, hotels, shops and esports businesses. Xinhua’s site visits found training providers mainly on the podium’s first three floors, vacant fifth to seventh floors, and hotels on the eighth and ninth. The complicated layout and dispersed occupants required room-by-room searches, with some locked guestroom doors prolonging the operation.",
-        "Penalty records examined in the report show that the Liunan branch of property operator Taiyuan Anhuaxin Property and Hotel Management Co. was fined RMB5,000 in 2023 for insufficient hydrant-system pressure and another RMB5,000 in 2025 for failing to keep fire-safety equipment fully functional. One survivor described abnormalities involving alarms and sprinklers; that is a witness recollection, while the specific equipment failures remain subject to investigation.",
-        "Relevant managers of the building owner and property company have been placed under control. Shanxi’s provincial Party committee called for the provincial government to establish an investigation team led by the provincial work-safety office. A reprint of Shanxi Daily’s account dates the relevant meeting to November 9, while Xinhua’s follow-up gives November 10. The investigation requirement and response arrangements are clear; the final cause of ignition and findings on responsibility have not been published."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3801,17 +3814,6 @@
         "[New Season Reputation] \"Industry\" focuses on London financial institutions and their younger professionals, where characters hope to achieve wealth, status, and recognition through career success, yet continually face the costs of relationships and self-identity. The media feedback in the fourth season's public reputation page was strong, while the audience response was more moderate, suitable for those who can accept high-pressure workplace environments and the gray area of morality.",
         "From the public story introduction, financial transactions are not merely a backdrop for showcasing terminology, but rather a mechanism that combines competition, loyalty, and intimacy. Who can obtain information, who is qualified to bear risks, and whether one is still willing to adhere to the original boundaries after success are aspects that can be continuously observed in such characters. The transactions in the story are not rewritten into actual investment advice, and the story does not claim that every business operation accurately reflects industry standards.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 96% (57 reviews), and the audience approval rating is 75% (the page shows over 100 entries). This is the percentage of positive reviews, not the average score; the sample and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-582872b2aaf16dccf4f2ebe1",
-      "source_sha256": "15ab093603c0e2de553c7c9cc097d9024d346cae63b072931e66c485c08122a0",
-      "paragraphs": [
-        "[New Season Reputation] The long-term story foundation of \"The Bear\" is Carmy's return to a family restaurant in Chicago after leaving the fine dining system. During his career reconstruction, he faces the impacts of family, colleagues, and the loss of loved ones. The fifth season page continues this core relationship, and current media and audience evaluations are both strong. A restaurant is a system that needs to function together; individual talent alone cannot automatically resolve all collaborative issues.",
-        "The focus of this series can be placed on how professional standards and human capacity interact: when pursuing higher completion, who bears the costs of time, emotion, and relationships. Based on the series' premises provided on the data sheet and the reception of the fifth season, it does not misinterpret the general synopsis as new events from a specific episode, nor does it fabricate unviewed long kitchen shots or character outcomes. It is suitable for readers who enjoy ensemble casts and high-pressure work environments; public score explanations acknowledge the level of acceptance, but it cannot guarantee that the rhythm and expression style will please every viewer.",
-        "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 96% (83 reviews), and the audience positive percentage is 85% (displaying 250+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -5607,17 +5609,6 @@
         "[Representative paper retrospective | Online in 2024, journal volume in 2025 | Open-access paper] Zhang and colleagues report long-term health-monitoring data from Tsing Ma Bridge for 1997-2022, covering environmental conditions, traffic loads and structural response. The 26-year span allows long-term evolution to be compared, rather than treating a few days of observations as typical of the entire bridge.",
         "The results show that the total traffic load has remained stable since 2007, with the number of road vehicles continuing to increase before the 2020 pandemic; the rate of change of the bridge surface annual maximum temperature is approximately 0.51 degrees Celsius per decade, and the cumulative duration of typhoons during the observation period has shown an increasing trend of about 2.5 hours per year, while the wind speed during the monsoon has decreased and become more dispersed. The bridge surface displacement is mainly influenced by temperature, and the self-vibration frequency has basically remained unchanged over the past 26 years.",
         "These trends are statistical results of this bridge and the analyzed period, and they cannot be directly used to infer the future rate of climate change in the entire region; stable frequency does not replace comprehensive local damage inspections. The paper also introduces updates to the monitoring system and the current status. The paper was published online on 19 August 2024 and is included in the 2025 volume. The figures selected are the research bridge and the sensor layout."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-0dc3f83c634829249e725020",
-      "source_sha256": "1970047cc76e3fe008c3e87e32bcb863a6048fbc048d2e6a56f3adf520655b67",
-      "paragraphs": [
-        "[2024 Representative Works Review | Public Abstract] Müller et al. used three common boundary layer parameterizations in WRF to simulate the marine typhoon Megi, comparing wind speed, wind shear, and wind direction variations across the rotor height in the eye wall and peripheral regions. All three schemes could reasonably reproduce the track and overall structure, but the local wind field used for load assessment was not entirely consistent.",
-        "Median wind speed at hub height differed by up to 15% among the schemes. Although the median simulated wind-shear exponent did not exceed the then commonly used IEC value of 0.11, up to 43.6% of the wind profiles in the eyewall exceeded it. Wind veer was less sensitive to the boundary-layer scheme. Wind shear and veer showed pronounced spatial organization along rainbands, implying that a turbine's location can experience rapid changes in wind profile over a short period.",
-        "This study separates the average quantity from the local exceedance probability: a lower median does not rule out strong load segments. The results indicate that sensitivity analysis for specific typhoons and model scenarios cannot be used to conclude that all typhoons have the same shear ratio, nor can differences in meteorological simulations be directly converted into the extent of structural damage. Figure 1 shows the nested computational domain of the paper and its position as the storm moves."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
