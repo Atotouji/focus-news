@@ -1,7 +1,30 @@
 {
   "version": 1,
-  "generated_at": "2026-11-17T09:21:19.159Z",
+  "generated_at": "2026-11-18T01:27:52.089Z",
   "translations": [
+    {
+      "article_id": "article-0fb76b8d23388056a4408c12",
+      "source_sha256": "0351e782ecd639ee3a280e90a6f4ff560745c049607d5ab1d4d50fe6917fca34",
+      "paragraphs": [
+        "OpenAI released **GPT-6.2 Astra and GPT-6.2 Sol** on November 17. Astra targets complex professional projects; Sol targets everyday work and multistep agent workflows. The company highlights documents, spreadsheets, slides, code, websites and 3D design, claiming that both models complete tasks with fewer output tokens.",
+        "Standard Astra API prices per million tokens are $8 input, $0.40 cached input and $40 output: 20% lower input and output rates than GPT-6 Astra, and 60% lower cached-input rates. Sol retains GPT-6.1 Sol's respective rates of $2, $0.10 and $10. Token-price reductions differ from per-task savings, which also depend on usage.",
+        "Availability covers Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and API developers. Pro 500 gets Ultrafast for both models. Pro 200 initially gets Sol Ultrafast; eligible Enterprise and Edu workspaces require administrator enablement.",
+        "OpenAI reports Astra scoring 5.2 percentage points above GPT-6 Astra on Agents' Last Exam at less than one-third the task cost under its reported evaluation settings. It also classifies Astra as its first externally released model to reach the High threshold for AI Self-improvement, an assessment within OpenAI's Preparedness Framework."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8aa2cd9a232111f2cdfb338a",
+      "source_sha256": "84be8ba65df6236d42379a94018e56ab4f9a366c62c060e1f2c444bf84b497cd",
+      "paragraphs": [
+        "Foxconn announced an agreement with Sony Semiconductor Solutions on November 17 to acquire its automotive camera-module business for **¥7.24 billion in cash**. ITHome, citing Taiwan's Economic Daily News, reports that the deal includes the business, technology, customers and operating resources. Closing is expected by the end of April 2027, subject to regulatory approval and other conditions.",
+        "Automotive camera modules integrate imaging devices, optics and electronics into vehicle products. Foxconn already designs, manufactures and integrates camera modules for information and communications applications; Sony's automotive module business has relationships with Japanese automakers. Foxconn intends to combine its technology and direct automaker-service experience with its automotive integration capabilities.",
+        "The reported consideration excludes overseas production equipment and inventory associated with the business. The parties plan to preserve customer-service continuity and team stability before transferring business, customer and operating resources. The status is an agreement for a planned acquisition, with approval and closing conditions outstanding, rather than a completed transfer of all assets and operations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-c279a2188aa26a3e014b9a35",
       "source_sha256": "076e6c338c22f4f8f84df2f102699f42f67836330d156eb5c90730863b45cbf7",
@@ -79,6 +102,18 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-25f87b42efadb312f3741c8b",
+      "source_sha256": "d964b0580eb14eb6be12b57a7218bd2893919424768fbb20638e8c609bdba366",
+      "paragraphs": [
+        "Figures disclosed by China's Supreme People's Court on November 17 show **166 million cases accepted and 161 million concluded by courts nationwide from January 2023 through September 2026**. This cumulative period spans three years and nine months; the totals are not for calendar 2026 or its first three quarters alone.",
+        "The account also reports more than 22 million first-instance livelihood-related cases concluded and RMB7.9 trillion recovered through enforcement. Nineteen partner organisations in the central-level diversified dispute-resolution mechanism resolved 1.047 million disputes themselves. Primary courts now participate in all county-level comprehensive governance centres and connect with 34,000 township and neighbourhood centres.",
+        "Annual first-instance criminal cases concluded fell from 1.243 million in 2023 to 1.056 million in 2025; serious violent-crime cases fell from 52,000 to 46,000. These are court case-disposition figures, distinct from police reports, investigations or the actual number of crimes committed.",
+        "For high-quality development, the court reports 125 judicial interpretations and normative documents and 2,233 model cases, emphasising action against irregular cross-regional and profit-driven enforcement and retrials correcting wrongful property-rights cases. These are officially reported judicial-work developments; no common comparative measure was provided for evaluating each measure's implementation outcomes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-65bf58346fb448a6df3e538a",
       "source_sha256": "70d79c5561caaaf81ba16d151b383d4e6e99d2a27eb9246fbb7065b79b4708a9",
       "paragraphs": [
@@ -91,11 +126,11 @@
     },
     {
       "article_id": "article-56290b1aced4fc8bb1dff49d",
-      "source_sha256": "3b686aab3d86d9a8ac30a6408ac20994d8dfa91fdf976432c778d43cf98e8cdf",
+      "source_sha256": "1a4033a17b2aa3b47ce4150ba122a4a4a140fa314eff9cff6baac97b98892cec",
       "paragraphs": [
-        "Several French unions called public-sector workers to strike and demonstrate on November 17 over wages and the frozen salary index point. This is the third united public-sector action call since September. AFP reports that talks with Prime Minister Sébastien Lecornu the previous Friday failed to satisfy unions, with more organizations subsequently joining.",
-        "The main Paris rally is scheduled for 2 p.m. local time, or **9 p.m. Hong Kong/Beijing time on November 17**. A police source quoted by AFP projected 40,000–80,000 participants in Paris and 220,000–300,000 nationwide. These are advance estimates, not observed attendance. Youth groups and some Yellow Vest activists also plan to participate.",
-        "A November 13 notice from teachers’ union FSU-SNUipp confirms a joint call by eight unions seeking improved purchasing power and education funding. The draft budget contains no general pay increase. Some earlier demonstrations involved localized clashes, but the main Paris march had not begun at this evening edition’s verification time. Its actual attendance and conditions await subsequent reporting."
+        "French public-sector unions held nationwide strikes and marches on November 17, seeking higher pay and better public services. The Interior Ministry counted **146,000 participants nationally and 28,000 in Paris**; the CGT claimed more than 500,000 nationally and 175,000 in Paris. These are different sources' counts and should not be mixed. The Paris march ran from Nation to Place d'Italie, with Reuters and AFP describing the day's demonstrations as largely peaceful.",
+        "Using the ministry's consistent measure, turnout was below November 5's unified action, which drew 575,000 nationally and 65,000 in Paris. Police had previously forecast 40,000 to 80,000 for Paris on November 17; the actual count is now available.",
+        "This was the public sector's third unified stoppage since September. School and university students, some private-sector workers and retirees joined demands covering living costs and staffing, facilities and services in schools and hospitals. The draft 2027 budget rules out a general public-sector pay rise for the fourth consecutive year, and November 13 talks did not resolve the dispute."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -107,6 +142,17 @@
         "The two-week search following the November 2 attacks on a humanitarian aid center and underground shelter in Komyshuvakha, Zaporizhzhia region, ended on November 16. Ukrainian officials reported **72 deaths and four people missing**. This is a recovery and identification update from the earlier attack, not a new November 17 strike killing 72.",
         "Ukraine’s public broadcaster and DW, citing local officials, report 58 bodies recovered from rubble, one hospital death and 13 deaths established through DNA analysis. BBC Verify authenticated footage of rescuers taking cover from drones and imagery of damaged emergency vehicles and excavation equipment. Ukraine’s emergency service says repeated attacks during the operation injured three police officers, four workers and two rescue dogs and damaged five vehicles.",
         "Ukrainian authorities accuse Russia of deliberately targeting recovery operations. The BBC had received no incident-specific response from Russia’s defense ministry; its general November 2 statement said attacks targeted energy and transport infrastructure used by Ukraine’s military. Experts consulted by the BBC found the crater and fragments consistent with a FAB-3000 bomb and its guidance kit. That technical assessment is distinct from establishing intent."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-faf6f660a11814dccfe4d98c",
+      "source_sha256": "43fd4f1a4cfc61b7064b9d60fd100f1d795988dfacd32eece0842d87e7007e80",
+      "paragraphs": [
+        "Huawei disclosed more information about the Kirin 9050 display subsystem on November 17. Official posters reproduced by ITHome describe **a new-generation display DPU supporting full-colour AI-HDR2020**, intended to enhance tonal detail and colour when playing ordinary SDR content. This is a chip-function disclosure, not a new phone-launch announcement.",
+        "Huawei also claims high-precision, pixel-level display control that can work with device display technology for rapid privacy-mode switching and image-quality optimisation. Actual privacy-screen performance depends on the screen and complete device implementation; the chip description does not establish identical experiences across every equipped model.",
+        "Earlier Kirin 9050 disclosures covered the CPU, GPU, imaging and communications; this update concerns display processing. Huawei said in October that the series had entered mass production. This material provides no independently measured brightness, colour accuracy, power or image-quality gains applicable across devices. The poster comparisons are vendor demonstrations."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -262,6 +308,134 @@
         "OpenAI said on November 17 that it is working with NATO’s Communications and Information Agency to give core NATO institutions access to advanced cybersecurity models. It reports **up to 300 billion raw input and output tokens per month** under the collaboration. That measures usage; the announcement does not give a corresponding procurement value.",
         "Daybreak supports authorized defensive work, including software review, suspicious-activity investigations, vulnerability validation and testing fixes. OpenAI also says European cyber agencies and some national agencies have received model access. This does not establish identical deployments in every NATO member.",
         "NATO’s Cooperative Cyber Defence Centre of Excellence confirms that Crossed Swords 2026, held in Tallinn on November 2–6, introduced AI-agent training and used OpenAI Daybreak in its technical environment for the first time. More than 250 participants from over 40 NATO and non-NATO member states trained cyber and multi-domain coordination with human oversight emphasized. The exercise has concluded."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-79e1c95f9466b4591e3e8030",
+      "source_sha256": "a9985ea723e2fa7b8475add302a24c4fec5e416814ef8c27883adda79be32353",
+      "paragraphs": [
+        "On November 17, Ukraine again struck the Kerch Strait bridge linking Russia with Russian-occupied Crimea. Images published by the BBC show **an arch and deck section of the road bridge collapsed into the water**, while the parallel railway arch remains standing. President Volodymyr Zelensky confirmed the strike. Russia's Investigative Committee also acknowledged structural damage and opened a criminal investigation.",
+        "Ukraine says the operation took weeks and seven stages, first targeting air defences, radars and electronic-warfare assets before attacking the bridge with multiple drones and cruise missiles. Ukraine's General Staff says the road is impassable and the railway arch damaged; Russia's transport authorities later said some rail services had resumed. Damage and operations differ between the two sections, so these reports do not establish that the entire road-and-rail crossing has been destroyed.",
+        "During the same exchange, Russia struck Kyiv's Northern and Southern bridges across the Dnipro. Mayor Vitaliy Klitschko said both were initially closed for assessment and later partially reopened. Heating, water supplies and some above-ground metro infrastructure were also affected. Zelensky said four ballistic missiles targeted the Southern Bridge and three the Northern Bridge; those counts are Ukrainian claims.",
+        "Built after Russia annexed Crimea in 2014, the Kerch crossing serves military supply and civilian transport. The road-span collapse increases logistical pressure, but Russia retains a land corridor through occupied territory and alternatives including shipping. The lasting loss of capacity and repair timetable remain unclear."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c1654b32b2c5bd8950f806fe",
+      "source_sha256": "dc7c7f5a79801be7d2eb6277f2a02b0b56099977746fc98e512b3804711274f7",
+      "paragraphs": [
+        "The China Manned Space Agency announced that **the Shenzhou-24 spacecraft and Long March-2F Y24 rocket were transferred to the launch area on November 17**. Launch-site facilities are in good condition. Pre-launch functional checks and integrated testing will follow, with launch planned in the coming days when conditions permit. No precise launch time was given.",
+        "Transfer is one stage of launch preparation. Under the mission arrangements announced on November 7, a Pakistani astronaut will join Shenzhou-24 as a payload specialist, make a short orbital visit and return aboard Shenzhou-23. This is set to be the first joint flight by Chinese and foreign astronauts in China's crewed space programme.",
+        "China and Pakistan signed the cooperation agreement in February 2025. Initial, secondary and final selection produced two Pakistani astronaut candidates: one will fly and the other will serve as backup, after completing training and passing assessments in China. The transfer announcement establishes ground-preparation status; the flight bringing a foreign astronaut to the station is still to take place."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-166d6124867c787b073a2d78",
+      "source_sha256": "e53a9b4a51e82ec4e0d20114874af4d33ecca33598dcde5dc83109093998187b",
+      "paragraphs": [
+        "On November 17, NVIDIA reported **fiscal 2027 third-quarter revenue of $115.8 billion, up 103% year over year and 20% sequentially**, for the quarter ended October 25, 2026. Fiscal 2027 is the company's financial-year designation; the reported quarter ended in calendar 2026. Data Center revenue was $107.6 billion, up 110% annually and 21% sequentially.",
+        "Under US generally accepted accounting principles, quarterly net income was $65.3 billion, diluted earnings per share were $2.70 and gross margin was 74.8%. Non-GAAP figures were $64.9 billion, $2.68 and 74.9%, respectively; the accounting bases should be compared separately. Edge Computing revenue was $8.2 billion, up 42% annually and 14% sequentially.",
+        "NVIDIA says Vera Rubin NVL72 has begun shipping and is running at several cloud partners, highlighting the product ramp. This is the company's account of deliveries and ecosystem deployment; it does not mean every customer has broad access to the systems.",
+        "The next fiscal quarter contains an additional week. NVIDIA guides to **$130 billion in revenue, plus or minus 3%**, and GAAP and non-GAAP gross margins of 71% to 72%. The outlook assumes no Data Center compute revenue from China. It is a forecast, not revenue already earned."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-731a68534994b4d5b315c26e",
+      "source_sha256": "de016153543468f861e3a6b22fb033237dc170af994172959d869ce9aea9ce2b",
+      "paragraphs": [
+        "Serbia's 15th National Assembly held its first sitting on November 17, **confirming all 250 MPs' mandates and administering their oath, thereby constituting the new parliament**. A verification commission compared election certificates against the Republic Electoral Commission's report before submitting its findings.",
+        "The sitting was convened by the previous legislature's speaker, Ana Brnabić, and began at 10 a.m. in Belgrade. The oldest MP, Stojan Radenović, presided with assistance from younger MPs from the four lists with the most seats. The official announcement establishes MPs' mandates and the constitution of parliament; it does not announce formation of a new government.",
+        "The agenda also includes electing a speaker and deputy speakers, appointing a secretary general, and selecting working-body and international-delegation members. Parliament's website still labels the sitting in progress and schedules continuation for November 18 at 10 a.m. local time, or 5 p.m. Beijing time.",
+        "The process has therefore advanced from voting, repeat voting, final results and seat allocation to the new parliament taking office. Completion of the speaker election, subsequent government formation and selection of a prime minister require their own formal outcomes; they cannot be inferred from MPs being sworn in."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b451aff394adbb427d3a202a",
+      "source_sha256": "c5083955c082fa248e104616a1f7babc784321dc9028589b6e8a22b788d29a48",
+      "paragraphs": [
+        "On November 17, Google announced expanded Gemini task execution using Gemini 4 Hydrogen for appointments, bill analysis and shopping. **The free update is beginning to roll out in the United States, Japan, South Korea, Canada, Australia and India**. A set of advanced features starts in the US; China is not listed in this rollout.",
+        "The workflows can combine authorised email, calendar and connected-app access. Google demonstrates appointment calls, analysis of electricity bills and shopping with Google Pay. Purchases use the AP2 Agent Payments Protocol, support an upfront spending cap and require confirmation or pre-approval. These are Google's demonstrations, not evidence that every task will succeed.",
+        "US users also get email-forwarding and texting entry points. Calling is currently unavailable in Indiana, Louisiana, Minnesota, Montana and Nebraska. Texting requires a US number with an eligible carrier. These restrictions differ from the free update's six-country coverage.",
+        "Google says tasks run in account-dedicated, hardware-isolated virtual machines, with prompt-injection filtering, link checks and connection controls. It acknowledges that tasks can fail and some websites require handing the final action back to the user. A Chat-to-Task toggle is the new app entry point."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1309e96d95184df1dc7dd780",
+      "source_sha256": "cd8eae1efa0b1afc3a0550a23f64742a54046072b4e754b4fb43e09512dcbb1e",
+      "paragraphs": [
+        "OpenAI updated Astra for Law on November 17, moving its underlying model to GPT-6.2 Astra and expanding legal search. **All ChatGPT Enterprise customers may now request access through the Trusted Access Program, including via API**. Broader eligibility to apply does not mean automatic access for every account.",
+        "The configuration combines the base model with legal retrieval and research instructions. OpenAI says its index has grown 34% since September, adding more than 80 million URLs to exceed 310 million, including material from jurisdictions outside the US such as the UK, Australia and Canada.",
+        "The announcement's Harvey LAB-AA evaluation covers 120 assignments across 24 areas of law. Full credit requires meeting every requirement without material hallucinations. Astra for Law passed 20.8%, compared with 15.0% for standard GPT-6.2 Astra. In a separate Vals legal-research evaluation, 112 of 208 questions passed all checks, or 53.8%. The datasets, scoring and configurations differ, so these percentages are neither interchangeable nor real-world legal-service reliability rates."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2e8ccd44d2ef1dccf9263baa",
+      "source_sha256": "a9efca637cb049d52c537ccbfa5f1dd0fd8322df6479c88538ee23e24fa1b0d2",
+      "paragraphs": [
+        "OpenAI launched ChatGPT for Sales on November 17, centred on a new Sales plugin and dedicated sales skills, alongside **more than 30 new or enhanced partner plugins**. It brings customer research, meeting preparation, proposals and follow-up into a shared conversation workflow. This is a sales-workflow and integration launch, not another standalone foundation model.",
+        "Connected context can include customer information from CRMs such as Salesforce and HubSpot, meeting records from Gong, Otter.ai and Granola, and quoting or contract tools. Examples include prioritising accounts, summarising buyer needs, examining deal risk, making presentations and preparing agreements. Access depends on connecting and authorising the relevant accounts.",
+        "ChatGPT Business and Enterprise administrators can enable Sales and relevant partner plugins in workspace plugin management or configure default installation. Plugin and feature availability varies by plan, region and workspace settings; the entire list is not simultaneously available to every account."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-25da224ea2febbbe03101eee",
+      "source_sha256": "4d0858f53f1fd72a4c8e66d70eaa76233ca2a2366d022ab9b2c3f5c67cc9dde9",
+      "paragraphs": [
+        "OVHcloud announced the Olala language-model family and Olala mini 7A1B on November 17, with **the official launch scheduled for its November 19 AI Summit**. The announcement says the model will be provided on Hugging Face under Apache 2.0. This advance announcement therefore does not establish that all weights are already downloadable.",
+        "The model has seven billion total parameters, roughly one billion active per request and 256 experts per layer, with a hybrid Differential-TPA/Mamba-3 architecture. The announcement specifies BF16 and a current 32,000-token context. OVH claims operation on an 8GB GPU, 160 tokens per second on an RTX A4500 and 50 on CPU, without detailing the complete speed and memory test configurations.",
+        "Training used Europe's Jupiter, MeluXina and Jean Zay public supercomputers with GH200, A100 and H100 hardware. OVH values public computing support at €7 million; that is not a disclosed cash training bill of the same amount. Qwant already uses the model for flash answers, with OVH claiming 20% faster responses and one-third the previous running cost. These are company-reported deployment results.",
+        "The roadmap targets version 1.1 by year-end, with 128,000-token context and improved mathematical reasoning. Version 2.0 is planned to exceed 100 billion parameters for enterprise agents, cloud DevOps and cybersecurity. Those versions' sizes and capabilities remain plans."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3f1165fdbb133743e881cb4e",
+      "source_sha256": "ac9802ff4ac52cfba5d2151cdafe981e49212fa3d2156d6aa0f6d2bbad6e89d9",
+      "paragraphs": [
+        "Imprnt Studios and publisher Silver Lining Interactive confirmed on November 17 that **Hounded is planned for PS5 in 2027**, releasing its first developer diary. PS5 wishlisting is open, but the announcement gives no exact release date, price or currently running demo.",
+        "Players control Duke, a young Border Collie searching for his missing owner, Artemys Fletcher, in Anglodia, a flintlock-fantasy world inspired by late-18th-century Britain. His owner is connected to the resistance, while Duke's immediate aim is following the trail of their separation. The introduction covers the character, setting and abilities without revealing the ending.",
+        "The team says development has run for more than two years. It has built handcrafted quadruped animation and a custom Motion Matching system in Unreal Engine, selecting and blending movements from a library informed by real dogs. Ears, muzzle and facial details convey emotion; the diary shows progress on these systems.",
+        "Duke can unlock The Tide abilities, including Power Bark to break obstacles, Power Howl to charge technology and Imprints to perceive echoes of past events. These are the developer's announced designs and development footage. The PS5 announcement does not establish final level scale, finished performance or plans for other platforms."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7c9d1f10409f01458cc398c6",
+      "source_sha256": "b0d5371918c35328212d511c4d8b47b2101c5827545f3716d809c2b3b16561cd",
+      "paragraphs": [
+        "Netflix confirmed on November 17 that **Polish medical drama Anaesthesia, titled Znieczulenie in Polish, has been renewed for season two**. Leszek Lichota will return as neurosurgeon Dawid Łazarz. No second-season premiere date was announced; renewal does not mean the new season is already available.",
+        "The story follows a neurosurgeon who leaves a major medical centre after a bold but unsuccessful operation and moves to a provincial hospital, navigating a close-knit community, institutional rules and treatment decisions. Łukasz Ostalski directs. Medical consultants advised the production, with creative input from physician and ER producer Neal Baer.",
+        "Netflix says the show reached number one on Poland's platform Top 10 within 24 hours of release and ranked fifth on its global non-English TV chart at the time of the November 17 announcement. Those are viewing-popularity measures and a contemporaneous ranking, not critic averages or audience approval percentages. The announcement lists eight episodes for the existing series, without specifying season two's episode count."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9ad8cbba0c22dd456319c978",
+      "source_sha256": "8cd3817e5dba925cc3d8e60e156bc88e37c5903941ecffedbc743f44d8ec4316",
+      "paragraphs": [
+        "Wind Energy Science published a peer-reviewed paper by Kevin R. Moore, Hannah K. Ross and colleagues on November 17 introducing **VorLap, an open-source framework that screens existing flow spectra for overlap between vortex-shedding and structural natural frequencies**. Applications include parked or highly yawed turbines, towers and other beam-type structures. The demonstration concerns a small vertical-axis turbine, not complete failure prediction for an operating turbine in a typhoon.",
+        "The method organises Reynolds number, angle of attack, skew angle, harmonics and multi-component combinations. Non-dimensional scaling, interpolation, spectral decomposition and linear-algebra transformations map lift-and-drag spectra to structural models, with combinatorial reduction limiting computational size. Code, a graphical interface, example data and reproduction assets are public. Figures 1 and 2 show NACA 0018 time- and frequency-domain loads at 164° and 84° angles of attack, respectively, for a 1 m chord, 3.75 m/s inflow and Reynolds number of 5×10⁵.",
+        "The reference vertical-axis turbine's first three major blade–strut natural frequencies are approximately 1.8, 4.5 and 5.7 Hz. A simplified initial screen gives shedding frequencies of roughly 1.8 to 7.2 Hz, suggesting overlap at some parked orientations and low inflow speeds. Verification against published CFD data and reconstructed time signals preserved dominant frequency and phase information, while amplitude agreement remained sensitive to filtering, retained spectral depth and source-data quality.",
+        "**Frequency overlap indicates potential onset risk; it does not directly establish final vibration amplitude, fatigue life or failure loads.** The authors position the method for early design screening and one-way-coupled load reconstruction, recommend accounting for uncertainty in Strouhal number, amplitude and phase, and call for further validation."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -871,11 +1045,12 @@
     },
     {
       "article_id": "article-4d9fe2f621ea187ce48b9c2c",
-      "source_sha256": "a2d105feccefc830d98d06bd997f619c7fa75b40ad9cb7bf223d82ce2864f1cf",
+      "source_sha256": "23ad115b6d620ddc736c1ff1edfd6dbadb0f40e9552f5c3613bdcf22919cc726",
       "paragraphs": [
-        "The Game Awards will reveal its 2026 nominees in a livestream hosted by Geoff Keighley at 09:00 Pacific Time on November 17, or **01:00 Hong Kong/Beijing time on November 18**. The awards ceremony takes place in Los Angeles on December 10 local time. Nominations and the awards ceremony are separate events; no final nominee list or winners have yet been announced.",
-        "The official FAQ gives the general commercial-release eligibility cutoff as **21:00 Pacific Time on November 20, equivalent to 13:00 Beijing time on November 21**. The nominee reveal therefore precedes that deadline. GTA VI, scheduled for November 19, can meet the timing requirement; eligibility is not confirmation of nomination. Players’ Voice uses a separate November 30 release deadline rather than that same cutoff.",
-        "Official rules allow expansions, DLC, remakes, remasters and new seasons to compete, subject to jury assessment of their new creative and technical work and value. Early-access games may also be nominated if the jury considers them worthy. General jury awards use a blended 90% jury and 10% public vote, with winners revealed at the awards ceremony."
+        "The Game Awards 2026 revealed its nominations in the early hours of November 18 Beijing time. **Phantom Blade Zero is one of six Game of the Year nominees**, alongside 007 First Light, Control Resonant, Grand Theft Auto VI, Resident Evil Requiem and the Switch 2 remake of The Legend of Zelda: Ocarina of Time. These are nominations; the awards have not yet been presented.",
+        "Phantom Blade Zero has five nominations: Game of the Year, Best Game Direction, Best Art Direction, Best Score and Music, and Best Action Game. Onimusha: Way of the Sword is also nominated for Best Action Game, alongside Ace Combat 8, Gears of War: E-Day and Saros. The two closely watched titles therefore compete in the same category.",
+        "Grand Theft Auto VI leads with eight nominations, while Control Resonant and Resident Evil Requiem have six each. Best Independent Game nominees include Big Walk, Cairn, Denshattack, Mewgenics and Mina the Hollower, spanning independent productions alongside the larger releases elsewhere on the ballot.",
+        "Verified online voting is open until December 9 at 9 p.m. Eastern Time, equivalent to December 10 at 10 a.m. Beijing time. The ceremony is scheduled for December 10 local time at Los Angeles's Peacock Theater, when award results will be announced."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3105,18 +3280,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-282995a7bf2e9e8cf49d9305",
-      "source_sha256": "0017ae812aa18c66d81dc1a747bf6efa8579c1f742ae28248e5669107df8dcb5",
-      "paragraphs": [
-        "On November 10, Microsoft announced that Automatic Super Resolution (Auto SR) was leaving preview on ROG Xbox Ally X and Ally X20 and expanding to selected Windows Copilot+ PCs powered by AMD Ryzen. **Battery-powered handheld play, use on the built-in screen and support for a 1080p base resolution have begun rolling out**, within the supported-device range.",
-        "A new Performance Mode raises the frame-rate ceiling to up to 120 FPS, and compatibility with Auto HDR is also being added. Microsoft specifies that both features will arrive gradually through subsequent Windows updates. Its Rocket League demonstration on an Ally X at 720p with High in-game graphics settings averaged 70 FPS in Quality Mode and 115 FPS in Performance Mode. Those vendor results apply to the stated device and settings.",
-        "The earlier Xbox Insider preview worked only while docked; it can now be used directly on the handheld’s internal display. With a 1080p base resolution, connection to a higher-resolution display can improve detail through upscaling to 1440p. Microsoft also notes that 1080p internal-screen performance may not be optimal compared with other configurations.",
-        "The features depend on the latest Game Bar, Windows 11 updates and the Auto Super Resolution package. Auto HDR expands some games without native HDR to HDR displays. The combinations available on a device depend on whether it has received the compatibility update and whether an HDR screen is in use."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-77c719d8ae71944c78a570eb",
       "source_sha256": "0fd07f4bcd7a58e5695de90677975109894d80330404f76f8742e33021e4edcd",
       "paragraphs": [
@@ -3124,53 +3287,6 @@
         "The initial supported titles also include F1, with American Sign Language (ASL) and British Sign Language (BSL). Way of the Warrior Kid and Greyhound are planned to follow later this year. **The feature applies to selected titles, rather than automatically translating every film into every language.** Supported content will carry a dedicated icon and can be found using sign-language search terms.",
         "Apple says Deaf and native signers helped design and test the experience, with each film’s interpretation individually crafted for its narrative and emotion. Daniel Durant, who appears in Being Heumann, also directed that film’s sign-language interpretation. This production approach differs from automatically generating a signing video from subtitles.",
         "Requirements are iOS, iPadOS, macOS, tvOS or visionOS 27.2 or later, or a supported third-party device running the latest app software. November 13 is the announced launch date, so the feature is still forthcoming. Regional catalogs, device software versions and individual title support together determine availability."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-dd6a0b0ce874d906daa0685d",
-      "source_sha256": "a4d2baceb8c839b2edaab01d7e118e5314c06657c09f32ce6def843136dc27f6",
-      "paragraphs": [
-        "Éric Zemmour, leader of the French far-right party Reconquête, announced on TF1 television on the evening of November 10 that he would run in the 2027 presidential election. Euronews and Lianhe Zaobao both reported the announcement. His party’s website also published his candidacy statement that day and advertised a campaign-launch meeting in Toulon on November 21.",
-        "Zemmour placed immigration at the center of his campaign, proposing to reduce France’s immigrant population by two million by the end of the next five-year term and to expel foreigners unemployed for more than six months, among other measures. **These are campaign proposals, rather than French immigration policies already in force.** His description of the campaign as a response to France’s “decline” is his political assessment and campaign language.",
-        "Zemmour previously ran in the 2022 presidential election, taking about 7% of the first-round vote and finishing fourth. The new announcement marks his return to the contest, rather than completion of every legal candidacy check, support beyond his party or any voting result. The substantive development at this stage is his public declaration and the launch of campaign activity."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ad19eec80821c4086a03456a",
-      "source_sha256": "885e09243626ec10ad65af543fb128b2663c1fa4d424b753379d983d45bb957a",
-      "paragraphs": [
-        "On November 10, Deutschlandfunk cited Der Spiegel as reporting that Germany’s armed forces had been ordered to stop using previously purchased commercial small drones from major Chinese manufacturers and replace them as quickly as possible with German or European products. Lianhe Zaobao relayed the same reporting via Reuters on November 11, concerning military sites including barracks and training grounds.",
-        "The reports attribute the move to defense officials’ data-security concerns, including the possibility that exercise information, images of military facilities and weapons-system data could be sent to China. This is the reported risk assessment. **The articles do not provide a technical finding that a particular model has transmitted data to intelligence agencies**, nor establish the same behavior for every Chinese drone.",
-        "Deutschlandfunk also said the military planned restrictions on cars made by Chinese manufacturers entering barracks, citing concerns about vehicle sensors recording sensitive information. Its account describes the drone-use requirement and the vehicle restriction plan with different status language; it does not establish that every measure is already in force.",
-        "The reported measures concern German military procurement, use and access to military facilities. They do not announce a nationwide ban on civilian sales or use of Chinese drones and cars. The reports give no single completion date for replacing all existing equipment or a specific implementation date for vehicle-access restrictions."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-15cd76535090928df813fdd6",
-      "source_sha256": "32326b5b1779b86766237344fee91ebeb3aa20816f785eb4603ed9d88f3dde18",
-      "paragraphs": [
-        "Russia’s independent newspaper Novaya Gazeta held its final editorial meeting in Moscow on November 9, and staff left the office they had used for about 29 years. NPR’s on-site reporting and Meduza’s November 10 account both describe packing up the office, taking down portraits of murdered colleagues and readers gathering to say farewell. Founded in 1993, the paper closed after about 33 years.",
-        "Editor-in-chief Sergei Sokolov had announced the decision to stop work in October. He said official pressure had made it impossible for the paper to publish, raise money or rent an office normally, or to protect journalists from the risk of imprisonment. **These are the newspaper’s and staff’s allegations about the cause of closure.** Kremlin spokesman Dmitry Peskov denied government responsibility, describing it as a normal process of media competition and turnover.",
-        "Novaya Gazeta has long reported on corruption, human rights and war. Several journalists and collaborators associated with it were killed, including Anna Politkovskaya in 2006. Co-founder and former editor Dmitry Muratov, a 2021 Nobel Peace Prize laureate, continued outside the office on November 9 to call for attention to political prisoners, civilian evacuations and an end to the bombing of Ukrainian cities.",
-        "After the full-scale war against Ukraine began, some staff went into exile while the team remaining in Russia continued working under censorship laws. At the farewell, Sokolov said the journalists were still there and were considering future forms of work. That is an intention to continue, rather than an announcement that publication has already resumed."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-84921d866b5ebf2fee8eae9a",
-      "source_sha256": "b411b152087ea6f331dc89a394d9370f49c06cd0ccf24d985ed8b38584fa84e6",
-      "paragraphs": [
-        "New York Governor Kathy Hochul announced on November 10 that the state had opened the AI registration portal needed to implement the RAISE Act and launched the New York Center for AI Research and Evaluation, NYCAIRR. The developments concern preparation to enforce an existing law and the launch of a research platform; RAISE was not newly passed that day.",
-        "Large frontier AI developers must **register by January 1, 2027**, and publish safety frameworks as required. The state also says frontier AI developers operating in New York will face safety, transparency and reporting duties, with critical safety incidents to be **reported within 72 hours**. Registration applies to large developers; it should not be extended to mean that every ordinary AI application developer must register.",
-        "NYCAIRR launched with more than 80 researchers and interim co-directors Greg Morrisett of Cornell Tech and Jeannette Wing of Columbia University. It operates as a cross-institutional network, with researchers remaining at their home institutions. Priorities include independent model testing, safety research, and collaboration with the state’s Office of Digital Innovation, Governance, Integrity, and Trust, or DIGIT.",
-        "Plans for the center were first announced in January, with initial support including $30 million in philanthropy and $25 million in SUNY research funding. Launching it now does not make that existing support a new appropriation on the day. The separate $500 million Empire AI public–private initiative provides computing support; its total size is not the center’s own budget."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3188,46 +3304,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-38b8a8f300b0a2bcf52f9448",
-      "source_sha256": "38ac3938b0606111fa0810c527a79dc684b65c0dbb350e59047c0ab3afea495a",
-      "paragraphs": [
-        "Canon announced the FPA-6400ES6a KrF semiconductor scanner on November 10, with **launch planned for early December 2026**. It uses a 248-nanometer wavelength for relevant exposure layers in memory and logic chip manufacturing. This is an equipment announcement and a forthcoming availability schedule.",
-        "A key specification is **4.0-nanometer overlay accuracy**, meaning alignment between layers, not a 4-nanometer process node or exposure resolution. Canon says this is leading performance among KrF scanners for 300-millimeter wafers, based on the company’s research as of November 9.",
-        "Rated throughput is 400 wafers per hour for 300-millimeter wafers under a specified condition of 96 shots per wafer. The new wafer stage combines high-acceleration motion with vibration suppression and temperature control, while optional HiALS enables finer wavelength selection. Throughput under that condition cannot be applied directly to every production chip layout.",
-        "The equipment also improves wafer holding and deformation correction for warpage of up to about 700 micrometers. Energy recovered during deceleration is stored in capacitors for reuse during acceleration. The announcement gives no universal energy-saving percentage for every production line; these performance figures are manufacturer specifications."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-3b66cafdd721f2a1383c7a80",
       "source_sha256": "242d0611e3ca0da93c99d84fd0e207e814dae8f8fa2889bad8ea6a055e938e99",
       "paragraphs": [
         "Institutional information published by Guangzhou University on November 10 described its Earthquake Engineering Research and Test Center’s vibration reduction, disaster prevention and safety team as entering the relevant 2026 national outstanding professional technical team list. The body refers to public notice of **proposed award recipients** and gives no formal award date. This records the notice stage described there, rather than a new award ceremony on November 17.",
         "The university identifies academician Zhou Fulin as team leader, academician Hong Hao as chief scientist and researcher Ma Yuhong as the person responsible for the team. Its work centers on structural vibration control, disaster mitigation and core safety technologies, encompassing research, engineering applications and training. The listing concerns team development and professional technical contributions.",
         "The team entered the education ministry’s innovation-team development program in 2013, received continued support in 2017 and joined the second national Huang Danian university teacher-team cohort in 2022. The university says the national outstanding professional technical talent awards are organized jointly by the organization and publicity departments and the human resources and science ministries every five years, emphasizing contributions to national strategies, major research projects and major engineering works."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-caa9073cefb43725f1a58e80",
-      "source_sha256": "27581478f34eafe0b00ebb65e85bdf9bf6fd909489ddf563406cb644ba653243",
-      "paragraphs": [
-        "OpenAI announced on November 9 that **ChatGPT Enterprise is available through AWS Marketplace**, using existing AWS billing, with eligible spending counting toward AWS commitments.",
-        "Features and updates match direct purchases. Healthcare and Financial Services offerings also serve eligible customers, with eligibility confirmed by the companies’ account teams. No universal new discount was announced."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-bfba74fdc28fbe1a40c8c6dc",
-      "source_sha256": "cb92bfdd7a34658bc8c9e87b8bab832186e14a0dfd2b5f8d880caa64c94bacc9",
-      "paragraphs": [
-        "An explosion and fire struck the HABAŞ steelworks in Aliağa, İzmir province, western Turkey, around midday on November 9. **As checked on the morning of November 10, both the BBC and Euronews report at least 17 workers dead**; the BBC also reports 12 injured. The health minister said a critically injured worker had died, raising the president’s earlier death toll of 16 to 17.",
-        "The provincial government’s initial statement places the incident at approximately noon local time, or 17:00 Beijing time. Its preliminary assessment says an overhead crane broke and fell into an electric arc furnace during liquid-steel casting. The company says the incident occurred during scheduled furnace maintenance. These accounts describe an initial sequence, rather than a final determination of every technical cause and responsibility.",
-        "The province initially reported three deaths, 14 injuries and ten people trapped. Figures changed as rescue and treatment progressed and must not simply be added to later death tolls. Images show smoke and emergency vehicles at an industrial facility. Witness descriptions of earthquake-like shaking do not establish an earthquake.",
-        "Investigation and search operations continue. Euronews reports five people detained and four prosecutors assigned to the investigation; detention is not a conviction. The disaster occurred in a major Turkish steel and port-industrial district and involves lifting equipment and high-temperature steelmaking facilities during maintenance."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3240,52 +3322,6 @@
         "MOUZ had already won IEM Beijing without dropping a map; this update incorporates recent results into HLTV’s rankings. HLTV says the team reached first in the global Valve Regional Standings in late October, meaning it now leads both major systems for the first time since June 2024. HLTV and VRS use different methodologies, and points cannot be transferred between them.",
         "Beijing was MOUZ’s second title of the season after BLAST Bounty Season 2 in August. The team also finished second at BLAST Open Porto and ESL Pro League 24 and third at PGL Masters Bucharest. xertioN and torzsi are the remaining members of the roster that topped the rankings in June 2024.",
         "In the same update, The MongolZ climbs five places to tenth and TYLOO four to thirtieth. MOUZ is due to attend BLAST Rivals before the Singapore Major. Current rankings and participation plans are not qualification or championship results for those future events."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-18fbc524dfafd75b2b946d32",
-      "source_sha256": "c53b3338cec0d9765dca3a1d308584fcaf4152f5737707e180a48612d26e61a8",
-      "paragraphs": [
-        "Nintendo’s US website announced on November 9 that Nintendo eShop on Nintendo Switch and Nintendo Switch 2 will add **digital gifting between family group members on November 16**. Eligible purchases include digital games, DLC and upgrade packs; not every product qualifies.",
-        "Senders will select Give as a Gift on a product page in the console’s eShop, choose a recipient and one of their linked systems from their Nintendo Account family group, select wrapping, and pay. A family group can contain up to eight members. Supervised accounts cannot send digital gifts, and purchases are limited within a given period; the notice does not specify the numerical limit.",
-        "**Gifts are sent immediately after purchase.** Recipients can accept them from the HOME Menu. The announcement does not offer scheduled delivery for a chosen future date. System version 23.5.0 or later is required. That version was released on November 9, but the gifting feature is still scheduled to open on November 16.",
-        "This announcement comes from Nintendo’s US site and confirms the feature and conditions announced for that region. It does not promise a simultaneous rollout in every territory. It extends gifting of newly purchased digital content within a family group, rather than allowing ownership of every previously purchased game to be transferred."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-86c789f54f491937945703c8",
-      "source_sha256": "268df944186ea622f2f567dabdcabb358a9f273ad491cb436e87bbec638bc42d",
-      "paragraphs": [
-        "Following a social conference in Paris on November 9, France’s government announced it would bring forward the minimum-wage adjustment from January to **December 1, 2026**, increasing the SMIC by **1.6%**. This is an announced future standard, rather than a rate already paid for November.",
-        "Business France’s public explanation gives **EUR 1,897 gross and approximately EUR 1,502 net per month** for full-time work of 35 hours a week. Lianhe Zaobao, citing Reuters, reports a net monthly increase of about EUR 24. The minimum wage had risen by about EUR 35 in June. Gross pay and net pay after social contributions are different measures and cannot be added or used interchangeably.",
-        "Labor Minister Jean-Pierre Farandou confirmed the accelerated adjustment. It remains below union demands: the CFDT sought a EUR 100 monthly net increase, while the CGT sought 10%, or roughly EUR 150 a month. Prime Minister Sébastien Lecornu announced the measures after meeting union and employer representatives, with living costs and purchasing power central to negotiations.",
-        "Business France also notes changes to income or salary thresholds for some talent residence permits linked to the SMIC, including entrepreneur, French Tech founder and company-officer categories. Its monthly figures refer to a 35-hour full-time job and do not directly describe every part-time worker’s take-home pay."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-952d2516af2e905436adea3b",
-      "source_sha256": "0deea75517c1416fb047881092bb26fb30cca2d3a8b2e082d29b77f0a39822d3",
-      "paragraphs": [
-        "OpenAI described Control Room on November 9. Deployed internally across research infrastructure, it checks task authorization at the inference layer.",
-        "It blocks further output within **35 seconds** of a stop instruction; the process may remain alive. Fail-closed operation covers frontier-model research, with remaining workloads due over the following days."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e9950a58c8925934c58a1e8f",
-      "source_sha256": "d06acc4e25d25f04f051639ccc4a512830cdb9926156d0fc765c948ca5f9c167",
-      "paragraphs": [
-        "Google announced **TPU 8tx and TPU 8i Max system configurations** on November 9, joining the 8t and 8i unveiled in April to form a four-system eighth-generation portfolio. Google emphasizes adjustments to packaging, memory, networking and security, rather than describing both additions as entirely new chips designed from scratch.",
-        "TPU 8tx uses the same silicon as 8t and pairs it with **fifth-generation AMD EPYC host CPUs** for confidential inference, small-scale training and agent execution in government and regulated enterprises. It aims to protect and isolate data and model weights even while they are in use. The low-latency Boardfly network supports multistep agents. Google claims up to twice as low latency compared with 8t; this is a vendor claim.",
-        "TPU 8i Max combines **two 8i chips in one package** for workloads involving many collaborating agents, whole codebases or long videos requiring large contexts. Google says compute, SRAM and HBM bandwidth double relative to a single 8i, with more silicon in the existing rack footprint. These are specifications and design claims, rather than independent application measurements.",
-        "Google also highlights PyTorch and an open software ecosystem to reduce barriers to TPU adoption. IT Home’s account of Bloomberg’s interview with Amin Vahdat says the new configurations are expected to reach the market next year, so the announcement does not establish broad immediate supply. April’s 8t training-performance and 8i inference-price-performance figures should not be presented as new measurements of these configurations."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3382,18 +3418,6 @@
         "On Mirage, NAVI established a 9–3 defensive-half lead and extended it to 11–3 after switching sides. BETBOOM briefly responded with three consecutive rounds, but b1t and w0nderful combined for 39 kills on the map to help NAVI close it out. Ancient was closer: NAVI opened 6–1, before BETBOOM reduced the halftime deficit to 5–7 and won the first three rounds after the switch to move ahead. NAVI then regained control with four consecutive rounds.",
         "Across the series, b1t recorded 37 kills and 19 deaths with a 1.57 HLTV Rating 3.0. w0nderful added 38 kills and 22 deaths with a 1.41 series rating. His overall rating across 17 maps at the tournament was 1.42. The latter is the event-wide figure.",
         "According to HLTV’s post-match report, this was NAVI’s first Big Event top-four finish since winning IEM Atlanta roughly six months earlier. They will skip BLAST Rivals in Hong Kong, making Beijing their final event before the Singapore Major, where they begin in Stage 2."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-f0cc29e7d6d9fa4a1b19c664",
-      "source_sha256": "b3dc2afce821396f5113f2907077a15e6d88bb53e89f59364893619aef187a72",
-      "paragraphs": [
-        "The first semifinal of the 2026 League of Legends World Championship ended on the morning of November 8 Beijing time, with **GEN defeating IG 3–0 to reach the final**. IG’s run ends in the last four, while T1 and BLG will contest the other final berth. Riot’s official schedule now also lists GEN in the final.",
-        "In game one, Canyon’s Qiyana helped GEN establish an advantage through top-lane fighting and the contest over Void Grubs. Mid-lane teamfights involving Kiin and Ruler then extended the lead. IG’s Wei secured first blood in the bottom lane in game two, but GEN won successive dragon contests and mid-lane fights. After Canyon’s Lee Sin secured Dragon Soul, the team pushed to end the game.",
-        "IG initially gained numerical advantages in top- and bottom-lane fights in game three. The dragon contest around 30 minutes proved pivotal: Canyon stole the dragon, Ruler’s Yunara scored a triple kill, and GEN subsequently took Baron. Later, Duro’s Nautilus connected with an engage, allowing GEN to win the fight and push through the base to complete the sweep.",
-        "**T1 versus BLG is scheduled for 06:00 Beijing time on November 9**, in a best-of-five series. Riot lists the final for 19:00 UTC on November 14, equivalent to 03:00 Beijing time on November 15. GEN’s opponent still depends on the other semifinal."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3788,17 +3812,6 @@
         "[New Season Reception] \"Slow Horses\" continues to revolve around a disgruntled agent placed into MI5's Slough House. The team led by Jackson Lamb is both trapped by their own mistakes and personality and drawn into intelligence operations more dangerous than regular office work. The public reception of the sixth season has maintained a high level, with a significantly higher proportion of positive reviews from critics compared to the audience.",
         "The genre of this series is characterized by combining spy crises with humiliation, evasion, and interest exchanges within the office. Characters do not need to be always dignified, and institutions are not always efficient and unified. Black humor thus arises. For those who are already familiar with the series, long-term accumulated distrust among characters is the foundation for understanding the new season; for first-time viewers, it is advisable to establish relationships through the previous season. This article only uses the plot foundation and readability evaluation materials of the described season, does not reveal the outcome of the action, and does not disclose the internal conflicts of the fictional intelligence department as if they were real facts of the British institution.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 98% (41 reviews), and the audience approval rating is 80% (the page shows 250+ reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-ece156fa7f0c994b037b04a3",
-      "source_sha256": "ca8f1da32c3708272053ee0573ec07142a7c0a7c8206fd7ce948ca2eef90fa15",
-      "paragraphs": [
-        "[New Season Reputation] \"Industry\" focuses on London financial institutions and their younger professionals, where characters hope to achieve wealth, status, and recognition through career success, yet continually face the costs of relationships and self-identity. The media feedback in the fourth season's public reputation page was strong, while the audience response was more moderate, suitable for those who can accept high-pressure workplace environments and the gray area of morality.",
-        "From the public story introduction, financial transactions are not merely a backdrop for showcasing terminology, but rather a mechanism that combines competition, loyalty, and intimacy. Who can obtain information, who is qualified to bear risks, and whether one is still willing to adhere to the original boundaries after success are aspects that can be continuously observed in such characters. The transactions in the story are not rewritten into actual investment advice, and the story does not claim that every business operation accurately reflects industry standards.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 96% (57 reviews), and the audience approval rating is 75% (the page shows over 100 entries). This is the percentage of positive reviews, not the average score; the sample and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -5583,17 +5596,6 @@
         "[2025 representative paper retrospective | Public-abstract guide] Hörteborn and colleagues propose the medium-fidelity STAPS model of ship-traffic collision probability, incorporating maneuverability and motion physics into Monte Carlo simulations and comparing it with the lower-fidelity IWRAP Mk II. The study addresses ship-impact scenarios in bridge design, focusing on how model simplifications alter estimated accident probabilities.",
         "A comparison of the two cases shows that both the duration of the error and the routing layout significantly affect the results. In the baseline scenario, the ship collision probability given by IWRAP Mk II is about 4.5 times that of STAPS. The authors therefore believe that the simpler IWRAP is suitable for early design screening, while STAPS is more appropriate for subsequent stages that require more detailed scenarios.",
         "The multiplier here belongs to the specific case under study and cannot be considered a general reduction factor. In the estimation of collision probability, factors such as how far a ship can continue to navigate after entering an abnormal state, how it is affected by the environment, and whether the route through the bridge area allows for avoidance, may all alter the final collision scenario. The value of the study on ship-bridge and offshore structure collision prevention lies in providing a framework for comparing the accuracy of probabilistic models; it does not replace the calculation of structural collision consequences. A single lower contact probability does not equate to the risk of collapse being satisfied by the criteria."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-b3a5d7062402819b7f11ea26",
-      "source_sha256": "dfdaea001d78130e37fd8bbc567ab2e1d6fee502aeeacd88fc8485a9651a6b44",
-      "paragraphs": [
-        "[Representative paper retrospective | Online in 2024, journal volume in 2025 | Open-access paper] Zhang and colleagues report long-term health-monitoring data from Tsing Ma Bridge for 1997-2022, covering environmental conditions, traffic loads and structural response. The 26-year span allows long-term evolution to be compared, rather than treating a few days of observations as typical of the entire bridge.",
-        "The results show that the total traffic load has remained stable since 2007, with the number of road vehicles continuing to increase before the 2020 pandemic; the rate of change of the bridge surface annual maximum temperature is approximately 0.51 degrees Celsius per decade, and the cumulative duration of typhoons during the observation period has shown an increasing trend of about 2.5 hours per year, while the wind speed during the monsoon has decreased and become more dispersed. The bridge surface displacement is mainly influenced by temperature, and the self-vibration frequency has basically remained unchanged over the past 26 years.",
-        "These trends are statistical results of this bridge and the analyzed period, and they cannot be directly used to infer the future rate of climate change in the entire region; stable frequency does not replace comprehensive local damage inspections. The paper also introduces updates to the monitoring system and the current status. The paper was published online on 19 August 2024 and is included in the 2025 volume. The figures selected are the research bridge and the sensor layout."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
