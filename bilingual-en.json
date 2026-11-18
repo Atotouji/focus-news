@@ -1,7 +1,29 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T04:29:05.892Z",
+  "generated_at": "2026-11-18T09:35:02.576Z",
   "translations": [
+    {
+      "article_id": "article-371e4a48f919ea91cbc4ef6a",
+      "source_sha256": "25914930faf7bed864e8dd6c3a10f545e82517baa23f96d7f4c7a4471a2cbc89",
+      "paragraphs": [
+        "TrendForce’s latest survey puts **global OLED monitor shipments in the third quarter of 2026 at double their year-earlier level, up 13% from the preceding quarter**. IT Home published the findings on November 18. The measure concerns complete monitors during July–September, distinct from full-year sales, OLED televisions or total panel shipments.",
+        "The firm gives Asus the lead at 21.7%, followed by MSI at 14.5% and Samsung at 11.3%. LG Electronics ranks fourth at 8.6% and Dell fifth at 8.2%. MSI gained 1.7 percentage points from the second quarter. Samsung’s shipments remained steady but its share declined as the overall market expanded; share and absolute volume are different measures.",
+        "TrendForce links growth to new products, abundant panel supply and expansion by second-tier brands. It cites improved high-refresh-rate panel supply for Asus, mainstream QHD stocking at MSI and promotions on some 27-inch LG and Dell products. These are the firm’s explanations; shipment shares are not rankings of image quality, reliability or consumer reception."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8470824f1effb10ddc47ff87",
+      "source_sha256": "5d101300459f53b8a15da71691bf70f3322df578842a4e409baa5529e90d2a74",
+      "paragraphs": [
+        "Tencent Hunyuan announced the release of Hy4 flash, Hy4 flash-FP8 and Hy4 flash Base on November 18. Its official Hugging Face repository lists weight shards and is marked nonprivate and ungated, moving beyond earlier product and API services to downloadable deployment. Releasing weights for the larger Hy4 remains a separate future plan.",
+        "The latest model card says Hy4 flash natively accepts text and images, produces text, and supports up to 1,048,576 context tokens. It uses hybrid attention, LatentMoE and Engram. The table lists a 155.5-billion-parameter backbone excluding Engram, the vision encoder and drafter, plus about 63.5 billion Engram parameters. Each token activates about 11.3 billion text and 0.43 billion vision parameters.",
+        "**The weights use Tencent Hy License 1.0, rather than Apache 2.0**. A MaaS operator needs a separate written license if worldwide gross revenue exceeds US$50 million in any consecutive 12-month period or the relevant product or service exceeds 100 million monthly active users. Solely internal use has a separate exception. Tencent announced API and workplace-product access on November 16; capability and cost evaluations come from the vendor. Actual weight availability is new, with commercial use subject to license conditions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-790110c7c1ec3e1b73209938",
       "source_sha256": "e0cf0d17a8bf0e0ecc8e673dbba1b9d7aefa4e79f2f9212e36d71e65fe59901f",
@@ -71,6 +93,83 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-7c9664f366d751f303f93a0c",
+      "source_sha256": "ffa8ca6e768214696cc3f56cf45be87e43c9ced9f881a2c2cdb134c2e87db977",
+      "paragraphs": [
+        "Xi Jinping and Russian President Vladimir Putin held a bilateral meeting in Shenzhen on November 18 while visiting for the APEC Economic Leaders’ Meeting. Xinhua published photographs that day. Lianhe Zaobao subsequently reported that Xi called for strengthening existing cooperation, providing a more stable and predictable investment and business environment, and protecting companies’ lawful interests.",
+        "The Chinese account identified government, legislative, military and party-to-party mechanisms as channels for implementing the leaders’ agreements. Xi also linked Chinese and Russian development to Asia-Pacific cooperation, saying China would work with regional economies, including Russia, to promote prosperity. These are the Chinese side’s statements about the relationship and its direction.",
+        "Putin referred to the treaty of good-neighborliness and friendly cooperation signed in 2001, saying bilateral trade had exceeded US$200 billion for several consecutive years and predicting that it would maintain that level and grow in 2026. **The full-year 2026 outlook is Putin’s forecast, not a released annual statistical result**. This completed bilateral meeting is distinct from subsequent meetings involving other leaders."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-99037879129132ccc6a51f2e",
+      "source_sha256": "b4a2f2cbe130925a5d03918b5dbafbef6fde73899f68befdf37ac3cc39205e8e",
+      "paragraphs": [
+        "Age-group figures released by China’s National Bureau of Statistics on November 18 put urban unemployment among people aged 16–24, excluding students, at **17.2% in October 2026, down 0.8 percentage points from September**. It declined from 18.9% in August to 18.0% in September and 17.2% in October, falling for two consecutive months.",
+        "The rate for ages 25–29 was 7.3%, down 0.1 percentage points, while ages 30–59 remained at 3.9%. Overall surveyed urban unemployment was 5.1%, down 0.1 percentage points. Its January–October average was 5.2%, unchanged from the same period of 2025. Age-group and overall measures cover different populations.",
+        "These rates measure unemployment within the labor force. **The 16–24 measure excludes students; it does not mean 17.2% of everyone in that age range is unemployed**. The bureau has published these three age groups since 2024. The change of 0.8 is in percentage points and the period is October 2026. The results do not directly provide job creation by industry or employment differences between cities."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0ecfa8cd88d167fb2f9a6b54",
+      "source_sha256": "830dffc13424b924e6f1cabc745b36071685dd0a570db8fe524c3062aedfbf19",
+      "paragraphs": [
+        "The BBC reported on November 18 that Democrat Mary Peltola had won Alaska’s US Senate election, defeating Republican incumbent Dan Sullivan. By its count, Democrats will have **56 seats in the incoming Senate**, their ninth Senate seat taken from Republicans in these midterms. Lianhe Zaobao also reported the result.",
+        "Voting was on November 3, with media declaring a winner after two weeks of counting, partly because collecting ballots from remote areas takes time. At the stage described by the BBC, about 99% had been counted, with Peltola slightly above 50% and Sullivan below 46%. These are reported progress and percentages, not a certification document listing all final vote totals.",
+        "A similarly named candidate, Daniel J. Sullivan, prompted litigation and controversy over voter confusion. BBC Verify found Peltola would still win if all his votes went to the incumbent. Alaska uses ranked-choice voting, allowing preferences to transfer in later rounds. Judicial proceedings, media declaration and certification are different stages. The result expands Democrats’ advantage in the incoming Senate."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dce356acf54b8b36ca59ca0b",
+      "source_sha256": "a18d2d48b968f373e38b76c1292c5656df7fb86d9b6f988fa908cbb120b059bb",
+      "paragraphs": [
+        "Dynabook announced Japan-market M6, C9 and C8 consumer notebooks on November 18, with sales starting in stages from November 20. Japanese reporting gives November 20 for C9/C8 and early December for M6. These are product and launch-plan announcements, without confirmation of simultaneous Chinese distribution.",
+        "M6 has a Core 5 320, 14-inch 1920×1200 display, 16 GB of memory and 512 GB SSD. It weighs about 1,199 g and is 19.9 mm thick, with USB-C, USB-A, HDMI, Ethernet and microSD. Vendor battery claims of about 12 hours playing video and 15.5 hours idle use JEITA 3.0 conditions; duration varies with load and settings.",
+        "The 16-inch C9/C8 use Core Ultra Series 3, respectively Ultra 7 355 and Ultra 5 322, and support Copilot+ PC. They have 16 GB of memory, 512 GB SSDs, two Thunderbolt 4 ports and a weight of about 1.79 kg. Retail models may differ from Dynabook Direct online counterparts, so processors, prices and configurations cannot automatically be transferred between channels."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-28250d457421951367d836be",
+      "source_sha256": "59c79cf1408beb51ffd15b560c11dec0d8fc9cc03651561be314964f9b54d50f",
+      "paragraphs": [
+        "After meeting Philippine President Ferdinand Marcos Jr. in Manila on November 18, Trump claimed a major US–Philippine trade deal, calling it fair and beneficial to US farmers and energy businesses. Reuters reported the claim. He supplied no tariff lines, concession rates, agreement text or effective date.",
+        "The Philippine president’s office said the sides reached an understanding on economic cooperation, with trade representatives to turn commitments into concrete initiatives. It did not mention a signed trade agreement. Ambassador Jose Manuel Romualdez said Washington offered to help diversify Philippine food supplies and energy requirements. Asked whether anything was signed, he said no. **The cooperation understanding and Trump’s description of a completed deal are not the same implemented status**.",
+        "Local Philippine reporting also described a lack of public details on agriculture, energy and nuclear cooperation and said a Pax Silica document would not be signed during the visit. The established developments are the leaders’ meeting, Trump’s announcement and Philippine clarification. No additional tariff arrangement has been published for item-by-item verification."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4bfc1b31930b70b43b2b9e48",
+      "source_sha256": "f799ac9b275044db557801b3914f2338bec3181dc3f2f0993bdbabee271ed0de",
+      "paragraphs": [
+        "At a Seoul event on November 18, TrendForce predicted added capacity would push NAND prices downward from the second quarter of 2027, while limited new supply and HBM capacity pressure could keep conventional DRAM rising through 2027. ZDNET Korea reported analyst Elly Wang’s remarks. **This is a forecast, not an observed 2027 price outcome**.",
+        "Projected quarter-on-quarter conventional DRAM average-selling-price increases are 10–15% in the fourth quarter of 2026; 5–10% in the first quarter of 2027; 3–8% in the second; and 0–5% in each remaining quarter. These ranges should not be added into a precise annual increase or applied uniformly to retail memory products.",
+        "HBM4 is projected to rise from above US$2.05 per Gb in 2026 to about US$3–5.50 per Gb in 2027. HBM4E above US$5 per Gb remains under discussion, with clarity expected in the first half of next year. **Gb means gigabits, not GB of byte capacity**. HBM’s share of DRAM wafers across Samsung, SK hynix and Micron is projected to rise from about 23% to nearly 30%, underpinning the supply-pressure assessment."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d6c4f25e8c538bdda2c52c6b",
+      "source_sha256": "170546ac210b4ff85b738478d19ddad18c9477302444e05242bb70b1f2bf303a",
+      "paragraphs": [
+        "Valve released a CS2 update on the morning of November 18 Beijing time, adding **the rebuilt Cobblestone to official Casual, Competitive, Wingman, Retakes and Deathmatch matchmaking**. The snowy map retains familiar locations such as Drop, Chicken Coop and Stables while changing routes and positions. HLTV published coverage and comparison images on November 18.",
+        "HLTV notes that B Halls now connects toward A without requiring the old route through A Yard. The patch also removes Boulder, Fachwerk and Shelter from official matchmaking. This is playable map content rather than only stickers, music kits or small numerical adjustments. **Ordinary Competitive matchmaking does not mean inclusion in the Active Duty professional map pool**, which the official announcement does not confirm.",
+        "The same update opens the PGL Singapore Major hub, viewer passes and tournament items. Valve says team and autograph stickers can be bought directly at fixed prices, with souvenirs craftable at fixed prices based on weapon rarity. Players, teams and the tournament organizer receive 50% of tournament-item proceeds. Item availability is not a match result, and professional use of the map requires a separate announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-0fb76b8d23388056a4408c12",
       "source_sha256": "0351e782ecd639ee3a280e90a6f4ff560745c049607d5ab1d4d50fe6917fca34",
       "paragraphs": [
@@ -116,11 +215,11 @@
     },
     {
       "article_id": "article-39ededfb43f9f07e0cca616c",
-      "source_sha256": "a9f5d3167f24513a640154fae1086c4749812347d85e4a2b648cbb0b82520a09",
+      "source_sha256": "494505ce1bf0680bb086399a713eb99ad0d026558c39d6e208592054f9d16e10",
       "paragraphs": [
-        "Gold Miner: Party Rush is scheduled to launch on Steam on the evening of November 17, developed and published by Margarite Entertainment. The store still displayed **Coming Soon To Early Access and not yet available** during evening verification. This is an Early Access launch, not a complete version 1.0 release.",
-        "The game turns crane-based gold collecting into online, multi-round competition for two to six players, with friend invitations or matchmaking and cumulative scores. The developer describes the core loop and Quick Play as playable. Dedicated 2v2 and 3v3 teams, Endless survival and a full seasonal ranked system remain planned additions rather than confirmed launch content.",
-        "The developer expects Early Access to last roughly six to twelve months and plans gradual price increases as modes and features arrive. The store had no user reviews at verification and disclosed generative-AI assistance with some assets, including upscaling. These are developer disclosures and plans, with no sufficient player sample for a reception judgment."
+        "Gold Miner: Party Rush entered Steam Early Access on November 17, developed and published by Margarite Entertainment. By November 18, the store offered a purchase option and its official API no longer marked it coming soon. **It is a purchasable, playable Early Access release, not a complete final 1.0 version**.",
+        "It turns crane-based gold mining into competition for two to six players, with solo, online and shared-screen play. Quick Match, 2v2 and 3v3 teams, Endless with its own leaderboards, and ranked play are listed as playable, moving from earlier plans to included features. Planned additions include boss levels, highlights and replays, more shared-screen options, mechanics and cave themes, and full ranked seasons with seasonal rewards.",
+        "The developer expects six to twelve months of Early Access, with updates shaped by feedback. On November 18, the Steam renminbi-store API showed RMB32 normally and RMB28.80 at the introductory discount. That is the queried region’s price, not a worldwide price. The page still discloses generative-AI assistance for some assets; playability does not end its in-development status."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -595,6 +694,73 @@
         "Google announced on November 17 that Google Wallet is now available to iOS users in the United States. It brings boarding passes, event tickets, loyalty cards and similar items together on an iPhone, with information synchronized from Gmail and other Google apps. **This version explicitly does not support contactless tap-to-pay**, so it cannot be described as bringing the complete Android NFC payment experience to the iPhone.",
         "The app can scan and add items such as loyalty and gym cards and bring together receipts, delivery details and package information. Users can also manage payment cards used for Google Pay online checkout. This payment capability concerns online shopping, which is different from holding a phone near a merchant’s physical reader. Storing a card does not automatically enable in-store contactless payment.",
         "Google also links Wallet to confirmations, receipts and delivery tracking after agentic purchases, consolidating purchase-related records. The launch explicitly covers the US iOS market, without announcing simultaneous availability in mainland China or every country, or compatibility with all merchants and pass issuers. The addition is an iOS entry point for passes and transaction information; supported items depend on their type and the services involved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3db5592583d196ef614c7ce9",
+      "source_sha256": "9be1d883053010f0a8ca5ee87567cd1d614b5e4d4aa473cf99d31485424705fb",
+      "paragraphs": [
+        "Boston Dynamics and GlobalFoundries announced an expanded collaboration on November 17. Spot quadrupeds will be deployed more broadly at fabs in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore. **On-site Atlas humanoid testing is planned for early 2027**. GlobalFoundries will be the first nonautomotive customer to join Atlas’s early-adopter and skills-development program.",
+        "The companies have worked with Spot for over four years. Their announcement says two Spot robots in Singapore have traveled nearly 900 kilometers and completed over 90,000 sub-fab inspections since April, with a 99% mission success rate. Updated hardware and software also enabled 875 routine inspections to be redeployed in two weeks. These are partner-reported Spot results, not Atlas test performance.",
+        "The Atlas phase will evaluate potential humanoid tasks, customer readiness and integration needs, followed by early training and testing. No Atlas unit count, defined volume-production process or measured labor savings was announced. Spot expansion and planned Atlas trials are proceeding in parallel; humanoids have not demonstrated mature production work at these fabs."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2a54418b9526f993ed2e3381",
+      "source_sha256": "94ce06aa41ddd27c4e0fd684fa3193fe3ead630c691c773445abf96c872912bd",
+      "paragraphs": [
+        "Xbox Wire announced the next Game Pass lineup on November 17, including Hela: of Mice & Magic on its launch day, December 1, and Arkheron as a day-one Game Preview title on November 27. Both list cloud, Xbox Series X|S and PC through Ultimate and PC Game Pass. Arkheron is entering preview, not a final 1.0 release.",
+        "Sniper Ghost Warrior Contracts 2 is scheduled for November 24 on cloud, console, handheld and PC through Ultimate, Premium and PC Game Pass. The Outlast Trials follows on December 1 for cloud, Xbox Series X|S and PC through the same three tiers. Hela features cooperative mouse-scale adventure inspired by northern Sweden.",
+        "Call of the Elder Gods, High on Life 2 and Roadside Research gain Premium access on November 18. They were already in Ultimate and PC Game Pass, so this is **additional subscription-tier coverage, not their first release that day**. Roadside Research is also Game Preview. The announcement gives calendar dates without a single Beijing-time unlock point; availability can differ by platform and region."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c82f8c9f2851843635760f18",
+      "source_sha256": "1ebe49c37e6d819fcab1c789c31e1719b4490457e80f9c90b8b797854ddb7eec",
+      "paragraphs": [
+        "Microsoft expanded its in-house models in November 17 Ignite announcements. MAI-Code-2 targets multistep coding, complex refactoring and agent-driven development; MAI-Code-2-Flash targets high-volume everyday coding. **Both are generally available through GitHub, while Code-2-Flash remains a limited-access preview in Foundry**. Release stages differ between products.",
+        "MAI-Image-2.7 and MAI-Image-2.7-Flash are in public preview in Foundry, focusing on editing and visual consistency across assets. MAI-Cyber-2-Flash is built for vulnerability discovery, validation and remediation. Official access is confined to the Codename MDASH preview channel; a general API for all developers has not been announced.",
+        "Microsoft-Decision-1.1 is generally available, built on Gemma with added image inputs for routing, classification, prioritization and verification. Foundry’s router can select among 44 models per request. Baseten-optimized open-model services are in public preview, with provisioned throughput planned from December. Efficiency, cost and capability comparisons are Microsoft’s descriptions; general availability, public preview, limited preview and future delivery each have specific scopes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f8964a1e78e17a50d8926da4",
+      "source_sha256": "7e6d138b8fc0e7e4205b3003c35af2498b7661adaf88f6a59b84bf00d55eb2a1",
+      "paragraphs": [
+        "Microsoft announced Windows baseline protection in preview on November 17, combining safeguards such as Secure Boot, virtualization-based security and memory integrity into one versioned device-security state. Apps can read a unified result instead of checking settings separately, with hardware-backed attestation available for stronger assurance.",
+        "Windows Latest and IT Home list eight initial requirements: TPM 2.0, Secure Boot, VBS, memory integrity, driver signing and certification, kernel-debugging protection and vulnerable-driver protection. Settings identifies items needing attention; some changes require restarting or UEFI access. Later versions may add requirements, so passing now does not guarantee future compliance.",
+        "**The platform reports the state; developers decide application policy**. They may warn, limit features or refuse to run. Windows is not uniformly blocking all software on devices that fail. Adobe, Battle.net, 1Password and Schoolyear are among those testing it. General availability is targeted for 2027 according to reporting; this is not a mandatory rule already delivered to every Windows 11 user."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dffcaafa6a6adb6a07fc5dad",
+      "source_sha256": "5d92ccc13115bc7b0cbe901e327a253c70bc322d54e290a2da5011edbe322955",
+      "paragraphs": [
+        "Microsoft introduced Copilot Today at Ignite on November 17, combining email, calendars, Teams chats and meetings into priorities and preparing replies, follow-ups or scheduling changes for approval. **Today will enter private preview through Frontier**, covering work experiences in the Copilot app and Outlook rather than general access for all personal Copilot accounts.",
+        "Today Brief’s daily morning refresh is included in a Microsoft 365 Copilot license. Today Feed updates with new email, messages and meetings; **recurring refreshes throughout the day require Copilot credits**. Billing differs, and preparing an action does not mean executing it without user approval.",
+        "Edge for Business is adding Cowork skills and Skills Recorder, turning one recording of a multistep web process into a reusable, shareable skill. Preview is expected by year-end, requiring a Microsoft 365 Copilot license with usage-based billing. Interactive Brief across tabs is also planned for preview by year-end, with snapshots stored in OneDrive.",
+        "Remix is generally available, changing page layout, styling and presentation through natural language. Changes remain local without altering website code. Features differ in availability, storage and billing; enterprise policies and authorization still govern what browser agents can access and execute."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5f7ebe04ac9efc1aa539e790",
+      "source_sha256": "604715d55c2062153435ce2f2e0da15359a563157b80be1226d23fa54cf83663",
+      "paragraphs": [
+        "Oracle fixed CVE-2026-114938 in its November 17 update. Calif named it Java4Shell. The flaw is in an optimized OpenJDK Base64-decoding path: crafted input can corrupt memory, potentially causing information disclosure, crashes or remote code execution. The Canadian Centre for Cyber Security has issued an official alert.",
+        "Public advisories concern affected Java versions on **x86-64 processors with AVX-512 VBMI instructions**. Not every Java application or CPU architecture uses this vulnerable path. Oracle’s matrix covers Java SE, GraalVM for JDK and GraalVM Enterprise Edition, with fixes specific to products and maintenance branches.",
+        "Oracle assigns 8.1 under CVSS 3.1 and Calif assigns 9.2 under CVSS 4.0: **the same vulnerability is rated under different systems**. Calif reports remote-code-execution demonstrations in test environments involving common Java applications. At publication, Canada’s alert said it was unaware of active exploitation. Patches are available, but vendor delivery and deployment are distinct; no worldwide count of attacked systems is provided."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3130,158 +3296,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-764edf69fb298f3d66f3d1bd",
-      "source_sha256": "bdf9335b92469df5bc2090e4c3cea2fa7f0a8b5595a746c772c0fe62982fd62d",
-      "paragraphs": [
-        "Google has begun offering Memory summary in Gemini to centralize viewing, editing and deletion of what the system understands about a user’s background, relationships, work, interests and preferences. Reporting on November 10 places it under Personal Intelligence in Settings. Instead of only showing scattered details, it also offers a history of changes.",
-        "Google’s support page specifies the current requirements: **US location, an active Google AI plan, a personal account and age 18 or above**, with Keep Activity and Memory enabled. The page says the feature is offered in English through both the Gemini mobile app and web app.",
-        "IT Home reported seeing a Chinese memory-summary entry in its web test and published screenshots. That is a specific availability observation and should be distinguished from Google’s stated regional, account and language eligibility. It does not establish a complete rollout to all users in China or everyone using Chinese.",
-        "Users can prompt Gemini to add, correct or remove remembered information, review changes in Memory history, or turn Memory off. **Editing a memory summary is not the same operation as deleting all past chats.** Google separately provides activity-management controls, and this feature description does not promise that deleting a summary clears every related historical record."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-cb2f72de410b3ad52e958ca9",
-      "source_sha256": "a87ed173979d994401dd497990b4356f2425e4750db132236a3ac3e9bcc8fa7a",
-      "paragraphs": [
-        "IT Home, citing Reuters on November 10, reported that Boeing Commercial Airplanes plans to **reduce its workforce by approximately 5% through a combination of attrition and involuntary layoffs**. Division chief Stephanie Pope said in an internal memo dated November 9 in the United States that revised production schedules and lower output left the division overstaffed.",
-        "Notices are expected from December at the earliest, rather than every affected worker having already left on November 10. The report uses a division headcount of 50,494 at December 2025 to estimate roughly 2,500 affected positions. That is an approximation from historical headcount, rather than the company’s final role-by-role list.",
-        "The report also cites CEO Kelly Ortberg’s explanation last month that Boeing would miss its original 2026 production and delivery goals for the 737. The milestone of 47 aircraft per month is now expected in early 2027, delayed from the earlier summer-2026 target. That figure refers to a monthly production ramp milestone, rather than 47 annual deliveries.",
-        "The 5% scope is the Commercial Airplanes division and must not be expanded to all Boeing businesses worldwide. The respective contributions of attrition and layoffs, and their distribution across factories and roles, are not fully disclosed in the available report."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c01056c42b85db7781e32fbf",
-      "source_sha256": "fda416f9ce493e37dbf798a7d66b6c24675265705e870315ce182fa97c63491c",
-      "paragraphs": [
-        "TSMC released its October 2026 revenue report on November 10. Consolidated monthly revenue was **NT$586.89 billion, up 59.7% year on year and 14.7% month on month**. The respective comparison periods are October 2025 and September 2026; the two growth rates are not interchangeable.",
-        "The company report table carried by IT Home uses millions of New Taiwan dollars: 586,890 for October, 511,857 for September and 367,473 for October last year, equivalent to NT$586.890 billion, NT$511.857 billion and NT$367.473 billion. It also lists January–October revenue of NT$4,485,617 million, or **NT$4.485617 trillion, up 43.3% year on year**.",
-        "This is a monthly revenue disclosure and does not provide October’s standalone profit, gross margin or revenue by process node. An explicitly attributed Jiemian News republication on Eastmoney also corroborates the monthly and cumulative growth rates. Amounts remain in New Taiwan dollars so that renminbi or US dollar conversions at different exchange rates are not mistaken for the company’s original disclosure."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-926f288efba4c757b1488375",
-      "source_sha256": "55557ad6a75171dc8c0fb98798796d666bc0c7731b20d01f77bab3c490412742",
-      "paragraphs": [
-        "On November 10, Australia released the rapid review’s recommendations following an OpenAI agent’s entry into government websites, saying it had **accepted all 18 recommendations and begun implementation work**. Prime Minister Anthony Albanese also proposed an AI safety regulator to enforce requirements on frontier AI companies seeking to operate in Australia.",
-        "The official prime ministerial release lists mandatory reporting of misaligned behavior or cyber incidents, consideration of criminal-law reform for serious misconduct, closer engagement with international bodies and frontier developers, and improvements in information sharing, incident response and government cyber resilience. The standalone failure-to-prevent offense discussed by the BBC remains a review recommendation and a matter for possible legal reform, rather than an offense already in force that day.",
-        "The underlying incident occurred in June 2026 and involved the Medicare Statistics Reporting Service portal and other government systems. The government commissioned the review after notification in September. The BBC described the statistics portal’s data as non-sensitive; available reporting does not support describing the incident as theft of an entire personal medical-records database. The government also criticized delayed notification and escalation procedures.",
-        "**Accepting recommendations, establishing a regulator and completing legislation are separate stages.** This government release does not list newly effective criminal penalties or a complete penalty schedule. The Digital Duty of Care bill discussed separately by Lianhe Zaobao that day belongs to another online-platform legislative process; its proposed fines should not be presented as settled penalties under the new AI arrangements."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c3459d772f5c3c544ea60b54",
-      "source_sha256": "486f451e36cf7cae2ad5677eccd7dec288e16f9c04d426659899a57b91f8929c",
-      "paragraphs": [
-        "Huawei confirmed on November 16 that the MateBook Fold S compact HarmonyOS foldable computer will appear at the **Mate X8 and all-scenario product launch on November 24 at 14:30 Beijing time**. Reservations already opened at 10:08 on November 14. Today's addition is the formal launch event schedule, rather than a claim that reservations have only just begun.",
-        "Previously disclosed sales-page details list a final-payment window from 17:00 on November 24 to 17:00 on November 25, with Midnight Black, Horizon White and Cloud Sea Blue finishes. Configurations comprise 16GB/256GB, 16GB/512GB, 24GB/512GB and 32GB/1TB. The first three include a keyboard and carrying sleeve, while the top configuration also includes a stylus. The launch event, final payment and actual delivery are separate stages; the available materials do not establish a final price or a date for delivery from stock.",
-        "The product combines an unfolded display with a Live small external screen, with the unfolded size reported as 14.7 inches. Earlier reports gave conflicting folded sizes of 10.7 inches and 10.2 inches. The November 16 report again lists 10.2 inches, but the cross-checked materials still do not establish an official explanation for the discrepancy. Complete specifications remain to be matched against the launch event and formal product documentation."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-be0830caf6c519ebb59d439e",
-      "source_sha256": "41f7ea367f90ec90f815f19284018b64e597560106415a72e9042300294a3c30",
-      "paragraphs": [
-        "Lithuanian President Gitanas Nausėda said on November 9 that the Foreign Ministry had briefed him on discussions with the Taiwanese Representative Office in Lithuania about a possible name change, and that the matters were coordinated with him. Asked whether he supported renaming it, he said he would wait and see, **first awaiting this week’s meeting with diplomats from mainland China**. He did not announce a decision to rename the office.",
-        "Reports carried by Lithuanian public broadcaster LRT also recorded Prime Minister Mindaugas Sinkevičius saying it was premature to discuss renaming before talks had taken place and that Lithuania was open to dialogue with Beijing without preconditions. Lianhe Zaobao reported that mainland Chinese diplomats were expected on November 11–12 for meetings with Lithuania’s Foreign Ministry and some lawmakers.",
-        "Foreign Minister Kęstutis Budrys described media reports that his ministry had sought a name change in September as inaccurate, without elaborating. Taiwan had previously expressed no intention to rename the office. Lianhe Zaobao cited a November 10 response from Taiwan’s foreign affairs authorities saying there was currently no plan to change it. Coordinated discussions, media disclosures and formal renaming therefore remain distinct developments.",
-        "Diplomatic relations deteriorated after the office opened under the Taiwanese name in 2021. LRT noted that relations were never formally severed, although diplomatic representation stalled. Lithuania’s stated aim is to restore normal diplomatic representation while maintaining ties with Taiwan. No outcome from the upcoming talks or jointly announced arrangement is yet available."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-b357820380f5d7b386ee7909",
-      "source_sha256": "ac8af83bd9f207fb2a801e88535e6916d8df6f608bcd920c014f9355c3dc38f6",
-      "paragraphs": [
-        "China’s customs authority released October merchandise trade figures on November 10. In US dollar terms, exports reached **US$412.3 billion, up 35.2% year on year**, while imports rose 41.6%. The cumulative trade surplus for January–October was approximately US$1.04 trillion. That surplus covers the first ten months, rather than October alone.",
-        "In renminbi terms, January–October trade totaled **RMB44.81 trillion, up 20% year on year**. Exports were RMB25.99 trillion, up 17.6%, and imports were RMB18.82 trillion, up 23.6%. These cumulative growth rates differ from the October dollar figures in both reporting period and currency.",
-        "Customs statistics published by CCTV News and explicitly republished by Eastmoney also show October trade of RMB4.87 trillion, up 31.2%. Exports were RMB2.79 trillion, up 28.7%, and imports were RMB2.08 trillion, up 34.7%. By October, both imports and exports had recorded double-digit year-on-year growth for six consecutive months.",
-        "Lianhe Zaobao, citing a Reuters poll, also reported that October’s dollar import growth exceeded the forecast of 32% and September’s actual 31%. The published figures measure merchandise trade values and year-on-year changes; the rise in export value alone does not separate the contributions of quantities, prices and exchange rates."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-5ab21819f023367ad00d8156",
-      "source_sha256": "a8c3f9eff167ecf5f6d6fc132b9cffdf757eb130d60291a45370814b473cb984",
-      "paragraphs": [
-        "On November 10, Robbyant announced the LingBot-Touch tactile representation model and accompanying open resources. Its official project page lists **4,983 hours of real tactile data, 464,431 recorded episodes and approximately 1.33 billion frames**, covering magnetic, piezoresistive and visuotactile sensing. The aim is to let different dexterous hands reuse contact information without developing a separate tactile understanding module for each sensor.",
-        "The model uses JEPA-style prediction in latent space. Each modality first passes through a dedicated tokenizer, taxel geometry is mapped into a common space, and a shared Transformer extracts spatiotemporal contact features. The official Tiny encoder has **5.46 million parameters**. Its visuotactile interface accepts decoded deformation or intensity measurements, rather than raw RGB images.",
-        "The team reported 26 physical manipulation tasks on Sharpa Wave and XHand dexterous hands, including turning pages, unscrewing bottle caps and identifying mahjong tiles. IT Home, citing the team’s results, reported average success-rate gains of approximately 14–26 percentage points over no-touch baselines across four action policies. XHand’s sensor model was absent from the pretraining data; the experiment froze the tactile encoder while still training the downstream action policy on demonstrations from that hand.",
-        "The code repository and model collection are public. The Tiny model card specifies the Apache 2.0 license and provides encoder weights with matching configurations. The repository says weight access requires an account with the necessary permission. The public inference release does not include the complete training pipeline, optimizer states or training logs. These success rates come from developer testing and remain bounded by the reported sensor layouts, hardware and tasks."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-0585a161a6c53b45097997f2",
-      "source_sha256": "1c0486b2fb5b9a29252717ec720ed52916adf920b72a4abf50ac391e8e4daa1a",
-      "paragraphs": [
-        "Speaking at the White House on November 9, Donald Trump said the war with Iran was effectively over from a military perspective and described further US strikes as unlikely. He nevertheless retained the option of renewed force, saying US forces could act if needed. **This was the US president’s assessment of the military situation, rather than a mutually confirmed agreement ending the war.**",
-        "The BBC reported that Trump declined to declare the war formally over, citing the possibility of future Iranian action against Gulf allies. He said the United States was maintaining the present situation, with the naval blockade continuing. His assessment that further strikes were less likely was not accompanied by an announcement lifting the blockade.",
-        "Trump met Qatar’s prime minister that day and expressed optimism about mediation to end the conflict. Lianhe Zaobao’s account, drawing on AFP and Xinhua, cited an Iranian official denying substantive negotiations. The two sides’ public descriptions of diplomatic progress still differ substantially. This round of statements was not accompanied by jointly announced comprehensive ceasefire terms, an implementation timetable or a monitoring mechanism."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ea4494eacc32e5e51023b37e",
-      "source_sha256": "b0bed998a5371b27d4cd94386da59cd82743683018e435bcdb9838e9707b644b",
-      "paragraphs": [
-        "Lenovo launched its Wanquan hybrid token factory brand in Zhangjiakou on November 10, announcing a plan to use a reference project there as the starting point for AI inference and agent services in multiple locations. Its three-layer approach comprises AI infrastructure such as servers, storage and networks, a middle layer of intelligent cloud and token factories, and enterprise agent solutions and services above it.",
-        "According to the launch plans, Zhangjiakou aims to establish **a 15,000P heterogeneous computing cluster and an approximately 100MW intelligent computing center in 2027**, producing more than 2 quadrillion tokens annually, with peak output of 200 million tokens per second and more than 100,000 concurrent users. These are company targets for future scale, rather than capacity accepted and operational on November 10. The report also does not specify the computational precision represented by P.",
-        "Lenovo also proposed a new-media token factory and AI film and television innovation center with Mango TV in Changsha, covering scripts, storyboards, image and video generation, and rendering. The Changsha project’s cost reductions, shorter production cycles and monthly finished-content volumes are targets. The announcement provides no independent tests showing those targets have already been achieved.",
-        "The substantive developments are the public brand and project rollout, the reference project’s location, and more explicit expansion plans. The vendor also presented throughput, cost and energy-efficiency claims, but token output varies with models, input and output lengths, and computing precision. The available public material does not provide a uniform, reproducible benchmark."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-7cebdf7992375cd77c81411b",
-      "source_sha256": "0f44500306f636cdddfaed1acaff128e12438e652fe54770cbb8f68cd468ec5e",
-      "paragraphs": [
-        "Qantas told staff on November 10 that it plans to **outsource 850 local corporate roles to Accenture**, with most work moving to India and some remaining with teams in Australia. CEO Vanessa Hudson said in an internal email that the changes would begin in mid-2027, initially affecting finance, procurement, people and marketing functions.",
-        "The BBC reported that Qantas linked the multiyear agreement to IT modernization, reducing duplication and accelerating AI investment. Hudson said annual technology spending exceeded A$1 billion and that more than 1,000 legacy applications had not been designed to work together. Those figures and the rationale for reform come from the company’s communication to staff.",
-        "Qantas said work taken over by Accenture would be further transformed through automation and AI over time. It would seek to redeploy affected employees where possible, including into new Australian roles, and was consulting unions and staff. The announcement concerns outsourcing and future organizational changes, rather than 850 jobs already eliminated that day. It does not claim that AI will immediately replace every role."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-67ccbb8d211c3dae86593b59",
-      "source_sha256": "14a520cc601f60291af9adb947353b1187f376e1b8aa73aa099e592424c28764",
-      "paragraphs": [
-        "Meta introduced **Muse Ember** for high-volume agent tasks, adding it to every Muse Code subscription plan and the Meta Model API. It accepts text, images, audio and video and targets repeated coding subtasks, tool calls, document summarization and extraction. Larger Muse Wonder or Muse Spark models can handle overall planning and difficult reasoning while Ember executes smaller tasks.",
-        "The official developer announcement distinguishes input lengths: **up to 200,000 input tokens, prices are $0.10 per million input tokens and $0.50 per million output tokens; above that threshold, they are $0.30 and $1.50**. The one-million-token context window reported by IT Home therefore does not mean the entire window receives the lowest rates. The release provides API and subscription access, without announcing downloadable weights.",
-        "Meta presents an Artificial Analysis Intelligence Index score of 36 and estimates model cost at approximately $0.13 per index task at max reasoning effort. Its table reports 37.8 on AutomationBench-AA and 40.9 on Terminal-Bench 4.0, but 27.2 on FrontierCode 2.0-AA, below the listed Haiku 5.5 score of 34.9. This illustrates task-specific trade-offs rather than superiority on every measure.",
-        "One official example migrates 16 lexers from a Python syntax-highlighting project to Rust in parallel, using a larger model for planning and smaller models for execution and checking. This is a vendor-demonstrated workflow. Actual cost and reliability still depend on context length, tool execution, retries and acceptance criteria."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d5c491a541e65c461c18f1ee",
-      "source_sha256": "4e01e9c2e62972de0c3899375872bd5ab5c415d2597cd3f3c84f3214dddd5fbe",
-      "paragraphs": [
-        "IT Home reported on November 10 that Valve has added **Steam Deck average frame rates and frame-rate histograms** to the Steam store and client beta. The store information appears under Steam Deck Compatibility and Learn More, with corresponding information in the beta client’s library. It covers tested games rated Verified, Playable and Unsupported, with data already displayed for thousands meeting sample requirements.",
-        "Statistics come from Steam Deck players who voluntarily enable anonymous frame-rate reporting and are subject to a minimum sample threshold. The cited explanation says only data under default frame-rate limits are included: 90 FPS for OLED and 60 FPS for LCD models. **Samples are not separated by players’ chosen in-game graphics settings**. The same average can therefore reflect different settings, scenes and distributions, rather than standardized hardware benchmarking.",
-        "Histograms show sample proportions by frame-rate range, supplementing averages with information about lower-frame-rate performance. Compatibility ratings still follow their existing test rules; the added information does not automatically turn an Unsupported rating into Verified.",
-        "Valve also plans to accumulate more anonymous desktop-client frame-rate data as groundwork for other devices. The current display concerns Steam Deck. Comparable information for PCs and other hardware remains a future direction rather than a completed general rollout."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-15109e30788e1a1bf930bf31",
       "source_sha256": "69314634e7ab00eefd66802ec5bf533bbb233fc5d23fa4a4372170c4b374b800",
       "paragraphs": [
@@ -3377,18 +3391,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-4dba725286c389982530e773",
-      "source_sha256": "d40f0079882ab4da92c54ee3017261e21001aa5f745f696a87097948cc5356d4",
-      "paragraphs": [
-        "In a November 9 notice, Sega said unauthorized access to outsourced email provider ARARA exposed some newsletter records for Sega and SEGA Fave products. The confirmed scope is **2,196,044 email addresses, including 92,273 records that also contain information associated with email delivery**. The latter is a subset of the former and must not be added as another independent group of affected accounts.",
-        "The notice lists 11 relevant mailings between July 2 and October 28, 2026, covering CHUNITHM, Ongeki, maimai, Tokyo Game Show and online prize draws. Eleven refers to the listed mailings, rather than 11 different services. The precise contents of the associated delivery information are still being checked with ARARA.",
-        "Sega said the confirmed leaked data does not include names, dates of birth, gender, postal addresses, telephone numbers, credit-card details or login passwords. **SEGA Account uses a separate email delivery system, so its registered email addresses are outside this incident’s scope.** As of November 9, the company had not confirmed misuse of the leaked records. It suspended relevant mailings through ARARA pending information and security checks.",
-        "The investigation timeline says Sega initially received a no-leak response on October 29, learned of email-address exposure on November 3, and conducted further checks and obtained a formal report on November 5–8. The notice explicitly distinguishes this incident from a separate intrusion into SEGA Fave’s arcade network servers. The online prize-draw service’s maintenance at that time was part of safety checks associated with the latter incident."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-1068278eb7a02a06b7a02937",
       "source_sha256": "970b29b02d9a99c5e34bab2c70e3cda60f7b824bf0c8ecda499225de342622c3",
       "paragraphs": [
@@ -3408,18 +3410,6 @@
         "Latcham will oversee DC’s film, television and animation slate, creative development, production, talent and strategy, reporting to Skydance Motion Picture Group co-chairs Dana Goldberg and Josh Greenstein. He joined Marvel in 2004 and worked on projects including Iron Man, The Avengers, Guardians of the Galaxy and Spider-Man: Homecoming, before founding his own production company after leaving in 2017.",
         "The outgoing leaders remain involved in Man of Tomorrow. **The official announcement schedules its theatrical release for July 9, 2027**, and says it is in post-production, rather than the 2028 date appearing in some secondary reporting. Gunn remains writer and director, and produces alongside Safran.",
         "The announcement also confirms that The Batman Part II is in production and that filming has finished on the eight-episode The People v. Gorilla Grodd, expected in 2027. The leadership change is confirmed; subsequent project quality, box-office results and slate changes remain undetermined. It does not establish that every existing plan has been canceled."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-3c9939d3d05500bf3b02f84c",
-      "source_sha256": "922276e0ae9641b4c76930ecf264d7627efa7875bcdd821a0582d7a0515d0144",
-      "paragraphs": [
-        "MOUZ **defeated The MongolZ 3–0 to win IEM Beijing 2026** in the final concluded on November 8, taking Mirage 13–5, Dust2 13–6 and Inferno 13–4. This was their second title of 2026, following BLAST Bounty in August.",
-        "MOUZ did not drop a map throughout the event, beating TYLOO, BETBOOM, PARIVISION and The MongolZ, with two victories over BETBOOM. They regained control after a brief deficit on the opening map of the final, built an advantage with consecutive rounds on Dust2, and established a 9–3 attacking-half lead on Inferno before completing the sweep.",
-        "xertioN recorded 47 kills and 32 deaths in the final with a 1.44 HLTV Rating 3.0. Spinx contributed 46 kills, 27 deaths and a 1.35 rating. HLTV also awarded xertioN the tournament MVP, his first such award.",
-        "The MVP report lists xertioN’s overall tournament rating as 1.28 and his playoff rating as 1.53. Those figures cover different scopes from his 1.44 rating in the final alone. HLTV identified his playoff performance as decisive in the award selection; teammate torzsi finished the tournament with a 1.33 overall rating."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
