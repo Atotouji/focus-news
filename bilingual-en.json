@@ -1,7 +1,75 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T01:27:52.089Z",
+  "generated_at": "2026-11-18T04:29:05.892Z",
   "translations": [
+    {
+      "article_id": "article-790110c7c1ec3e1b73209938",
+      "source_sha256": "e0cf0d17a8bf0e0ecc8e673dbba1b9d7aefa4e79f2f9212e36d71e65fe59901f",
+      "paragraphs": [
+        "Apple has begun selling genuine replacement parts and specialized self-service repair tools for the iPhone Duo. 9to5Mac reported the change on November 17, followed by IT Home on November 18. **The new development is access to parts and tools; repair manuals were already published when the phone launched last month**. The repair documentation is not all becoming available for the first time now.",
+        "Listed parts include the inner and outer displays, both batteries, rear glass, front and rear cameras, logic board, USB-C port, speakers, microphones, Taptic Engine, and Touch ID and Camera Control components. Tools can be purchased or rented through the program, with separate provisions for consumables and specialized equipment. Parts availability does not mean the device has been redesigned for repair without specialized tools.",
+        "The channel uses Apple’s existing Self Service Repair program. Coverage in the reports concerns the United States, Canada and participating European markets; **it does not confirm simultaneous sales in mainland China**. The reports do not establish Chinese prices, inventory in every region or a repair-cost schedule valid across all markets. The change concerns access to genuine components in covered regions, rather than a worldwide opening or a reduction in out-of-warranty repair prices."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ec5b3a8afa8f9207812464f8",
+      "source_sha256": "9430d2a3dabb7208a1e239b90397ab553fed0054ac70cd1c1d89f320711d085b",
+      "paragraphs": [
+        "iFixit’s teardown of Apple’s HomeView shows that the tabletop and wall-mounted versions differ in their speakers, logic-board layouts and internal structures despite belonging to the same product family. MacRumors reported the findings on November 17 and IT Home on November 18. **They cannot be treated as the same internal design with different housings and broadly interchangeable parts**.",
+        "The display, antennas, speakers and logic board are secured with glue or thermal adhesives, and some connecting cables are very short. The teardown encountered a broken speaker and difficulty separating the board from the enclosure. The board’s shielding and use of the aluminum back for heat dissipation also complicated separation. These are observations and outcomes from this teardown, rather than a failure rate from a large repair sample.",
+        "The tabletop version has a speaker base, with more complicated audio components and connections to the base; the wall-mounted version allocates its internal space differently. The teardown also found a replaceable modular USB-C port in the tabletop model and some replaceable speakers. **Difficult repair does not mean every component is unrepairable or that any fault requires discarding the entire device**.",
+        "The public material provided no formal numerical repairability score. An exaggerated joke by the teardown presenter cannot be converted into a zero or a standardized test score. The evidence more specifically shows how adhesives, cable length, heat-dissipation structures and differences between versions raise the difficulty of disassembly and repair."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-fe8707ef58bbad6756ca1711",
+      "source_sha256": "6423ed7b8bd34599310cc79c3f07d20fafadc59577967b751df02c6d940b09b0",
+      "paragraphs": [
+        "Xi Jinping spoke at the opening ceremony of the APEC CEO Summit in Shenzhen on the morning of November 18. He said China would further lower tariffs, expand market access, enable manufacturers to operate after gaining entry, and open the services sector in an orderly way. Addressed to Asia-Pacific business leaders, the remarks concerned goods trade, investment and operating conditions for businesses in China.",
+        "He linked further opening with China’s 15th Five-Year Plan period, emphasizing the WTO-centered multilateral trading system, work toward a Free Trade Area of the Asia-Pacific, and cooperation in areas including digital trade. The plan period runs from 2026 to 2030. **The speech did not specify the tariff lines, amounts or effective dates of tariff adjustments**.",
+        "Xi also expressed support for establishing a world bay-area economic cooperation alliance to strengthen industrial, innovation and commercial links between bay areas. The alliance remains at the stage of receiving support for its formation. He also proposed greater cooperation in trade digitalization, cross-border e-commerce and smart customs, alongside deeper industrial and supply-chain cooperation. Implementation will involve specific tariff measures, market-access lists and sector rules."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e049e8aa9252eb7dd6fe753b",
+      "source_sha256": "21b00c6555dcc41833bc0e67547e7bd3fc6a7d00d39afe64f7f9e9066f74434d",
+      "paragraphs": [
+        "Regulatory approvals disclosed on November 18 authorized the dissolution through merger of 19 rural financial institutions in Qiandongnan prefecture, Guizhou. They comprise **10 rural commercial banks, six rural credit cooperative unions and three village banks**. Qiandongnan Rural Commercial Bank Co., Ltd. will inherit their assets, claims, debts and other rights and obligations.",
+        "The commercial banks are in Kaili, Majiang, Danzhai, Huangping, Zhenyuan, Sansui, Tianzhu, Jianhe, Liping and Congjiang. The credit unions cover Leishan, Shibing, Cengong, Jinping, Taijiang and Rongjiang. The village banks are Shibing Jinding, Congjiang Yueming and Huangping Zhenxing. The adjustment is concentrated within one prefecture and consolidates several county-level legal entities into a regional bank.",
+        "The approved dissolutions are tied to merger and succession. **They do not mean 19 banks have declared bankruptcy or that their deposit liabilities disappear**. A successor for the liabilities has been identified; account, branch and service-system migration still depends on the banks’ implementation announcements. The approvals provide no post-merger nonperforming-loan ratio, capital adequacy ratio or measured operating improvement. Fewer legal entities alone do not establish that risks have been resolved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8815f09410a876810b4c7427",
+      "source_sha256": "ea693cad7d129a979ad4498df5473dfee6906039934a101e52422943dde805bc",
+      "paragraphs": [
+        "The UK House of Commons passed the Immigration and Asylum Bill at its third reading on November 17 by **290 votes to 94**. The official parliamentary record places the division at 19:00 UK time, equivalent to 03:00 Beijing time on November 18. The bill then moves to the House of Lords. Commons approval does not mean the entire bill has already become law.",
+        "In parallel, the government is pursuing settlement reforms, including extending the standard qualifying period from five to ten years and adjusting routes according to income, contribution and applicant category. Parliamentary discussion also covered retaining shorter routes for some health, care and education workers and how the arrangements would affect people already lawfully resident. The conditions for specific groups still require subsequent rules.",
+        "Separately, opposition New Clause 54, which sought to write a ten-year baseline directly into the legislation, was defeated that day by 99 votes to 384. **The third-reading result cannot be summarized as a ten-year settlement rule having already taken effect for every migrant**. The bill’s parliamentary progress, the government’s proposed settlement reforms and the final rules for each applicant group are related but distinct processes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-217b98da0ac82c4d1dae4084",
+      "source_sha256": "819c8908ff181518a2ff4e82ac5ff6d4e32c07932b6d4b73566553bb65a540eb",
+      "paragraphs": [
+        "The Paper reported on November 18, citing a notice released by the Ministry of Emergency Management, that the office of China’s national disaster prevention, reduction and relief commission had issued winter preparedness arrangements. Addressing cold waves, snow, freezing rain and related secondary hazards, the notice calls for interagency consultation, monitoring and warnings, coordinated emergency responses, and supplies and rescue resources in key areas.",
+        "The climate assessment cited in the notice covers **December 2026 through February 2027**. It projects generally warmer conditions nationwide, but cold waves may be slightly more frequent than average, with large temperature swings. Northern areas face sharp cooling and snowfall risks, while southern areas face episodes of low temperatures, snow and freezing rain. This is a seasonal forecast. Generally warmer conditions do not rule out cold waves, and projected hazards are not events that have already occurred.",
+        "Priorities include roads, electricity, communications, water and heating services; early checks of vulnerable links; connecting disaster warnings with responses; and evacuation, accommodation and basic living support for affected people. The notice also addresses specific situations such as ice-jam prevention on northern rivers and winter operation of the South-to-North Water Diversion Project, emphasizing overlapping risks.",
+        "The report provides no casualty, outage or transport-disruption count for an existing disaster and does not say a uniform national emergency-response level has been activated. The development is a winter risk assessment and preparedness directive. Warnings and response activation in individual regions depend on subsequent real-time announcements from local meteorological and emergency authorities."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-0fb76b8d23388056a4408c12",
       "source_sha256": "0351e782ecd639ee3a280e90a6f4ff560745c049607d5ab1d4d50fe6917fca34",
@@ -10,6 +78,17 @@
         "Standard Astra API prices per million tokens are $8 input, $0.40 cached input and $40 output: 20% lower input and output rates than GPT-6 Astra, and 60% lower cached-input rates. Sol retains GPT-6.1 Sol's respective rates of $2, $0.10 and $10. Token-price reductions differ from per-task savings, which also depend on usage.",
         "Availability covers Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and API developers. Pro 500 gets Ultrafast for both models. Pro 200 initially gets Sol Ultrafast; eligible Enterprise and Edu workspaces require administrator enablement.",
         "OpenAI reports Astra scoring 5.2 percentage points above GPT-6 Astra on Agents' Last Exam at less than one-third the task cost under its reported evaluation settings. It also classifies Astra as its first externally released model to reach the High threshold for AI Self-improvement, an assessment within OpenAI's Preparedness Framework."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8cb27e5a378e1665d9a6dafd",
+      "source_sha256": "3e58e35894230521e8ee9d70be981d17c479ea5512fbba43ddadd07bde2016ef",
+      "paragraphs": [
+        "AMD announced on November 17 that it had completed its acquisition of Taalas, bringing the AI inference chip company’s team and technology into its business. **The transaction has closed**, moving from the earlier acquisition agreement to integration. AMD positions it as part of expanding its full-stack AI portfolio and advancing its long-term inference roadmap.",
+        "Taalas focuses on specialized silicon for AI model inference. AMD plans to integrate the technology into its accelerator roadmap and develop system-level solutions alongside Instinct GPUs, complementing EPYC processors, ROCm software and the Helios rack-scale solution. The aim is a broader range of computing options for different models, deployment scales and performance-efficiency needs.",
+        "The acquisition will also expand AMD’s engineering presence in Canada. Technology integration, software adaptation and subsequent commercial products remain work ahead. The announcement gave no launch date, customer deployment count or independent measurements directly comparable with other chips. Closing establishes ownership of the team and technology; it does not yet demonstrate inference performance or cost advantages in scaled deployments."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -436,6 +515,86 @@
         "The method organises Reynolds number, angle of attack, skew angle, harmonics and multi-component combinations. Non-dimensional scaling, interpolation, spectral decomposition and linear-algebra transformations map lift-and-drag spectra to structural models, with combinatorial reduction limiting computational size. Code, a graphical interface, example data and reproduction assets are public. Figures 1 and 2 show NACA 0018 time- and frequency-domain loads at 164° and 84° angles of attack, respectively, for a 1 m chord, 3.75 m/s inflow and Reynolds number of 5×10⁵.",
         "The reference vertical-axis turbine's first three major blade–strut natural frequencies are approximately 1.8, 4.5 and 5.7 Hz. A simplified initial screen gives shedding frequencies of roughly 1.8 to 7.2 Hz, suggesting overlap at some parked orientations and low inflow speeds. Verification against published CFD data and reconstructed time signals preserved dominant frequency and phase information, while amplitude agreement remained sensitive to filtering, retained spectral depth and source-data quality.",
         "**Frequency overlap indicates potential onset risk; it does not directly establish final vibration amplitude, fatigue life or failure loads.** The authors position the method for early design screening and one-way-coupled load reconstruction, recommend accounting for uncertainty in Strouhal number, amplitude and phase, and call for further validation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9434292048106a1c3b9a9bc9",
+      "source_sha256": "be3cee115319e2fe57f6a6b69e0912db404f746a20952448263e8d73bbe3a724",
+      "paragraphs": [
+        "Anthropic introduced linked billing on the Claude Platform in beta on November 17. Through OAuth authorization, customers can link their Claude Platform organization to supported third-party developer tools or workflow platforms and pay Anthropic directly for the associated API usage, **without handing their API keys to the third party**. Platforms can choose on each request whether they or the customer pays.",
+        "A user with an Owner, Admin or Billing role can approve a connection. Customers can track spending by platform, set spending limits and unlink at any time. This is for organizations eligible for direct Anthropic API billing. It does not transfer allowances from personal Claude Pro or Max subscriptions to external apps, nor does it automatically extend to partner-cloud billing arrangements.",
+        "The official documentation distinguishes limits by app status. For apps in testing, under review or not yet approved, the customer must set a monthly cap of no more than US$50. Caps are optional for approved live apps, and previously saved caps remain in effect. The US$50 limit is therefore not a universal monthly allowance for every approved linked app.",
+        "Linking changes who pays, while **requests still run in the third-party platform’s organization**, using that platform’s model access, rate limits and service configuration. The customer organization’s own zero-data-retention, BAA or customer-managed encryption-key settings do not automatically carry over. Anthropic still labels the feature a beta; organization connections, actual API use and consumer subscriptions are distinct service layers."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d30163981e92e173bc50d1b4",
+      "source_sha256": "2918d3430569d10016bc8f15b6c04bd6ea1bb0426036bbee11366ae5ed587c76",
+      "paragraphs": [
+        "2K confirmed layoffs at Firaxis, the developer of the Civilization and XCOM series, and said studio head Heather Hazen would leave. Game Developer published the spokesperson’s response on November 17, describing a reset of the studio’s focus on strategy, design, technology and player experience. This is a significant change to its development team and leadership, rather than an official announcement of a new game.",
+        "Bloomberg reported that about 60 people, roughly one-third of the staff, were affected, figures subsequently relayed by IT Home. **The public response 2K provided to Game Developer did not disclose a layoff count**. The figures of 60 and one-third are therefore media-reported estimates, not precise statistics publicly confirmed by the company.",
+        "Based in Hunt Valley, Maryland, Firaxis has a long history in turn-based strategy, with games including Civilization, XCOM and Marvel’s Midnight Suns. 2K tied the restructuring to the studio’s core strength in strategy games over the past 30 years. A smaller workforce and the departure of its head will change its development organization, but the public response announced no new title, release window or cancellation decision."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9fbec69592d6e32e52ae55c9",
+      "source_sha256": "4f9ab984483a5d8a75d03e60f59fa432d10a2cbfeca87939a3b2c9bad6c6532c",
+      "paragraphs": [
+        "Quaise Energy announced on November 17 that it had signed a **50 MW geothermal power purchase agreement** with Google. Power is planned to come from Project Obsidian in central Oregon, with deliveries starting as early as 2030 to support Google’s data centers in The Dalles and local communities. The 50 MW figure is the agreement’s power capacity, not electricity already delivered, and it does not mean the project is operating now.",
+        "Development is phased. Quaise explicitly states that **the first phase will use conventional drilling, with millimeter-wave drilling expected in the second phase**. The latter is the company’s deep-drilling technology intended to reach hotter geothermal resources. Signing a power agreement does not establish that millimeter-wave drilling has already achieved continuous commercial electricity production.",
+        "The company says superhot geothermal resources could increase output per well, citing potential power production up to roughly ten times that of conventional geothermal wells. That is Quaise’s claim about the technology’s prospects; the announcement provides no independent measurements from an operating plant at this project. The agreement secures a buyer for future power, while drilling, construction, permitting and grid connection remain ahead. The year 2030 is the earliest target, not an achieved or certain delivery outcome."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1c075d3024f1eeb76f182bb8",
+      "source_sha256": "ae79dc2c74bd577d92a785305562717d337da685b48adaa876c068ea77c56246",
+      "paragraphs": [
+        "US military officials said American forces used precision-guided munitions on November 17 to strike an Islamic Revolutionary Guard Corps missile launch site on Iran’s Qeshm island, describing the action as self-defense. The National published the officials’ account, and AFP reporting also quoted US officials confirming a strike. **The stated justification and characterization of the target come from the US side; no independent on-site assessment is available**.",
+        "The IRGC had claimed a drone attack on US radar equipment at Sheikh Isa base in Bahrain. US Central Command said the drones were intercepted, with no damage to US equipment and no US personnel injured. The sides differ over whether the target was hit, so Iran’s claim of a successful hit cannot be presented as an independently verified result.",
+        "Iran’s Mehr news agency reported strikes on Qeshm but said there were no casualties or damage to critical public infrastructure. That is also an Iranian account. Available public material is insufficient to independently establish all military damage and casualties. Qeshm’s location near the Strait of Hormuz gives the exchange significance for shipping and regional security.",
+        "The United States and Iran still lack a comprehensive peace arrangement. The US describes this action as a limited self-defense strike against a launch site, while Iranian sources have issued their own accounts of attacks and damage. Public information does not yet provide an independently verified complete damage assessment, and no new full ceasefire agreement has been jointly confirmed by both sides."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-52fadf30877cd31f20eaeb61",
+      "source_sha256": "dbf7429862c54031dacc9b59a684965becc9e620e1b7181b95c0c4995510c7f9",
+      "paragraphs": [
+        "India’s Computer Emergency Response Team, CERT-In, issued an advisory on November 17 for Linux kernel TCP vulnerability CVE-2026-99288, also known as NoisyTCP, rating its severity High. It involves a race condition during lockless socket lookup. An unauthenticated remote attacker may trigger a kernel panic, resulting in **denial of service**.",
+        "The official advisory lists fixed versions **6.12.117, 6.18.63, 7.3.4 and 7.4-rc2**, corresponding to different kernel branches. Version 7.4-rc2 is still a release candidate. The advisory describes the risk as remotely triggered service disruption in systems using the affected Linux kernels. Fix status needs to be checked against the kernel branch actually in use.",
+        "The publicly described outcome is a system crash and service disruption. It does not establish direct remote arbitrary-code execution, privilege escalation or data theft through this vulnerability. Triggerability also depends on settings such as network receive queues and RPS. It would be inaccurate to describe every Linux host as immediately vulnerable to the same trigger conditions.",
+        "Upstream fixes do not mean every Linux distribution or device vendor has already delivered them. Distributions often backport fixes while retaining an existing version number, and device maintenance cycles vary. The advisory identifies a kernel-level issue and fixed branches; it is not a deployment count showing that all servers, routers and phones have been updated."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8a4e13d86b040a3849fddddf",
+      "source_sha256": "2b6c9d1cc1df7114f342b40f6467407be3a208c83fc46fb49a426f97424ac4e2",
+      "paragraphs": [
+        "Google announced on November 17 that personal Google Accounts can use personal avatars in Vids at no cost. Users follow a QR-code capture flow, record their own likeness and voice, and enter a script to generate a video presented by their personal avatar. **The free offering concerns this personal-avatar feature; it does not mean every video model, duration or generation allowance is unlimited and free**.",
+        "Once created, an avatar can be saved in a project and reused across scenes, reducing the need to record a new on-camera performance for every script revision. The official entry point is desktop Vids. The demonstration focuses on using recordings of oneself for subsequent scripted videos, rather than allowing arbitrary people’s photographs and voices to be cloned.",
+        "The avatars are linked to a Google Account and restricted to the account holder’s own likeness. The announcement does not specify a single quota or video length that can be generalized to every country and account, so it cannot be described as identical unrestricted access for everyone worldwide. The change broadens access to a personal feature; finished-video quality still depends on the captured material, script and generated output."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-aa57d2318fbd9f8e73212751",
+      "source_sha256": "edfefe5d30dd64d4ab544e18c0beec7ee34bb1cd93e373e0516b3d5b035cd00a",
+      "paragraphs": [
+        "Google announced on November 17 that Google Wallet is now available to iOS users in the United States. It brings boarding passes, event tickets, loyalty cards and similar items together on an iPhone, with information synchronized from Gmail and other Google apps. **This version explicitly does not support contactless tap-to-pay**, so it cannot be described as bringing the complete Android NFC payment experience to the iPhone.",
+        "The app can scan and add items such as loyalty and gym cards and bring together receipts, delivery details and package information. Users can also manage payment cards used for Google Pay online checkout. This payment capability concerns online shopping, which is different from holding a phone near a merchant’s physical reader. Storing a card does not automatically enable in-store contactless payment.",
+        "Google also links Wallet to confirmations, receipts and delivery tracking after agentic purchases, consolidating purchase-related records. The launch explicitly covers the US iOS market, without announcing simultaneous availability in mainland China or every country, or compatibility with all merchants and pass issuers. The addition is an iOS entry point for passes and transaction information; supported items depend on their type and the services involved."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1201,11 +1360,12 @@
     },
     {
       "article_id": "article-41e97f7719d3c8efb5da7506",
-      "source_sha256": "23a3c1b705071938d1602efaa9e539ae9bd41e85d6a2e81f5033aa7a2dc1daa1",
+      "source_sha256": "76e95e79e81cc2a52a83ad5b8bc5e39c005c17c4a26ee7cd55b212b256d353a3",
       "paragraphs": [
-        "DW and KFF Health News reported on November 14 that a Pan American Health Organization review had found the United States no longer met measles-elimination standards, ending a status maintained since 2000. KFF’s report, carried by NPR Illinois, cites people with direct knowledge of the decision and says a public announcement is planned for **November 17**. **At this edition’s verification time, this remains a media-reported review outcome; PAHO has not publicly issued the final decision announcement.**",
-        "PAHO said on March 2 that it would review US and Mexican measles-elimination status in November. A central criterion concerns whether local transmission has continued for at least 12 months. Elimination does not mean global eradication of the pathogen or the complete absence of imported cases. A prolonged transmission chain can turn individual outbreaks into sustained transmission incompatible with elimination status.",
-        "DW cites CDC data showing 5,182 US measles cases in 2026 as of November 12, compared with 2,289 in all of 2025. That statistical cutoff differs from the review decision’s public-announcement date. The reported status change reflects a setback in transmission control, while the formal basis, relevant transmission chains and full decision wording await PAHO’s announcement."
+        "The Pan American Health Organization (PAHO) formally announced on November 17 that the regional verification commission had recommended withdrawing measles elimination certification from Bolivia, Mexico and the United States, and that the organization’s director accepted those recommendations. The commission reviewed evidence on November 10–13 and found sustained transmission of the same viral genotype and lineage for at least 12 months in the countries concerned. **The loss of the United States’ measles elimination status, held since 2000, is now confirmed by a formal institutional announcement**.",
+        "PAHO reported 58,213 confirmed cases and 82 deaths in the Americas as of November 13, 2026, compared with 12,806 cases during the same period last year. **The 58,213 cases and 82 deaths are regional totals for the Americas, not figures for the United States alone**. They also have a specific reporting cutoff and are not live cumulative totals for November 17.",
+        "Elimination certification concerns interruption of sustained local transmission; it does not mean imported cases can never occur. The Americas regained regional elimination status in 2024 and lost it again in 2025 after sustained transmission in Canada. PAHO now says Canada has interrupted the transmission chain from that outbreak and is working to regain certification. That does not mean Canada or the entire region has already regained elimination status.",
+        "PAHO urged countries to strengthen surveillance, outbreak response and routine immunization, targeting at least 95% two-dose vaccine coverage in every community. It noted that national vaccination averages can conceal immunity gaps in particular communities and called for identifying high-risk areas, strengthening active case finding and providing timely resources to field-response teams."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3122,18 +3282,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-8434ec38f1ec63c99b23948a",
-      "source_sha256": "7e8c4c5b2eb95fe9d60cf640634933a3c4571cf976170aa5863f6ee68a3ad432",
-      "paragraphs": [
-        "CCTV reported on November 10 that the offshore main bridge of the Xiamen section of the Xiamen–Kinmen Bridge was closed in the early hours after the final steel box girder was installed. This marks **completion of the offshore main bridge’s principal structure** and the start of finishing work before opening. It does not mean the whole project is open to traffic or that a drivable link between Xiamen and Kinmen has been completed.",
-        "The final steel box girder weighs 3,318 tonnes and was lifted by a 5,500-tonne-class floating crane. Closure precision required control around a reference temperature of 22°C, followed by synchronized jack adjustments. The last closure was at the non-navigation-span bridge east of the Liuwudian navigation channel.",
-        "The offshore main bridge is approximately 14.2 kilometers long and consists of 12 bridge sections, including the Guanyinshan interchange main bridge and the Liuwudian and Jintong navigation-channel bridges. The Xiamen-section project totals about 19.6 kilometers, including offshore main and branch bridges and land tunnels. Its main route is 17.34 kilometers, with eight lanes across the sea and a design speed of 100 km/h. These lengths refer to different project scopes.",
-        "Deck, electromechanical and traffic-safety works continue. The reported target is to open the offshore main bridge by year-end, improving connections from Xiamen Island to Dadeng Island and toward Xiang’an International Airport. Actual access remains subject to subsequent acceptance and an official opening announcement."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-15109e30788e1a1bf930bf31",
       "source_sha256": "69314634e7ab00eefd66802ec5bf533bbb233fc5d23fa4a4372170c4b374b800",
       "paragraphs": [
@@ -3141,140 +3289,6 @@
         "Founded in 2015, Reflector is wholly owned by Bandai Namco Entertainment Europe and plans and develops entertainment content including console games. It developed Unknown 9: Awakening, released in 2024. The formal notice places the decision within an ongoing review of the group’s business portfolio and internal development structure. It does not identify a particular controversy or review score as the cause of liquidation.",
         "The company expects to record an **extraordinary loss of approximately €21 million, or about ¥3.5 billion**, in its consolidated statements for the third quarter, covering nine months, of the fiscal year ending March 31, 2027 and thereafter. This remains an estimate based on current information. The actual amount and recognition timing are under review and may change with tax, accounting and liquidation procedures.",
         "Necessary procedures will follow local law, and **no definite completion date has been set**. The notice’s figures for the year ended March 2026 still show an operating profit but a loss attributable to owners of approximately C$1.983 million. Operating profit, net loss and future liquidation charges are distinct measures and must not be combined as one type of loss."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-fa2da62c3f2441633d0b6bf1",
-      "source_sha256": "ea69448e219fcea88a381f69b81fe9604fb18e12518765682dc88cbc364d4871",
-      "paragraphs": [
-        "October data released by the U.S. Bureau of Labor Statistics on November 10 showed that seasonally adjusted CPI-U **rose 0.4% month on month**, below September’s 0.6%. The core index excluding food and energy rose 0.3%, matching August and September. NPR reported that the overall monthly increase was still above prior market expectations.",
-        "Shelter rose 0.3%, accounting for more than 30% of the overall monthly increase. Food rose 0.5%, with food at home up 0.4% and meals away from home up 0.5%. Energy rose 0.7%. Gasoline increased 1.0% after seasonal adjustment but fell 0.7% without adjustment. Separately, NPR cited AAA’s national regular-gasoline average of $3.98 per gallon on November 10. That daily retail quote covers a different period and uses a different adjustment basis from October CPI.",
-        "**Twelve-month changes were unavailable for most series** because the October 2025 funding lapse prevented price-data collection, leaving the comparison base missing. The Cleveland Fed’s 3.7% figure mentioned by NPR was a pre-release estimate, not the headline annual inflation rate published by BLS in this release. Slower monthly increases also do not mean the price level has fallen."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-5fb196d9ed7f0ca6c7fb3b96",
-      "source_sha256": "efbddcac6d016e87f7cb6f6b0335e63bc125e5d0e7f3256afb4af25228dbcdae",
-      "paragraphs": [
-        "The ninth China International Import Expo closed on November 10. Organizers reported **$85.45 billion in intended deals calculated over a one-year period, up 2.3% from the previous edition**. Participants came from 162 countries, regions and international organizations. There were 4,142 exhibiting companies, with total exhibition space exceeding 440,000 square meters, including 370,000 square meters for the business exhibition.",
-        "Official figures put the combined number of Fortune Global 500 companies and industry leaders at more than 300, and representative global, Asian or Chinese product debuts at 485. The event organized 51 trading groups and more than 700 subgroups, registered over 470,000 visitors, and held more than 4,000 business-matching rounds and 62 centralized signing events. Product counts, registrations and transaction values measure different things.",
-        "The $85.45 billion represents **intentions for procurement and cooperation over the coming year, not payments or imports already completed**. Organizers also said preparations for the tenth expo had begun, with 143 companies and institutions signing for more than 100,000 square meters. Those are arrangements for the next edition and cannot be added to this year’s intended deal value."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-136d6a808d4b147c6db48aa3",
-      "source_sha256": "d3a64079347da95055ad14c97065521f6b69294ef2f06f2d949b5592cc69446b",
-      "paragraphs": [
-        "On November 10, China’s Ministry of Industry and Information Technology announced approval for 10 companies to pilot number-protection services, allocating **dedicated 15-digit intermediary numbers beginning with 700**. The companies completed applications, site inspections, assessments and system construction and have the required capabilities and qualifications. Initial cooperation with telecom operators and internet platforms will focus on frequent-use settings such as food delivery and ride-hailing.",
-        "Users can choose to enable the service in integrated scenarios. Once activated, couriers, drivers and customers can call each other through a 700 intermediary number while concealing their real mobile numbers from one another. Caller identification and pre-connection voice announcements can indicate the service context and platform, helping recipients understand the purpose of a call.",
-        "The pilot list includes China Telecom’s digital-intelligence business, China Mobile Internet, Alibaba Cloud Computing (Beijing) and Tencent Cloud Computing (Beijing), among 10 companies. This formally approves the pilot participants and numbering resources; **it does not mean every platform and order has the feature enabled by default**. Integration, activation and user choice still need to be implemented. The ministry plans gradual expansion to more companies and scenarios."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-f321c904268bcef29356d2d1",
-      "source_sha256": "0f61cf6f41accc3168bdb4ec3ae2cb173982f324051da3ba0757d41102cec807",
-      "paragraphs": [
-        "On November 10, Google DeepMind introduced AlphaProof Code, in which researchers guide AI agents to formally prove specified security properties of Signal’s core protocol implementation. The public technical manuscript reports about **6.5 million lines of proof code checked by Lean’s kernel**. It covers the PQXDH handshake and Triple Ratchet and connects the guarantees to an AArch64 Linux binary produced from unmodified libsignal by the standard Rust compiler.",
-        "Humans first approve the specifications of what must be proved, after which agents primarily powered by Gemini Carbon generate and audit proofs. The team says the main verification took four weeks. It also reintroduced two previously fixed real bugs into isolated versions, and the system proved that both violated the security specifications. Verification artifacts are public; this is more than a language model assigning code a security score.",
-        "The proofs rest on about 26,000 lines of trusted specifications and AArch64 semantics, as well as cryptographic assumptions, Lean’s kernel and contracts for some external routines. The conclusions concern defined properties such as confidentiality, authentication and post-compromise security. **They do not establish that the entire Signal app, every platform and every attack surface are bug-free.** The announcement describes broader implementation-level verification, while extension to other systems remains a research task."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-39358eeccb703a6614c0864c",
-      "source_sha256": "ffb3d50461f531109cf711160661e0fa91113ebc6a01018920cf1909fbf09196",
-      "paragraphs": [
-        "On November 10, Anthropic expanded Claude’s collaborative workflows with Sheets, Whiteboards and Data, alongside upgraded interactive connectors that embed partner apps inside Claude. Sheets supports collaborative data organization, formulas and multiple tabs. Whiteboards organizes text, speech or sketches into flows and groups. Data connects to tools such as Snowflake and Salesforce to create dashboards.",
-        "**The official announcement still describes Claude Meetings as coming soon.** It is intended to let Claude join calls, take notes and update documents; media demonstrations do not mean it is available to everyone today. The Whiteboards help page specifically lists beta availability on Pro, Max, Ultra, Team and Enterprise across web, desktop and mobile. Enterprise has it disabled by default until an administrator enables it, and Claude for Teachers is not yet supported.",
-        "At launch, Whiteboards uses content on the board rather than automatically drawing context from connected apps. A separate auto-connect feature is in beta on eligible Team and Enterprise plans, allowing employee connections after a one-time setup. Enterprise administrators retain controls over connector permissions, product access and spending. Broad claims about handling an entire office workflow do not replace these specific access conditions and limitations."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-8827aad4505e69ef98eb5a35",
-      "source_sha256": "cd71ac69322e8c606459df41943b3ebd742173d43f89245291d76358cc8815d3",
-      "paragraphs": [
-        "On November 10, Google DeepMind introduced the Gemini Robotics 2.5 vision-language-action model and began rolling it out to robotics partners. The team tested more than 200 tasks involving tools, flexible objects and delicate manipulation, including serving food with tongs, tying bows and pipetting. The announcement concerns **partner access and research demonstrations, not the retail launch of a general-purpose consumer robot**.",
-        "On active Mercedes-Benz production lines in Kecskemét, Hungary, and Sindelfingen, Germany, Apptronik’s Apollo 2 performed an automotive-kitting proof of concept: picking metal brackets from bulk bins and placing them in containers in vehicle-specific order. Google reported a **96% success rate**. An embodied-reasoning model tracks the workflow while the 2.5 action model controls the arms and hands. That figure applies to this pilot, not every assembly task.",
-        "Vendor evaluations also report 30%–100% higher success rates depending on task type and 20%–30% faster completion than prior baselines. Safety additions include inference-time guidance and the ASIMOV-Jailbreak benchmark. Active-factory trials add evidence beyond the lab, but remain limited vendor-and-partner evaluations, not proof of deployment at scale across all workstations."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9ccf20ad200fc0ba5e4f5131",
-      "source_sha256": "a025d2c899db4926e568b195c670b0d779ca72cb8f458384f76a53e4f1c7337e",
-      "paragraphs": [
-        "At KubeCon on November 10, NVIDIA announced its contribution of OpenShell, a runtime for autonomous-agent security and governance, to CNCF as a Sandbox project. It applies deterministic rules to tool use, inference access and workload execution and can integrate with existing enterprise compute, credential storage and monitoring.",
-        "NVIDIA is also contributing to Google-originated Agent Substrate, which has entered the CNCF Sandbox. It suspends long-running agent environments when idle to release compute and resumes them later, with integration into Dynamo inference and KAI Scheduler. NVIDIA and Google are still collaborating on OpenShell and Agent Substrate integration; that direction does not mean every deployment already has a complete integration.",
-        "New DSX AI Factory Platform components, NVIDIA Kubernetes Engine and Kubernetes Recipes, are in **public preview**, automating GPU-cluster lifecycle management and providing signed, version-pinned images. Sandbox is an incubation stage, and preview status is not a mature production guarantee. The announcement advances open governance and infrastructure; it does not establish immunity to all unauthorized actions or prompt injection."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-f557e3da2da78317e86fb637",
-      "source_sha256": "d981a1208533913fcf7e0e1661bc5571edaa32e125dbdd39cf66808311245727",
-      "paragraphs": [
-        "On November 10, Samsung detailed Gallery sync developed with Google. Availability has begun on selected **Galaxy phones and tablets running One UI 9**, with phased expansion. Devices need the same Samsung and Google accounts and sync enabled separately to browse photos and videos across them. Support varies by market and model, so this does not establish universal availability on Chinese models.",
-        "A new device can display previews without downloading the entire original library, with originals available on demand. The new Free up space feature removes local originals after syncing while retaining thumbnails in Gallery. Sync consumes existing Google-account storage shared with Gmail, Drive and Photos. The free allowance is up to 15 GB, not an additional independent 15 GB allocation.",
-        "At launch, Gallery shows content synced through Samsung Gallery after activation; other material already in Google storage does not automatically appear. **Deleting a synced item in Gallery also removes it from linked Google storage and other connected Galaxy devices**, unlike freeing local space. Direct Gallery-to-OneDrive sync ended on September 30, while existing OneDrive content remains accessible through its app or website."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e1d675fcada1f4831474bcf9",
-      "source_sha256": "79e577dfa8681f45dd9b7d79885034574fea97fd1f8c15690e634b3111e5dfb9",
-      "paragraphs": [
-        "Blender confirms that version 5.3 was released on November 10, with Windows, Linux and macOS packages. A major addition is **native 3D Gaussian-splat support**: relevant PLY, SPZ and glTF data can be imported as point clouds, processed with Geometry Nodes and displayed or rendered in EEVEE, Cycles or Workbench.",
-        "Gaussian splats commonly reconstruct 3D scenes from photos or video, and 5.3 brings them into regular editing workflows. The team says performance is still being optimized and rendering may show errors in low-opacity, high-radiance areas because of sRGB versus linear-color differences. Cycles also gains dispersion and DLSS 4.5 Ray Reconstruction denoising, which requires NVIDIA driver 620 or later and is not available on every GPU.",
-        "Optional Blender Projects groups files, asset libraries, path variables and color settings. The Video Sequencer adds ripple editing, moving later clips when material is inserted, trimmed or deleted. Vulkan becomes the default on Linux and non-ARM Windows devices. The minimum macOS version rises to 13 Ventura, with 5.2 LTS remaining an option for older systems. A stable release does not remove every limitation of its new features."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-23c68cac97f76c8ef3f1a436",
-      "source_sha256": "491d7395029a0908d480e6a4d4ce557e924f898fc9d20879cb9d7682a034d5bd",
-      "paragraphs": [
-        "Mozilla’s completed release notes now confirm that **Firefox 160.0 reached the Release channel on November 10**. Picture-in-Picture gains speeds from 0.25× to 2×, visible when the player is medium-sized or larger. Mini Window places a whole tab or selected page area in an always-on-top window, but Mozilla still describes it as an early version being refined.",
-        "Other changes include dragging history entries from the sidebar to the tab strip, distinguishing Paste and Search from URL navigation based on clipboard content, and making MathML in saved PDFs accessible to assistive technology. Sites repeatedly asking to handle mail or other links can be blocked with Never allow and managed in Settings. WebGL on macOS now uses Metal, with effects dependent on the site and workload.",
-        "The web platform adds SpeechRecognition for on-device real-time transcription in 40 languages. Fixes also address macOS downloads, default applications and freezing during intranet authentication. French tab grouping in Smart Window remains a progressive rollout. This confirms stable-channel availability, rather than treating beta timing or every gradually released feature as earlier universal availability."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c859626df807995ef6d98808",
-      "source_sha256": "1048de7ddb7b8d17c852f7ecb92bac44ad51512546a8e32c523d53f1f5ce9b70",
-      "paragraphs": [
-        "In prepared remarks for the National Committee on U.S.-China Relations gala in New York on November 10, U.S. Treasury Secretary Scott Bessent said Washington was establishing a new dialogue with China on advanced artificial intelligence risks and a direct channel for promptly notifying each other of serious incidents involving their models. Using the Trump administration’s term “superintelligence” (SI), he described managing shared risks and preventing misunderstandings between the two systems as the dialogue’s aims.",
-        "The remarks said the two sides expected to exchange practices for evaluating and testing advanced models before release and for keeping human judgment in control of the technology. **The direct notification channel was described as being established.** The speech supplied no operating procedures, activation date or joint technical standards, and announced neither completed joint model tests nor a binding safety agreement.",
-        "Bessent also said he would accompany Trump to Shenzhen the following week for a meeting with Xi Jinping. Lianhe Zaobao, citing Reuters, reported that the meeting was planned on the sidelines of the November 18–19 APEC leaders’ summit. These were publicly stated agenda priorities ahead of the meeting; subsequent arrangements and actual outcomes remained to be announced.",
-        "On trade, Bessent reiterated the aim of a constructive relationship grounded in balance and reciprocity and said the U.S. objective was to reduce risks. He also said the countries’ interests and approaches would not always coincide: cooperation on AI risks would coexist with technological competition."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a662a41addefba898ae9446c",
-      "source_sha256": "b163aa278f1a739522fb0424b8f181885c0cab92a0f62074d954e09cf6908094",
-      "paragraphs": [
-        "On November 10, Arm announced Cortex-M42 and added it to the Flexible Access and Total Access portfolios for cost- and area-sensitive uses such as wearables, industrial IoT and connectivity controllers. The release is **processor IP** for chip designers, rather than a complete chip or device already on retail sale.",
-        "Built on Armv8.1-M, Cortex-M42 combines Helium vector extensions with a compact AHB-based design to ease upgrades from Cortex-M4 and M33 microcontroller designs and strengthen local machine learning and digital signal processing. Arm claims up to three times Cortex-M33’s vector compute capability and twice its vector power efficiency. These are vendor comparisons of specific capabilities, rather than equivalent gains for entire applications or devices.",
-        "Listed uses include audio processing, keyword spotting, sensor analysis, condition monitoring and detecting abnormalities in robot motors and joints. In the robotics example, Arm explicitly describes local signal processing and wear monitoring, without performing safety-critical motion control.",
-        "As of November, Flexible Access had 319 active members and had enabled more than 500 distinct chip tape-outs, while Total Access had 60 partners and had supported more than 600 projects. These are statistics for the programs as a whole, rather than tape-outs or shipments already achieved by Cortex-M42."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3406,18 +3420,6 @@
         "MOUZ did not drop a map throughout the event, beating TYLOO, BETBOOM, PARIVISION and The MongolZ, with two victories over BETBOOM. They regained control after a brief deficit on the opening map of the final, built an advantage with consecutive rounds on Dust2, and established a 9–3 attacking-half lead on Inferno before completing the sweep.",
         "xertioN recorded 47 kills and 32 deaths in the final with a 1.44 HLTV Rating 3.0. Spinx contributed 46 kills, 27 deaths and a 1.35 rating. HLTV also awarded xertioN the tournament MVP, his first such award.",
         "The MVP report lists xertioN’s overall tournament rating as 1.28 and his playoff rating as 1.53. Those figures cover different scopes from his 1.44 rating in the final alone. HLTV identified his playoff performance as decisive in the award selection; teammate torzsi finished the tournament with a 1.33 overall rating."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-b73ec3167c9ce9f8b2db86ff",
-      "source_sha256": "32b1586dcfdf163c2a671d4472693c8e75680f034cad48d42eb654d4255380e0",
-      "paragraphs": [
-        "The CS2 third-place match at IEM Beijing 2026 concluded on November 8 Beijing time, with **NAVI defeating BETBOOM 2–0**, winning Mirage 13–6 and Ancient 13–9. NAVI finished third, while BETBOOM ended the event in fourth place.",
-        "On Mirage, NAVI established a 9–3 defensive-half lead and extended it to 11–3 after switching sides. BETBOOM briefly responded with three consecutive rounds, but b1t and w0nderful combined for 39 kills on the map to help NAVI close it out. Ancient was closer: NAVI opened 6–1, before BETBOOM reduced the halftime deficit to 5–7 and won the first three rounds after the switch to move ahead. NAVI then regained control with four consecutive rounds.",
-        "Across the series, b1t recorded 37 kills and 19 deaths with a 1.57 HLTV Rating 3.0. w0nderful added 38 kills and 22 deaths with a 1.41 series rating. His overall rating across 17 maps at the tournament was 1.42. The latter is the event-wide figure.",
-        "According to HLTV’s post-match report, this was NAVI’s first Big Event top-four finish since winning IEM Atlanta roughly six months earlier. They will skip BLAST Rivals in Hong Kong, making Beijing their final event before the Singapore Major, where they begin in Stage 2."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
