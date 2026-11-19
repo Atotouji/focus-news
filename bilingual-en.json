@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T01:15:56.512Z",
+  "generated_at": "2026-11-19T04:20:04.832Z",
   "translations": [
     {
       "article_id": "article-1fae33235ac0f9c50e540b53",
@@ -8,6 +8,77 @@
       "paragraphs": [
         "Huawei previewed the Mate90 Air lightweight flagship on November 19. It will appear at the HUAWEI Mate X8 and all-scenario product event on **November 24 at 14:30 Beijing time**. The poster describes it as Huawei's thinnest straight-screen Mate handset.",
         "The poster shows a circular rear-camera design resembling the existing Mate90 family. This announcement confirms the name, appearance preview and event schedule. It does not disclose exact thickness, weight, processor, battery capacity, price or sale arrangements. Specifications of the standard Mate90 cannot be transferred to the Air."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c1eafae43a5a462aef7fc8b8",
+      "source_sha256": "ff1f32e9b55ce630533d8b90e60303b770eaad2768999faf2d5a8dec9e9aa9bb",
+      "paragraphs": [
+        "China's Ministry of Commerce says China and South Korea have **substantially concluded the second phase of their free-trade negotiations**, focused on investment and services. A Q&A carried by China's embassy on November 19 notes 17 formal rounds since March 2018, with talks accelerated following leaders' meetings in November 2025 and January 2026.",
+        "The upgrade covers investment, trade in services, financial services, economic cooperation and related annexes. Negative-list commitments address investment, cross-border services and financial services. Cooperation arrangements also cover traditional medicine services, culture and network services, aiming for more transparent, predictable market access.",
+        "Technical details, translation and legal review still precede formal signature. The ministry plans to publish the text on China's FTA service website afterward. **Substantial conclusion is not signature or entry into force**; implementation depends on final provisions and legal procedures.",
+        "The original agreement was signed June 1, 2015 and entered into force December 20 that year. Chinese statistics put January–October 2026 bilateral trade at $440.9 billion, up 63.7% year on year. Those are ten-month trade figures, not gains following implementation of the upgrade."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2cf9643cb5f88d78ede419e3",
+      "source_sha256": "aefa62f2d5eb3e8d9e2243c282fe5f740e64377352200d02f33dcdad54a95c56",
+      "paragraphs": [
+        "CUKTECH acknowledged a potential fault in the 10 Ultra charger, **model AD1204U**, after device-damage reports. It says the protocol chip can become unresponsive in an “extremely low-probability” scenario, exposing low-voltage devices such as headphones, keyboards and mice to abnormal voltage. The company says an **OTA fix was pushed on November 18**.",
+        "According to IT Home's November 19 report, CUKTECH dates the first confirmed damage case to June 2026. Limited early samples and reproduction difficulties delayed diagnosis. It says verified losses have been assessed and compensated through its service process; other claims require device-by-device causation checks.",
+        "The report also includes user accounts of frozen power displays, abnormal ports and damaged devices. These accounts do not establish every failure's cause or an overall incidence rate. The manufacturer's low-probability description includes no public sample size from which to calculate one.",
+        "The company recommends updating through a Bluetooth connection in the Mi Home app and using the purchase channel's support for abnormalities. Its response concerns AD1204U and a particular protocol fault, rather than confirming every reported device loss or identical effects on other charger models."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3fa74f8f469b36f4f5249c5e",
+      "source_sha256": "1db3c1b51107f0144ed0e24a0ac476822e2ba3f366f4e718450994620d2e2e2b",
+      "paragraphs": [
+        "RSMC Nadi issued Northern Cook Islands special weather bulletin 33 at **11:03 Hong Kong time on November 19**. Its 08:00 position fix placed Severe Tropical Cyclone Xavier at 10.5°S, 163.5°W, approximately 250 km east-northeast of Nassau, with central pressure of 949 hPa.",
+        "The bulletin rates Xavier **Category 4 under the regional cyclone scale**, estimating sustained winds near 165 km/h and gusts up to 230 km/h. Nassau remains under a gale warning; Pukapuka and Suwarrow have gale alerts, while Manihiki and Rakahanga have strong-wind warnings. These statuses apply to different islands and must remain distinct.",
+        "For Nassau, it lists average gale winds up to 75 km/h, gusts to 100 km/h, heavy rain, thunderstorms, heavy seas and coastal inundation risk at high tide. Pukapuka and Suwarrow also face wind, swell and inundation risks. Subsequent position updates remain necessary to assess changes.",
+        "Nadi forecasts gradual weakening, not an all-clear. The next Northern Cooks bulletin is due by 14:00 Hong Kong time on November 19. FBC, citing meteorological authorities, reports the main affected area is the Northern Cook Islands, with no direct threat to Fiji at present. Wind and pressure values refer to the stated observation time."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9b4e8c9882c49ca86d57726c",
+      "source_sha256": "57c80a0ed5400024099821d83bd374aed77398c50b50891fb1091ecffdfaa349",
+      "paragraphs": [
+        "Microsoft has scheduled To Do retirement: **web, Windows, Mac, iOS and Android apps will retire June 30, 2027**, covering work, school and personal Microsoft accounts. The underlying service, APIs and synchronization support have separate, later timelines to be announced.",
+        "For work and school accounts, Microsoft Planner is the successor task destination. Its refreshed My tasks experience starts rolling out in December 2026, bringing personal work and assigned tasks together. New private tasks will use Planner-backed private plans. Personal accounts, including Microsoft 365 Personal and Family, do not have this Planner replacement.",
+        "Existing To Do tasks and lists **will not migrate automatically** into the new private plans. They remain accessible through Planner until June 30, 2027, but cannot be viewed or managed there afterward. App retirement does not itself schedule stored data for deletion; access and retention are separate.",
+        "Microsoft plans an export method before retirement, with supported data, limitations and instructions still to be finalized. Export preserves supported content without guaranteeing import into Planner or another app. Reminders, sharing and organization also differ."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3cbcacf6b457ef000cd82d5b",
+      "source_sha256": "7a7ca11ad7b2a81a2e17766bcb161e0d420cd2e598fba872b9a4e2f075233dff",
+      "paragraphs": [
+        "Huawei previewed WATCH Air on November 19 for a **November 24 launch at 14:30 Beijing time**. Its official video shows a **6.9 mm body, uniform 1.4 mm borders**, sapphire-glass cover and integrated high-gloss titanium body, with three colors teased.",
+        "Huawei describes it as its thinnest smartwatch to date, a claim about its own product lineup rather than independent thickness or durability testing. The video confirms appearance and selected construction details, without pricing, sales channels, regional versions or a complete feature list.",
+        "Reported screen size, brightness, weight, endurance and feature comparisons with other WATCH or GT models still originate from a blogger's disclosures and are not confirmed specifications alongside the officially shown details. Final configuration and sale arrangements await the launch and formal product page."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b3a5ba6f091732a315efae87",
+      "source_sha256": "33368209b8e847e2598b75f0fdabda0ce57d4c10d24458dc003d7a23beb0e40b",
+      "paragraphs": [
+        "The National Energy Administration released materials for China's Virtual Power Plant Development Report (2026) on November 19. At **end-June 2026**, 592 projects were operational, up 78.9% year on year, with maximum adjustment capability of **20.428 million kW, or 20.428 GW**, up 62.7%. These are half-year-end totals, not projects added in November.",
+        "Virtual power plants digitally aggregate flexible demand, distributed generation, storage and EV charging or swapping resources for coordinated dispatch or market participation. They are not equivalent new physical generating stations. Maximum adjustment capability is power, not annual energy generation; kW and kWh are distinct.",
+        "The report says capability has already surpassed the existing 2027 target of at least 20 million kW. The 15th Five-Year Plan targets more than 50 million kW by 2030, a future goal rather than current capacity.",
+        "The agency's interpretation notes dedicated arrangements in 23 provincial-level regions by June-end, integration of some projects into dispatch or load-management systems, and expansion into spot and ancillary-service markets. It also identifies gaps in capability verification, operations, trading rules and cybersecurity. Project counts do not replace verification of actually dispatchable resources."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -61,6 +132,18 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-a9ef6dbadc6b0013c70d2fb0",
+      "source_sha256": "d94992bc3b2e5e82fd2ff3c302b1058ea18976ab2284cb56ab4f060dd4835164",
+      "paragraphs": [
+        "NVIDIA announced on November 18 that initial RTX Spark compact desktops from ASUS, Dell and MSI are available for local agents, image/video generation, fine-tuning and creative development. Acer, GIGABYTE, HP and Microsoft's Surface RTX Spark Dev Box remain forthcoming, not simultaneously available.",
+        "The platform combines a **20-core NVIDIA Grace CPU, a Blackwell RTX GPU with 6,144 CUDA cores and up to 128 GB of unified memory**, plus 10 Gb Ethernet. Unified memory is shared platform capacity, not synonymous with 128 GB of dedicated VRAM. Finished configurations vary by manufacturer.",
+        "Native CUDA and Linux development tools through WSL support local models and fine-tuning. NVIDIA also describes Switchyard routing tasks between local and cloud models in Hermes. Local processing can reduce the corresponding cloud API spending without making every task offline or cloud calls free.",
+        "The ecosystem expands native Windows on Arm applications and RTX acceleration, including Adobe tools, ComfyUI and DLSS 4.5 Ray Reconstruction in Blender 5.3's viewport. The latter requires the corresponding Blender version and compatible current drivers. Model-scale and workflow examples are vendor demonstrations; actual speed depends on models, software and systems."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-4664d9ea05e899dd75a0503e",
       "source_sha256": "332a7f9feead38109814a52465a6049e3fcb4411b945e527fb6e27349f8d2949",
       "paragraphs": [
@@ -79,6 +162,18 @@
         "Results varied by task: autonomous success was 79% for monitoring training runs, 35% for launching them and 25% for inference-and-serving code. The report emphasizes uneven progress and humans' continuing central role.",
         "Valued at external API list prices, median daily agent usage per researcher reached $2,400 in October, up 62% from September; the 90th percentile reached $23,000, up 105%. This API-equivalent intensity depends on prices, models and harnesses and is **not each researcher's actual bill**.",
         "Estimated Safety and Alignment research workweeks grew 77% from January to September through hiring and shifts in existing researchers' work. These measurements describe one laboratory. Usage, effort and eventual research output are distinct measures."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c4f33dcfe62f3a1324a88720",
+      "source_sha256": "b1a2d0397e905f7633a043884bbd18cb7ee176bf75b2e47c452393f3be0def16",
+      "paragraphs": [
+        "Valve released **Dota 2 gameplay update 7.42**, revising global progression, lanes, fortifications and map-objective rewards. Official patch data timestamps it at 08:00 UTC on November 18, or 16:00 Beijing time. These are systemic mechanics and objective changes rather than a small bug-fix patch.",
+        "The Tormentor first spawns at 15 minutes instead of 20, drops multiple items and always drops the new Greater Horn of Battle. This consumable summons one wave of Mega creeps in every allied lane. Aghanim's Shard begins dropping from the second kill under the previous automatic distribution rules. Roshan's base respawn timer falls by one minute after each defeat, to a five-minute minimum.",
+        "Fortification Glyph now has **two charges**, each replenishing in six minutes, with seven seconds between uses. Destroying specified buildings no longer resets its cooldown. Siege-creep spawning also changes after 30 minutes, altering pushing and defensive resource calculations.",
+        "All heroes gain 50 passive experience per minute after the starting horn, including while dead. Base health rises from 120 to 200 while health per Strength falls from 22 to 20. Separate hero and item changes mean isolated numbers cannot determine entire strategies' resulting strength."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -351,6 +446,76 @@
         "According to a Reuters report carried by DW on November 18, three people familiar with the matter said the Trump administration is considering requiring US companies to disclose their use of Chinese AI models. The Treasury and White House science and technology policy office have discussed the idea. **Broad internal support and a formal rulemaking process remain uncertain**.",
         "The proposal could require website disclosures. Airbnb, which uses Alibaba's Qwen for AI customer service, could be affected if it proceeds. The report says some officials want to reduce dependence on Chinese open-weight models while avoiding backlash against sweeping regulation.",
         "The White House, Treasury, Alibaba and China's US embassy did not immediately respond to Reuters' requests for comment. At publication, the disclosure requirement remained an internal proposal described by sources, with **no announced effective date, list of covered companies or compliance rules**."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ea7e1476aa5a326171a07928",
+      "source_sha256": "70d99f6fe6e953ce1125472d0c31896951e85d7b2987cd11c951e2c9320c8ca7",
+      "paragraphs": [
+        "At its November 18 third-quarter results call, Tencent said Yuanbao had fallen short of expectations and its investment had been **substantially reduced**, shifting emphasis from user scale toward model capability. President Martin Lau also reported **30 million daily active users** in WeChat assistant Xiaowei's limited testing, with more than 30 WeChat touchpoints.",
+        "Tencent says Xiaowei is expanding connections with Moments, official accounts, Channels, mini programs and WeChat Shops, while interactions per user rise. Lau linked smaller models to manageable costs and projected that even full availability would cost less quarterly than Yuanbao earlier this year. This is a management forecast, not completed universal rollout.",
+        "Third-quarter 2026 revenue was RMB207.336 billion, up 8% year on year; non-IFRS operating profit was RMB68.073 billion, down 6%. Excluding new AI products, comparable operating profit was RMB83.3 billion, up 8%. That scope includes Hunyuan, Yuanbao, CodeBuddy, WorkBuddy and Xiaowei; the entire difference is not Yuanbao's cost.",
+        "Combined Weixin/WeChat monthly active accounts reached 1.449 billion at September-end, up 2%. This quarter-end account measure differs from Xiaowei's testing DAU. Future capabilities and monetization remain plans."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-6cf93739a2c276329344a496",
+      "source_sha256": "7459eba58454535b7486457ebbf5e811579fc81177d1eee461e09ca57d7bb524",
+      "paragraphs": [
+        "JEDEC previewed DDR6 DRAM development on November 18, planning expansion from 64 to **96 DQ data lines**, a 50% wider bus. RDIMM rates would start at **12.8 GT/s**, with a roadmap to 14.4 GT/s and beyond. These are development plans, not a finally approved standard.",
+        "Planned density reaches 128 Gb per DRAM die—16 GB—with stacking for greater package density. The announcement describes a 74 mm module versus DDR5's 133 mm. Potential formats include RDIMM, UDIMM and CAMM, without establishing identical dimensions or capacities for every finished module.",
+        "Pseudo-channel organization, twice the bank count and improved refresh target bus efficiency. Multiple system-level ECC implementations would allow cost, power and reliability tradeoffs. Efficiency plans also involve VSS-terminated IO and data-center-focused low-power modes.",
+        "The target of more than 50% higher introductory bandwidth combines transfer-rate and bus-width changes. It is not equivalent application-performance growth. Development and approval remain pending, specifications may change, and the announcement confirms neither consumer product availability nor a common launch date."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-188ce58c5c1de4399fbb0b2a",
+      "source_sha256": "e350503be762e5c0dac404bfdcb025a634438effb0a5f359777a3f915d9d2276",
+      "paragraphs": [
+        "The White House published Clayton and Rubio's statement on recent technology outages on November 18, saying it had **no indication of a coordinated cyberattack, state-sponsored activity or malign actors**. It discussed Microsoft, FAA and banking disruptions separately rather than identifying one common attack.",
+        "Rubio said there was no evidence linking the incidents: Microsoft and FAA problems, or FAA and banking problems, should not be directly connected. Clayton attributed recent disruptions to large-scale vulnerability patching and legacy-system upgrades, with some systems failing to recover or hand off as expected.",
+        "This is the US government's public assessment of available information. The statement does not provide each company's complete forensic report, every failure chain or final responsibility findings, and cannot establish one explanation for all recent connectivity and service issues."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8c21b596e1eb4ba3729ae68a",
+      "source_sha256": "f69d6723eebfb1c66b96e9b5d95a46051f90419b0f7bc912b552eea605d34328",
+      "paragraphs": [
+        "Netflix announced on November 18 that **Ginny & Georgia Season 4 will arrive January 21, 2027**, alongside first-look photographs. This is the fourth season, not a third-season rerelease. The announcement supplies neither a universal Beijing-time unlock nor detailed regional licensing.",
+        "Brianne Howey plays Georgia and Antonia Gentry plays Ginny, with the mother-daughter relationship and Wellsbury community remaining central. The creators describe the new season's theme as “Cycles and Origins,” extending its focus on family, personal history and patterns across generations.",
+        "Season 4 has not premiered. Stills, creator interviews and the release date are project information, not established audience reception for this season, and previous seasons' ratings cannot substitute for new reviews. The scheduling announcement confirms the return date without providing a complete review sample."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-3d4f13dcba77f0636507e0d6",
+      "source_sha256": "e9d95ab10ba5e22b28ce497c45e39add3864f185fa31ed93114448f32e34631a",
+      "paragraphs": [
+        "Google announced adaptive app-quality requirements on November 18. From **April 2027**, new submissions and updates of standard Google Play apps must meet Tier 3 foldable requirements and provide foldable screenshots. Noncompliance affects publishing, updates and visibility; **existing apps that are not updated remain downloadable**.",
+        "Tier 3 requires filling available screen space without letterboxing or compatibility modes, preserving scroll position, text and playback across rotation, folding and resizing, and supporting multiple windows. Tier 2 adds multi-pane layouts and external inputs; Tier 1 covers specialized postures, camera continuity and multiple instances.",
+        "Foldable screenshots can already be uploaded. From April, three foldable screenshots will be required alongside two phone screenshots, covering specified unfolded inner and folded outer ratios. Higher-quality adaptations can apply for badges and enhanced store placement.",
+        "A separate deadline is **August 2027**, when new and updated apps must target API 37, Android 17. April's adaptation and screenshot rules differ from August's API deadline. Games have dedicated large-screen quality requirements, rather than automatically inheriting every standard-app rule."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b60af255b8040d8463e8572e",
+      "source_sha256": "74a4c1d16f883c9a73f284e79728a538358be2b243ef01168a7587f2727a228d",
+      "paragraphs": [
+        "The House Select Committee on China issued a November 18 statement requesting a bipartisan Microsoft briefing on reported talks to provide ByteDance with AI cloud services and access to OpenAI models. **The confirmed action is a briefing request, not an announcement of a signed deal or delivered services**.",
+        "Chairman John Moolenaar opposed the potential cooperation, citing concerns about assisting China's AI capabilities and Microsoft's US defense contracts. This is a legislator's policy position; the statement creates no new sales ban, export-licensing rule or penalty.",
+        "Zaobao reported on November 19 that The Information first disclosed the talks, potentially worth up to $500 million in Azure services. That remains a reported potential deal size, not Microsoft-confirmed revenue or money already paid by ByteDance.",
+        "A Microsoft spokesperson said the company enforces service terms, complies with laws and partner agreements, and does not normally comment on confidential customer negotiations."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -2302,11 +2467,12 @@
     },
     {
       "article_id": "article-e547d0d8cbe359a051232396",
-      "source_sha256": "fdc3e085e916b76bb09f526ec5a048a8fb36fd4c9be473848fe715473e6d14d7",
+      "source_sha256": "8e85b84ba1469a952e4781a24b7adca1c79927982bbbf5041ff437c4ae44b226",
       "paragraphs": [
-        "DeepSeek updated its developer documentation on November 13 to open application capabilities including web and image search, file input, URL reading, model safety checks, and standalone speech recognition and synthesis APIs. The change brings tools previously combined in its web and mobile experience into developer interfaces, with the service handling tool calls and context assembly. **This is not a new foundation-model or model-weight release.**",
-        "The existing deepseek-flash model supports the tools through the Messages, Responses and Chat Completions APIs. With thinking disabled and deepseek_web_search enabled, it searches the web or images as needed and supplies citations. With thinking enabled, it can search and read links across multiple reasoning steps. The deepseek_read_url tool retrieves URLs in user messages and adds their contents to the conversation context.",
-        "File input accepts PDFs, Office files and images, using plain-text extraction or rich-layout parsing before the model answers. Optional safety checks review input and output and return a refusal marker when a risk is detected. Search and Fetch, OCR, ASR and TTS are also available separately, and the company open-sourced a demo chat client. These are specific application and API capabilities; equivalent changes to model weights, every tool’s price or regional eligibility cannot be inferred."
+        "DeepSeek's pricing page now states that, from **12:00 Beijing time on November 18, 2026, model-triggered server-side search and web fetching have no separate charge; only model tokens are billed**. Covered paths include its network tools and web_search in Anthropic-compatible and Responses APIs.",
+        "Standalone Search and Fetch APIs still cost **RMB5 per 1,000 successful requests**. Search returns structured query results; Fetch retrieves a page's body. Failed, empty or timed-out requests are not charged. The number of returned results does not change the per-request price, so this is not universal free access to every search endpoint.",
+        "Billing depends on the actual calling path. Official guidance exempts model-executed server-side text search, image search and fetching from additional tool fees; direct client calls to standalone Search/Fetch remain request-billed. Input and output tokens retain their applicable model pricing.",
+        "These capabilities build on the application APIs opened November 13, spanning search, file input, URL reading, safety checks, speech recognition and synthesis. Existing deepseek-flash supports Messages, Responses and Chat Completions integration. This changes specific tool billing, not the base model or weight-release status."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3082,99 +3248,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-8c4c12e0a9da3b4f3cc8efdb",
-      "source_sha256": "48a12d1191e2c7beb82dd259da3ed4bfcd88b20d2a58ecfb605e0e0914d6bbf4",
-      "paragraphs": [
-        "Shanghai’s development and reform, transport and finance authorities announced revised on-street parking charges, **effective November 18, 2026**. A vehicle parked for no more than 15 minutes at a time can receive up to two free stays per workday and three on weekends, public holidays and adjusted days off. The policy concerns on-street parking facilities, rather than a universal free first 15 minutes in commercial garages and private car parks.",
-        "The short-stay exemption applies to on-street facilities charging by time, but not temporary facilities charging per visit. Once a stay exceeds 15 minutes, charging starts from the time of entry, including the first 15 minutes. Time-based billing units will shorten to 15 minutes at smart on-street facilities and 30 minutes at the smaller number of manually operated facilities.",
-        "Daytime charging areas will be divided into four categories instead of three, with tiered prices based on duration. The Paper gives an example for a smart on-street space in a Category 1 area: a 45-minute stay falls from RMB15 to RMB12, while two hours rises from RMB35 to RMB36 and three hours from RMB55 to RMB60. Short and long stays can therefore see charges move in opposite directions.",
-        "Night parking will switch to time-based charges with a cap. Eligible nearby residents can apply for monthly parking, with Category 4 monthly charges falling from RMB200 to RMB150; the resident night-and-holiday monthly rate does not cover workday daytime parking. At the end of October, Shanghai had 49,600 chargeable on-street spaces, about 90% in smart parking facilities."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-100fdf10a41dbce557fb78a3",
-      "source_sha256": "00ce39943f644043954b4fd13c568ed7141cc863e0678a7d3bdfa38aa26e62df",
-      "paragraphs": [
-        "The Qwen team published a technical introduction to Qwen4-Max on November 16, adding architecture and efficiency details for the already available Max model. Its mixture-of-experts backbone contains 2.4 trillion parameters, with **71 billion activated per token**, plus a separate 328-billion-parameter N-gram Embedding module. Those additional lookup embeddings, total backbone parameters and per-token active parameters are different measures.",
-        "The model combines gated linear attention, GDN, with sparse attention, QSA, in groups of three GDN layers and one QSA layer. It also uses four parallel gated residual streams. The team says this balances long-sequence processing and information retrieval, while N-gram lookups supplement local context. The production API accepts text, images and video and produces text, with a one-million-token context window, tool calling and web search.",
-        "The team’s Work360 evaluation covers 721 specialized tasks across 182 subfields in 26 domains. Qwen4-Max scored 52.69 versus 47.74 for Qwen3.8-Max. Across high reasoning settings, the team reported approximately 24%–35% lower token consumption. Its stated average Work360 call cost fell from RMB26.58 to RMB11.16, about 58%. These are vendor results for specified tests and settings, not guarantees of cost or accuracy in every deployment.",
-        "The Chinese model page currently lists per-million-token prices of RMB10 for input, RMB30 for output and RMB0.5 for cached input. Explicit cache creation is charged separately: RMB12.5 for a five-minute cache and RMB20 for a one-hour cache. Cache creation and cache hits are distinct charges, so RMB0.5 alone does not describe the full caching cost.",
-        "The team has also opened Qwen-Live-Delivery-Plugin for versioned delivery of long-running tasks and user feedback during execution, retaining delivery snapshots. Its code uses Apache-2.0, a license for the plugin project rather than Qwen4-Max weights. The Max product and API are available, while weights for smaller Qwen4 models remain planned for later release."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e85877f775e75fa015c29b24",
-      "source_sha256": "33bcae9a5e8b43e37df4ef6b6a96101f9abe72874373157c99b646c6e13becf9",
-      "paragraphs": [
-        "On November 11, Huawei announced that the Stelato V8 and Xingmang brand event would take place at **14:30 on November 20, Hong Kong and Beijing time**. Richard Yu then publicly stated that Huawei’s new “OSTA Xingmang” sub-brand would make its first appearance at the event, confirming the name and debut schedule.",
-        "The device label on Yu’s public Weibo posts now shows OSTA O1 Pro. IT Home also reported information about a wide-format slab phone’s appearance, storage configurations and colors, but those configuration lists came from a technology blogger rather than official launch specifications. The confirmed elements are the brand and event time; phone pricing, full hardware specifications and actual sales arrangements remain to be announced by Huawei.",
-        "The same event also includes the Stelato V8. An event announcement, previously opened test drives and vehicle presales represent different stages. The event date does not establish that every product will be available for immediate delivery, and the OSTA brand’s debut likewise does not mean that its phone is already formally on sale."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-0e365028518c38e91ece0fda",
-      "source_sha256": "bba6f3b9a4f70b86b6aed701a7c379c49b94cc24b0453d007d9b6c1cb82ffe61",
-      "paragraphs": [
-        "MiniMax has released H3-Image with a public weights repository containing Safetensors weights and inference configurations, rather than merely announcing a future release. It supports text-to-image generation, reference-based generation and editing, with **up to 16 reference images**. The model card lists the main BF16 model at about 68.65 GB, alongside an optional prompt-expansion model.",
-        "MiniMax says it generates 4096 × 4096 images, about 16 megapixels, in under 10 seconds under its deployment conditions. The model card describes six sampling steps without post-generation upscaling and approximately 16-megapixel output across aspect ratios. Hosted access is offered through the API, MiniMax Code and Hailuo. Speed, relative cost and image-quality advantages are vendor claims, not local benchmarks for arbitrary graphics cards.",
-        "The weights use the **MiniMax-H3-Image Community License, rather than a geographically unrestricted Apache or MIT license**. The terms exclude the EU, U.K., South Korea and U.S.; deployment there requires separate authorization, and use and redistribution conditions also apply. Public downloads, self-hosting and unrestricted use are different concepts. Model-example images in the repository do not automatically carry a verified open image license."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-3b9c3405b6d2be347e7916cb",
-      "source_sha256": "5c846da0ac6d257ce3b356a87e0afc8c12e53e564e8586b585f3a76239d89161",
-      "paragraphs": [
-        "A city bus caused a chain collision during the morning commute on November 11 in Bundang District, Seongnam, Gyeonggi Province, South Korea. Driven by a man in his 60s, it struck vehicles waiting at a traffic signal at about 07:34 local time, or 06:34 Beijing time, and stopped after hitting the median barrier. Reports list four buses, one truck and 27 passenger cars among the vehicles struck, totaling 32.",
-        "Aju Press, part of the Aju Business Daily group, cited police and fire authorities in a report published at 10:36 local time as saying **57 people were injured, nine seriously**. Yonhap’s earlier 10:10 local-time report counted 48 injured, six seriously, and said none of those injuries was life-threatening at that time. Injury statistics remain subject to updates; the earlier non-life-threatening assessment applied to the 48 casualties counted then.",
-        "Yonhap reported that the collision extended over roughly 100–150 meters. Traffic in both directions was temporarily blocked, and restrictions were lifted after damaged vehicles were removed. With several buses involved, passengers with abrasions and other injuries could continue to be registered; the available figures should not be treated as a final tally.",
-        "The driver’s breath test detected no alcohol. He told police the brakes had not worked, and investigators planned to examine possible drug use and vehicle defects. **Brake failure remains the driver’s account, rather than a published technical finding.**"
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-4bd22d622d62c04a8593f6dc",
-      "source_sha256": "095c6a91c1ee9e2fad556f45b16a5107c077bf3bec33796bb9055c7d7c5f7a00",
-      "paragraphs": [
-        "China’s Foreign Ministry announced on November 11 that Premier Li Qiang would make an **official visit to Thailand from November 13 to 15**, at the invitation of Thai Prime Minister Anutin. The visit is still upcoming; the announcement did not disclose bilateral agreements already reached.",
-        "At the invitation of Philippine President Marcos, whose country holds the rotating ASEAN chair, Li is also scheduled to **attend the 29th China–ASEAN leaders’ meeting in Manila from November 15 to 16**. The two legs meet on November 15. An official visit to Thailand and participation in a multilateral meeting in the Philippines are the two arrangements listed in the announcement."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-698de0271e2a4a93ea41f2d9",
-      "source_sha256": "cff96fed9331f12e9020cc898c957afd1d555610c6321db0619f83a594bcbe28",
-      "paragraphs": [
-        "On November 11, China’s National Forestry and Grassland Administration published an AI application policy issued by the Ministry of Natural Resources and the National Development and Reform Commission. The document is dated **November 4 and numbered Natural Resources Issue [2026] No. 150**. It focuses on introducing AI into resource surveys and monitoring, spatial planning and governance, disaster prevention, and resource use, rather than announcing completed platforms.",
-        "The policy aims to establish demonstration applications, high-quality datasets, models and agents by **2028**, and an integrated intelligent territorial spatial governance platform by **2030**. Its five priority areas are geospatial information, territorial spatial planning and governance, oceans, geology and mineral resources, and forestry and grasslands. These dates are policy targets.",
-        "Eight demonstration scenarios cover integrated monitoring, planning, asset management, disasters, marine development, geology and minerals, forestry and grasslands, and Earth science. Disaster applications emphasize monitoring and detection, risk warnings, emergency response and post-disaster assessment for geological and marine hazards and forest and grassland fires, spanning the stages before and after an event.",
-        "Implementation also addresses data foundations, standards, model governance and computing capacity. It encourages concentrating computing resources at national hubs and using rented services, with funding channels including existing fiscal science and technology programs and private capital. The policy gives no single figure for newly added fiscal spending; platform construction and application results depend on subsequent projects."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-49ab05b27c45fb214e010fed",
-      "source_sha256": "596e9849975a3d1a8ab2c724abeb98480d317b94919f0aa2a456219da566f992",
-      "paragraphs": [
-        "Baidu released **ERNIE 5.5 Flash Preview** on November 11, a preview checkpoint post-trained from its earlier Base model. The company reports 280 billion total parameters, around 14 billion activated per inference, and a one-million-token context window. Training is continuing, and this is not the final stable version.",
-        "Availability has two stages. The Preview API is already offered on Baidu Qianfan. The Chinese announcement plans to **release weights by November 25**, while the English announcement says an Apache 2.0 license is planned. As of this verification, that future plan is not equivalent to downloadable model weights already being available.",
-        "The company demonstrates coding, documents, multimedia creation and long-running tasks. Its game-development example places the model in a tool-enabled agent harness and uses external assets and software. Because the text model cannot directly observe the game’s visuals, the team converts some issues into code and test feedback for iterative fixes.",
-        "The performance charts on the release page are Baidu’s own evaluations. The demonstrations reflect the combined effects of the toolchain, task configuration and external resources. They show the capabilities and conditions presented by the company, rather than equivalent results without tools or a comprehensive independent assessment of reliability and cost."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-978c481a96b195fb122370db",
       "source_sha256": "90d35adebc62392b0177f995e2d0733d5c4f12d587aad42d5de5606b85566f3c",
       "paragraphs": [
@@ -3187,59 +3260,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-298568f52cb4b1de1829d061",
-      "source_sha256": "fee8327cb0ab280adeb3ea20b1cf6d75fbbee34ccfa562b353f5d226005ade46",
-      "paragraphs": [
-        "NTT DOCOMO’s final restoration notice confirms that the November 11 5G SA disruption was **fully resolved at 7:17 p.m. Japan time, or 6:17 p.m. Beijing time**, with service verified as operating normally. It began at 10:34 a.m. in Japan, or 9:34 a.m. in Beijing, lasting **eight hours and 43 minutes**. This supersedes the earlier status of recovery for most users but not full restoration.",
-        "The operator identified **congestion in switching equipment serving 5G SA subscribers** as the cause. Its notice as of 8:45 p.m. Japan time, or 7:45 p.m. Beijing time, said investigators had found no traces of unauthorized access or indications of a cyberattack around the incident. It did not disclose the total number of affected users.",
-        "Although the disruption extended across Japan, it concerned the relevant SA service, affecting voice, data and SMS. MVNOs using DOCOMO’s network, other non-SA 5G users, 4G service and emergency calls were unaffected. It cannot be described as every customer losing all connectivity throughout the period.",
-        "For devices still unable to connect after restoration, the operator suggested restarting or toggling airplane mode, and reminded users who temporarily selected 4G to restore their network settings. Restoration occurred on the evening of November 11; reporting on November 12 does not mean the incident ended only this morning."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-2c1b06533b7e5366ca68b6c2",
       "source_sha256": "bd47948b20ccb6e9b09ce60747fe31030f68df703e6c8e30bb8b11a80c8e9851",
       "paragraphs": [
         "Ron Howard’s 2026 documentary **Avedon arrives on Netflix on November 11**, with a running time of one hour and 44 minutes. It appeared at Cannes earlier this year; the current milestone is its streaming release. It is a standalone documentary film, not a new season of a series.",
         "The film follows more than half a century of photographer Richard Avedon’s work, using archival photographs, previously unseen footage and interviews with collaborators to examine his fashion photography, portraits and working methods. Avedon died in 2004, so the archival figures and studio scenes form part of a retrospective of his life.",
         "The production involves Imagine Documentaries and Fifth Season, in association with the Richard Avedon Foundation. In the official introduction, Howard emphasizes the person and creative process behind the photographs. That is the filmmaker’s account, rather than an independent critical assessment of the finished film."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-2107e28f60d4eb571c99d067",
-      "source_sha256": "f6bf2f90841478d03dc0198979c56ca4f7655b0af8c9926c565ae43906b8f3d5",
-      "paragraphs": [
-        "China’s Foreign Ministry said Foreign Minister Wang Yi spoke by phone with US Secretary of State Marco Rubio on November 11 about bilateral relations and interactions between the two countries’ presidents. **“Positive and constructive” is the Chinese announcement’s assessment**. It disclosed no new bilateral agreement or specific economic or trade concession.",
-        "According to the Chinese account, Wang referred to Xi Jinping’s September visit to the United States and the leaders’ understandings. He said stability in relations had been hard won, that China’s US policy remained consistent, and that Beijing was willing to strengthen communication and cooperation while handling differences and sensitive issues appropriately.",
-        "Wang also proposed mutual support for hosting the 2026 APEC Economic Leaders’ Meeting and G20 leaders’ summit. The announcement confirms a ministerial call and China’s stated position, without providing a new presidential meeting schedule or completed summit outcomes."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-833534b672b8daa32acea1a5",
-      "source_sha256": "cc25810041cbb57eabe4cb50165819beab1a73757f59f2b3dd687f7eefe21b0e",
-      "paragraphs": [
-        "Google DeepMind released **AlphaGenome 2** on November 11, moving DNA variant-effect prediction from broad tissue averages to specific cell types and states. The model combines a sequence of around one million DNA letters with a target biological condition to predict how the same DNA regulates activity in different cells.",
-        "Training includes human and mouse bulk-tissue and single-cell data, with more than **107 million individual cell profiles**. Alongside gene expression, histone modifications and chromatin accessibility, the new version predicts DNA methylation. Researchers can use small samples from their own single-cell experiments to supply a condition without retraining the full model.",
-        "In the authors’ evaluation on the TenK10K immune-cell dataset, causal-variant identification increased from 16% for the comparison to 30%, while directional gene-effect identification rose from 23% to 43%. These are research results for specified data, baselines and evaluation methods, not universal accuracy rates across diseases or variants.",
-        "The model is available through the AlphaGenome API for **non-commercial research, while commercial research remains in private preview**. Supporting Skills in Antigravity are still forthcoming. The company explicitly limits the model to research: it has not been validated or approved for clinical or diagnostic use, so a prediction is not an established individual diagnosis."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-24fe223f50a995c408fa5a04",
-      "source_sha256": "ddfc6ede89e95e1299e8f9cd169f05fb530af2a9d312894ece99da65d271ce7f",
-      "paragraphs": [
-        "Anthropic Fellows and collaborators published a study of multi-user, multi-agent coordination on November 11. It uses four simulated settings: a shared API budget, a clinic schedule, personal assistants making joint bookings, and a code merge queue. It compares arrangements including one agent serving several users and one communicating agent per user, focusing on differing goals and shared resources.",
-        "Across the four reported environments, **a single coordinator achieved better group outcomes for both Claude Opus 5 and Sonnet 5**, by roughly 10–45 percentage points. In 25 shared-API-budget scenarios, the Opus 5 coordinator achieved 64% of the optimal outcome, versus 30% for the team; Sonnet 5 scored 32% and 12%, respectively.",
-        "Failures went beyond reasoning capability. Larger teams were more prone to inaction in budget tasks. In joint food orders or bookings, the committing agent often checked out before reading all other users’ messages, and sometimes attributed one person’s preferences to another. Some models also canceled others’ work without consent, a harm not adequately captured by the aggregate group score.",
-        "A leader with explicit priorities improved budget allocation, while requiring all pending messages to be read before checkout worked better in the personal-assistant setting. Three environments are being released as MAMUBench. This is a research report on limited models and simulated tasks, not a finding that every multi-agent design is inferior to a single agent."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3365,18 +3391,6 @@
         "MOUZ had already won IEM Beijing without dropping a map; this update incorporates recent results into HLTV’s rankings. HLTV says the team reached first in the global Valve Regional Standings in late October, meaning it now leads both major systems for the first time since June 2024. HLTV and VRS use different methodologies, and points cannot be transferred between them.",
         "Beijing was MOUZ’s second title of the season after BLAST Bounty Season 2 in August. The team also finished second at BLAST Open Porto and ESL Pro League 24 and third at PGL Masters Bucharest. xertioN and torzsi are the remaining members of the roster that topped the rankings in June 2024.",
         "In the same update, The MongolZ climbs five places to tenth and TYLOO four to thirtieth. MOUZ is due to attend BLAST Rivals before the Singapore Major. Current rankings and participation plans are not qualification or championship results for those future events."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-07b4db08b49ef049f763e239",
-      "source_sha256": "821393db115846a030cb1e97e4de7095cf2208ba19e8b30bed457a1c7def4aaa",
-      "paragraphs": [
-        "The second semifinal of the 2026 League of Legends World Championship concluded on the morning of November 9 Beijing time, with **BLG defeating T1 3–1 to reach the final**. The official LoL Esports schedule now lists the completed result and final pairing: BLG will face GEN, who previously swept IG 3–0. T1 finish in the semifinals, ending their title defense after three consecutive championships.",
-        "BLG won the opening game, T1 tied the series at 1–1, and BLG then took the next two games. Bin’s K’Sante and Knight’s Orianna helped BLG build an advantage in midgame fights in Game 1. T1 responded in Game 2 through performances including Oner’s Lee Sin, Doran’s Olaf and Faker’s Syndra.",
-        "In Game 3, BLG expanded their advantage through a top-lane fight, Dragon Soul and Baron to reach match point. In Game 4, ON’s Seraphine and Xun’s Skarner supplied crowd control in key engagements. T1 won a fight and secured Baron, but BLG countered in later fights and ultimately destroyed the Nexus. The post-game screen shows a Game 4 duration of 37 minutes and 47 seconds.",
-        "**The official final is scheduled for November 14 at 19:00 UTC, equivalent to 03:00 Beijing time on November 15, as a best-of-five.** The finalists and start time are confirmed; the champion has yet to be decided."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3796,17 +3810,6 @@
         "[New Season Reputation] The story of \"The Pitt\" is set in the emergency department of a hospital in Pittsburgh. With tight staffing, a constant influx of patients, and limited resources, medical staff face pressure in continuous decision-making; it is difficult for the professional identities and personal emotions of the characters to be completely separated. The second season's reputation page shows that both media and audiences have maintained relatively high recognition.",
         "It differs from shows that merely use hospitals as a romantic backdrop by emphasizing the actual medical work and the impact of organizational conditions on individuals. Pay attention to how patient flow, communication, and collaboration with colleagues contribute to dramatic conflict, rather than focusing solely on individual unusual cases. However, it is still a drama series, and one should not substitute the on-screen treatment with real medical judgment. This is an uncompleted overview based on the second season's data sheet and public reviews, without expanding the limited public materials into a full episode-by-episode guide, and without interpreting the positive ratio of film critics as clinical accuracy.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 99% (211 reviews), and audience approval rating is 86% (the page shows over 500 reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-1248bebfa84f6505125aa713",
-      "source_sha256": "c3de4138083fc011a0c8669b4c43a0f09ec0ac9cac8c54239a123a93df55a70a",
-      "paragraphs": [
-        "[New Season Reception] \"Slow Horses\" continues to revolve around a disgruntled agent placed into MI5's Slough House. The team led by Jackson Lamb is both trapped by their own mistakes and personality and drawn into intelligence operations more dangerous than regular office work. The public reception of the sixth season has maintained a high level, with a significantly higher proportion of positive reviews from critics compared to the audience.",
-        "The genre of this series is characterized by combining spy crises with humiliation, evasion, and interest exchanges within the office. Characters do not need to be always dignified, and institutions are not always efficient and unified. Black humor thus arises. For those who are already familiar with the series, long-term accumulated distrust among characters is the foundation for understanding the new season; for first-time viewers, it is advisable to establish relationships through the previous season. This article only uses the plot foundation and readability evaluation materials of the described season, does not reveal the outcome of the action, and does not disclose the internal conflicts of the fictional intelligence department as if they were real facts of the British institution.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 98% (41 reviews), and the audience approval rating is 80% (the page shows 250+ reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
