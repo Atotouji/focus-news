@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T04:20:04.832Z",
+  "generated_at": "2026-11-19T09:17:56.193Z",
   "translations": [
+    {
+      "article_id": "article-97b752f407f3570cc7176bb9",
+      "source_sha256": "f592ae172abd81ba9e48311197530935826a0a31456be77ea24fefdc50d5e534",
+      "paragraphs": [
+        "Huawei released its Next-Generation Core Network Evolution white paper at the 11th Global Core Network Summit, hosted by Informa Tech, on November 19. It proposed an NGC target architecture and evolution path. Gao Zhiguo, president of Huawei's Cloud Core Network Product Line, said connections would expand from people and things to agents over the next five to ten years, requiring the core network to support collaboration among devices, networks and the cloud.",
+        "Huawei identified three features: **intent interfaces, a data and intelligence plane, and a low-latency user plane**. Intent interfaces let agents express task-specific experience, networking and computing requirements in a semi-structured form. The data and intelligence plane introduces intelligence, data and computing network functions. The low-latency user plane uses device–network coordination to address latency for an entire AI task, rather than bit-transmission latency alone.",
+        "The white paper forecasts that by 2030, low-latency device–cloud collaboration requests will account for more than 20% of collaboration tasks initiated by devices, spanning real-time AI interaction, embodied intelligence and industrial control. **This is a vendor-proposed architecture and demand forecast**. No common set of measured end-to-end results from commercial networks was presented in this announcement, and a millisecond-level target does not mean every operator, device or service already provides the same performance."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0753ee9e458d8a272c1cf7ad",
+      "source_sha256": "5f2a8dec493d43f5ee87f06347e48be2492cc7c09adfa456df1a9ae7bf0d8a8c",
+      "paragraphs": [
+        "Netflix confirmed on November 19 that **The Altruists, an eight-episode limited series** about the rise and fall of cryptocurrency exchange FTX, is now streaming. Julia Garner plays Caroline Ellison, while Anthony Boyle plays Sam Bankman-Fried. It is a scripted drama based on real people and events; the official page has now moved from project information to confirmation that it is available to watch.",
+        "Graham Moore and Jacqueline Hoyt serve as co-showrunners and writers. They say the series explores personal relationships, motivations and private interactions alongside the public events surrounding the financial empire's rise and collapse. Moore says the drama depicts intimate moments that news cameras did not record. That entails dramatization: dialogue and private scenes cannot be treated directly as court records.",
+        "Supporting cast members include Alex Lawther as Sam Trabucco, Matt Rife as Ryan Salame and Karan Soni as Nishad Singh. Official materials frame it as a complete limited-series narrative. Moore says he wanted to portray Sam and Caroline as people then in their twenties, emphasizing their choices under the pressures of vast sums of money and personal relationships. This announcement did not announce a second season."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4a8ae79629e754c8618e5494",
+      "source_sha256": "63051f9ae1805cf140b07ddd05c2cee526937419078b4ac1fd03ababdb201330",
+      "paragraphs": [
+        "Volcengine launched the **SeedRealtime 1.0 real-time audio-video conversation model API** on November 19, extending the ByteDance Seed team's audio-visual full-duplex capabilities to developers. This development is the opening of an API service. Seed had introduced the model and its deployment in Doubao on August 5, 2026; the model announcement, in-app experience and today's developer access are separate milestones.",
+        "According to the company, a unified end-to-end architecture processes sound, images, text and temporal information. Visual context can help resolve homophones and references to earlier or later events. The model can decide when to speak within a continuous information stream and proactively offer reminders when a target appears or a scene changes. Demonstrations include group travel planning, equipment-operation assistance, study prompts, and answering questions from previously seen flight information amid airport noise.",
+        "Seed says its end-to-end human evaluation found half as many audio-visual conversational pacing problems as cascaded models, alongside a higher probability of completing a conversation smoothly. **The halving is a company evaluation result**; no independent testing establishes that it applies to every noise, network or hardware condition. The confirmed product form is a hosted API, and official documentation now lists real-time audio-video integration. Capabilities described in the original model introduction do not automatically mean that every application has implemented them."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8f6b0a654599ba89fe705051",
+      "source_sha256": "96221e363b1dddbdd826b55cadb4f34108fcdb9eb7226307e583862bce2da493",
+      "paragraphs": [
+        "SmartSens announced the **SC303HS image sensor** for smartphone front-facing and ultrawide cameras on November 19. Sampling has begun, with mass production expected in the first quarter of 2027. It is a 32-megapixel design with 0.56-micrometer pixels. Sampling differs from volume shipment in a specific retail phone, and the announcement named no handset using it.",
+        "Built on the SmartClarity-3 platform, the SC303HS has a 1/4-inch optical format, a 6560 × 4928 pixel array and a 4422 × 3803-micrometer package. It uses a D-PHY interface, outputs RAW RGB and supports transmission speeds of up to 1.5 Gbps per lane. Its SFCPixel technology incorporates a 2 × 2 shared-pixel structure; the vendor specifies minimum read noise of 1.1 electrons and sensitivity of 4863 electrons per lux-second.",
+        "The company says its backside-illuminated pixel design reduces color crosstalk compared with the previous generation, by about 22.5% under illuminant A and 21.3% under D65. An ultra-low-power mode can support always-on gesture recognition and face detection with downstream algorithms, switching to a higher-quality mode when an event is detected. **These are chip specifications and vendor comparison figures**. Final phone selfie quality, night imaging and power consumption also depend on optics, algorithms and device implementation."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f2e7024f990553e1dcae0a38",
+      "source_sha256": "e1f0f38472d4455f3853bb818ff0315877ebbc3381bd5621f5ab753e0c8cbeb8",
+      "paragraphs": [
+        "Intel CEO Lip-Bu Tan said at the TomorrowX Summit in Austin, Texas, on November 18 local time that the company had signed its **first external customer for 18A chips**. CNBC reported that he did not name the customer. Intel technology chief Pushkar Ranade subsequently clarified that the customer had selected the 18A-P manufacturing node, which entered risk production in June 2026.",
+        "The agreement concerns Intel's effort to expand its advanced-process foundry business beyond manufacturing its own products to serving external chip designers. 18A-P belongs to the 18A technology family. Signing a customer is a commercial milestone, but the report disclosed no contract value, product category, shipment volume or mass-production date for the customer's chips. Risk production and sustained high-volume commercial delivery are different stages.",
+        "A separate announcement at the event named Microsoft as a user of Intel's EMIB advanced-packaging technology, which interconnects chips and integrates them into a system. **That does not establish Microsoft as the 18A-P customer**. CNBC quoted an analyst discussing several possible purchasers of advanced foundry capacity; those comments were speculation rather than Intel's confirmation of the customer's identity."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-1fae33235ac0f9c50e540b53",
       "source_sha256": "af52ce8f1717b1662f7ee8adafdb6c524154c1ceb6ec1312350abf5ebd71228b",
@@ -38,12 +93,12 @@
     },
     {
       "article_id": "article-3fa74f8f469b36f4f5249c5e",
-      "source_sha256": "1db3c1b51107f0144ed0e24a0ac476822e2ba3f366f4e718450994620d2e2e2b",
+      "source_sha256": "97cf93ad421e1c9565501db3f8fc8ed07e683ddde5aa6cb741de62f2eb3e21e6",
       "paragraphs": [
-        "RSMC Nadi issued Northern Cook Islands special weather bulletin 33 at **11:03 Hong Kong time on November 19**. Its 08:00 position fix placed Severe Tropical Cyclone Xavier at 10.5°S, 163.5°W, approximately 250 km east-northeast of Nassau, with central pressure of 949 hPa.",
-        "The bulletin rates Xavier **Category 4 under the regional cyclone scale**, estimating sustained winds near 165 km/h and gusts up to 230 km/h. Nassau remains under a gale warning; Pukapuka and Suwarrow have gale alerts, while Manihiki and Rakahanga have strong-wind warnings. These statuses apply to different islands and must remain distinct.",
-        "For Nassau, it lists average gale winds up to 75 km/h, gusts to 100 km/h, heavy rain, thunderstorms, heavy seas and coastal inundation risk at high tide. Pukapuka and Suwarrow also face wind, swell and inundation risks. Subsequent position updates remain necessary to assess changes.",
-        "Nadi forecasts gradual weakening, not an all-clear. The next Northern Cooks bulletin is due by 14:00 Hong Kong time on November 19. FBC, citing meteorological authorities, reports the main affected area is the Northern Cook Islands, with no direct threat to Fiji at present. Wind and pressure values refer to the stated observation time."
+        "RSMC Nadi, part of Fiji's meteorological service, issued Special Weather Bulletin No. 35 for the Northern Cook Islands at **4:41 p.m. Hong Kong time on November 19**. At the 2:00 p.m. observation that day, Severe Tropical Cyclone Xavier was centered at 10.6°S, 163.2°W, about 280 km east-northeast of Nassau. Central pressure was 945 hPa, and it remained a Category 4 cyclone under the regional scale.",
+        "The latest bulletin estimated maximum sustained winds near the center at **185 km/h, gusting to 260 km/h**, with the system moving east-southeast at about 6 km/h. Bulletin No. 35 listed gale alerts for Nassau, Suwarrow and Pukapuka, while strong-wind warnings remained for Manihiki and Rakahanga. These are island-specific alert states; they do not mean that winds at the cyclone's center will occur simultaneously on every island.",
+        "For Nassau and Suwarrow, the bulletin described current strong winds of up to 55 km/h, gusting to 80 km/h, with damaging gales potentially developing later at average speeds of 85 km/h and gusts of 120 km/h. Pukapuka also faced a subsequent risk of gales. The affected islands additionally faced heavy rain, thunderstorms, swells and coastal inundation at high tide.",
+        "Nadi forecast gradual weakening, with the center about 260 km east-northeast of Nassau at 2:00 a.m. Hong Kong time on November 20 and about 240 km north of Suwarrow at 2:00 p.m. that day. These are forecast positions; the latest observations refer to 2:00 p.m. on November 19. The next special bulletin for the Northern Cooks was due by 11:00 p.m. Hong Kong time on November 19."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -79,6 +134,72 @@
         "Virtual power plants digitally aggregate flexible demand, distributed generation, storage and EV charging or swapping resources for coordinated dispatch or market participation. They are not equivalent new physical generating stations. Maximum adjustment capability is power, not annual energy generation; kW and kWh are distinct.",
         "The report says capability has already surpassed the existing 2027 target of at least 20 million kW. The 15th Five-Year Plan targets more than 50 million kW by 2030, a future goal rather than current capacity.",
         "The agency's interpretation notes dedicated arrangements in 23 provincial-level regions by June-end, integration of some projects into dispatch or load-management systems, and expansion into spot and ancillary-service markets. It also identifies gaps in capability verification, operations, trading rules and cybersecurity. Project counts do not replace verification of actually dispatchable resources."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-71f3373e75064934e6976170",
+      "source_sha256": "830c14f234da898dcfeb6a891242ec4ae07df7a11a346124d6e08121101cbf25",
+      "paragraphs": [
+        "Chinese President Xi Jinping, U.S. President Donald Trump and Russian President Vladimir Putin held their **first dedicated trilateral leaders' meeting** in Shenzhen on the afternoon of November 19, on the sidelines of the APEC leaders' meeting. All three had attended the 2019 G20 summit in Osaka, but this was a specifically convened three-way discussion. Trump held separate bilateral meetings with Putin and Xi beforehand.",
+        "In his opening remarks, Xi emphasized the special responsibility of the three major powers and permanent UN Security Council members for peace and stability. Reuters live updates carried by AnewZ reported that Putin said his bilateral meeting with Trump that day had focused on Ukraine. Trump raised nuclear arms reductions, non-proliferation and Iran's nuclear issue in the trilateral talks. These were the leaders' positions and discussion topics, rather than joint decisions already reached.",
+        "In live updates through 5:00 p.m. Hong Kong time on November 19, Trump expressed hope for an end to the Russia–Ukraine war but **announced no specific agreement or breakthrough**. The start of talks did not amount to a ceasefire across the front, and no new nuclear arms-control treaty had been announced. China's Foreign Ministry readout of the Xi–Trump bilateral meeting also covered trade communication, Taiwan and AI safety risks. Those statements likewise remain distinct from any subsequent formal outcomes."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-064bdbb02534d377f80a4c4a",
+      "source_sha256": "ba7d637dcee89b446b07d5d7ab3e38887ce6f57953c1b58fbb618ed95f30e01f",
+      "paragraphs": [
+        "Lenovo announced its fiscal 2026/27 interim results on November 19, covering April–September 2026, with the second fiscal quarter running from July through September. Second-quarter revenue was **US$30.238 billion, up 48% year-on-year**; first-half revenue was US$57.180 billion, up 46%. These amounts are in U.S. dollars, and the fiscal quarter differs from the calendar year's second quarter.",
+        "Under Hong Kong Financial Reporting Standards, the company recorded a net loss attributable to equity holders of US$640 million for the second quarter and US$1.248 billion for the first half, compared with profits of US$340 million and US$846 million a year earlier. A **US$3.596 billion non-cash fair-value loss related to warrants** was the main first-half factor. Under Lenovo's non-HKFRS measure excluding warrant fair-value changes and other non-cash items, adjusted profit attributable to equity holders was US$2.436 billion for the half, up 170%, and US$1.361 billion for the quarter, up 166%.",
+        "The Infrastructure Solutions Group generated about US$11.3 billion in second-quarter revenue, up 178%, and about US$1.091 billion in operating profit, with a 9.6% operating margin. Intelligent Devices Group revenue was about US$17.4 billion, up 15%. Lenovo said AI-related revenue rose 79% and represented 36% of quarterly revenue; its definition covers NPU-equipped PCs and smartphones, GPU servers and related services. The company also reported US$1.6 billion in quarterly operating cash flow and US$1.2 billion in free cash flow. Adjusted earnings, reported profit or loss, and cash flow measure different things."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-16e66c4b067a470b826a5421",
+      "source_sha256": "9790e2662d9eaaf2856f1c955ea7b9dd2ee1eb69db334a4e85fecc79bbb6c05c",
+      "paragraphs": [
+        "TrendForce published its NAND Flash outlook on November 19, forecasting a shift in the industry's supply-demand balance in 2027. It expects **overall contract prices to fall 0%–5% quarter-on-quarter in the first quarter**, with all product categories entering a price-decline cycle from the second quarter. This is a forecast for future quarters in the upstream contract market, rather than a retail discount consumers can already obtain on SSDs or phones today.",
+        "TrendForce estimates that global NAND capital spending will rise 26.7% to US$29.9 billion in 2027. Capacity expansion, process upgrades, greater QLC adoption and higher layer counts are expected to lift bit supply by 25%–30%. Demand is diverging: North American cloud providers have raised orders for AI-agent and general-purpose server projects already under construction, but cuts to enterprise SSD purchases by some other cloud providers—linked to GPU supply, inventory adjustments and token prices—are larger than those increases.",
+        "Consumer-electronics demand may also weaken as low-cost inventory is exhausted, device prices rise and brands reduce installed storage capacity. TrendForce has cut its forecast for fourth-quarter 2026 NAND contract-price growth to 8%–13% and says spot prices have recently corrected by more than 20%. **Spot-price declines, quarterly contract forecasts and end-product prices are different measures**. Subsequent trends still depend on inventory clearance, GPU supply and purchasing strategies."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-86c2ffc62331550104534940",
+      "source_sha256": "b21fbfcd4052e97ea32b591af6498a540e0e5a339ca91bd3cb568a541375d333",
+      "paragraphs": [
+        "In its World Energy Outlook released on November 19, the International Energy Agency warned that the Strait of Hormuz crisis was severely affecting global energy security. In an account of AFP reporting, Lianhe Zaobao said the IEA saw the buffers against supply disruption diminishing, with consumers bearing more of the cost through higher prices and, in some areas, shortages. This is the agency's assessment of risks and consequences.",
+        "IEA Executive Director Fatih Birol pointed to higher production by oil-producing countries, alternative transport routes and reduced Chinese purchases from international markets as previous buffers. Governments have also sought to protect households. The report treats the crisis's duration as an important variable shaping the future energy mix and adds two scenarios examining the consequences of a prolonged Middle East crisis. **Diminishing buffers do not mean every region already faces the same shortage**; the report cited in the article provides no single worldwide retail-price increase.",
+        "The outlook retains distinct frameworks for policies already in force, policies governments have announced, and net-zero emissions by 2050. Under the scenario considering announced policies, including measures not yet implemented, the IEA expects oil demand to **peak around 2030**, while natural-gas demand grows until about 2035. These are long-term projections conditional on policy, rather than demand declines already observed or conclusions shared by every scenario."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-14dccd2f7661be3c6d57bf83",
+      "source_sha256": "2fcbb1f0e95c66726a88acfd20baad2bb809824c11cfadc392c96dff4dfaca31",
+      "paragraphs": [
+        "Some European Commission internal systems have been hit by a cyberattack, potentially affecting personal data. Lianhe Zaobao's November 19 account of Politico reporting cited an EU official saying disruption had lasted about ten days. The Commission believed it had contained most of the attack, but **the extent of damage and the scope of the data impact remained unclear**.",
+        "The reported systems affected included human-resources tools for payroll and time recording, as well as medical-insurance reimbursement, with multiple systems taken offline. Commission spokesperson Thomas Regnier confirmed to Politico that response measures had been taken against the identified attack, that some systems had been targeted, and that affected people had been notified under standard procedures.",
+        "The report also said the Commission had convened its highest-level internal crisis-management body for urgent discussions. Public information currently confirms an attack, system disruption and a potential impact on personal information; **no verified number of people affected by a leak, complete list of data categories or attacker identity has been established**. It also does not establish that this case and recent U.S. technology outages are the same incident."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a2b9fe2ffcb51d1977a4f73a",
+      "source_sha256": "13f68fc8aac8bfa6f21d7cf1b1eed8d4de9e78c370f87c9d9b464641aed131c4",
+      "paragraphs": [
+        "Chinese Commerce Ministry spokesperson He Yadong said on November 19 that the **agricultural working group under the China–U.S. Trade Council would hold its first meeting soon**. The two economic and trade teams are maintaining communication at various levels. The council itself held its first meeting by video on November 13; the two levels are at different stages, and the agricultural group's first meeting has yet to take place.",
+        "The Trade Council is an economic and trade communication mechanism the two presidents agreed to establish at their May 2026 meeting in Beijing. The agricultural working group is jointly led by China's Commerce Ministry and the Office of the U.S. Trade Representative, with relevant regulators participating. The two sides had previously agreed to hold its first meeting before year-end to provide a dedicated channel for agricultural trade discussions.",
+        "The announcement that a meeting would take place soon gave no exact date and announced no new purchase volume, value or tariff-implementation schedule. In his bilateral meeting with Xi Jinping in Shenzhen that day, Trump said the Trade Council had made trade relations more balanced; that was his assessment. **The council having met, the agricultural group being due to meet, and specific trade arrangements taking effect are three different states**."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -516,6 +637,17 @@
         "Chairman John Moolenaar opposed the potential cooperation, citing concerns about assisting China's AI capabilities and Microsoft's US defense contracts. This is a legislator's policy position; the statement creates no new sales ban, export-licensing rule or penalty.",
         "Zaobao reported on November 19 that The Information first disclosed the talks, potentially worth up to $500 million in Azure services. That remains a reported potential deal size, not Microsoft-confirmed revenue or money already paid by ByteDance.",
         "A Microsoft spokesperson said the company enforces service terms, complies with laws and partner agreements, and does not normally comment on confidential customer negotiations."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f599728e36a71fbe958ae6c1",
+      "source_sha256": "c7371b7e8d5be029699e692ae625a01d6a8bdbb86b23471e8a47e278a94bf716",
+      "paragraphs": [
+        "Netflix announced on November 18 that **Season 2 of the Swedish crime series The Åre Murders will premiere globally on December 27, 2026, with six episodes**, and released first-look photographs. Carla Sehn and Kardo Razzazi return as detectives Hanna Ahlander and Daniel Lindskog, with Simon J. Berger joining as Henry Sylvester. This is a platform release-date and production announcement, rather than news that the second season is already available.",
+        "The new season takes place one year after the first season's events, again in the Swedish ski town of Åre. It adapts Hidden in Memories and Hidden in Lies from Viveca Sten's novel series. Set in the mountain community as Christmas approaches, the story centers on two investigations and complicated local relationships. SF Studios Production produces the series, directed by Joakim Eliasson and Johan Lundin.",
+        "Netflix says the first season reached its Top 10 in 84 countries or territories, ranked first in 32 of them and generated more than 38 million views. **Those are platform viewing figures for Season 1, not Season 2 ratings or a critics' approval percentage**. The second season has yet to premiere. Its six-episode length, returning leads and adaptation of two novels are the specific details currently confirmed."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3085,40 +3217,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-c06fca3b9549fb95708df0f2",
-      "source_sha256": "cd5ad0acf5d7581ff88e2e1a3fd2667a68179780b0a9248280950f4af0cf7765",
-      "paragraphs": [
-        "Google has introduced the Gemini Decisions API, powered by **Gemini Decision 1**, through the Gemini API and Google AI Studio. It targets bounded decisions such as tool selection, model routing, rule checks and content grading, returning candidate probabilities and confidence information instead of generating long answers token by token.",
-        "A request can share text, image, audio, video or PDF input, with limits of **256K tokens and 1,000 independent questions**. Questions can mix yes/no checks, choices among two to 255 options, and ordered-rubric scores starting at zero. Shared input is billed once, with each question adding its own instruction and criteria tokens.",
-        "The listed price is **$0.10 per million input tokens, with no output-token charges**, plus a no-cost allowance for prototyping. Google reports end-to-end latency of about 150–250 milliseconds in relevant tests with contexts up to 16K tokens, varying little from one to 100 questions. That is not a uniform latency promise for 256K inputs combined with 1,000 questions.",
-        "The company demonstrates internal uses in Gemini Notebook routing, Stitch interactive prototyping and Search tool-safety checks, alongside vendor benchmark comparisons. Calibration, low latency and cost are central to the interface design; results depend on the options, inputs and task distribution."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ab896b3f94b1c56b7c0b6b90",
-      "source_sha256": "81ee40abb7a767fd253c2a98f5b3ae8503244c725477c4d27beb9c4e1dc069aa",
-      "paragraphs": [
-        "Google announced that **Gemini Live is rolling out to Apple CarPlay from November 11**, for Gemini users on iOS across supported Gemini Live languages. It adds an iPhone-based in-car entry point alongside the existing Android Auto and Google built-in experiences, rather than replacing every vehicle’s operating system.",
-        "Users can start or resume conversations from the Gemini icon on the CarPlay screen or side rail, interrupting, adding details or pausing as needed. Conversations sync to Gemini history on the iPhone. Demonstrated uses include discussing schedules, reviewing connected email, preparing for meetings and asking about destinations.",
-        "Requirements include updating the phone app, enabling microphone access and using Gemini Live on the phone at least once. Gmail and Google Calendar capabilities also depend on connections and permissions. **Daily Brief must be enabled first, and some personalization features are unavailable to under-18 users and users in the EEA or Nigeria**.",
-        "A global rollout describes the release scope for compatible users, not simultaneous access to every capability for every region, account and car display. The announcement does not remove those specific eligibility restrictions."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-eac4d84ef949975e755c40f9",
-      "source_sha256": "8a2b9efaf8d72b7f1ed4e570ef9a54b3054ee80bc40e0d6bacaa41847499f282",
-      "paragraphs": [
-        "Google Labs announced **Tabletop** on November 11, an experimental space for real-time group collaboration. Users can add links, files and ideas, then use prompts or templates to generate interactive itineraries, dinner polls, expense splitters and tournament brackets. Invite links allow others to participate simultaneously.",
-        "It combines group-planning materials and usable small tools in one space, with Google comparing simultaneous participation to Google Docs. Access currently means **a US waitlist for people aged 18 or older**, rather than a full global launch for every account. The announcement gives no timetable for other regions or independent measurements of collaboration reliability."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-d89435cbbccad56aa6b0e8fc",
       "source_sha256": "9fccce700f3adb5ff4d5f3aad33abe6fcb18457f3f7f18be813156475aaab7ef",
       "paragraphs": [
@@ -3154,29 +3252,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-e5f269333829e135961fd7f2",
-      "source_sha256": "41d2c375e138b60a2f1f45a71a8defa3b710f96eef0e2c46e19a1b304dfae14b",
-      "paragraphs": [
-        "The People’s Bank of China released its monetary policy report for the third quarter of 2026 on November 11, saying it would continue a **moderately accommodative monetary policy** and strengthen countercyclical adjustment. The reported 4.6% year-on-year GDP growth covers January through September. The policy outlook is distinct from data already recorded.",
-        "At the end of September, outstanding aggregate financing and broad money M2 were up **7.1% and 7.2% year on year**, respectively. The DR001 overnight repo rate averaged 1.34% during the first three quarters. That is a period-average market rate, not a new policy rate announced on November 11.",
-        "New corporate loans issued in September carried rates slightly below 3.0%, about 0.2 percentage points lower than a year earlier. New personal housing loans were around 3.1%, broadly unchanged year on year. End-September loan growth for technology, green finance, inclusive finance, the elderly-care industry and the digital economy was 12.0%, 13.0%, 6.5%, 16.2% and 15.7%, respectively.",
-        "The central bank cited strong supply relative to demand, structural divergence and external shocks. It plans to deploy and adjust tools as appropriate, maintain ample liquidity and diversify loan-pricing benchmarks beyond relatively heavy reliance on the LPR. The report sets out policy direction; it does not announce that another broad rate cut had already occurred that day."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e1dd69b88d45b7e04e9f70e4",
-      "source_sha256": "579df046e564288d20da7d8423144ce70128eb9e7b686a69d0e7bb517b7b85db",
-      "paragraphs": [
-        "OpenAI began notifying users on November 10 that ChatGPT’s Advanced Voice and Standard Voice are scheduled to **retire on December 11, 2026**, with voice use moving to GPT Live. Users can continue using the existing modes during the transition. After the deadline, GPT Live will become the default voice experience.",
-        "Existing conversation history will remain available, with conversations continuing in text or voice. GPT Live can listen and speak simultaneously and delegate complex questions or agentic tasks to frontier text models while continuing the conversation.",
-        "There is a specific exception: **live video and screen sharing will continue using Advanced Voice until GPT Live supports those capabilities**. The December 11 transition therefore does not mean that every feature associated with Advanced Voice disappears completely on that date."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-e96350afb4dcd4a07e33fc2a",
       "source_sha256": "9340f82591ecba31601e434eaf11e8e76be05df7e0d9dbe9d48b2a33e276f7c3",
       "paragraphs": [
@@ -3184,65 +3259,6 @@
         "The cumulative figure covers the PS5 product line. It differs from sales of an individual model, in one region or during one quarter, and cannot be equated directly with current active players, subscribers or consoles still in use.",
         "For context, the same Sony page lists lifetime totals of more than 102.4 million for the original PlayStation, more than 117 million for PS4 and more than 160 million for PS2. Those totals have different historical cutoff dates and cannot be used to calculate growth over the same period. PS5 has crossed a major scale milestone in its platform lifecycle.",
         "The announcement confirms the 100-million threshold without giving a same-day final figure down to the individual unit. Later quarterly financial reports may provide more detailed period data. The current figure alone also cannot prove that a game not yet released has already driven actual hardware sales."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-d72becfa8d27184fb450e3b2",
-      "source_sha256": "ec424b62a7f286d005ba948db77cf583be7580c9aa5837b45ed4119150ed78d6",
-      "paragraphs": [
-        "When Google introduced Pixel Tag in August, it named **November 11** as the date it would reach stores. Some media reported it as on sale on November 11, but the public US Google Store page checked for this report still displayed **“Not available — get notified.”** It is therefore confirmed to have reached its planned launch date, rather than confirmed in-stock ordering in every region.",
-        "The US store lists a starting price of $29.99, an official US-market price rather than a price for China. The device combines the Find Hub finding network, nearby finding and ringing, and its button can also help locate a phone. Google says locations use end-to-end encryption and the finding network can draw assistance from a large number of Android devices.",
-        "Official materials list compatibility requirements including Android 9 or later and Bluetooth 6.0 or later. Precision finding also depends on the relevant phone hardware. Running Android alone does not establish support for every finding feature, and a US store page does not establish service availability in mainland China.",
-        "The tag uses a replaceable CR2032 battery, with a company claim of about one year of battery life, and carries an IP67 rating. It supports sharing item locations and unknown-tracker alerts. These are features and manufacturer specifications; actual battery life, protection and finding performance depend on usage conditions, the phone and network support."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-4b7ad91f89ad2d98cd66bcbf",
-      "source_sha256": "8f9ef75e8e7c97c6c78fc2092aa2bbee04d219ca7ea74f948edb05c1dd7ca830",
-      "paragraphs": [
-        "The deepin community has released **version 25.3.0**, focusing on AI access, system recovery, desktop responsiveness and hardware compatibility. UOS AI adds a whole-disk knowledge base for searching the contents of local files authorized by the user. “Whole-disk” describes the feature’s scope, not default permission to read every private file.",
-        "MCP, Skills and dedicated agent capabilities share a unified entry point, with capabilities dispatched according to the task. The release also adds workspace history, task queuing, conversation memory and context summarization. Permission modes can be set per conversation, and file-saving permissions can be controlled. These are changes to operating-system interaction and orchestration.",
-        "For stability, a new freeze-protection mechanism aims to keep the taskbar, Launcher and System Monitor accessible during severe stalls so an unresponsive application can be closed. Immutable System snapshots can be saved to a local disk, USB drive or portable hard drive and restored from a chosen location. System logs are capped at 5 GB by default and stop growing when free disk space falls below 5%.",
-        "The default kernel is updated to **6.6.159**, while the newer **6.18.56** can be installed through Kernel Manager. The release covers x86, arm64 and loong64 architectures. Treeland’s new protocols remain subject to a subsequent stabilization plan; a formal operating-system release does not mean that every experimental desktop component is already stable."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-ee20afcfcb4b42451817fd08",
-      "source_sha256": "94079cae90b921381d5622a9f60484854aa648e62e564db491910f38f078cc08",
-      "paragraphs": [
-        "Alibaba’s Qwen team has released code for Qwen Code 1.0, combining agent harness capabilities from Qoder and Qwen Code. The repository explicitly labels it **1.0 Preview**, on the separate v1.0.0-preview branch. The existing stable mainline remains available; promotional wording about a formal release does not mean that the preview interfaces are stable.",
-        "The main changes concern the runtime foundation of the terminal coding agent. Model access, task scheduling and tool execution are separated into layers connected by an event bus. Model calls share authentication and logging, sandboxes can be reused within the same permission boundary, and MCP connections are managed centrally, reducing repeated setup of tool environments for individual tasks.",
-        "The preview remains focused on understanding projects, implementing features, investigating problems and running tests through natural-language requests. It supports Qwen accounts, Qoder and compatible third-party model services. Model availability and charges depend on the selected service and account; an open-source framework does not make every backend model free or open-weight.",
-        "The branch’s code uses the **Apache 2.0** license and separately identifies third-party component licenses. The team says that some interfaces, configuration options and behavior may change before stabilization. Community pull requests are temporarily closed, with contributions expected to open after December 2026. This release opens the coding framework; it does not establish that Qwen4 model weights have also been released."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-8172afa85e731cf6417646eb",
-      "source_sha256": "5cb43e0685e7e908f0c9aa140f569e7712c4a423f165e49e36032985f420ad64",
-      "paragraphs": [
-        "Huawei’s Kirin team provided further details on the Kirin 9050 series’ new Da Vinci NPU on November 11, demonstrating **on-device operation of a 30B MoE task-planning model**. This is a technical explanation of an announced chip, not its first launch on November 11 or an announcement that a new phone is in stock.",
-        "The official infographic separates capabilities into 30B task planning, 6B image editing, 7B text generation and smaller multimodal perception models. Multi-level memory/compute optimization and low-bit quantization support deployment, while Transformer, ultra-low-power perception and CANN heterogeneous-computing components handle different workloads. The 30B figure describes total model size, not simultaneous activation of every parameter for each inference.",
-        "Huawei claims 140% higher NPU performance and 66% lower power consumption. For a separate 7B Dense text scenario, it lists 180% better first-token performance and 29% lower inference power. These are **manufacturer metrics under the relevant test conditions**, not equivalent improvements in overall battery life, every application or gaming frame rates.",
-        "Examples include local photo organization, offline editing, screen-content perception, eye-controlled page turning and screen-off maps. Features still depend on the device and software implementation. On-device execution describes where these model paths compute, not a claim that every AI service on a phone works entirely without a network."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-3e185e5477291550990d8a71",
-      "source_sha256": "b906c9e6d668c060d15ea3735ddbd2044c305c39261306529f32f367374a8a09",
-      "paragraphs": [
-        "On November 11, the 26th session of the Standing Committee of Jiangxi’s 14th People’s Congress appointed Chen Yongqi vice governor and acting governor. The Beijing News reported the decision citing Jiangxi’s legislature, and Lianhe Zaobao subsequently confirmed it. **The administrative office conferred in this decision is acting governor**, a different procedure from election as governor.",
-        "Chen had already been appointed Party secretary of the provincial government on October 24. That internal Party appointment and the administrative appointment by the legislature’s standing committee occurred on different dates. Lianhe Zaobao reported that he transferred from Tibet to become Jiangxi’s deputy provincial Party secretary in December 2024, after holding posts including Tibet’s Party standing committee member and organization department chief and executive vice chairman of the regional government.",
-        "His public biography states that he was born in November 1967, is from Huairen in Shanxi, holds a postgraduate qualification and a doctorate in philosophy, and is an alternate member of the 20th Central Committee. The appointment follows former governor Ye Jianchun’s investigation in August and the acceptance of his resignation in September; the predecessor’s investigation and this appointment have separate announcement dates."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3788,28 +3804,6 @@
         "The new series \"The Boroughs\" by Netflix places a group of older characters at the center of an adventure: a seemingly peaceful retirement community experiences anomalies, and a group of individuals who were not originally seen as heroes begins to face supernatural threats that threaten to take away the remaining time they have left. The story thus combines elements of supernatural suspense with themes of late-life living, with \"time\" in the public setting serving both as a genre mechanism and directly affecting the characters' situations.",
         "Compared to the common structure of teaming up teenagers to save the world, this series differs in that the characters enter the crisis with longer life experiences and burdens of loss and relationships. It is worth observing whether these experiences can genuinely influence the actions, rather than relying on the age difference to create humor. Currently, media feedback is relatively strong, while audience feedback is slightly lower but still above the threshold for this column. This article provides a selection entry based on official introductions and public reviews, without presenting supernatural settings as scientific facts or revealing the truth of the threat in advance.",
         "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 96% (75 reviews), and the audience positive percentage is 78% (the page shows over 500 reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-cd624ee91d4b606a5a03436e",
-      "source_sha256": "e420b2d2b7c1af9f1c5addd1f8262b375c3feaa61dce58e2a23a29a8e551bac4",
-      "paragraphs": [
-        "[New Season Reception] The second season of \"The Four Seasons\" continues to revolve around a group of old friends on a shared journey. Netflix's description places the loss of loved ones, the arrival of new life, and the adjustment of existing relationships at the center of this season, with the setting expanding from different regions of the United States to Italy. The main creators, such as Tina Fey, use periodic gatherings to have the same characters face each other again in different seasons.",
-        "The appeal of this type of comedy lies not in featuring a major antagonist in each episode, but in the fact that friends who have known each other for years may still generate new conflicts in terms of care, dependence, and boundaries. Travel simply brings the relationship into the same space, and familiarity and discomfort can coexist. The second season's audience reviews are lower than those of the critics, although it has met the screening threshold, it should not be described as \"uncontroversially universally praised.\"",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval is 85% (40 reviews), and audience approval is 72% (the page shows over 100 entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-9f4487f2a60bc98bea52d52d",
-      "source_sha256": "baa39d471ec63c19fcc3c6431c39031daa919c5a9a3345ccccc7a1fa4b743258",
-      "paragraphs": [
-        "[New Season Reputation] The story of \"The Pitt\" is set in the emergency department of a hospital in Pittsburgh. With tight staffing, a constant influx of patients, and limited resources, medical staff face pressure in continuous decision-making; it is difficult for the professional identities and personal emotions of the characters to be completely separated. The second season's reputation page shows that both media and audiences have maintained relatively high recognition.",
-        "It differs from shows that merely use hospitals as a romantic backdrop by emphasizing the actual medical work and the impact of organizational conditions on individuals. Pay attention to how patient flow, communication, and collaboration with colleagues contribute to dramatic conflict, rather than focusing solely on individual unusual cases. However, it is still a drama series, and one should not substitute the on-screen treatment with real medical judgment. This is an uncompleted overview based on the second season's data sheet and public reviews, without expanding the limited public materials into a full episode-by-episode guide, and without interpreting the positive ratio of film critics as clinical accuracy.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 99% (211 reviews), and audience approval rating is 86% (the page shows over 500 reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
