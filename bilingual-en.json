@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T09:35:02.576Z",
+  "generated_at": "2026-11-19T01:15:56.512Z",
   "translations": [
+    {
+      "article_id": "article-1fae33235ac0f9c50e540b53",
+      "source_sha256": "af52ce8f1717b1662f7ee8adafdb6c524154c1ceb6ec1312350abf5ebd71228b",
+      "paragraphs": [
+        "Huawei previewed the Mate90 Air lightweight flagship on November 19. It will appear at the HUAWEI Mate X8 and all-scenario product event on **November 24 at 14:30 Beijing time**. The poster describes it as Huawei's thinnest straight-screen Mate handset.",
+        "The poster shows a circular rear-camera design resembling the existing Mate90 family. This announcement confirms the name, appearance preview and event schedule. It does not disclose exact thickness, weight, processor, battery capacity, price or sale arrangements. Specifications of the standard Mate90 cannot be transferred to the Air."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f539fcdaf975fdb95a5bae09",
+      "source_sha256": "5136e587ec21ae47a6c46175c31e03be84a95b09fe025fbe52fbae2a8d1988f1",
+      "paragraphs": [
+        "Google introduced Gemini 4 Neon on November 18 for complex coding, analysis and enterprise workflows, adding a speed-and-reasoning option between Carbon and the more execution-oriented Hydrogen. It supports a **one-million-token context window**. API list prices per million tokens are $3 for input, $15 for output and $0.15 for cached input.",
+        "Neon is rolling out through the Gemini API paid tier, AI Studio and Gemini for business. Pro and Ultra subscribers can select it in the Gemini app, with Antigravity access also available to the corresponding paid subscribers. Four thinking levels—low, medium, default high and xhigh—provide different cost and response-speed tradeoffs.",
+        "Google's announcement cites an Artificial Analysis Intelligence Index score of 61 at xhigh and reports 65.2% on Terminal-Bench 4.1 and 46.2% on FrontierCode 2.0 at default high. These are results under specified evaluation conditions, rather than completion rates for users' own repositories.",
+        "The cybersecurity version has separate eligibility: qualified Fairwind members will receive access over the following days. It is not opening to everyone simultaneously. Google positions Neon for frequent complex tasks while retaining Carbon for its hardest long-running projects."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f67b5a44dc20fa3cd64f9875",
+      "source_sha256": "85599b884ea598f603bc2324d5d08952b66696004a3f5d531fea7d45bf3676e0",
+      "paragraphs": [
+        "Samsung opened the **One UI 9.5 beta** on November 18 for Galaxy S26 series users in selected markets including Germany, India, Korea, Poland, the UK and the US. Applications go through Samsung Members. This is a pre-release test, not a stable rollout to every Galaxy device or a simultaneous China launch.",
+        "Camera changes include customizable controls and presets in Pro and Pro video modes, plus revised controls and a zoom bar in the default camera. Enhanced professional modes require compatible models; Pro Lite and Pro Video Lite are excluded.",
+        "Samsung Health adds Mindful Note for free-form or guided journaling and Medications for recording prescriptions, vitamins and supplements, reminders and adherence tracking. Availability varies by market, and Mindful Note does not support Galaxy Watch. Accessibility changes include floating shortcuts and notification-panel controls for hearing-aid volume and sound routing.",
+        "App Lock protects individual apps with biometrics or the screen-lock credential, hiding their notification content and widgets when locked. This new beta privacy feature remains subject to the stated device, regional and enrollment requirements."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-52f6bc9a43b3606d3a017786",
+      "source_sha256": "2598ae858f503141703d039505f68950e2cb3ac48c3aee5aac4a3f63b5bc1dc6",
+      "paragraphs": [
+        "Google began rolling out the updated Project Genie on November 18 to **eligible Google AI Ultra subscribers**, providing first access to Genie 4 within this experience. Google AI Pro members can join a waitlist; access is not universal across subscription tiers or regions.",
+        "Genie 4 lets users change environments through text while exploring, including weather, characters and action. Real-time native audio adapts with the scene, spanning ambience and character dialogue. The new Project Genie agent uses conversation to orchestrate initial visuals and background music, and can suggest directions or trigger events during exploration.",
+        "Genie 3 remains selectable and gains sessions of up to **three minutes**, previously 60 seconds, linked worlds and 360-degree panorama grounding. A community gallery supports discovery, exploration, sharing and remixing. These are interactive world-model experiences, rather than finished conventional games.",
+        "Google says generated video and audio carry SynthID watermarks and inputs and outputs undergo safety screening. Camera latency, intricate physics, audio precision and long-term scene consistency remain research challenges. Demonstrations do not establish that every constraint of a complete game engine has been solved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bbf5b53e18ee72802021a7a9",
+      "source_sha256": "ea9513d63c2e6f5634b9648e6ae480f166ef2874f300e6a067e59f830e84ee4f",
+      "paragraphs": [
+        "Grand Theft Auto VI reaches its release date on November 19. PlayStation's support page sets PS5 unlocking at **midnight on November 19 in each region's local time**. By the morning of November 19 in Hong Kong, Asian and European markets have crossed that threshold, while North American markets are still progressing through their local time zones. Access is therefore staggered worldwide.",
+        "Rockstar's November 18 PlayStation announcement describes six Leonida regions: Vice City, the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga. Jason Duval and Lucia Caminos become caught in a statewide criminal conspiracy after a job goes wrong. The setting spans a city, islands, wetlands, a declining tourist area, an industrial heartland and mountains.",
+        "The game adds on-demand podcasts, with radio and podcasts also available on foot through headphones connected to characters' phones. The PS5 support page specifies that the Physical (Code-In-Box) edition contains a download code and **no game disc**. Downloading, preloading and release unlocking are separate stages. Listed text languages include Simplified and Traditional Chinese; voice audio is English.",
+        "Xbox lists Series X|S as native platforms. Xbox Wire separately schedules cloud streaming for November 19 at 14:00 Beijing time (01:00 Eastern Standard Time), using Series S graphics settings on supported Xbox One and Series X|S devices. The game requires a separate purchase, and cloud eligibility and payment options vary by market. Xbox One support is streaming, not a native port."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4664d9ea05e899dd75a0503e",
+      "source_sha256": "332a7f9feead38109814a52465a6049e3fcb4411b945e527fb6e27349f8d2949",
+      "paragraphs": [
+        "Hangzhou Intermediate People's Court sentenced former Bank of China Party committee member and vice-president Lin Jingzhen at first instance on November 18 to **13 years in prison and a RMB3 million fine** for bribery. Criminal proceeds and accrued gains are to be recovered for the state. The Supreme People's Court website carried Xinhua's report that day.",
+        "The court found that from 2015 to 2025 Lin used positions including deputy chief executive of Bank of China (Hong Kong), and Bank of China Party committee member and vice-president, to help organizations and individuals with financing and recruitment. It found he illegally accepted property worth **more than RMB43.35 million**.",
+        "The court characterized the amount as exceptionally large while recognizing mitigating factors including truthful confession, disclosure of previously unknown offenses, remorse and active restitution. The report says all relevant proceeds and accrued gains were recovered. The case was publicly heard on August 7, 2026; this is the first-instance judgment."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4429488f9fb4f9f19a2b99c0",
+      "source_sha256": "8532b44261cddc375f497ceb6f699200781d19971514e1263b533a05861a118a",
+      "paragraphs": [
+        "OpenAI published an internal research-acceleration report on November 18. From March to October, estimated autonomous success on research tasks requiring two to four human hours rose from 23% to **46%**; for four-to-eight-hour tasks it rose from 13% to 35%. These internal tasks and methods do not establish automation of research generally.",
+        "Results varied by task: autonomous success was 79% for monitoring training runs, 35% for launching them and 25% for inference-and-serving code. The report emphasizes uneven progress and humans' continuing central role.",
+        "Valued at external API list prices, median daily agent usage per researcher reached $2,400 in October, up 62% from September; the 90th percentile reached $23,000, up 105%. This API-equivalent intensity depends on prices, models and harnesses and is **not each researcher's actual bill**.",
+        "Estimated Safety and Alignment research workweeks grew 77% from January to September through hiring and shifts in existing researchers' work. These measurements describe one laboratory. Usage, effort and eventual research output are distinct measures."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-371e4a48f919ea91cbc4ef6a",
       "source_sha256": "25914930faf7bed864e8dd6c3a10f545e82517baa23f96d7f4c7a4471a2cbc89",
@@ -165,6 +246,111 @@
         "Valve released a CS2 update on the morning of November 18 Beijing time, adding **the rebuilt Cobblestone to official Casual, Competitive, Wingman, Retakes and Deathmatch matchmaking**. The snowy map retains familiar locations such as Drop, Chicken Coop and Stables while changing routes and positions. HLTV published coverage and comparison images on November 18.",
         "HLTV notes that B Halls now connects toward A without requiring the old route through A Yard. The patch also removes Boulder, Fachwerk and Shelter from official matchmaking. This is playable map content rather than only stickers, music kits or small numerical adjustments. **Ordinary Competitive matchmaking does not mean inclusion in the Active Duty professional map pool**, which the official announcement does not confirm.",
         "The same update opens the PGL Singapore Major hub, viewer passes and tournament items. Valve says team and autograph stickers can be bought directly at fixed prices, with souvenirs craftable at fixed prices based on weapon rarity. Players, teams and the tournament organizer receive 50% of tournament-item proceeds. Item availability is not a match result, and professional use of the map requires a separate announcement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5936858f1a3d2c62bfd6f7bb",
+      "source_sha256": "a9b2b2670952af0ea79dd8cefdae2597cc3acbc618293d0b286bf40d013a625a",
+      "paragraphs": [
+        "The Federal Reserve released the minutes of its October 27–28 meeting on November 18. The committee voted 10–2 to retain the federal funds target range at **3.75%–4.00%**. Cook and Hammack preferred a 25-basis-point increase. This release documents the discussion; it does not change the policy rate again.",
+        "Most participants supported gathering more information about September's rate increase, the durability of AI investment demand, financing conditions and geopolitics. Some saw market expectations of tightening in December and the following year as reducing the risks of holding steady, while emphasizing that the pause did not weaken their commitment to controlling inflation.",
+        "Almost all participants judged that further increases would likely be appropriate under their baseline inflation and employment outlooks to return inflation to 2%. Two said an increase exceeding 25 basis points could merit consideration at the next meeting if inflation data disappointed. Decisions remain dependent on data, the outlook and risks.",
+        "The minutes also record concerns about financial stability if AI investment returns disappoint, particularly given rapidly growing debt in complex, opaque structures. The next meeting is December 8–9. These late-October views are not a December decision."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e308a84a77ae00d83193b951",
+      "source_sha256": "6857413746c07fbd28105cf7a4afffd4ceb3673bc00114ece130645c38a7328d",
+      "paragraphs": [
+        "Anthropic priced its initial public offering on November 18 at **$83 per share for a base offering of 980 million Class A shares**. Trading is expected to begin on the Nasdaq Global Select Market on November 19 under ANT, with closing expected November 20 subject to customary conditions. Pricing, the trading debut and closing are separate stages.",
+        "Anthropic is selling 956,351,354 shares and existing stockholders 23,648,646. At the offer price, the base offering totals $81.34 billion before expenses. Anthropic receives none of the selling stockholders' proceeds, so the entire offering amount is not the company's actual cash receipt.",
+        "Underwriters have a 30-day option to buy up to another 147 million shares. The SEC declared the registration statement effective on November 18. The optional increase and pending closing remain conditional; there is no post-listing trading price or first-day percentage change yet."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-bb459a88ecf7156241422673",
+      "source_sha256": "e031d92f85f7afa6185bad8a2ce3d426f4e4cf5a7aa5c84b07fe55a86f7bd1e6",
+      "paragraphs": [
+        "On November 18, the European Commission adopted legislative proposals for **up to €45 billion in additional loans to Ukraine in 2027**, addressing an estimated €70 billion additional financing gap. Parliament and the Council must still consider the proposals; the support has not been finally approved or disbursed.",
+        "Up to €25 billion would support the military and up to €20 billion the general budget, including essential services and economic resilience. Budget support would carry rule-of-law and anti-corruption reform conditions. EU capital-market borrowing would finance the loan, backed by EU budget headroom.",
+        "Under the proposed limited-recourse structure, Ukraine would repay principal only after receiving Russian war reparations. Proposed amendments would also allow future windfall profits from immobilized Russian sovereign assets to help repay new eligible loans after repayment of earlier G7-backed loans.",
+        "The additional €45 billion is separate from the existing €90 billion support loan for 2026–2027. That older program retains €45 billion for 2027, subject to agreed reforms and policy conditions. The new proposal must not be confused with that existing allocation and does not indicate a ceasefire agreement."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e88bc937214729b32fc5abc5",
+      "source_sha256": "205c64a38f4f5856055e22d9faa1c82d2d9b44bc5d897f795c3813e95526e89a",
+      "paragraphs": [
+        "OpenAI reported AI-assisted chip-design results on November 18, claiming **up to 14% improvement in power, performance and area (PPA)** over heavily optimized AMD flagship GPU IP baselines. Models rewrote SystemVerilog RTL, with Synopsys tools checking equivalence and design tradeoffs. This is not a 14% increase in graphics-card gaming frame rates.",
+        "AMD has incorporated some changes into a recent design sent for manufacturing and others into production files for future versions. OpenAI also reports AMD-verified single-digit percentage PPA gains in key next-generation flagship CPU blocks. Results depend on the block, baseline and constraints.",
+        "For Jalapeño, its custom inference chip, the team estimates standard-cell area reductions of approximately 13% in the vector unit and 10% in the matrix unit, verified during silicon bring-up. These concern compute blocks, not whole-chip area.",
+        "Another evaluation comprised 9,881 scored runs on the 32-bit PicoRV32 and Ibex RISC-V cores. OpenAI notes that specification-based redesigns may omit original features; tighter area limits and post-synthesis timing checks would better represent production design. It also announced collaboration with Synopsys to train GPT-Synopsys, rather than general availability of a finished tool."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-eb9253967569fe43317f20bc",
+      "source_sha256": "e069731131cb55e6cd90a26dc15052fe464794f1296a8e753fd2b8fbc8e8327c",
+      "paragraphs": [
+        "Horizon Robotics' robot laboratory presented LoFT on November 18 for recovering 3D scenes, camera poses and per-frame depth from continuous RGB video. The project lists approximately **514.5 million parameters**, training across 80 public datasets with about 2.97 million sequences and 961.8 million image frames.",
+        "Its two-loop Transformer first aggregates features using local temporal windows expanding from 3 to 5, 9 and 17 frames, interspersed with full-clip attention. The second loop estimates poses and fields of view, feeding updated camera states into the next feature update. A depth head outputs depth and confidence per frame; each loop reuses weights across iterations.",
+        "The team reports SpatialBench, ClassicBench and VRBench results. SpatialBench Medium has 129 full-set sequences and 98 continuous-video sequences. ClassicBench combines seven existing datasets; VRBench includes 12 public and two self-collected datasets. Rankings vary across depth, pose and trajectory metrics, rather than demonstrating superiority on every measure.",
+        "The project provides an abstract, architecture and results tables, while **Paper, Code and Hugging Face remain marked Coming soon**. Available evidence supports a technical demonstration and team evaluations, not claims of released weights, downloadable code or confirmed peer review."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-361479cc0a0b93ad5d296d54",
+      "source_sha256": "2dd9d54b54f0f8c1c938715ed988ae955007f335a739f4da432a703f50e732d4",
+      "paragraphs": [
+        "Google Labs introduced the experimental product agent Stitch Loop on November 18 to connect repositories with live metrics and identify improvements after launch. **The waitlist is open globally, with priority for eligible Google AI Ultra users**. This does not mean every applicant already has access.",
+        "Teams can provide logs, user behavior and feedback through more than 180 integrations, custom MCP servers or local CLI uploads. Built-in continuous loops cover cybersecurity, latency and accessibility, with custom goals such as checkout conversion also possible.",
+        "Each loop proposes evidence-based suggestions and alternatives. After the user chooses a direction, it writes code in an isolated cloud sandbox and opens a GitHub pull request, adding screenshots or video where relevant. **Changes do not merge without user review**. Monitoring continues after a goal is reached to detect regression.",
+        "The security loop combines Gemini 4 Carbon and DeepMind's CodeMender to report evidence and propose fixes. Stitch Loop also targets integration with existing coding agents through CLI, MCP and Slack. Continuous operation and improvement are Google's product claims; this waitlist announcement provides neither a general availability date nor independent validation of effectiveness."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-00a064e6720eae62fd0b2612",
+      "source_sha256": "1418cd73b32fee993ecdf182c790ecc48e25e3a235e48fc5203e612cd313ce20",
+      "paragraphs": [
+        "Google announced on November 18 that the Gemini app is expanding to **eligible Android Go devices**. It says the app was re-architected to support its core experience on phones with less memory, reaching users previously more dependent on basic voice commands.",
+        "Announced features include Gemini Live conversations in more than 45 languages, camera assistance for learning or translating notes and forms, and image creation with Nano Banana. The app is available through Google Play; supported phones can launch it by holding the power button, and upcoming devices from partners including Transsion will preload it.",
+        "This English announcement specifies neither a universal memory threshold nor a complete device list. Eligibility still applies. It expands app compatibility, rather than establishing support for every older phone, identical access to all features or local execution of large models on low-memory hardware."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-af7af80c89883526f18bb5e4",
+      "source_sha256": "99932109857186763e9e6987a31974278a45fbc4d73c84223617c3b7430cdcee",
+      "paragraphs": [
+        "Microsoft published an expanded Azure infrastructure collaboration with Intel on November 18; the statement's dateline is November 17. The long-term agreement spans packaging, server processors, memory and confidential computing. Microsoft is **the first company to announce Intel EMIB advanced packaging for Azure first-party silicon**.",
+        "The agreement confirms multi-year Xeon supply capacity, including next-generation server CPUs codenamed Diamond Rapids, and further Azure hardware-roadmap collaboration. These are supply and technology commitments. The announcement gives no specific production date for the custom chips, purchase amount or consumer product price.",
+        "Memory work centers on CXL and Xeon, alongside QuickAssist acceleration and TDX confidential computing. The announcement cites up to 2.3 times the performance for specified Azure M-series v4 configurations using CXL memory and Xeon 6 Flat Memory Mode, and up to 2.5 times faster SQL backups on QAT-enabled virtual machines.",
+        "These vendor-reported results apply to particular tests, not every Azure instance. TDX capabilities protect confidential VM memory and CPU register state during migration between physical hosts, a separate objective from ordinary VM performance."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-24df8a2101bfab9663070f00",
+      "source_sha256": "f3a8a5755e3926407368fdef49a6b6698e2103f99e81bcfa8c31023134eef07c",
+      "paragraphs": [
+        "According to a Reuters report carried by DW on November 18, three people familiar with the matter said the Trump administration is considering requiring US companies to disclose their use of Chinese AI models. The Treasury and White House science and technology policy office have discussed the idea. **Broad internal support and a formal rulemaking process remain uncertain**.",
+        "The proposal could require website disclosures. Airbnb, which uses Alibaba's Qwen for AI customer service, could be affected if it proceeds. The report says some officials want to reduce dependence on Chinese open-weight models while avoiding backlash against sweeping regulation.",
+        "The White House, Treasury, Alibaba and China's US embassy did not immediately respond to Reuters' requests for comment. At publication, the disclosure requirement remained an internal proposal described by sources, with **no announced effective date, list of covered companies or compliance rules**."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3059,69 +3245,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-983b3a754a6058eda9029482",
-      "source_sha256": "a7651ab467ecd73445641e2ef3ceac5fcb51ae36d7d5731077b79265a6d90b2b",
-      "paragraphs": [
-        "DeepL has released the **Aure** voice AI model to preserve changes in tone, emotion, emphasis and pace in real-time translation. It builds on earlier voice-preservation technology, but continuously analyzes how speech changes during a conversation instead of setting the translated voice solely from a static opening sample.",
-        "The company says the model uses both translated text and source audio to shape delivery. It models voice identity, prosody and content separately and uses reinforcement learning to refine output. Background noise, echoes and limited paired recordings of the same speaker across languages are specific challenges addressed by its design.",
-        "Aure is automatically applied to **DeepL Voice for Online Meetings, In-Person Conversations and the API for Voice**, without separate configuration. Initial languages are English, German, Spanish, French, Italian, Japanese, Portuguese and Korean, excluding Chinese for now. Existing voice models continue supporting other languages.",
-        "Descriptions such as its most lifelike model and greater emotional fidelity are company product claims. The announcement gives no independent mistranslation rate spanning all accents, noise conditions and language pairs, and does not announce open weights or free access for every user."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9fcb7e52762e208bc1e1065a",
-      "source_sha256": "45702888d9b11bdab529f91895cac4dab8e94fa07f2ee456e9bc210b34ad3d8c",
-      "paragraphs": [
-        "KIOXIA America announced on November 11 that it had built an object-storage configuration with Dell in one standard 42U rack. It combines 16 PowerEdge R7725xd servers, 640 LC9 245.76TB SSDs and Dell ObjectScale, providing about **157PB of raw flash capacity**. That is not usable space after formatting, system and data-protection overheads.",
-        "The configuration targets unstructured workloads such as AI training, analytics and cloud-native applications. LC9 uses eighth-generation BiCS FLASH 3D QLC and a 32-die stack. The 245.76TB version is E3.L, while 2.5-inch and E3.S versions top out at 122.88TB.",
-        "KIOXIA’s industry-first claim relies on its own survey as of November 11. Reduced rack footprint, cabling, power and cooling are the partners’ claims; the announcement supplies neither independent measurements nor an official price for the full configuration. TB and PB use decimal units, so operating-system readings can differ."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-10ad12c5d08c10695459912c",
-      "source_sha256": "a85a4d63ff7d2786d1ec1bb13a8037f83c9b7ffd2aa9c02e9def8734467fad24",
-      "paragraphs": [
-        "The UK government announced on November 11 that its Sovereign AI Venture Fund and the British Business Bank were backing AI-chip company Fractile in a **Series C round worth more than £500 million**. The official release puts the valuation above £5 billion and names CapitalG, Lightspeed and Redpoint among other investors. The full round should not be mistaken for the government’s individual contribution.",
-        "Based in London and Bristol, Fractile develops advanced AI chips alongside software and foundational machine-learning research. It aims to improve speed while reducing cost and energy use. The announcement links the investment to stronger domestic capabilities, less overseas supply-chain dependence and skilled employment.",
-        "This confirms financing and public-sector participation, rather than volume chip deliveries. The release provides no complete specifications, independent performance data or commercial supply date. Reports about a particular model developer potentially buying its chips are not transactions confirmed by this government announcement."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-408cf18942e460063a9a1ac2",
-      "source_sha256": "40d06e4119c850bda573780b92c981dc6a02d20c7693b2e7c288fa8219f14918",
-      "paragraphs": [
-        "Runway released **Praxis-1’s weights, inference code and fine-tuning code under Apache 2.0 on November 11**, including commercial use. The robotics world-action model was introduced in September; the change is broader downloadable access beyond launch partners, rather than its first unveiling.",
-        "Praxis-1 is a 27-billion-parameter mixture-of-experts diffusion transformer that jointly predicts video and actions. Video pretraining learns object motion and task progression, followed by full fine-tuning or LoRA adaptation for particular embodiments, cameras and tasks. The repository distinguishes DROID single-arm and YAM bimanual checkpoints. Deployment still requires suitable hardware and configuration, rather than plug-and-play control of arbitrary robots.",
-        "Runway reports 46.2% success across 1,200 RoboLab-120 episodes, compared with 42.9% for FLUX 3 Action, 36.8% for Cosmos3 Nano and 28.0% for π0.5 in its table. These are vendor-published benchmark results, not universal real-task success rates. Listed hardware includes H100, B200, RTX 5090, RTX PRO 6000 and Jetson Thor; new embodiments can still require targeted fine-tuning."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-950307beac7237f94ad26f8e",
       "source_sha256": "3c6aff8d1bd541cb5c72dd4256f81de75c146b6cef68ea1dd9b6295dcb8ff4fe",
       "paragraphs": [
         "On November 11, IT Home cited Bloomberg’s report that Sony PlayStation had canceled Haven Studios’ team-based heist shooter Fairgame$. An internal email quoted in the report said testing showed operational readiness and community-engagement strengths, but mixed player feedback and retention fell short of the project’s targets, leading the company to stop development.",
         "A Sony spokesperson said **the cancellation would not cause layoffs at Haven Studios**. The team will shift toward collaboration with other PlayStation Studios developers while exploring creative opportunities. The canceled project was still in development; this is not an announcement that the studio has closed, and no replacement title or release date was disclosed.",
         "The email also cited the challenging PvP shooter market. Test results and market conditions are the company’s explanation, not public sales figures or a consensus review score. This is a substantial development cancellation rather than a delay, routine maintenance or shutdown of a released game."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-56d43a96b1c9acdfdcb48818",
-      "source_sha256": "c2ffebf165d28f3cee33178601ce53c05b6cd4e408f96e0f5f35ad765bc1858b",
-      "paragraphs": [
-        "French high-school students are continuing protests over issues including teaching conditions. President Emmanuel Macron condemned recent violence on November 10. That day, a regional councillor outside Gaston-Bachelard high school in Chelles, Seine-et-Marne, east of Paris, was struck in the chest by a bottle containing a petrol-smelling liquid. Prosecutors opened an investigation into **attempted intentional homicide against a public official**. This is the investigative classification, not a conviction.",
-        "Local France 3 reporting quoted the Meaux prosecutor as saying that the bottle was closed and full, and that liquid spilled onto the councillor on impact, briefly knocking her to the ground. Students gave conflicting accounts of whether she was deliberately targeted. Three students aged 15 to 17 were detained over other alleged gathering, violence or damage offenses. Prosecutors explicitly said that **as of their statement, those students had not been detained over the bottle incident and the person who threw it remained unidentified**.",
-        "For the national picture, the Education Ministry said that 49 of roughly 3,700 high schools were blocked at 9:30 a.m. on November 10, about 1.3%. Reuters also reported that student organizations intended to maintain pressure. Students’ demands about buildings, heating and teaching conditions should be distinguished from attacks and arson at individual locations.",
-        "The government and student representatives had met the previous day, but student organizations considered the response inadequate. Police, educational authorities and students give differing accounts of responsibility for clashes. The verified picture is continuing demonstrations and localized serious violence; incidents at individual schools do not establish that all of France is experiencing unrest of the same severity."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3138,46 +3267,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-d2cb458382e2b59123ed538f",
-      "source_sha256": "f0089abc035d3a3dcbb6619e93bcf28a54a21fa7d8628582d806fe232321568a",
-      "paragraphs": [
-        "Google began the November Pixel Drop on November 10, with updates continuing for several weeks. Gemini Intelligence expands to eligible Pixel 10 models, including Rambler for tidying dictated text, proactive suggestions and multistep app tasks. **Pixel 10a is excluded from this support.** Task automation expands to the U.K., India and Japan, subject to country, language, age and usage conditions.",
-        "Create My Widget turns descriptions into personalized widgets using information from mail, calendars and Search, with a rollout over the next few weeks. Pixel Watch versions remain upcoming. Conversation summaries add German, French, Spanish, Italian, Hindi and Traditional Chinese. The more conversational Call Screen on Pixel 11 is restricted to supported U.S. models; features across devices should not be presented as one package available on every Pixel.",
-        "The announcement also schedules Pixel Tag availability for November 11 at U.S. prices of $29.99 each or $99.99 for four, not Chinese pricing. Google Fi’s dual-5G network switching separately requires Pixel 9 or newer with Fi active on eSIM and other non-Fi SIMs disabled, with market and coverage limits. Phone-assisted watch unlocking and wrist widgets also have later rollout schedules."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-cb7d3720ede0b59ec95d88ce",
       "source_sha256": "ba94c3407d6c34c2d459d4ee36e75234afda5f181fb42377b693aac65e9fe532",
       "paragraphs": [
         "On November 10, Obsidian announced Side Effects Guaranteed, the first story DLC for The Outer Worlds 2, scheduled for **December 2**. Part two of the expansion is planned for spring 2027. A distress signal from a derelict ship leads into an abandoned settlement and a power struggle within Sub Rosa. This is an announcement of content and timing, not a release that has already happened.",
         "The DLC adds Elysium Valley, quests, five weapons, perks and flaws, raises the level cap to 36 and introduces a radio station with 20 songs. Revealed weapons include the Immobilizer, which suspends targets, and the 1/6 Resolver, whose sixth shot has special impact. These are substantial combat and story additions rather than routine bug fixes.",
         "The expansion triggers before the main story’s point of no return, with a main-menu shortcut using a level-27 preset character whose skills and perks can be assigned. A simultaneous update for base-game players adds respec options and customization of skill points per level. The story DLC is included in the Premium Edition and corresponding upgrade. Base-game changes and paid-expansion entitlements are separate."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-2c177b9d21085eb9c728b7c4",
-      "source_sha256": "14f65bd787be48eb02d5e9996628a37ff105666ef058374aac9fd35cfb3926b5",
-      "paragraphs": [
-        "On November 10, AMD announced **general availability of its Zen 6-based sixth-generation EPYC server SP7 processors**, with systems shipping from leading server OEMs and ODMs. The portfolio addresses enterprise services, HPC, AI agents and GPU host nodes. This announcement concerns the server family, distinct from the separately announced embedded SP7 products.",
-        "AMD divides CPU roles in agent infrastructure into general-purpose services, GPU host nodes and agent sandboxes. High-frequency host-node products reach up to 5.3 GHz, with AMD claiming up to 1.8 times the LLM output throughput of previous-generation EPYC. This is a vendor comparison under specified configurations and workloads, not an 80% gain in every application.",
-        "Availability differs across deployments: on-premises systems are shipping, Azure HDv2 remains in preview, some new Azure and OCI cloud instances are due for general availability later, and Meta is validating platforms ahead of deployment at scale. AMD also describes liquid-cooled, air-cooled and local-GPU-inference Helion rack options. Product launch, customer validation and broad cloud availability remain separate stages."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a1c64da99a43b6d798817855",
-      "source_sha256": "1c9f12d41e95444960609a9d32a68ffe07103fd9f3e24115c90218cd89290c8d",
-      "paragraphs": [
-        "Microsoft formally released .NET 11 on November 10, covering the runtime, languages, SDK, web stack and cross-platform application framework. **It is a Standard Term Support (STS) release with two years of support**; .NET 10 remains a supported Long Term Support (LTS) option. Both follow the same quality and servicing policies, with support duration as the main difference.",
-        "Projects targeting .NET 11 use C# 15 by default. Union types and closed hierarchies allow the compiler to check possible result types and whether pattern matches cover all cases. The SDK enables a Native AOT command-line host and keeps the MSBuild server warm between commands to reduce repeated startup overhead. The separate C# memory-safety work remains in preview.",
-        "ASP.NET Core gains asynchronous validation, OpenAPI 3.2 by default and SignalR authentication refresh, while .NET MAUI makes CoreCLR its default runtime. The libraries add Zstandard compression, process APIs and JSON capabilities, and runtime work continues to reduce overhead from bounds checks, branches and interface calls.",
-        "AI applications can combine model-access libraries, MCP tools and Agent Framework, but the Blazor AI components package remains experimental and prerelease throughout .NET 11. AG-UI hosting integration has also not become stable. Android Native AOT and some vector-search APIs retain experimental labels as well; the framework’s formal release does not automatically make these separate features stable."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3205,92 +3300,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-b146c032780360dd6aa1c9c6",
-      "source_sha256": "f2ab99b8bed8ca40a669965ba3e98a33462d830115ce9dd3a829f7a3c7bdc78f",
-      "paragraphs": [
-        "In a November 10 Hong Kong exchange announcement, Alibaba said it had received confirmation that it could proceed with a proposed separate T-Head listing under PN15. T-Head **submitted its A1 listing application confidentially on September 11**, rather than first filing on November 10. The entity is T-Head (Shanghai) Technology Co., Ltd., wholly owned by Alibaba at the announcement date.",
-        "The proposed global offering comprises a Hong Kong public offer and an H-share placement to institutional and professional investors. Offering size, structure and the reduction in Alibaba’s ownership have not been finalized. Alibaba expects T-Head to remain a subsidiary after completion and believes a separate listing would aid valuation and independent access to capital and bank credit. Those are the company’s assessment of potential benefits.",
-        "**Permission to proceed with the spin-off is not final listing approval or completed fundraising.** The announcement identifies outstanding conditions including exchange Listing Committee approval, relevant CSRC filing and final decisions by both companies. Completion and timing are not assured. A listing application also does not establish the performance or manufacturing readiness of T-Head’s chips."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-834e77898424289a18922840",
       "source_sha256": "a679cc67a759394db6f0f980a1a84207ab7d75f4ccd6d648ff27e17c8bb41e7f",
       "paragraphs": [
         "On November 10, PlayStation.Blog detailed **Marathon’s substantial Symbiosis update, due December 8**. Fungal growth and alien life transform Perimeter, adding playable spaces such as the underground Burrows and submerged Reservoir, with the Tick Queen beneath the surface.",
         "Phase one of Expedition is PvE-only, structured around three successive runs. Players can go alone or with a crew through combat and environmental challenges without PvP threats, using Flash Boosts to shape a run’s build. Deathmatch is an experimental beta with short 3v3 point-scoring matches without risking permanent loadouts. Other additions include the Limbo social space, firing ranges, a dueling pit, the Bishop shell, a flamethrower and a new revolver.",
         "An **Open Play Week is scheduled for December 8–15**, alongside the update, and has not begun. The announcement confirms cross-play and cross-save for the existing PS5 version, but cross-save requires the appropriate game on each platform, network accounts and a linked Bungie account. Console online play also has paid-subscription requirements. The activity week does not imply permanent free ownership."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-991ad48e8559b2fefa9ff7bc",
-      "source_sha256": "a1cfc84e058fce8344ddaa99d7aed969e971041ca6037e63827839089dcdd49a",
-      "paragraphs": [
-        "On November 10, OpenAI introduced Businesses in ChatGPT in beta. Through Business Hub, companies can claim and verify their organization, update product pricing and availability, and view aggregated mentions, website clicks and discovery topics. Eligible businesses where ChatGPT is available can apply to claim their profiles. **Business Agents initially support eligible U.S. ecommerce and online-service businesses only.**",
-        "Verified businesses can build, test and launch an agent. Users choose to enter that conversation from a business profile to ask about products or services. Companies can also sponsor their agent as a ChatGPT Ads destination. OpenAI says commercial conversations and sponsored placements will be clearly labeled and distinguished from the user’s original conversation and ChatGPT’s independent answers.",
-        "Business Hub provides aggregated insights only after thresholds are met. OpenAI says it does not share users’ ChatGPT conversations or Business Agent chats with businesses. Expansion to more markets, categories and tools for complex organizations remains planned; this launch does not open business agents or advertising in every country."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-69d4d9d74efa01629a6c751d",
-      "source_sha256": "c9fc4fe3f4dacf0b39c9a733b9efddab0f5c776eae276865ab8e1ce1de5c94a3",
-      "paragraphs": [
-        "On November 10, OpenAI published a report on its EMEA education partnerships, citing ThinkYoung research in which **79% of surveyed students used AI for homework or assignments, while 47% reported being shown how**. These figures describe a usage–guidance gap, rather than gains in academic performance.",
-        "ThinkYoung’s public introduction identifies 5,000 high-school students aged 13–19 and 600 teachers across 12 countries in Europe, the Middle East and Africa, alongside student and parent focus groups. Its figure that 95% of teenagers use AI tools is a broader usage measure than the homework question underlying the 79% figure.",
-        "OpenAI also summarizes early experiences from partnerships including Estonia, Greece and Slovakia, covering teacher preparation, local curriculum adaptation and evaluation. Available findings include self-reported usage and time savings; **they do not establish that AI improves independent thinking, knowledge retention or examination performance**. Access to ThinkYoung’s full report requires a form, while the readable introduction does not supply the full questionnaire, country breakdowns or sampling weights."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-4fd79e3079ba8b39bae04ef6",
-      "source_sha256": "3572b61d41b253497958911f6cef1d3eb52be8b057555d0ef7f2e76c928537a1",
-      "paragraphs": [
-        "Lianhe Zaobao, citing Bloomberg-compiled data on November 10, reported that Hong Kong’s 2026 initial public offerings had raised **US$51.9 billion** by that date, exceeding the US$51.6 billion raised during all of 2020. Under the historical comparison used in the report, this is a six-year high and approaches the 2010 annual record of US$57.8 billion.",
-        "The comparison is between a year-to-date total and earlier full-year figures; **2026 is not over**. The report counts ten IPOs raising more than US$1 billion each this year, compared with seven in 2010. AIA’s US$20.4 billion deal represented more than one-third of the 2010 total, illustrating that aggregate fundraising and transaction distribution are distinct measures.",
-        "The report links this year’s activity to financing needs among Chinese AI supply-chain companies, while noting a recent slowdown. Under its statistics, roughly one-quarter of listing plans this year did not complete. That measures uncompleted listing plans, rather than failures of already listed businesses, and does not directly indicate returns from any individual offering.",
-        "The fundraising figures and activity measures follow Bloomberg’s IPO compilation and are not interchangeable with a separate measure of all equity financing on Hong Kong Exchanges. A higher aggregate total also does not mean every issuer’s operations or post-listing price performance improved in parallel."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a8548e8692a70df529e2b99c",
-      "source_sha256": "428a037d8be05bbcee9fc83954a7420c5bfd873ca561316fe34ff5ca5c8d9b04",
-      "paragraphs": [
-        "Research published by Apiiro on November 5 and updated with a response on November 8 describes how Claude Code’s local command-approval records can be committed to public repositories with a project. Expanding its scope to Git history, shared settings and some agent transcripts, it classified **2,539 credential-like secrets across 1,994 public repositories**. IT Home reported the risk again on November 10.",
-        "The sample included 104,185 local settings files, of which 1,122 were classified as containing secrets, totaling 1,379 distinct items. The leakage path arises when approval not to ask again for a command saves the full command in a project allowlist. A command containing a password or token can then become public if the settings file enters version control. Cloning on another machine, an already tracked file or initializing a repository later can leave ignore-rule protection incomplete.",
-        "Apiiro explicitly states that it **did not log in using credentials, test their validity or contact associated hosts**. In its classification, real means information matching a provider format or associated with a public host, checked through rules and masked contextual review. It does not mean all 2,539 items were confirmed still valid, nor does it establish 2,539 intrusions.",
-        "Claude Code lead Boris Cherny responded on November 7 that the team was exploring prevention, including improvements to auto mode and basic built-in secret scanning, with prototypes to assess trade-offs first. The response reviewed here gives no released fix version or completion date. The research identified Claude-coauthored changes in 539 traceable relevant repositories, but coauthorship alone does not prove the agent independently decided every exposure."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-fef8bdb2257bf0b3a61ab389",
-      "source_sha256": "74f6b5fd33bd48fb3ff95a198f614ad94cc4a0b619b7053e3b0781e5a2b0e53f",
-      "paragraphs": [
-        "AMEC announced on November 10 that the **first Primo Matrix dual-station plasma wafer dicing system had been shipped to a domestic integrated-circuit packaging customer**. The milestone moves the new system from product disclosure to customer shipment. Available material does not identify the customer, contract value or final acceptance result.",
-        "According to the company’s specifications, the system uses Primo TSV deep-silicon etching technology, combining a dual-station etching chamber with wafer handling. Its main platform is 300-millimeter wafers, with backward compatibility for framed 200-millimeter wafers. Its stated process range includes **dicing streets as narrow as 5 micrometers and wafer thicknesses of 25–700 micrometers**. These are vendor specifications.",
-        "The system can carry up to six etching stations and supports front-side plasma dicing of bumped wafers, plasma dicing after laser grooving and backside wafer etching. It can also open some dielectric hard masks, targeting different wafer structures and advanced packaging flows.",
-        "First shipment does not mean the customer has completed production validation. Public reports provide no long-term yield, unit cost or comparisons against other dicing equipment under matched conditions on the customer’s line. Vendor descriptions of high throughput and low cost therefore remain claims rather than independently measured results."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-803fceb0450c7f098dee6974",
-      "source_sha256": "6183b628abc5c86b5760c6718f6c183a0ba8c742f5fb0da7e08fb9ff5301bdf5",
-      "paragraphs": [
-        "After withdrawing an earlier set of pricing materials, Anthropic formally announced its proposed IPO roadshow on November 10. The new announcement specifies **825 million Class A shares at an expected $70–$78 per share**. Multiplying the base share count by that range implies a total offering of about $57.75–$64.35 billion. This is a proposed transaction size, not final pricing or funds already received.",
-        "The company is offering 801,351,354 shares and existing stockholders are offering 23,648,646. Anthropic will not receive the selling stockholders’ proceeds. It also expects to grant underwriters a 30-day option for up to 123,750,000 additional shares, excluded from the base calculation above. It has applied to list on the Nasdaq Global Select Market under ANT.",
-        "The company says the registration statement has been filed with the SEC but **has not become effective; securities cannot be sold or subscriptions accepted before effectiveness**. The previously circulated roughly 866.7 million shares, $70–$80 range and $69.3 billion maximum came from withdrawn materials and are not the current proposal. A roadshow launch does not complete a listing. Final pricing, share numbers and closing remain subject to later disclosure."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3374,18 +3389,6 @@
         "Standard pricing is **$8 per million input tokens and $40 per million output tokens**. Optional fast mode costs $16 and $80, respectively. Anthropic says output can be up to 30% faster than version 5.1, while fast mode can generate tokens up to 2.5 times as quickly as standard mode. These claims concern generation speed, rather than equivalent reductions in an entire complex task’s duration.",
         "Fable 5.2 is available through the Claude Platform and channels including AWS, Google Cloud and Microsoft Azure, with the platform identifier claude-fable-5-2. Fast mode covers Claude Code, the Claude Platform and the specified Google Cloud and Microsoft Foundry hosting channels. Mythos fast mode remains limited to verification-program organizations. Claude Security for Claude Enterprise can also use the model family, including Mythos 5.2.",
         "The release presents prerelease experiments in code migration, electronic-device design and formal mathematics. On FrontierCode 2.0, version 5.2 scores 49.1% at Xhigh reasoning effort, against 32.4% for version 5.1, according to Anthropic’s specified evaluations. Its Fermat’s Last Theorem example formalizes an existing proof rather than claiming a newly discovered proof. These demonstrations do not establish that all research or engineering work can be completed without human review."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-efa11d663af404c693fa527e",
-      "source_sha256": "367bcdf5bf14feb14036d1061052f06c44d035b0037844c0c0ecd8db5d642826",
-      "paragraphs": [
-        "**Casualties: Unknown**, developed by Orsoniks and published by Oro Interactive, officially launched on Steam on November 9. The store lists a Windows version with Simplified Chinese interface and subtitles but no Chinese voice acting. A free demo has a separate entry. Full release and demo availability are distinct; this is not merely an announcement or an Early Access launch.",
-        "The 2D pixel-art game depicts harsh survival in alien caves, with 11 layers, three characters with different playstyles and approximately 300 discoverable items. Its central systems simulate cardiovascular and limb damage, connecting bandaging, infection, blood loss and consciousness. Mood can also affect survival, while crafting and plant resources support exploration and emergency treatment.",
-        "Characters can develop intelligence, strength and resilience, and loot and danger values can be adjusted from the main menu. The store identifies mature themes including violence, dismemberment and self-harm. Its design emphasizes unforgiving survival simulation rather than relaxed sightseeing. These gameplay descriptions come from the developer’s store material.",
-        "The mainland-China store checked on the morning of November 10 lists a regular price of RMB 78 and an introductory price of **RMB 66.30 through November 23**. The same page shows 767 user reviews with 97% positive. This is Steam’s proportion of positive user reviews, not an average score or independent critics’ aggregate; the sample and proportion will change as reviews arrive."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
