@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T04:21:11.245Z",
+  "generated_at": "2026-11-20T09:22:06.002Z",
   "translations": [
+    {
+      "article_id": "article-6b8f84a64ab7d97aaaac3f90",
+      "source_sha256": "ab7fccea49c50721e04be3bb50e0030822a846e752fc1207d941ab0af66876ca",
+      "paragraphs": [
+        "Huawei formally unveiled the OSTA O1 Pro on the afternoon of November 20, with a wide, flat-sided design and the first deployment of HarmonyOS 7 AI Pioneer Edition. IT Home's on-site launch report lists the 12GB+256GB model at RMB5,699, with a **launch price of RMB5,499**. Launch prices for the 12GB+512GB, 16GB+512GB and 16GB+1TB models are RMB6,499, RMB7,299 and RMB8,799 respectively.",
+        "The phone has a 6.39-inch, 16:9.5-ratio 1.5K LTPS flat display, is 6.68mm thick and weighs about 200g. It comes in purple, white and black finishes. The report lists a Kirin 9030S processor, a 7,000mAh battery, 66W wired charging and wireless charging.",
+        "The camera configuration includes a 200-megapixel, 1/1.28-inch RYYB main camera, a 50-megapixel 3.7x RYYB periscope telephoto camera and a Red Maple camera. Huawei positions the device as a HarmonyOS phone designed for AI interaction, describing a system-level AI screen available on waking the display and proactive intelligence. These are announced specifications and manufacturer feature claims, rather than independent tests of battery life, imaging or AI performance.",
+        "A sales report says JD reservations are scheduled to end at **18:08 on November 20, followed immediately by the sales opening**. At the time of this check, this remained a pre-sale arrangement. The promotional starting price of RMB4,999 is calculated by applying a further RMB500 government subsidy to the RMB5,499 launch price. Eligibility and regional coverage depend on the promotion; it is not a nationwide standard list price or confirmation of stock availability."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a8b11245a347d58d424736d8",
+      "source_sha256": "2c627032d665a149f087335fb2535b989d1bd8fb2f52d5087b78e061c39c27fe",
+      "paragraphs": [
+        "Electronics-repair simulation ReStory: Chill Electronics Repairs announced an officially licensed Commodore DLC, planned for **the first quarter of 2027 on PC via Steam**, requiring the base game. It is developed by Mandragora and published by tinyBuild. The partnership announcement was dated November 17, and IT Home covered the additions on November 20.",
+        "The expansion will add six classic devices: the Commodore 64 computer, TAC-2 joystick, 1541 floppy drive, CBM 2001 computer, 1530 Datasette and 1702 monitor. The partnership covers these retro hardware designs and repair content built around them.",
+        "The official DLC page also lists new characters, exclusive stories and a dedicated storyline, extending beyond cosmetic replacements. The game centres on disassembling, inspecting, cleaning and repairing electronics. Some real repair procedures are simplified for gameplay, so the on-screen operations are not a complete engineering reproduction of actual repairs.",
+        "**The DLC has not been released, and the pages read do not announce an exact date or price.** A forthcoming free update mentioned in the announcement is a separate arrangement and does not establish that the Commodore DLC is free. PC via Steam is the confirmed platform; no verified announcement establishes simultaneous availability of this expansion elsewhere."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a2c1dfb07cb3f071b664f985",
+      "source_sha256": "46ea3a72d1a24dbbf3ff3cd3526a4d2a2d396a41bf5b6a797ada6ee6dc5419b3",
+      "paragraphs": [
+        "Shure launched the MV360 spatial-audio microphone on November 17, announcing that **the MV360 was available for US$349**. It also previewed the MV360+, which adds standalone recording and is scheduled for early 2027 at US$449. IT Home reported the development on November 20. The two devices have different sales statuses.",
+        "The MV360 connects over USB-C and supports 32-bit float audio at 96kHz. It can capture mono, stereo and binaural audio, with three mono pickup patterns and a mode that tracks the loudest sound source. It also supports Ambisonic B-format, or Ambix, spatial audio, with post-production output adjustments through MOTIV Mix, mobile apps and Virtual Mic Editor.",
+        "Shure lists post-production outputs including mono, stereo, binaural, 5.1 and up to 7.1.4 layouts, with virtual-microphone and mix-format adjustments after recording. The device has a metal housing and a 3.5mm monitoring connection. The kit includes a stand, mounts, USB-C cables, a windscreen and a carrying case.",
+        "**The MV360+ remains a previewed product.** It adds local recording to microSD, an internal battery and wireless control from a phone. The wireless connection is for control: audio is recorded on the device rather than streamed over that connection. The dollar prices come from the overseas announcement; the announcement read did not confirm pricing or in-stock availability in China."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-174a9b65147ba7e42a55e647",
+      "source_sha256": "954fa46b1598c430dfcf09f5ed0a35ea0aa831deb74555ef8d9f0196bde764e2",
+      "paragraphs": [
+        "Microsoft released Edge Stable **158.0.4370.33** on November 19. One user-facing change concerns malicious website notifications: when SmartScreen identifies and blocks a link in a notification as a scam, phishing attempt or malware, the browser can automatically stop future notifications from that source and inform the user.",
+        "Automatic unsubscription targets the notification source that triggered the relevant risk assessment. Users can review the action and restore the subscription. The feature connects SmartScreen's blocking of risky links with the source's subsequent notification permissions, reducing its opportunity to keep pushing malicious notifications.",
+        "For workspaces, the first generation is disabled by default in version 158 and is scheduled for removal in 159. Users who opened workspaces in version 150 or later are already on the migration path to the second generation. The newer workspaces offer organization features including in-window switching, pinning and emoji.",
+        "The official release notes also give an upcoming milestone for XSLT being disabled by default in the Stable channel: **version 159, rather than this release, 158**. Temporary policies and trials are subsequent compatibility-transition mechanisms. Feature release, default deactivation and final removal have separate version milestones and were not all completed on the day version 158 arrived."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-cb2a934e4930c2a2e3575dd9",
       "source_sha256": "a08eecfef8de1df396562931cea684b3547615487b2cb5fa215e8bfb4c75c2d9",
@@ -150,6 +198,54 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
+      "article_id": "article-e659e950d166fc5b94406c17",
+      "source_sha256": "9da715f0f28353c7dfc8bcc2efd689cc9a5c5a42cf0d655f65618c16a48158fb",
+      "paragraphs": [
+        "Russia launched large-scale air attacks on Ukraine from the night of November 19 into November 20. The mayors of Kyiv and Lviv reported three and two deaths respectively, for a combined toll of **at least five people killed**. In an update posted at 13:27 Hong Kong time on November 20, Kyiv Mayor Vitali Klitschko said the three dead were initially identified as employees of the water utility and about 15 other people were injured. Rescue operations and damage assessments were continuing.",
+        "Several bridges across the Dnipro in Kyiv were damaged, with different traffic restrictions. In his 12:31 update, Klitschko said the Podilsko-Voskresensky crossing was closed from the right bank toward the left bank, while the damaged Darnytskyi Bridge would be inspected after the air-raid alert ended. The Southern Bridge allowed traffic only from the left bank to the right, with weight limits of 10 tonnes for private vehicles and 18 tonnes for public transport.",
+        "In a 15:04 update, Lviv Mayor Andriy Sadovyi said the ticketing facilities at Sknyliv station had been struck and two people killed. At 16:09, he reported 10 injured people in hospitals: two in serious condition, four with moderate injuries and four still being assessed. These casualty figures reflect separate reporting times in the two cities.",
+        "Russia said the targets included Ukrainian defence-industry, energy and transport infrastructure. That was Russia's account of its targeting; the casualties and damage to civilian facilities reported by the Ukrainian mayors came from local updates. The attacks occurred while the war and diplomatic contacts continued in parallel. The public updates did not indicate that a ceasefire across the entire front had taken effect."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c2b908586e76b081b9c9607e",
+      "source_sha256": "9ba2774800869faac4ed83789db8295d44d18f5f1479e8771c61e4b350aae636",
+      "paragraphs": [
+        "Taiwan Stock Exchange closing data for November 20 show that the Taiwan Capitalization Weighted Stock Index ended at **36,033.29**, down 2,393.60 points, or **6.23%**, that day. This was Friday's change from the previous close, which uses a different comparison base from the cumulative weekly decline.",
+        "The exchange recorded a closing level of 43,675.12 on November 13, the preceding Friday. Comparing this Friday's close with that level gives a decline of approximately **17.50%** over the November 16–20 trading week, or 7,641.83 points. Lianhe Zaobao's report, citing Bloomberg, described the weekly fall as roughly 18%; the weekly decline calculated from the two official closing levels is 17.50%.",
+        "The decline came amid weaker sentiment toward technology shares and AI-related investment. Media reports cited pressure on the semiconductor sector and concerns about AI capital expenditure as market context. These are analyses of the selling pressure; the index movement alone cannot establish each factor's independent contribution.",
+        "Taiwanese regulators had already tightened short-selling restrictions further, but the index still fell sharply on Friday after those measures. Friday's 6.23% decline and the week's cumulative 17.50% decline cover different statistical periods: one day and one week respectively."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-247de39f3016173a51da5b48",
+      "source_sha256": "811c6c3e12171c1afc287cb38b91ee80e1d3010fdb697621d9b6c2f143508dfc",
+      "paragraphs": [
+        "The US Federal Communications Commission voted on November 19 to restrict China Mobile, China Telecom and China Unicom from obtaining direct access to US telephone-number resources. The measure also covers relevant IP-based telephone providers using equipment from Huawei, ZTE and other companies on the FCC's risk list. Direct access here concerns a provider's eligibility to obtain US numbering resources.",
+        "Reuters reported that the FCC linked the new rules to combating robocalls and protecting communications networks. The regulator's explanations of risk and policy objectives represent the US position. Earlier restrictions on the three Chinese operators' international telecommunications services in the United States concern a different regulatory stage from eligibility for direct access to numbering resources.",
+        "**The new rule concerns eligibility for direct access to US numbering resources; it does not announce a cutoff of all China–US telephone communication.** Calls also involve different operators, interconnection arrangements and routing. The report did not specify every implementation milestone for the new rule. Other FCC measures concerning network connections and data centres remain under consideration as separate subsequent regulatory matters.",
+        "FCC Chairman Brendan Carr was also asked about optical-transceiver imports but provided no new developments. Any additional import measures in that area would require a separate subsequent formal decision."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8c92dfba237e314f9982b851",
+      "source_sha256": "c148de6dc070c2acc4914ca9638af0439a5c2f6c7aac83c7f39606e0333c421b",
+      "paragraphs": [
+        "China's Ministry of Finance announced on November 20 that it had issued **US$2 billion of three-year US-dollar sovereign bonds in Hong Kong on November 19, at an issue rate of 4.821%**. The issuance took place on November 19; November 20 was the date of the ministry's announcement.",
+        "The ministry said subscriptions reached **US$72.3 billion, approximately 36 times the issue size**. Subscriptions represent demand submitted by investors; the actual amount issued remained US$2 billion. By region, Asian investors received 52% of the allocation, Europe and the Middle East 34%, and the Americas 14%.",
+        "By investor type, sovereign institutions received 59%, funds and asset managers 29%, banks and insurers 11%, and dealers 1%. Sovereign institutions therefore accounted for the largest allocation group in this issuance. These percentages describe the allocation structure of this particular bond.",
+        "The ministry said the bonds would subsequently be listed on the Hong Kong Stock Exchange. That future listing arrangement is a separate milestone from completion of the issuance; the announcement did not confirm that listing had already been completed."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
       "article_id": "article-eea85c59e0a44204f1fc2f95",
       "source_sha256": "feb43d71d4ce0618e2f6eacea6b84f34f8431583d785216953b6ebedd2b61df5",
       "paragraphs": [
@@ -200,6 +296,18 @@
         "Netflix confirmed on November 19 that **The Altruists, an eight-episode limited series** about the rise and fall of cryptocurrency exchange FTX, is now streaming. Julia Garner plays Caroline Ellison, while Anthony Boyle plays Sam Bankman-Fried. It is a scripted drama based on real people and events; the official page has now moved from project information to confirmation that it is available to watch.",
         "Graham Moore and Jacqueline Hoyt serve as co-showrunners and writers. They say the series explores personal relationships, motivations and private interactions alongside the public events surrounding the financial empire's rise and collapse. Moore says the drama depicts intimate moments that news cameras did not record. That entails dramatization: dialogue and private scenes cannot be treated directly as court records.",
         "Supporting cast members include Alex Lawther as Sam Trabucco, Matt Rife as Ryan Salame and Karan Soni as Nishad Singh. Official materials frame it as a complete limited-series narrative. Moore says he wanted to portray Sam and Caroline as people then in their twenties, emphasizing their choices under the pressures of vast sums of money and personal relationships. This announcement did not announce a second season."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2c343d789ada11d18971b0b3",
+      "source_sha256": "02273a2104dceb5e515606efe837200e562a20514321f5b74608ee53a96062b0",
+      "paragraphs": [
+        "Synology security advisory Synology-SA-26:21 disclosed CVE-2026-120382 in DSM and certain BeeStation OS systems, with a **critical CVSS 3.1 score of 9.8**. The flaw involves argument handling in the OAuth API. An unauthenticated remote attacker, without user interaction, could read or write arbitrary files or cause a denial of service. The advisory was first published on November 19 and its remediation status was updated at 16:25 on November 20.",
+        "According to the latest product table, **DSM 7.4 should be upgraded to 7.4.1-90080-2 or later, and DSM 7.3 to 7.3.2-86009-6 or later**. These two branches now have specified fixed releases rather than only a planned release. Fixes for DSM 7.2.2 and 7.2.1 remain listed as ongoing; Synology also recommends upgrading them to the fixed DSM 7.3 release above.",
+        "DSM 7.1 and BeeStation OS 1.5 are still listed as having fixes in progress. APM 1.2 and 2.0, DSM Enterprise 1.0, and SRM 1.2 and 1.3 are listed as unaffected. Status differs by product and system branch. Version thresholds in the vulnerability description do not establish that patches have been released for every branch.",
+        "Synology's temporary mitigation is to deactivate OAuth Service. OAuth handles authorization-related functions, and disabling it is a different measure from installing a fixed release. The advisory does not provide a count of exploited devices or the full scale of any attacks; the 9.8 score describes the vulnerability's severity."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -409,11 +517,12 @@
     },
     {
       "article_id": "article-980e8226475a9eb0e7c9b8b8",
-      "source_sha256": "82579072006c5c8dae61f508a7daf730506d43450f28c20c8ae6e14255d0f82d",
+      "source_sha256": "592c1cbb116deec0f67bb7ad490d7a90f3bae440503555b5044e7ab5d11f5908",
       "paragraphs": [
-        "Xi Jinping and Donald Trump held a bilateral meeting in Shenzhen on November 19. China's Foreign Ministry said both sides regarded the talks as positive and constructive and **agreed to formulate an action plan for a constructive China–U.S. relationship of strategic stability**, implementing the leaders' understandings. This belongs to the bilateral relationship process and is distinct from the three-country Declaration toward Peace issued the same day.",
-        "The readout lists cooperation on trade communication, agricultural products and energy, counter-narcotics, repatriation of illegal immigrants, combating telecommunications and online fraud, and preventing AI safety risks. Xi called for expanding cooperation and constructively managing differences that cannot yet be resolved, emphasizing that AI should remain under human control. The Chinese account quotes Trump supporting stable relations and stronger trade and investment cooperation.",
-        "**The current status is agreement to formulate the plan; its full provisions, timetable and signing arrangements have not been published.** On Taiwan, the Chinese readout quotes Trump saying the United States does not support Taiwan independence. Lianhe Zaobao notes that the same wording did not appear in the publicly released U.S. account of the talks. This quotation therefore requires attribution to China's readout and cannot be expanded into a new policy commitment unconfirmed by both sides' texts."
+        "China's Foreign Ministry said in its November 19 account of the Xi Jinping–Donald Trump meeting in Shenzhen that the two leaders agreed to formulate an action plan for constructive strategic stability in China–US relations. This was China's account of a bilateral meeting, separate from the China–US–Russia trilateral document released in Shenzhen that day. The wording was **agreement to formulate an action plan**; no complete text, signing schedule or implementation details were published.",
+        "The cooperation topics listed by China included trade, agriculture and energy, narcotics control, the repatriation of illegal immigrants and combating telecom fraud. On artificial intelligence, the account included language about maintaining human control. These points reflect the outcomes and intentions announced by China; implementation of the individual areas of cooperation depends on subsequent arrangements.",
+        "A new public disagreement emerged over Taiwan. The Foreign Ministry account quoted Trump as saying that the United States does not support Taiwan independence. Speaking on November 20, Taiwan's Mainland Affairs Council head Chiu Chui-cheng said preliminary checks through diplomatic channels indicated that this account was untrue and that the United States should explain. Public Television Service published its report at 12:35 on November 20, and Lianhe Zaobao's 16:45 report also recorded Taiwan's response.",
+        "China's quotation of Trump's remarks and Taiwan's denial are public statements by different parties. Chiu said Taiwan remained in contact with the United States. Lianhe Zaobao's 16:45 report said the United States had not yet issued a formal post-meeting readout; the full wording Trump used in the talks remained to be publicly explained by the US side."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -469,6 +578,54 @@
         "APEC leaders issued the **Shenzhen Outlook: Building an Asia-Pacific Community to Prosper Together** on November 19, setting out cooperation on connectivity, innovation and economic growth. It endorses a new APEC connectivity blueprint, continuing regional integration through physical infrastructure, institutional connectivity and people-to-people links.",
         "The supply-chain section emphasizes resilience in essential goods, energy and trade corridors. It encourages continued trade flows, removal of bottlenecks and more digital customs processes, while identifying policy transparency as important to avoiding supply-chain disruption. The energy section stresses timely repair of critical infrastructure such as power plants, grids, subsea cables and pipelines, with exchanges on emergency preparedness, risk assessment and reserve management.",
         "On digital technology, the document references the APEC AI Initiative for 2026–2030 and adopts a statement on emerging technology for jobs and prosperity. It supports cooperation on data protection, digital-transaction security and cross-border data flows, alongside action against data breaches, online fraud and malicious AI use. **These directions do not come with a single new tariff schedule or AI regulations taking immediate, simultaneous effect in every economy**; implementation requires subsequent measures."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-70a7525903fe918225bda06c",
+      "source_sha256": "7cf658a9aa76d19addcda8ce13ceb9a2299634c84e14b2d4c2402eaa39219d32",
+      "paragraphs": [
+        "In an English-language announcement dated November 19, TikTok described two AI-content tools: a public content checker and likeness detection for eligible creators and public figures. **The public checker does not require a TikTok account**. People can upload an image or video to check whether it was generated or edited using TikTok's AI features.",
+        "The checker combines C2PA Content Credentials with TikTok's proprietary VeraDura invisible watermark. Its scope is TikTok AI content carrying the relevant evidence. It does not cover every platform or every model's fabricated content; failure to detect the relevant markers does not establish that an image or video must be authentic.",
+        "Likeness detection is opt-in and is being rolled out globally in phases. Eligible accounts include certain creators and Government, Politician and Political Party Accounts. Participants must complete third-party identity verification. The system notifies them of possible uses of their likeness, which they can review and report for the safety team's assessment under platform rules.",
+        "**A likeness match does not automatically establish a violation or result in immediate removal.** The process includes eligibility checks, identity verification, match notifications and subsequent reporting. TikTok also said it had labelled more than five billion AI videos. That is a cumulative total, not the checker's new detections that day or a measure of its accuracy."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-44e7e5d7383765e497a88e61",
+      "source_sha256": "75887756d6ea4751ef3d146c88eb3b4b5c33a575e855d3c09865c17337ca9750",
+      "paragraphs": [
+        "The International Energy Agency released World Energy Outlook 2026 on November 19. Its executive summary says global demand for the energy services provided by cooling is overtaking heating for the first time, while access to air conditioning remains highly uneven in hot regions. In emerging market and developing economies outside China, about 85% of households are exposed to high temperatures, but fewer than 20% have air conditioning. The comparison concerns demand for cooling and heating services.",
+        "In the STEPS scenario, which reflects formally proposed policies, **electricity demand for cooling increases by about 1,700 terawatt-hours by 2035**. A heatwave could make that increase roughly 40% larger, adding around 700 terawatt-hours. These are modelled scenario outcomes describing potential future pressure on electricity systems, not increases in electricity use already observed in 2026.",
+        "The report says electricity currently accounts for about 23% of final energy consumption, while the sectors associated with it represent more than 45% of global economic activity. Changes in cooling and industrial electricity demand will affect generation, transmission networks and supply security. The energy-consumption share and economic-activity share have different denominators and are not the same measure.",
+        "The outlook distinguishes the Current Policies Scenario, CPS, from STEPS, which includes formally proposed policies, and also examines other pathways. Both assume that Gulf transport restrictions gradually ease and the Strait of Hormuz returns to unimpeded passage by the end of 2027. Different policy and transport assumptions change supply, demand, prices and emissions trajectories; the executive summary's projections are not outcomes already achieved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-eafe2c7cdc556b5bbbeaaba8",
+      "source_sha256": "602e793c7a456147d4d7a4141b1e816434ad9061ad01c518381dc737877c11df",
+      "paragraphs": [
+        "The PHP development team released **PHP 8.6.0** on November 19. The version adds partial function application: some arguments can be bound first to produce a closure that awaits the remaining arguments, reducing the need for repetitive wrapper functions. Placeholders mark positions to be supplied later while retaining the original function call relationship.",
+        "The new Time\\Duration represents elapsed time, with nanosecond precision and a range exceeding 250 years. It describes a duration, unlike objects carrying calendar, date or time-zone meanings. The standard library also adds clamp() to constrain a value between lower and upper bounds, along with features including a SortDirection enum.",
+        "Io\\Poll provides an interface to operating-system I/O multiplexing facilities, including epoll, kqueue, event ports and WSAPoll. It can underpin event loops such as ReactPHP and AMPHP. The interface itself does not automatically turn an existing synchronous application into an asynchronous program.",
+        "Session configuration defaults also change: session.use_strict_mode and session.cookie_httponly are enabled by default, while session.cookie_samesite defaults to Lax. The official release information lists JSON, formatting and array optimizations, alongside backward-incompatible changes and deprecations. The effect depends on the features an application uses and its existing configuration."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-2463029bbb0aba42fd277e7d",
+      "source_sha256": "c4544b9c56cea3fce0e49ba9e864e7e2e66ee14d3ad42eb47a6b394d10272a59",
+      "paragraphs": [
+        "The United Kingdom and European Union are holding a summit in Brussels on November 20. The BBC reported that, according to its understanding, the two sides were seeking agreement on a youth mobility scheme that would allow **up to 100,000 young EU citizens a year to travel, work and study in the UK, with an equal number of young Britons able to go to the EU**. At the time of this check, the report still described it as an expected agreement.",
+        "Downing Street had not confirmed details such as the numbers and said on November 19 that talks were continuing down to the wire. Prime Minister Andy Burnham said he wanted the best deal for Britain at the summit. Negotiations also cover food-trade rules, carbon-emissions pricing and migration cooperation.",
+        "A UK government summit factsheet published on November 17 and updated on November 18 says the Youth Experience Scheme will be strictly capped and time-limited. Modelled on existing UK youth mobility arrangements, it would offer fixed-period opportunities to live, work, study and travel. The government reiterated that it would not rejoin the EU, customs union or single market, or restore freedom of movement, during this Parliament.",
+        "The two sides had disagreed over numerical limits and tuition fees for EU students at UK universities. **The new scheme's age range, permitted duration and application process cannot yet be established from these public materials.** The ages of 18–30 and maximum four-year stay in the EU's 2024 proposal should not be treated as settled eligibility criteria in the current talks."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -2936,30 +3093,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-9bf4b1ea9250a2f54ac66449",
-      "source_sha256": "66ba54478da10436fe78b873a457a1e13a03be5ff35d36a8abaf5a581a629197",
-      "paragraphs": [
-        "Axelera AI disclosed its third-generation **Titania** data-center inference architecture, combining two compute chiplets in a system-in-package with 128GB of LPDDR6 memory. Production is planned for the third quarter of 2027, and the company reports more than $300 million in customer deployment commitments. Those commitments are not delivered hardware or recognized revenue.",
-        "Titania continues the Digital In-Memory Computing, or D-IMC, approach, targeting sparse mixture-of-experts models and interactive inference in formats including PCIe accelerator cards and OAM modules. The Voyager stack is intended to support tensor, expert and pipeline parallelism, speculative decoding and KV-cache offloading, extending the Metis and Europa software foundation to the next generation.",
-        "The vendor’s AX8 reference-server target comprises eight accelerator packages, 20 PFLOPS of FP8 compute, 1TB of accelerator memory and 19.6TB/s of aggregate bandwidth in a 4U air-cooled chassis, at 5–6kW typical power. Holding a 1.6-trillion-parameter model at FP4 is also a design target.",
-        "Axelera additionally claims up to seven times the throughput per watt of some data-center servers and total ownership costs as low as one-twentieth, but these are the publisher’s performance expectations, not independent testing of delivered systems. This milestone is architecture disclosure and a subsequent production plan, not an already completed mass-market launch."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-705a293f07886291804b46eb",
-      "source_sha256": "a7159b817b04fbb8f64eb65dc7d0ff66d8f7564f71e91d85c58df4672c8b681f",
-      "paragraphs": [
-        "On November 14, Microsoft said it had addressed the underlying issue and **restored service for the remaining affected customers and regions**. The statement, reported by AFP and carried by Lianhe Zaobao on November 15, advances the status beyond the earlier consumer closure and continued enterprise monitoring. The public Microsoft 365 enterprise status card now says Available, with the detailed incident banner withdrawn.",
-        "The consumer final record still lists the impact period as 10:05 UTC on November 12 to 16:10 UTC on November 13: 18:05 on November 12 to 00:10 on November 14 in Hong Kong/Beijing. Its closure notice appeared at 11:51 on November 14, with the email backlog cleared. These consumer timestamps do not establish one recovery time for every enterprise tenant. The latest statement gives no workload-by-workload enterprise end times.",
-        "The incident involved mail infrastructure and dependencies, affecting Outlook and some Teams and Copilot scenarios; core Teams calls and meetings were not all unavailable. Microsoft attributes it to technical problems and infrastructure load, saying cyberattacks, AI and agents were not responsible. These are the company’s findings; a complete technical post-incident report remains outstanding.",
-        "Microsoft also warned of phishing emails impersonating service notices and claiming blocked messages would be deleted unless recipients clicked a recovery link. This subsequent exploitation of the outage does not establish that a cyberattack caused the original disruption."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-3013f18648030bbce2d59645",
       "source_sha256": "600810d7b84e788845620bf59d36a3eaaf0be1d3282fe3cc2f01bb3a88305f13",
       "paragraphs": [
@@ -2977,17 +3110,6 @@
         "Microsoft added 21 original Xbox titles to its PC backward-compatibility program on November 12, bringing the total to **25 games**. Additions include The Elder Scrolls III: Morrowind, both Star Wars: Knights of the Old Republic games, two TimeSplitters titles and Star Wars: Republic Commando. These are compatibility releases of older games, not launches of new remakes sharing their names.",
         "The additions join BLiNX: The Time Sweeper, Conker: Live and Reloaded, Crimson Skies: High Road to Revenge and Fuzion Frenzy, which were already available on PC. Microsoft says performance and stability have improved for the first four titles and every game in the compatibility library now supports mouse and keyboard.",
         "Both KOTOR games, BLiNX and Conker also gain achievements. These apply on Xbox One and Xbox Series consoles as well, requiring the latest system update; some may unlock from existing progress. PC access requires Windows 11 and is limited to supported markets, with features varying by game. Some titles are available through Game Pass, while others may require purchase; having 25 playable games does not make all 25 free or included in the subscription."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-77ce22269d7fa4ed6e1bfced",
-      "source_sha256": "b0d805eb41de3473b67d522e15e1ddcb7d392c097dd0a676cf462b5ebfac0f43",
-      "paragraphs": [
-        "Google released five tools designed by visual creators for its AI creative studio Flow on November 12. They span story concepts, character development, visual styles, optical effects and video processing. **This update is a set of usable creative tools**, rather than another release of model weights.",
-        "James Gerde’s Character Poster turns story concepts into stylistically consistent posters. Anurag Tiwari’s Character Arc depicts a character at different ages and life stages while preserving key identifying features. His Pixel Machine converts images into bitmap, ASCII, CRT-display, pixel-art and glitch styles. Ezra Paulekas’s Lucid Glass produces prisms, halos, refraction and optical blooms as stylized lens effects.",
-        "Ryan McCoy’s Pocket Studio works with phone footage, generating multiple camera angles from one take and improving visual presentation. Google says it can preserve the actor’s original performance; the additional viewpoints remain generated outputs rather than proof that multiple cameras recorded the scene. The announcement does not separately list a uniform price or complete regional eligibility for all five tools; access and allowances depend on the applicable Flow account terms."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3039,90 +3161,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-94a466f504fc6fefa2d2c909",
-      "source_sha256": "a7569e568956c2c205e19fb4d35f83b84464b6760a24d20bc30235f8d6bae477",
-      "paragraphs": [
-        "AMD and PsiQuantum announced an expanded partnership on November 12 to co-design infrastructure for utility-scale fault-tolerant quantum computers and develop applications combining quantum, high-performance and AI computing. **AMD also plans an equity investment in PsiQuantum**, but no amount was disclosed; an investment plan is not a completed equity purchase.",
-        "The work expands from existing AMD Versal FPGA technology to Instinct GPUs, EPYC CPUs and the ROCm software stack, combined with PsiQuantum’s silicon-photonic quantum platform. One focus is real-time quantum error correction: the companies say they have optimized the PRISM machine-learning decoder for low-latency implementation on programmable hardware accelerators.",
-        "On applications, their joint announcement reports preliminary results in simulating covalent inhibitors by combining PsiQuantum’s computational-chemistry workflows with large-scale AMD GPU simulation, with drug discovery the initial area for further exploration. These are computational research results reported by the partners. The release does not provide complete error, runtime or clinical-validation data for independently comparing every method, nor does it announce a completed commercial fault-tolerant quantum computer.",
-        "The companies also plan to explore a larger collaboration footprint at the Illinois Quantum and Microelectronics Park in Chicago and share more details at SC26 in Chicago on November 15–20. The current milestone is the expanded partnership and scope of joint infrastructure design; this announcement does not establish a commercial-system delivery date."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-aecfd0c33e666a1b466fb381",
-      "source_sha256": "e9508413fea496f22dc9ffbf6b0e3357b1f5564d3888f144e0498c5af09940fb",
-      "paragraphs": [
-        "Hong Kong’s Legislative Council passed the Northern Metropolis Development Bill on November 12, creating a dedicated legal framework for the large development program in the northern New Territories. Secretary for Development Bernadette Linn said passage came about six weeks ahead of the original year-end target. The government aims to submit subsidiary legislation in January 2027 so facilitation measures can take effect in **the first quarter of 2027**. Passing the bill and implementing the specific measures remain separate stages.",
-        "The Northern Metropolis covers a planned area of approximately 30,000 hectares, including Yuen Long, Tin Shui Wai, Fanling, Sheung Shui and Kwu Tung. The bill addresses six areas: streamlining town planning, accelerating land-resumption compensation, promoting construction innovation and quality, simplifying construction-noise permit applications, facilitating cross-border flows of resources, and establishing statutory bodies for designated areas.",
-        "Under the arrangements disclosed, applications to change land use or relax development parameters in non-conservation zones would take two months to process instead of at least nine, while temporary-use permits could last up to seven years. Details of compensation calculations and cross-border movements of people and data still require subsidiary legislation. Linn said further legislation or amendments could be introduced as needed at different construction stages."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-4b2eaf518244f0a5e89b1c05",
       "source_sha256": "a3dedb51df3790d94a0dfc5962724022db5c5628f92bf14424ae319d6dcaabe3",
       "paragraphs": [
         "NEXON Korea confirmed on the official PlayStation Blog on November 12 that the action RPG **Vindictus: Defying Fate is planned for PS5 in 2027**, with a store wishlist page now live. Set in a medieval-fantasy world inspired by Celtic mythology, it emphasizes battles against colossal enemies. This is a platform and development announcement, without a specific release date.",
         "Director Dongseok Oh says the team starts character concepts with weapons, then combines narrative, action and appearance design to establish distinct fighting styles. Lann relies on chained dodges to close in; Fiona combines shield blocks, precisely timed deflections and counters; Delia charges powerful strikes and can evade by passing through an enemy; Karok absorbs impacts and engages powerful foes in timed contests of strength. Characters can also craft weapons and customize outfits and appearance.",
         "The main adventure centers on a solo journey, while the team is preparing multiplayer content for confronting powerful threats together. The announcement shows locations including Colhen, the Northern Ruins, snowy Hoarfrost Hollow and ruined Ainle, but does not say multiplayer content is already open. Wishlisting, watching footage and obtaining access to a public demo remain distinct states."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-096c0b88bb5fc62b46977369",
-      "source_sha256": "97911bac323cea1362b2727143f7af0a08786b2885a421f10fef145ba5426084",
-      "paragraphs": [
-        "iFlytek announced on November 12 that the **SparkAudio 1.0 speech foundation model’s API is available on its open platform** for developers to integrate. The model accepts text and speech and produces text. Tasks include transcription, multilingual translation, dialect recognition, environmental-audio understanding, speaker separation, emotion analysis and complex audio question answering.",
-        "iFlytek says the model supports 99 languages and 202 dialects and was trained entirely on domestically produced computing hardware. It is positioned to understand meaning, tone, emotion and background sounds directly from audio, reducing information loss in a speech-to-text-then-language-model pipeline and the errors and latency associated with separately chained modules. The coverage figures, training conditions and claimed improvements are vendor disclosures.",
-        "Listed applications include customer service, vehicle cabins, cross-language meetings, medical-note recording and content moderation. The substantive change is developer API access; the term “speech model” does not establish speech-generation output, because the published specification identifies text as the output modality. The announcement does not also release model weights or provide a unified independent test from which real-world accuracy across these industries could be calculated."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c1709f1cfd1cab7e66ab2c1a",
-      "source_sha256": "066ed7ef0f3a1c2cc97fe3aa2989f9e5aa5829085b93ed435eb374c6b345ceb8",
-      "paragraphs": [
-        "China’s State Council held its 22nd thematic study session on November 12 on a multi-tiered social-security system. Li Qiang called for **wider enterprise-annuity coverage and a more attractive personal-pension system**, alongside commercial health insurance and orderly development of long-term-care insurance. Xinhua issued its report that evening. These are policy priorities and work assignments, not a newly effective uniform contribution schedule.",
-        "Addressing changing employment patterns, the directions call for better social-security arrangements and gradually higher enrollment for flexible workers, with stronger protections for people in new forms of employment. They also call for improved urban and rural resident pension protection, effective unemployment insurance, and tiered social assistance and welfare.",
-        "For financial sustainability, the directions include implementing nationwide pooling of employee pensions, advancing provincial pooling of basic medical insurance, stronger fund oversight and value preservation, and updating relevant laws as circumstances change. The report provides no uniform implementation date, specific subsidy amounts or numerical personal-pension benefit adjustments for these expansions. Enterprise annuities, personal pensions and basic pension insurance are distinct tiers."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-cfb4faa8387b692a9ae25886",
-      "source_sha256": "9cfdb531eb9a22becd7e5cd9bbbd5a54427d9d5bfb5ee1be0147a45998907b7f",
-      "paragraphs": [
-        "European participation in Ukraine peace diplomacy became more concrete. At a press conference following the informal European Council meeting in Dublin on November 13, Council President António Costa announced agreement on **a European negotiating team comprising EU institutions and the E5 countries**: the United Kingdom, France, Germany, Italy and Poland. This establishes Europe’s representation, not a final peace agreement signed by all parties.",
-        "U.S. envoys Steve Witkoff and Jared Kushner had previously met Vladimir Putin in Moscow and then Volodymyr Zelensky in Dublin, discussing further negotiations and European participation. Costa said the European team would coordinate closely and speak with a united position. He reiterated that only Ukraine could decide matters concerning its territory and sovereignty. Reconstruction, prosperity and security guarantees would be important areas of European involvement.",
-        "Lianhe Zaobao reported a conditional Kremlin welcome for a substantive European contribution. That did not settle the detailed negotiating arrangements or differences over territory and security. Russia’s earlier proposal for a five-day humanitarian operation in Kostyantynivka drew Ukrainian requests for clarification; it was not an accepted nationwide ceasefire. **Formation of a representative team is diplomatic procedural progress, while ceasefire and final peace terms remain unsettled.**"
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9afe8aea4a4ca2808071bd8f",
-      "source_sha256": "27a4e514e6c969d4215c213dd28f9838666f54e259c05c1c3cae2ea5aef55290",
-      "paragraphs": [
-        "The GrapheneOS team said on November 11 that Android 17 QPR2 had added memory tagging extension support for Pixel 11, and that MTE worked in its QPR2 port. **The security-feature obstacle is resolved, but formal device support remains forthcoming**, rather than a stable release already installable by every user.",
-        "MTE uses memory tags to help detect and block some memory-error exploitation and is an important GrapheneOS requirement. The team said its Pixel 11 port was nearly complete about a week after the devices launched but was stopped by unavailable MTE. The change is upstream software enabling the required support, rather than new physical components appearing in the phones.",
-        "The team says its Android 17 QPR2 port is nearly finished; Pixel 11 can follow its rollout to other devices. Completing Motorola Signature 27 support is another subsequent priority. No specific Pixel 11 stable-release date was given. The team also says the entire Pixel 10 series is already supported, while Pixel 11 and Signature 27 still have release and porting work to complete."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-8976f98aa96b953506f336e3",
-      "source_sha256": "382fffe2a1ead8e4ee64fc1761410585658f45490cb4755e2486caacb46d2987",
-      "paragraphs": [
-        "Penguin Solutions announced the SMART **CXL-8F2W-D4** memory add-in card on November 12. It supports up to eight DDR4 RDIMMs and uses CXL to add system-memory capacity to compatible servers. Based on a Marvell StructeraX controller, it targets capacity-intensive workloads such as AI inference and in-memory databases. Eight DIMM slots do not automatically mean eight independent memory channels.",
-        "The approach reuses DDR4 recovered from earlier-generation servers as an alternative source of capacity for newer systems, rather than requiring all expansion to use newly purchased DDR5. It does not insert DDR4 directly into DDR5 sockets; the card and a compatible CXL platform present additional memory to the host.",
-        "The company also provides memory recovery and revalidation: customer-owned modules undergo inspection, functional testing and qualification, then are installed and validated in a compatible host before delivery. Penguin says the card is available for qualified customer opportunities on compatible CXL 2.0 platforms. The announcement supplies neither a universal retail price nor a performance improvement applicable to every server."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3145,28 +3189,6 @@
         "Netflix Tudum announced on November 12 that documentary film **Russell Brand: Open Secret will stream on Netflix on November 13**. Its page lists a running time of one hour 24 minutes, production year 2026 and TV-MA classification. TV-MA is the classification shown there, not one universal rating across all territories.",
         "Directed by Olivia Isaacs, the film comes from 72 Films, a Fremantle company. The official description says insider interviews and archival footage trace Brand’s path from comedy and film stardom to an online public figure, including the investigation by The Times and The Sunday Times. Named journalists include Rosamund Urwin and Charlotte Wace.",
         "Credits name Clare Cameron, David Glover and Mark Raphael as executive producers and Kate Yandle, Laura Spence and Felicity Cross as producers. The announcement establishes platform timing and production information without listing every regional catalog or local release time. The date therefore does not establish a verified midnight release in Beijing."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-8cbf31a0daa53b604595f78d",
-      "source_sha256": "7f7afd87426c723a673710aa74e953e14c08b309f3099709e4ebb3e672b1ad5a",
-      "paragraphs": [
-        "Apex Compute has opened testing for Apex Neural Rendering. **The downloadable component is currently ANR FG frame generation**. Its repository labels super resolution and ray reconstruction as forthcoming betas and ANR’s own source code as “coming soon.” Hosting installation packages on GitHub does not make all three features or all source code available.",
-        "The repository lists NVIDIA GTX 16 and RTX 20 series onward, AMD RX 5000 series onward and Steam Deck, plus Intel Arc A and B, on Windows 10/11 and Linux or SteamOS through Proton. The website additionally presents Apple-silicon and Metal support and measurements, but repository installation instructions mainly cover Windows and Linux. These should not be collapsed into equal availability on every platform.",
-        "At 3840×2160 on RTX 5090, the vendor reports 1.01ms per generated frame at 2× and 214MB of memory, versus 1.26ms and 562MB for DLSS. Those are developer measurements, not whole-system frame-rate or input-latency conclusions. Beta packages integrate through OptiScaler, with compatibility dependent on game, driver and settings."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-28eb2d57ffc701d64e74f1d1",
-      "source_sha256": "c8c389208d02351ef0c9df3fae593fdaa9684cdeddda4285835f872afc3d4ccf",
-      "paragraphs": [
-        "Seedance 2.5 flash, announced on November 12, now appears in Volcengine Ark’s current API documentation. The official tutorial updated at 13:55 on November 15 explicitly lists **doubao-seedance-2-5-flash-261115** and invocation information, giving the earlier November 15 API launch plan a concrete service entry. fal also lists an image-to-video endpoint with input, resolution, duration and audio options; running it requires signing in.",
-        "flash supports videos up to 30 seconds, inputs of up to ten images, five videos and five audio clips, and 480p or 720p output. fal’s image-to-video page specifies 4–30 seconds, native audio and optional end-frame control. Ark distinguishes the standard and flash input limits and states that **flash does not support Draft mode**. The standard model’s draft-first, higher-resolution production workflow therefore does not apply in full to flash.",
-        "Ark’s tutorial requires one of three conditions for activation: an account balance above RMB 200, an active plan in the RMB 200 tier or higher, or remaining resource-pack capacity. Public documentation and third-party endpoints do not establish unrestricted access for every account and region. The earlier manufacturer example of about RMB 0.99 per second for 720p text- or image-to-video, around 34% below the flagship, remains configuration- and platform-dependent. Speed and quality comparisons are manufacturer claims."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3417,18 +3439,6 @@
         "Institutional information published by Guangzhou University on November 10 described its Earthquake Engineering Research and Test Center’s vibration reduction, disaster prevention and safety team as entering the relevant 2026 national outstanding professional technical team list. The body refers to public notice of **proposed award recipients** and gives no formal award date. This records the notice stage described there, rather than a new award ceremony on November 17.",
         "The university identifies academician Zhou Fulin as team leader, academician Hong Hao as chief scientist and researcher Ma Yuhong as the person responsible for the team. Its work centers on structural vibration control, disaster mitigation and core safety technologies, encompassing research, engineering applications and training. The listing concerns team development and professional technical contributions.",
         "The team entered the education ministry’s innovation-team development program in 2013, received continued support in 2017 and joined the second national Huang Danian university teacher-team cohort in 2022. The university says the national outstanding professional technical talent awards are organized jointly by the organization and publicity departments and the human resources and science ministries every five years, emphasizing contributions to national strategies, major research projects and major engineering works."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-bddb26cd28dd950c6a4db280",
-      "source_sha256": "4ba8ad498991e12779ecbe185561ab82bd08637fb0b41e9065336d47fd84cd22",
-      "paragraphs": [
-        "HLTV’s November 9 Counter-Strike world-ranking update puts **MOUZ first with 912 points, two ahead of FURIA’s 910**, after a rise of three places. Vitality is third on 836 and Spirit fourth on 777. The new development is a ranking change, rather than another tournament win.",
-        "MOUZ had already won IEM Beijing without dropping a map; this update incorporates recent results into HLTV’s rankings. HLTV says the team reached first in the global Valve Regional Standings in late October, meaning it now leads both major systems for the first time since June 2024. HLTV and VRS use different methodologies, and points cannot be transferred between them.",
-        "Beijing was MOUZ’s second title of the season after BLAST Bounty Season 2 in August. The team also finished second at BLAST Open Porto and ESL Pro League 24 and third at PGL Masters Bucharest. xertioN and torzsi are the remaining members of the roster that topped the rankings in June 2024.",
-        "In the same update, The MongolZ climbs five places to tenth and TYLOO four to thirtieth. MOUZ is due to attend BLAST Rivals before the Singapore Major. Current rankings and participation plans are not qualification or championship results for those future events."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
