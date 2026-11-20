@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T01:19:08.221Z",
+  "generated_at": "2026-11-20T04:21:11.245Z",
   "translations": [
+    {
+      "article_id": "article-cb2a934e4930c2a2e3575dd9",
+      "source_sha256": "a08eecfef8de1df396562931cea684b3547615487b2cb5fa215e8bfb4c75c2d9",
+      "paragraphs": [
+        "On November 20, Tencent's Hunyuan team released the weights for the final Hy4 model. The official model card links to the Hy4 instruction model, the quantized Hy4-FP8 version and the pretrained Hy4 base model. Sharded weight files are now listed on Hugging Face. The Hy4 product was first released on November 4; **the new development is the availability of weights for self-hosted deployment**.",
+        "According to the official specifications, Hy4 uses a mixture-of-experts architecture with 770 billion parameters in its language backbone and 49 billion activated per token, plus a vision encoder and a DFly2 draft model. It supports 1,048,576 tokens of context and understanding of text, images and video. Hy4 base is pretrained only, so its chat and reasoning performance should not be equated with that of the instruction model.",
+        "The actual weight license is **Tencent Hy License 1.0, rather than the standard Apache 2.0 license**. It modifies Apache 2.0 and adds commercial terms for MaaS businesses. Businesses providing third parties with remote access to model inference or fine-tuning must obtain a separate written license under those terms if worldwide gross revenue exceeds US$50 million in any consecutive 12-month period, or if the relevant product or service exceeds 100 million monthly active users in a calendar month. The license also provides an exception for exclusively internal use.",
+        "The model card emphasizes computer use, frontend and game development, office work and long-horizon tasks. Its comparative results are evaluations reported by Tencent. The team also acknowledges remaining gaps with leading proprietary models on internal tests of research-level mathematics, long-horizon coding, model self-improvement and difficult visual question answering."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b522e2301313b2c2f952681a",
+      "source_sha256": "a93fa52100e2456a412a5285979a51dec1b3dc1b4046ca9d3c2da9d2b4647e7e",
+      "paragraphs": [
+        "German Linux PC manufacturer TUXEDO announced the InfinityBook Pro 15 Gen11 AMD on November 19 local time. It uses a **12-core, 24-thread Ryzen AI 9 HX 470** with integrated Radeon 890M graphics. Preorders are open, with deliveries planned from December. Phoronix lists the base configuration with 16GB of RAM and a 500GB PCIe 4.0 SSD at approximately €1,504.20, excluding taxes and shipping.",
+        "Official specifications include a 15.3-inch 2560×1600 display with refresh rates up to 300Hz, approximately 500 nits of brightness and around 100% sRGB coverage, a weight of 1.75kg and a 99Wh battery. Two DDR5-5600 SO-DIMM slots and two M.2 PCIe 4.0 slots allow expansion to 128GB of RAM and 8TB of storage, respectively. Those maximum capacities are not included in the entry-level price.",
+        "The processor has three power profiles: 35W Balanced, 54W Enthusiast and Overboost at up to 90W. These are settings specified by the manufacturer. Connections include USB4, another USB-C port, three USB-A ports, a full-size SD card reader and wired Ethernet.",
+        "Availability differs between the black ISO-keyboard model and the silver-gray ANSI-keyboard model; the latter is listed for early 2027. The series offers Linux compatibility work and preinstalled operating-system options. The current status is preorder availability and a planned delivery schedule. The euro starting price is not a tax-inclusive, in-stock mainland Chinese retail price."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-dc3b37928ff7a8c41ea58b7e",
+      "source_sha256": "f771a4b58fb8f8c55fce31bc980c975e14386a0b2ab800010dcb764ce76a8cb4",
+      "paragraphs": [
+        "An official trailer has been released for Ice Age: Boiling Point, provisionally rendered in Chinese as Ice Age 6: Volcano Adventure. Disney's official film page lists an **exclusive North American theatrical release on February 5, 2027**. This is a cinema release date; the page does not simultaneously announce a mainland Chinese opening date or a Disney+ streaming date.",
+        "The film takes Manny, Sid, Diego, Ellie, Buck and other characters to previously unseen corners of the Lost World. Its trailer and official synopsis emphasize dinosaurs, lava and a volcanic adventure. Scrat returns, accompanied by Baby Scrat and the enormous Jurassic Scrat.",
+        "The director is John C. Donkin and the producer is Lori Forte. Ray Romano, John Leguizamo, Denis Leary, Queen Latifah and Simon Pegg are among the returning voices of familiar characters. The official page currently says the film is not yet rated."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8d3b1a8b4e372ba2223a264d",
+      "source_sha256": "898b896dd247197d28d92bf344748fd3925bc408623ebb2b92d64f5c5714f1ba",
+      "paragraphs": [
+        "In its results for the first half of fiscal 2026–2027, published on November 19, Ubisoft confirmed that **Motherbrain has been established as a dedicated subsidiary focused on AI technology for gameplay**. The team previously developed Teammates, a playable generative-AI experiment. CEO Yves Guillemot said the subsidiary would develop proprietary technology to help creators explore new interactive experiences.",
+        "The report lists current research priorities including new player experiences, smart NPCs with memory, and AI game masters that manage large-scale systemic worlds. Motherbrain aims to serve developers both within and beyond Ubisoft's Creative Houses ecosystem and to partner with selected technology companies. The organizational structure is in place and the research directions are stated, but the report does not announce release dates for standalone commercial products using these systems.",
+        "Teammates was revealed in late 2025 and explores voice interactions between players and NPCs powered by generative AI. Establishing the subsidiary formalizes an existing experimental team. It does not mean these capabilities have been deployed across every Ubisoft game on sale, and no standardized performance or player-satisfaction results were published for comparison.",
+        "The change forms part of Ubisoft's new operating model, launched earlier in the year. The company says its Creative Houses structure is now fully in place. The same report states that headcount fell by nearly 1,100 during the half-year ending in September, while the fixed cost base was €660 million, down 6% year on year. These are contemporaneous group operating figures; the report does not attribute the staffing change to AI replacement by Motherbrain."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-99398c4972efcf41e842a5bf",
+      "source_sha256": "0f5d7f002682a20e548847075407239790510f1c7fae407b04c82bacf491bf44",
+      "paragraphs": [
+        "On November 20, the People's Bank of China published the month's loan prime rates (LPRs): **3.0% for the one-year tenor and 3.5% for the over-five-year tenor**. The National Interbank Funding Center announced the rates under the PBOC's authorization. The official notice was timestamped 9:00 a.m. Beijing time.",
+        "The previous notice, dated October 20, also set the two rates at 3.0% and 3.5%, respectively, so neither changed in November. The new notice states that these LPRs remain valid until the next announcement. The full tenor name of the second quotation is “over five years”."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-37d9c213c1329619b5f7f17e",
       "source_sha256": "b2416abf1d6e1348842dad5d962a3e8152181d193b7120ec56bffbea911200ef",
@@ -42,6 +99,52 @@
         "JPMorgan Chase and Mastercard disclosed cyberattacks on third-party service providers on November 19 U.S. local time, following Visa's earlier disclosure of a similar vendor incident. **The potentially affected information concerns marketing or specific benefits programs; all three say their core businesses or payment networks were unaffected.** A compromised vendor is different from a breached bank payment system.",
         "JPMorgan said its initial investigation indicated attackers may have obtained some customer names and email addresses held by vendors. Operations remained normal, and affected customers would be contacted as appropriate. Mastercard said email addresses of a small number of cardholders in a specific benefits program were exposed, without payment data. Visa said the incident involved an Asia-Pacific provider and did not affect its own systems or payment information such as card numbers.",
         "Extortion group n0n claimed on November 16 to have obtained data relating to all three institutions. Purported material involved markets including Singapore, Hong Kong, Japan and Malaysia, as well as other regions. Reuters reviewed the published material but **had not independently authenticated it**. JPMorgan also distinguished this incident from transaction disruption caused by a software vulnerability earlier in the week; the two cannot be combined into one attack."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f06dd3afa58c9489cd1a1d82",
+      "source_sha256": "f979983c9c0be3a385898916bee9fb473f23b377f18ef283c4a62f3ead510fef",
+      "paragraphs": [
+        "Germany's IG Metall union announced **24-hour warning strikes** at selected companies from Friday, November 20 local time, following supportive votes by members. The action escalates earlier stoppages lasting only a few hours. Citing Bloomberg, Lianhe Zaobao reported on November 20 that affected sites include Audi's Ingolstadt plant, BMW plants in Munich, Dingolfing and Landshut, and some suppliers' sites in Bavaria.",
+        "The negotiations concern collective agreements in the metal and electrical industries. The union is seeking a 5% pay increase over 12 months, together with commitments on investment, products and jobs. According to the employers' proposal described by the union on November 19, permanent pay would rise by only 1.3%, effective in July 2028, alongside a one-off payment dependent on a company's financial position. The union also opposes moving negotiations over changes to some collectively agreed standards to individual companies.",
+        "The local union for the KS site in Neckarsulm separately reported that 89% of participating members supported an all-day warning strike. Its planned start is 5:15 a.m. German time on November 20, or 12:15 p.m. Beijing time, with a rally later that afternoon. Schedules differ by site. Those notices confirm calls for action, votes and arrangements, without providing the actual scale of production stoppages on November 20.",
+        "The union says 464,000 employees had joined shorter warning strikes in early November. That figure covers earlier action, not attendance at the November 20 all-day strikes. The escalation concerns specific negotiations and companies; it does not establish simultaneous shutdowns at every German car plant."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-76313aec20535c9648f61551",
+      "source_sha256": "a28c27f59a1114198708524090fb18517f0f80da4b9e6bd1496a3e62680061a7",
+      "paragraphs": [
+        "On November 19, California Attorney General Rob Bonta announced that his office had served an **investigative subpoena** on Nvidia. It seeks information about the possible transfer of advanced chips or confidential information to China and disclosures of the associated risks. The California Department of Justice says the information will help determine whether Nvidia's actions, or those of former CEO Jensen Huang, violated California law.",
+        "The investigation includes whether the company misled investors and the public about these risks. Bonta invoked the principle in California corporate securities law that companies must not mislead investors. The subpoena is an evidence-gathering step. The statement did not announce a final finding of wrongdoing by Nvidia or identify a proven quantity of transferred chips or confidential documents.",
+        "Both the BBC and Lianhe Zaobao reported the development. The background includes Huang's departure and controversy involving personal relationships and national security; the alleged espionage identity remains an allegation. The BBC had sought Nvidia's response when it published its report."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-41802abc573e9950955b53b8",
+      "source_sha256": "a075935f45217563779929bbd73a7f4527beaa3255c0b50d77fcf29348b9bec8",
+      "paragraphs": [
+        "Reuters reported on November 19, citing two people familiar with the matter, that TSMC was suspending some previously permitted advanced manufacturing orders from mainland Chinese chip designers. Affected orders using **processes of 16 nanometers and below require U.S. export licenses**. The guidance described in the report generally limits the affected customers to older processes such as 28 and 40 nanometers, provided the chips do not use high-bandwidth memory or require advanced packaging.",
+        "According to Reuters, the new rules remove a compliance route under which technical verification had allowed some customers to obtain manufacturing services without individual licenses. TSMC is also reported to be increasing scrutiny of customers' operating locations, parent companies, major shareholders, packaging suppliers and shipping routes, including orders placed through overseas subsidiaries or intermediaries. These order-level details come from anonymous sources and guidance they reviewed, rather than a complete public customer list issued by TSMC.",
+        "A primary-source notice from the U.S. Bureau of Industry and Security confirms that an interim final rule addressing remote access to advanced computing chips and servers took effect on November 19. Its stated purpose is to prevent circumvention of existing controls through data centers in third countries. The BIS notice outlines remote-access controls; the specific order-level details, including the 16-nanometer threshold, come from Reuters’ reporting on company guidance.",
+        "Lianhe Zaobao also cited Chinese media questioning claims of a blanket supply halt, reporting that products meeting approval requirements can still be shipped. The verified development concerns tighter licensing and screening for some orders, rather than a universal halt affecting every mainland customer, process node and approved product. Reuters also said it could not independently verify the arrangements under which some earlier 7-nanometer orders had been produced."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-da0ae484f97cc324cd969f20",
+      "source_sha256": "1ba84ede9a2cec219301d4722c1492b471c727f8f47ecc23a31b93846888dbba",
+      "paragraphs": [
+        "On November 20, China's National Energy Administration released national electric-vehicle charging infrastructure data for October 2026. At the end of October, the total reached **25.391 million charging connectors, up 36.2% year on year**. The figures come from the national charging infrastructure monitoring service platform and count charging connectors, rather than charging stations.",
+        "Public infrastructure accounted for 5.283 million connectors, up 16.5% year on year, with total rated power of 271 million kilowatts and an officially reported average of approximately 51.37 kilowatts per connector. Private infrastructure totaled 20.108 million connectors, up 42.5%, with registered electricity supply capacity of 171 million kilovolt-amperes. The public and private counts add up to 25.391 million, with private infrastructure growing faster.",
+        "These figures describe the stock at the end of October and were published on November 20. Public rated power is measured in kilowatts, while registered private electricity supply capacity is measured in kilovolt-amperes. The two measures cannot simply be added to produce a national charging-power total, and neither represents the actual charging load operating at one moment."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -408,9 +511,11 @@
     },
     {
       "article_id": "article-bbf5b53e18ee72802021a7a9",
-      "source_sha256": "ea9513d63c2e6f5634b9648e6ae480f166ef2874f300e6a067e59f830e84ee4f",
+      "source_sha256": "07d4039640dd9d6fcd88b5ac8e29601faf3e878e2dc92f1e6a6502ce1a0e597c",
       "paragraphs": [
-        "Grand Theft Auto VI reaches its release date on November 19. PlayStation's support page sets PS5 unlocking at **midnight on November 19 in each region's local time**. By the morning of November 19 in Hong Kong, Asian and European markets have crossed that threshold, while North American markets are still progressing through their local time zones. Access is therefore staggered worldwide.",
+        "BBC reporting on November 20 cites Sensor Tower's estimate that Grand Theft Auto VI's preorders and first-day sales together exceeded 24.5 million copies, generating approximately **US$2.36 billion** in sales. This measure includes preorders, rather than only new orders placed during the first 24 hours after release. Rockstar and parent company Take-Two have not published official sales volumes or a detailed revenue breakdown.",
+        "Sensor Tower says its estimates combine email receipts, other statistical sources tracking the daily activity of millions of people, and public profiles on platforms such as PlayStation and Xbox. It estimates that roughly three quarters of sales were for PS5 and the remainder for Xbox. Both the platform split and totals are third-party estimates, rather than net revenue confirmed in the publisher's financial statements. As of the BBC report, dates for a native PC version and a multiplayer expansion had not been announced.",
+        "Grand Theft Auto VI was officially released on November 19. PlayStation's support page specified a midnight unlock on November 19 in each region's local time for PS5. Rockstar's November 18 announcement introduced the game's world and features; the new development on November 20 is a third-party estimate of its first-day commercial performance.",
         "Rockstar's November 18 PlayStation announcement describes six Leonida regions: Vice City, the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga. Jason Duval and Lucia Caminos become caught in a statewide criminal conspiracy after a job goes wrong. The setting spans a city, islands, wetlands, a declining tourist area, an industrial heartland and mountains.",
         "The game adds on-demand podcasts, with radio and podcasts also available on foot through headphones connected to characters' phones. The PS5 support page specifies that the Physical (Code-In-Box) edition contains a download code and **no game disc**. Downloading, preloading and release unlocking are separate stages. Listed text languages include Simplified and Traditional Chinese; voice audio is English.",
         "Xbox lists Series X|S as native platforms. Xbox Wire separately schedules cloud streaming for November 19 at 14:00 Beijing time (01:00 Eastern Standard Time), using Series S graphics settings on supported Xbox One and Series X|S devices. The game requires a separate purchase, and cloud eligibility and payment options vary by market. Xbox One support is streaming, not a native port."
@@ -3067,39 +3172,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-f074029439bf683baa12fb95",
-      "source_sha256": "f3ac4d4128ca88ced90e48e599a09c4557e7cffb3dd2c0b1396d27a030ee6e1d",
-      "paragraphs": [
-        "Reporting from Kyiv on November 12, BBC described Russian attacks on Ukrainian energy infrastructure and rolling outages affecting water, heating and transport. One family said it recently received only four or five hours of electricity a day on an unpredictable schedule; the report also described some Kyiv households facing outages of up to 20 hours. These local accounts do not establish one nationwide household outage duration.",
-        "Journalists visited a large power station withheld from identification for security reasons, finding destroyed pipes and machinery. Repair managers described work repeatedly interrupted by air-raid alerts. DTEK chief executive Maxim Timchenko estimated that the plant would not recover before next summer, with sustained attacks limiting productive work to one or two hours daily. **That is his estimate for the visited plant, not a nationwide grid restoration date**.",
-        "The Kyiv Independent separately reported damaged energy infrastructure and emergency outages in Shepetivka district, Khmelnytskyi Oblast. Governor Serhii Tiurin’s November 11 public statement confirmed equipment damage, fire and restoration work. BBC quoted Zelensky saying damaged transmission lines and substations also matter, beyond total generating capacity. The prisoner-exchange arrangements from Abu Dhabi do not establish that energy attacks have stopped or that a nationwide ceasefire exists."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-70bf47f1f7be32ee87f3ef65",
-      "source_sha256": "681eab8f1fdece18da0cb47d1444d22b8347effa9f7a26069d09e1eb27c37ab9",
-      "paragraphs": [
-        "Samsung Electronics held a groundbreaking for advanced packaging at its Onyang campus in Asan, South Chungcheong Province, on November 12, attended by President Lee Jae-myung and chairman Lee Jae-yong. The site is expanding from conventional semiconductor assembly and testing into advanced HBM packaging. **Groundbreaking is a construction milestone, not operating new capacity**.",
-        "The campus program envisages KRW46 trillion invested in phases across five HBM lines: about KRW6 trillion for buildings and KRW40 trillion for advanced equipment. MoneyToday separately puts the new facility’s investment at around KRW1.3 trillion. The multi-year campus program should not all be attributed to this single building.",
-        "The three-story facility will have about 31,000 square metres of cleanrooms and is planned to begin operating in June 2028. Total campus floor area would rise from 270,000 to 420,000 square metres; floor area and cleanroom area are different measures. Samsung links accelerated construction to server-memory and additional customer demand. Effective supply will still depend on installation, qualification and ramp-up; no annual HBM output figure was provided."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-1a113666b5d6ee053ce179fd",
-      "source_sha256": "a545a008f76e37dbb6f219ee7acb56af1f319d0955f0c213306cc1321ae64e92",
-      "paragraphs": [
-        "China’s Ministry of Finance announced on November 11 that it plans to issue **up to US$2 billion of dollar sovereign bonds in Hong Kong during the week of November 16**, with details to follow before issuance. It separately confirmed that RMB4 billion of green sovereign bonds had already been issued in Toronto on November 9 local time, followed by a ceremony on November 10. The two transactions differ in currency, location and completion status.",
-        "Lianhe Zaobao, citing China News Service on November 12, reported two RMB2 billion tranches in Toronto: three years at 1.4% and five years at 1.5%, with orders totaling 13.5 times the issue size. Those rates concern specific renminbi maturities, not pricing for the forthcoming Hong Kong dollar bonds or domestic policy rates.",
-        "The ministry described its first renminbi green sovereign issuance in Canada as implementing bilateral leadership commitments and financial dialogue. The subscription multiple measures demand relative to issuance, rather than realized investment returns. Final size, maturities and coupons for the Hong Kong dollar bonds remain subject to formal issuance documents."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-6f77347e4f56b3cc3e9d739a",
       "source_sha256": "94f7affbfe01444f5c9c76eb5bfae4747a01cc883925b9bf296074a6cfd5df46",
       "paragraphs": [
@@ -3111,68 +3183,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-7b7fae620751a386eec20891",
-      "source_sha256": "fbf49f9790dc2b1e1550e5adc72bd1862ab1ea95f3d66d62e880b4ee6d1f2a25",
-      "paragraphs": [
-        "Kunlunxin outlined its roadmap at Baidu World 2026 on November 12: M100 has launched as planned, M300 is scheduled for 2027, and multiple N-architecture chips are planned for 2028. M100 emphasizes value, while M300 targets compute, memory and interconnect improvements. The future products should not be treated as stock already delivered.",
-        "The **Baidu Tianchi 1,024-card supernode is scheduled for market in 2027**, a year earlier than the thousand-card system’s previously announced 2028 timing. Baidu says one system can support training a five-trillion-parameter model and scale to a ten-thousand-card cluster. Those are vendor-stated capabilities without a specified model, complete precision details or independent validation.",
-        "For comparison with the previous generation, Baidu lists improvement factors of 3× for inter-card bandwidth, 2.5× for training and 3× for inference. Its G3.5 KV Cache acceleration cabinet is claimed to double long-context inference performance; with cache hits in multi-turn conversations, it reports 90% lower time to first token and sevenfold throughput. **Cache hits are a material condition for the latter figures**, preventing extrapolation to all requests.",
-        "Robin Li attributes sustained computing demand to both training and inference and to expanding agent applications. That is Baidu’s market assessment. This update adds supernode timing and vendor metrics; full M300 and N-architecture specifications, delivery plans, system pricing and independent measurements remain undisclosed."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-14d344b8232b18d6f148fc7b",
       "source_sha256": "f8fbce08dc432aa4e3c388880065527ff0b84bd5c1c09f027dd0236b90b5bc2a",
       "paragraphs": [
         "Chinese animated film Baxian! announced a fourth extension of its theatrical screening key on November 12, **extending validity to 23:59 on December 17, 2026**. The film originally opened on July 18 this year. This extends an existing cinema window; it is neither a new premiere nor a streaming release announcement.",
         "Directed by Mou Zhengyang, the film combines mythology, comedy and adventure. Eight mortals form an improvised team and impersonate immortals to enter a treasure pavilion in Penglai reserved for divine visitors. The extension poster retains that ensemble-adventure premise without announcing a new version or sequel.",
         "IT Home reported cumulative box office of RMB2.063 billion at the time. The announcement provides no streaming release date or new overseas dates; the extension covers the existing theatrical screening key. The longer validity permits cinemas to continue screenings, while local exhibitors determine actual showtimes. The deadline does not mean every cinema will show the film until that date."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-988a3de42b0d682b167cbc1e",
-      "source_sha256": "63e61dd62391abd81b172245c6c8fbbd7ec07be6257035c5b97a219176febf2c",
-      "paragraphs": [
-        "OpenAI announced on November 11 that ChatGPT Finances had arrived in its desktop app. 9to5Mac confirmed the expansion covers Mac, with a sidebar entry after updating. **Availability remains limited to Free, Go, Plus and Pro users in the United States**. The financial features previously available on the web and mobile now gain a Mac entry point; this is neither a global rollout nor the first launch of Finances as a product.",
-        "Finances connects supported financial accounts through Plaid and uses transactions, balances and investment data for spending categories, subscriptions, bills, net worth and portfolio views. It also supports custom financial tools based on that context. OpenAI’s help documentation lists Experian credit-report connectivity separately, so credit information should not all be attributed to Plaid.",
-        "The official feature description says ChatGPT cannot move money, pay bills or execute stock trades. Dashboard content depends on the data actually connected; historical records a financial institution does not supply, or transactions not yet synced, may be absent. This news changes client coverage while retaining geographic and data-authorization requirements."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-e3aa5d0465faaf682938320f",
-      "source_sha256": "d6c867fbb32e9eab08f8b287ffad3973c232da188a51571126159269e4a451f7",
-      "paragraphs": [
-        "Doubao announced an update to its AI workplace product, Doubao Work, on November 12. Alongside Doubao 2.1 Lite and 2.1 Pro, its first group of third-party options includes **Kimi K3.1 Pro, GLM 5.3 and DeepSeek V4.1 Flash**. Users can choose in-house or third-party models by task. This expands model access inside the workplace product; it does not mean those models were first launched today.",
-        "The capability initially reached Team and Enterprise subscribers on October 29, with usage deducted from existing AI points. Today’s update broadens availability and displays a quota-consumption multiplier for each model. The multiplier is a billing factor, rather than a quality score or a fixed price for every task.",
-        "The update also includes quota discounts for participating models during designated periods, plus lower multipliers for Doubao 2.1 Lite and DeepSeek V4.1 Flash. The automatic option for small free tasks remains, with different arrangements for simple small tasks and more complex tasks charged at model-specific multipliers. The promotion is temporary; the report does not specify every discount window or the final deadline, so the discounts should not be treated as permanent prices."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-65ea2e49b0aa58b06c5f6a59",
-      "source_sha256": "2a254fd00bd71ce8a2b02d3e106daeb48d4b611811f624aa548ea90d49764a81",
-      "paragraphs": [
-        "IDC’s latest figures put **China’s tablet shipments in the third quarter of 2026 at 6.6 million units, down 22.3% year on year**. Quarterly volume fell below seven million for the first time after 12 consecutive quarters above that level. The measure covers consumer and commercial vendor shipments, rather than end-user purchases or device activations during the quarter.",
-        "Consumer shipments fell 24.9% year on year, while average market prices rose 8.6% quarter on quarter. Commercial shipments grew 9.6%. IDC attributes consumer weakness to rising costs feeding into prices, while earlier commercial demand and channel restocking are approaching their end. Education procurement was stronger in July and August before weakening in September, limiting extrapolation of commercial growth into the next quarter.",
-        "The vendor order was Huawei, Apple, Lenovo, Xiaomi and Honor. Lenovo grew 33.2% year on year, the only top-five vendor to expand; Apple fell 27.2%. Shipments below RMB1,000 contracted 51.4%, while products costing RMB3,000 or more represented about 45% of shipments, up nearly ten percentage points quarter on quarter. IDC forecasts cost pressure through 2028; this is a forecast, not a settled future sales outcome."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-9847dcea6a4a662b52d6330c",
-      "source_sha256": "e2bdcc19b8aadaa2e019e91e5c36a0df7355d90ac377337c68bb362188f04ca6",
-      "paragraphs": [
-        "Baidu formally presented its large-model services platform, Ciyuansuo, at Baidu World 2026 on November 12. Robin Li described a marketplace bringing together models and service providers so businesses and individuals can discover, purchase and use model services. It addresses fragmented supply channels and difficulties comparing price and service quality, rather than introducing a new foundation model.",
-        "According to the presentation, resources undergo admission testing covering model fingerprints, capabilities, performance metrics and availability, followed by continuous quality monitoring. Baidu says these measures aim to detect model substitution and inflated specifications. Providers will also receive credit labels based on service quality, delivery, compliance and commercial performance, with proactive alerts when credit deteriorates.",
-        "Baidu reported **more than 100 supply resources and over 700 billion tokens called daily after one month of operation**. These are company-reported operating metrics, not a count of 100 distinct foundation models or an independent audit. Today’s conference presentation should be distinguished from the platform’s preceding month of operation. “Neutral and trustworthy” is Baidu’s positioning of the service."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3788,17 +3804,6 @@
         "The official Netflix page has confirmed that the second season of the live-action \"ONE PIECE\" has already been released, with the story centered around \"Into the Grand Line.\" Luffy and his crew enter new islands and face stronger enemies. It is the second season of the live-action adaptation series that began in 2023, not a season of the long-form television anime, nor a remake of the first season.",
         "For original readers, the key consideration is how the series maintains the adventure pace and team dynamics within the limited number of episodes after adding new locations and characters. For new viewers, the complementary nature and shared objectives of the characters are easier to grasp than memorizing all the proper nouns. The official has confirmed the continuation of the series, but continuation does not mean the new season is complete or that there is a clear release date already. The second season currently has strong feedback from both media and audiences, with specific numbers provided below; here, 100% represents that all collected reviews were categorized as positive, which does not mean that every film critic gave a perfect score. This article retains the no-ending commentary and does not replace the animation's rating with the live-action version's reputation.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 100% (30 reviews), and audience approval rating is 95% (displaying 2,500+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-aaeb869cb7b294feca9765e0",
-      "source_sha256": "73469246756d3425a3b7a5d0b066464f592bbf6f4b214f74d3660a06d2daff1d",
-      "paragraphs": [
-        "[New-series reception] This Netflix crime drama adapts Jo Nesbø's Harry Hole novels. As the detective investigates a series of crimes, he must also confront corruption and untrustworthy relationships within the police. The public synopsis presents the conflict between Harry and Tom Waaler as a central source of tension. The story is rooted in Norway, rather than placing the character in the template of an American police procedural.",
-        "It is suitable for audiences who enjoy cold, atmospheric settings, character flaws, and long-term investigations. The progression of the case and the protagonist's personal issues are interdependent, so it cannot be understood solely through the label of \"genius detective.\" Currently, the positive ratio among film critics is higher than that of the audience, yet the latter still meets the threshold for this column. This suggests that the work may rely more on the audience's acceptance of the Nordic crime drama's pacing. Here, we organize the original relationships, disclose the story's premise, and current public opinion, without revealing the murderer and without packaging the fictional case as real criminal news.",
-        "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic approval is 91% (22 reviews), and audience approval is 76% (displaying 250+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
