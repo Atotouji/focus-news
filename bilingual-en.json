@@ -1,7 +1,84 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T09:17:56.193Z",
+  "generated_at": "2026-11-20T01:19:08.221Z",
   "translations": [
+    {
+      "article_id": "article-37d9c213c1329619b5f7f17e",
+      "source_sha256": "b2416abf1d6e1348842dad5d962a3e8152181d193b7120ec56bffbea911200ef",
+      "paragraphs": [
+        "OpenAI has opened the **GPT-Live-1.1 API**, allowing third-party applications to integrate a full-duplex voice model that can listen while speaking. IT Home reported on November 20 that the model had already become the default voice model for ChatGPT Plus and higher subscription tiers on October 15. The new development is developer API availability, rather than its first arrival in ChatGPT.",
+        "The official model page says the update improves transcription accuracy and maintains a more consistent accent and voice across languages compared with GPT-Live-1. A voice session can delegate tasks requiring deeper reasoning or tool use to a backend model while keeping the conversation going. Developers can choose OpenAI models or integrate models from other providers for that backend.",
+        "Billing is based on session duration: **US$0.05 per active minute and US$0.02 per standby minute**. The lower standby rate applies to WebRTC sessions with inference paused; backend model and tool usage is charged separately. The model supports audio and text input and output, but not images or video, and has concurrent-session limits separate from GPT-Live-1. The cross-language improvements are vendor descriptions; the official page supplies no independent performance score applicable to every task."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4009ffa1967c985d7639980b",
+      "source_sha256": "22b00933faf2241d59bcb8fd1e138eb508b8cfef2f4e5689c59985861db6c2b5",
+      "paragraphs": [
+        "Samsung Electronics announced management changes on November 20. Hwang Sang-jun was promoted to president and appointed head of the Memory Business, while Won-Joon Choi took charge of Mobile eXperience, or MX. **Jeon Young-hyun and Roh Tae-moon remain co-CEOs**, leading Device Solutions, or DS, and Device eXperience, or DX, respectively. The dual-CEO structure continues.",
+        "Previously, the two co-CEOs also headed the memory and mobile businesses. Assigning dedicated business leaders allows Jeon to focus on the overall semiconductor division and Roh to oversee consumer electronics including phones, televisions and appliances. Hwang previously led memory development, while Choi was MX's development head and chief operating officer.",
+        "Aju Press's account of Samsung's 2027 president-level appointments also lists three promotions and three changes of responsibility: Jo Sang-yeon becomes president of System LSI, while Lee Jong-myung becomes DS chief technology officer and also heads the Semiconductor Research Institute. The allocation of responsibilities covers memory, mobile, system chips and process development; specific product-development and operating outcomes remain to be seen in subsequent business performance."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-426014ad13d1ea552d5a68ff",
+      "source_sha256": "12350332b8ae0af6d3adc6d05013aca242732af14610810acd4e15406211b261",
+      "paragraphs": [
+        "Google has updated its Android developer-verification schedule: **global rollout through seven participating stores starts in January 2027**. These include Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion and Vivo. The program applies to certified Android devices; identical restrictions are not already in force on the same day in every region or on every Android device.",
+        "The official distributor guide says protections began on September 30, 2026 through selected participating stores in Brazil, Indonesia, Singapore and Thailand. During 2027 they will gradually expand to all app-installation sources and third-party stores on certified devices. The guide lists March 2027 implementation for other stores and asks developers to complete verification and app registration by March 1 to maintain uninterrupted distribution.",
+        "Verification links developer identity, package names and signing certificates, aiming to make it harder for malware distributors to keep changing anonymous identities. Google also retains an advanced flow through which experienced users accepting the risks can install apps from unverified developers. Thus **expanded identity verification does not mean sideloading is completely abolished**; installation source, region and the advanced flow remain important scope conditions."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f55be31cc95b74475231ec6a",
+      "source_sha256": "fe2c20ec5d08a338b40b52191a12f66ddec8e07bc372677f1bac0f986c6f0618",
+      "paragraphs": [
+        "JPMorgan Chase and Mastercard disclosed cyberattacks on third-party service providers on November 19 U.S. local time, following Visa's earlier disclosure of a similar vendor incident. **The potentially affected information concerns marketing or specific benefits programs; all three say their core businesses or payment networks were unaffected.** A compromised vendor is different from a breached bank payment system.",
+        "JPMorgan said its initial investigation indicated attackers may have obtained some customer names and email addresses held by vendors. Operations remained normal, and affected customers would be contacted as appropriate. Mastercard said email addresses of a small number of cardholders in a specific benefits program were exposed, without payment data. Visa said the incident involved an Asia-Pacific provider and did not affect its own systems or payment information such as card numbers.",
+        "Extortion group n0n claimed on November 16 to have obtained data relating to all three institutions. Purported material involved markets including Singapore, Hong Kong, Japan and Malaysia, as well as other regions. Reuters reviewed the published material but **had not independently authenticated it**. JPMorgan also distinguished this incident from transaction disruption caused by a software vulnerability earlier in the week; the two cannot be combined into one attack."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-eea85c59e0a44204f1fc2f95",
+      "source_sha256": "feb43d71d4ce0618e2f6eacea6b84f34f8431583d785216953b6ebedd2b61df5",
+      "paragraphs": [
+        "Valve has updated Steam Machine supply arrangements. **The 512GB model has moved to direct purchase while stock lasts after existing reservations were fulfilled**. Purchase invitations have been sent to the remaining 2TB reservation holders, but new waitlist signups for that model are closing. IT Home's November 20 report and Retro Handhelds' November 19 account both describe clearly different availability for the two capacities.",
+        "Once 512GB stock sells out, the product will show as unavailable rather than reopen a waitlist. Existing 2TB waitlist members retain their position, but a position does not guarantee a machine. Switching to an in-stock 512GB model forfeits the original 2TB place. Holding a reservation and receiving a purchase invitation is a different stage from remaining on the waitlist.",
+        "Valve says memory and storage supply and cost pressures constrain production, particularly for the 2TB version. Future output and pricing remain uncertain, with more details about additional supply expected in **January 2027**. This is a hardware-supply policy change, not Steam Machine's original announcement, and it does not guarantee simultaneous stock across every sales region."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-c92812f9faa8b39238d1cb1d",
+      "source_sha256": "c7f1cdd398274b5e084a2cf6e0c368f30bdda404e7a0b9d0e888066f3898bbae",
+      "paragraphs": [
+        "The PyPI meta-package for Microsoft's Agent Framework, **agent-framework versions 1.26.1 and 1.26.2, contained credential-stealing malware**. The malicious releases were uploaded on November 17 and subsequently quarantined by PyPI, with IT Home reporting on the incident on November 19. OX Security's original analysis confirmed that the releases appeared under the legitimate package name, making them look like ordinary updates.",
+        "The attack uses Python's .pth startup mechanism: once installed, malicious code can run when the affected environment starts the Python interpreter, without the business application importing Agent Framework. Researchers say the payload collects accessible cloud-platform and development-pipeline credentials, including Azure and build-agent identity tokens, then sends compressed, encoded information to an external address.",
+        "The malicious meta-package still depends on the genuine **agent-framework-core 1.26.0**, allowing the framework to appear functional. The tampered meta-package versions therefore should not be confused with compromise of the core dependency itself. OX identifies 1.26.1 and 1.26.2 as affected and lists 1.26.0 as the preceding version. Around 190,000 monthly downloads indicate package usage, not a verified count of infected devices. No definitive public total of organizations or credentials successfully compromised has been established."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e590da2f6ba630f06e8e1a3c",
+      "source_sha256": "ae79d7f3ea58438e877f6ac0a7cf55c7e637bda76bc02f79b04da93ce37b59a4",
+      "paragraphs": [
+        "Huawei outlined HUAWEI–iPhone connectivity features on November 19, including network sharing, one-tap finding, and message and call transfer. **Answering transferred iPhone calls currently supports only the Mate 90 series and Mate XT 2 Ultimate Design**. Other Huawei phones can receive notifications of missed iPhone calls; notification support is not the same as answering a call.",
+        "According to IT Home's review of Huawei's website, direction is also restricted: iPhone calls can be transferred to supported Huawei phones, but Huawei phone calls cannot currently be transferred back to an iPhone for answering. WeChat voice and video calls on iPhone are not supported for transfer to Huawei phones. When a FaceTime call is answered on a Huawei phone, video does not transfer with it.",
+        "Official promotional material also shows transferred calls working with Huawei's intelligent anti-fraud feature. Confirmed support is limited to certain models, call types and one-way answering; **it is not full two-way interoperability for every call across both systems**. No definite schedule has been given for complete call transfer on other models. Messaging, networking and finding features within the same connectivity suite should be considered separately."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-97b752f407f3570cc7176bb9",
       "source_sha256": "f592ae172abd81ba9e48311197530935826a0a31456be77ea24fefdc50d5e534",
@@ -93,12 +170,12 @@
     },
     {
       "article_id": "article-3fa74f8f469b36f4f5249c5e",
-      "source_sha256": "97cf93ad421e1c9565501db3f8fc8ed07e683ddde5aa6cb741de62f2eb3e21e6",
+      "source_sha256": "17cd499ce11268c71ce8ee9deba5c832876afa8056f81bc3d1ec2a1b883dd3af",
       "paragraphs": [
-        "RSMC Nadi, part of Fiji's meteorological service, issued Special Weather Bulletin No. 35 for the Northern Cook Islands at **4:41 p.m. Hong Kong time on November 19**. At the 2:00 p.m. observation that day, Severe Tropical Cyclone Xavier was centered at 10.6°S, 163.2°W, about 280 km east-northeast of Nassau. Central pressure was 945 hPa, and it remained a Category 4 cyclone under the regional scale.",
-        "The latest bulletin estimated maximum sustained winds near the center at **185 km/h, gusting to 260 km/h**, with the system moving east-southeast at about 6 km/h. Bulletin No. 35 listed gale alerts for Nassau, Suwarrow and Pukapuka, while strong-wind warnings remained for Manihiki and Rakahanga. These are island-specific alert states; they do not mean that winds at the cyclone's center will occur simultaneously on every island.",
-        "For Nassau and Suwarrow, the bulletin described current strong winds of up to 55 km/h, gusting to 80 km/h, with damaging gales potentially developing later at average speeds of 85 km/h and gusts of 120 km/h. Pukapuka also faced a subsequent risk of gales. The affected islands additionally faced heavy rain, thunderstorms, swells and coastal inundation at high tide.",
-        "Nadi forecast gradual weakening, with the center about 260 km east-northeast of Nassau at 2:00 a.m. Hong Kong time on November 20 and about 240 km north of Suwarrow at 2:00 p.m. that day. These are forecast positions; the latest observations refer to 2:00 p.m. on November 19. The next special bulletin for the Northern Cooks was due by 11:00 p.m. Hong Kong time on November 19."
+        "RSMC Nadi issued Special Weather Bulletin No. 38 for the Northern Cook Islands at **8:07 a.m. Hong Kong time on November 20**. The latest observations refer to 7:00 a.m. that day: Xavier was centered at 11.0°S, 162.6°W, about 330 km east of Nassau and 250 km north-northeast of Suwarrow. Central pressure was 930 hPa, and it remained a Category 4 severe tropical cyclone on the regional scale.",
+        "The bulletin estimated maximum sustained winds near the center at 175 km/h, gusting to 250 km/h, with southeastward movement at about 6 km/h. **Suwarrow remained under a gale warning, while Nassau and Pukapuka were under storm alerts**. Strong-wind warnings continued for Manihiki and Rakahanga. These warnings are island-specific; the cyclone's central wind speed is not an observed wind speed on each island.",
+        "The forecast described possible damaging gales averaging 85 km/h, gusting to 120 km/h, for Suwarrow. Nassau faced a subsequent risk of storm-force winds averaging 110 km/h, gusting to 155 km/h. The affected Northern Cook Islands also faced heavy rain, thunderstorms, large waves and coastal inundation at high tide. The bulletin did not expect very destructive hurricane-force winds to affect land areas directly, but that does not remove the gale and storm risks.",
+        "The center was forecast to weaken gradually and be about 155 km north-northwest of Suwarrow and 220 km east of Nassau at 7:00 a.m. Hong Kong time on November 21, then about 130 km south-southwest of Nassau at 7:00 a.m. on November 22. These are forecast positions; the current fix remains 7:00 a.m. on November 20."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -140,11 +217,12 @@
     },
     {
       "article_id": "article-71f3373e75064934e6976170",
-      "source_sha256": "830c14f234da898dcfeb6a891242ec4ae07df7a11a346124d6e08121101cbf25",
+      "source_sha256": "cf59c9118fa95491b3ef10bf292ad6aad5f0128114b862584cec8a82e3b2b85c",
       "paragraphs": [
-        "Chinese President Xi Jinping, U.S. President Donald Trump and Russian President Vladimir Putin held their **first dedicated trilateral leaders' meeting** in Shenzhen on the afternoon of November 19, on the sidelines of the APEC leaders' meeting. All three had attended the 2019 G20 summit in Osaka, but this was a specifically convened three-way discussion. Trump held separate bilateral meetings with Putin and Xi beforehand.",
-        "In his opening remarks, Xi emphasized the special responsibility of the three major powers and permanent UN Security Council members for peace and stability. Reuters live updates carried by AnewZ reported that Putin said his bilateral meeting with Trump that day had focused on Ukraine. Trump raised nuclear arms reductions, non-proliferation and Iran's nuclear issue in the trilateral talks. These were the leaders' positions and discussion topics, rather than joint decisions already reached.",
-        "In live updates through 5:00 p.m. Hong Kong time on November 19, Trump expressed hope for an end to the Russia–Ukraine war but **announced no specific agreement or breakthrough**. The start of talks did not amount to a ceasefire across the front, and no new nuclear arms-control treaty had been announced. China's Foreign Ministry readout of the Xi–Trump bilateral meeting also covered trade communication, Taiwan and AI safety risks. Those statements likewise remain distinct from any subsequent formal outcomes."
+        "After Xi Jinping, Vladimir Putin and Donald Trump held their first trilateral leaders' meeting in Shenzhen on November 19, they issued a **four-point Declaration toward Peace**. Both China's Foreign Ministry and the White House have published the text, covering UN reform, refined petroleum supplies, the jurisdiction of international judicial institutions, and dialogue on nuclear risks and non-proliferation.",
+        "The declaration commits the three countries to UN reform to improve its response to global challenges. They plan to increase production and supply of refined petroleum products and reaffirm the importance of stable energy flows. The text specifies no additional supply volume, implementation date or binding production arrangement, so these remain intentions for cooperation.",
+        "On international justice, the three countries emphasize state consent and the immunity of state officials, saying the International Criminal Court and similar bodies must not abuse their jurisdiction. This is their shared position; it does not automatically change the court's powers or existing legal proceedings. The nuclear section reaffirms that a nuclear war cannot be won and must never be fought, and promises dialogue on reducing nuclear risks and preventing proliferation.",
+        "**The declaration does not mention Ukraine or announce a ceasefire arrangement or limits on nuclear warheads.** BBC and ABC accounts of the outcome both report no clear breakthrough on the principal war issues. The document establishes shared political language, but its title does not mean the Russia–Ukraine war has entered a ceasefire or that the three countries have signed a new nuclear arms-control treaty."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -184,11 +262,11 @@
     },
     {
       "article_id": "article-14dccd2f7661be3c6d57bf83",
-      "source_sha256": "2fcbb1f0e95c66726a88acfd20baad2bb809824c11cfadc392c96dff4dfaca31",
+      "source_sha256": "ec3f4b93d7aa6eeaaddfe2423e818c5a569afed36e9af6b2ef8baaec944b2194",
       "paragraphs": [
-        "Some European Commission internal systems have been hit by a cyberattack, potentially affecting personal data. Lianhe Zaobao's November 19 account of Politico reporting cited an EU official saying disruption had lasted about ten days. The Commission believed it had contained most of the attack, but **the extent of damage and the scope of the data impact remained unclear**.",
-        "The reported systems affected included human-resources tools for payroll and time recording, as well as medical-insurance reimbursement, with multiple systems taken offline. Commission spokesperson Thomas Regnier confirmed to Politico that response measures had been taken against the identified attack, that some systems had been targeted, and that affected people had been notified under standard procedures.",
-        "The report also said the Commission had convened its highest-level internal crisis-management body for urgent discussions. Public information currently confirms an attack, system disruption and a potential impact on personal information; **no verified number of people affected by a leak, complete list of data categories or attacker identity has been established**. It also does not establish that this case and recent U.S. technology outages are the same incident."
+        "European Commission spokesperson Thomas Regnier confirmed at a November 19 press conference that a cyberattack had recently been identified and said AI tools were used. Several applications were temporarily taken offline to limit risk, and **most were subsequently restored**. This updates earlier reporting of continuing internal-system disruption, while the investigation remains open.",
+        "According to IT Home's account of Reuters reporting, the attack was detected on October 22. Regnier said there was no evidence that a data leak affected all Commission staff, declined to identify suspected attackers and had heard of no subsequent ransom demand. Politico had previously reported disruption to personnel payroll, time-recording and medical-reimbursement systems, with a senior internal crisis-management body meeting to respond.",
+        "The assessment that AI tools were used is the Commission's description; a complete technical forensic report has not been published, so the attack's degree of autonomy cannot be inferred. **The number of people affected by a data leak, complete data categories and attacker identity remain unconfirmed**. Restoration of most applications does not mean every investigation or remediation step is complete. No evidence currently establishes this case and multiple U.S. technology outages as the same incident."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -200,6 +278,94 @@
         "Chinese Commerce Ministry spokesperson He Yadong said on November 19 that the **agricultural working group under the China–U.S. Trade Council would hold its first meeting soon**. The two economic and trade teams are maintaining communication at various levels. The council itself held its first meeting by video on November 13; the two levels are at different stages, and the agricultural group's first meeting has yet to take place.",
         "The Trade Council is an economic and trade communication mechanism the two presidents agreed to establish at their May 2026 meeting in Beijing. The agricultural working group is jointly led by China's Commerce Ministry and the Office of the U.S. Trade Representative, with relevant regulators participating. The two sides had previously agreed to hold its first meeting before year-end to provide a dedicated channel for agricultural trade discussions.",
         "The announcement that a meeting would take place soon gave no exact date and announced no new purchase volume, value or tariff-implementation schedule. In his bilateral meeting with Xi Jinping in Shenzhen that day, Trump said the Trade Council had made trade relations more balanced; that was his assessment. **The council having met, the agricultural group being due to meet, and specific trade arrangements taking effect are three different states**."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5d000ade1e6277a2581ab692",
+      "source_sha256": "de0ad486f8e13d29054485ad916612db9c73fbb8eaf59bd03089aaf3c92b5622",
+      "paragraphs": [
+        "On November 19, the International Court of Justice ruled in The Gambia v. Myanmar that Myanmar committed genocide against the Rohingya during the 2017 clearance operations in northern Rakhine State, violating the Genocide Convention. BBC reported that this principal finding passed by **nine votes to six**. Myanmar had denied genocide and said its military operations responded to attacks by armed groups.",
+        "The UN Independent Investigative Mechanism for Myanmar confirmed that the court also found failures to prevent and punish genocide by individuals acting alongside the security forces, and a breach of the 2020 provisional measures requiring evidence to be preserved and its destruction prevented. The Mechanism said its witness statements and six analytical reports received considerable evidentiary weight because of its rigorous methodology.",
+        "The court ordered Myanmar to end continuing violations, enact the necessary legislation, investigate suspected violations and prosecute and punish where warranted. It also required guarantees of non-repetition and restitution, including safe, voluntary and dignified return and family reunification for those displaced. **The amount and modalities of compensation remain for subsequent proceedings**, with Myanmar required to report within two years. This case concerns state responsibility; the ICJ itself does not try individuals or impose criminal sentences on them."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4517641d353957a37561b1e1",
+      "source_sha256": "e0775e5377302ec4df2658334c7788a576799f3069df081dd4c6a8d7b9f992fa",
+      "paragraphs": [
+        "German, French, British and Ukrainian leaders met with the Coalition of the Willing in Berlin on November 19, stressing continued support for Ukraine and Europe's willingness to join talks to end the war. Trump joined by telephone after his Shenzhen meetings, while U.S. envoys Steve Witkoff and Jared Kushner attended in person. **Europe's willingness to negotiate does not mean all parties have agreed on a format for the next round.**",
+        "The French presidency confirmed that this was the coalition's 18th leaders' meeting. Priorities included strengthening Ukraine's ability to defend itself, developing robust political and legally binding security guarantees, and supporting the resumed Abu Dhabi negotiations. Leaders also reviewed the multinational-force exercise Koalicja, launched on November 9, intended to demonstrate rapid deployment capability after a ceasefire. It was not an announcement that the force had already entered Ukraine for a ceasefire mission.",
+        "Merz said European security discussions must be linked to a peace arrangement for Ukraine and rejected the division of Europe into great-power spheres of influence. Kushner expressed optimism about Russian acceptance of European participation and guarantees resembling NATO's Article Five; Zelensky and European leaders were more cautious. **A U.S. envoy's description of Russia's position does not replace formal Russian acceptance of a specific guarantees document**, and no comprehensive ceasefire is currently in force."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-980e8226475a9eb0e7c9b8b8",
+      "source_sha256": "82579072006c5c8dae61f508a7daf730506d43450f28c20c8ae6e14255d0f82d",
+      "paragraphs": [
+        "Xi Jinping and Donald Trump held a bilateral meeting in Shenzhen on November 19. China's Foreign Ministry said both sides regarded the talks as positive and constructive and **agreed to formulate an action plan for a constructive China–U.S. relationship of strategic stability**, implementing the leaders' understandings. This belongs to the bilateral relationship process and is distinct from the three-country Declaration toward Peace issued the same day.",
+        "The readout lists cooperation on trade communication, agricultural products and energy, counter-narcotics, repatriation of illegal immigrants, combating telecommunications and online fraud, and preventing AI safety risks. Xi called for expanding cooperation and constructively managing differences that cannot yet be resolved, emphasizing that AI should remain under human control. The Chinese account quotes Trump supporting stable relations and stronger trade and investment cooperation.",
+        "**The current status is agreement to formulate the plan; its full provisions, timetable and signing arrangements have not been published.** On Taiwan, the Chinese readout quotes Trump saying the United States does not support Taiwan independence. Lianhe Zaobao notes that the same wording did not appear in the publicly released U.S. account of the talks. This quotation therefore requires attribution to China's readout and cannot be expanded into a new policy commitment unconfirmed by both sides' texts."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-69d162e3003a2077ca17c8c6",
+      "source_sha256": "746c95313b39ddbbda613272771735161ca17dc7cac9ce77f10a6ab031e522ed",
+      "paragraphs": [
+        "Google began rolling out **computer use in the Gemini app for Mac** on November 19, enabling agents to complete multi-step tasks across local files, desktop applications and websites. The initial rollout is in English in the United States. It requires an Apple Silicon Mac running macOS Sequoia 15.0 or later, a personal Google account belonging to someone aged 18 or above, and a Google AI Plus, Pro or Ultra subscription.",
+        "Official demonstrations include building a 3D scene from a sketch, batch-processing photographs, extracting weights and addresses from PDFs to complete shipping quotes, and assembling live data and screenshots into presentations. Gemini clicks, types and navigates menus in an isolated background window, with a live preview in chat, leaving the main screen and cursor available for other work.",
+        "Users choose which applications it can access and can pause or stop tasks at any time; key actions require prior approval. **These are specific regional, language, account and hardware conditions**, rather than simultaneous access for every Mac or Gemini account. Google's examples describe product capabilities and demonstrations; the announcement provides no cross-application task-success rate or universal reliability score."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-1b3aafed7dd5d45c68229b6f",
+      "source_sha256": "e64821249df1167d12c78f99bafa4a58516adcb619b6590538da87db2570ed5b",
+      "paragraphs": [
+        "Google introduced **Tool Retrieval in preview** in the Gemini Interactions API on November 19 for agents connected to dozens or hundreds of tools. The mechanism lets the model see tool names and descriptions first, loading full parameter schemas only when needed. This is intended to reduce input tokens and latency from repeatedly placing every tool interface in context.",
+        "Server-side retrieval can search for a tool, load its parameter schema and generate a function call within the same API request. The application still executes the actual function and returns its result. Developers can keep frequent tools loaded directly while deferring the long tail. Remote MCP servers also support on-demand loading without expanding every tool upfront.",
+        "For custom tool registries or permission filters, client-side retrieval lets the application perform its own lookup, adding one round trip for each search. The feature supports **Gemini 3.6 and later, including all Gemini 4 models**. Retrieval has no separate charge, but its fixed input overhead and loaded schemas are billed at the model's standard token rates. Actual savings depend on which schemas do not need to be loaded."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b71681db2cca441f2d92679e",
+      "source_sha256": "b1e6a2d355509bac44ec2df49e795b10f79fff467a043d9b4809bc96e074b1be",
+      "paragraphs": [
+        "NASA confirmed on November 19 that Voyager 1 reached one light-day from Earth at **2:16 a.m. Pacific Standard Time on November 18, equivalent to 6:16 p.m. Hong Kong time that day**. A light-day is the distance light travels in 24 hours, about 25.9 billion km. The team received the corresponding signal 24 hours later, confirming the milestone after 49 years of deep-space travel.",
+        "The mission also has a specific data problem: NASA says **no science or engineering data have been received since November 14**, although the spacecraft continues transmitting a carrier signal. Engineers used that carrier and trajectory calculations to confirm the distance while continuing to investigate. Reaching one light-day therefore does not mean communications and instrument telemetry have fully recovered; receiving a carrier and receiving complete data are different states.",
+        "Voyager 1 and Voyager 2 both launched in 1977, explored the outer planets and became human-made probes in interstellar space. Voyager 1 crossed the heliopause in 2012. One-way radio propagation now takes about a day, meaning a command-and-response round trip takes roughly two days. Continuing the mission depends on managing power, temperature and aging systems, and NASA has not announced that this data anomaly is resolved."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a64cdf4feef01a0978c438c5",
+      "source_sha256": "59aafc2418cfbd25df651778cfa1f15aba1d7dbc88a1666c640ace960a0043c8",
+      "paragraphs": [
+        "Netflix confirmed on November 19 that **Tokyo Swindlers will return for a new season**, with Go Ayano and Etsushi Toyokawa reprising their lead roles and Hitoshi One returning as director and screenwriter. The first teaser visual shows a city map and stacks of cash in a dim room, continuing the real-estate-fraud theme. No premiere date has yet been announced.",
+        "Ayano returns as Takumi Tsujimoto, while Toyokawa again plays Harrison Yamanaka. In the announcement, One discusses writing the scripts and reuniting with the cast after filming began, indicating actual production rather than only an intention to renew. The announcement does not say filming, post-production or delivery of the finished season has been completed.",
+        "Netflix also reviewed the first season's 2024 performance: six consecutive weeks at number one on Japan's weekly series chart, 22 weeks in that Top 10 overall, five consecutive weeks in the global non-English series Top 10, and Top 10 appearances in 15 countries or territories. **These are first-season viewing rankings, not new-season ratings or a critics' approval percentage**."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-ad4abe9da9ca441d30ca3809",
+      "source_sha256": "ec18024b40e8a5cd129808560a677f2779e9506bf9c62968bf69755e611a1aab",
+      "paragraphs": [
+        "APEC leaders issued the **Shenzhen Outlook: Building an Asia-Pacific Community to Prosper Together** on November 19, setting out cooperation on connectivity, innovation and economic growth. It endorses a new APEC connectivity blueprint, continuing regional integration through physical infrastructure, institutional connectivity and people-to-people links.",
+        "The supply-chain section emphasizes resilience in essential goods, energy and trade corridors. It encourages continued trade flows, removal of bottlenecks and more digital customs processes, while identifying policy transparency as important to avoiding supply-chain disruption. The energy section stresses timely repair of critical infrastructure such as power plants, grids, subsea cables and pipelines, with exchanges on emergency preparedness, risk assessment and reserve management.",
+        "On digital technology, the document references the APEC AI Initiative for 2026–2030 and adopts a statement on emerging technology for jobs and prosperity. It supports cooperation on data protection, digital-transaction security and cross-border data flows, alongside action against data breaches, online fraud and malicious AI use. **These directions do not come with a single new tariff schedule or AI regulations taking immediate, simultaneous effect in every economy**; implementation requires subsequent measures."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -480,11 +646,11 @@
     },
     {
       "article_id": "article-e308a84a77ae00d83193b951",
-      "source_sha256": "6857413746c07fbd28105cf7a4afffd4ceb3673bc00114ece130645c38a7328d",
+      "source_sha256": "59d979680488d4a0f94d97c367f1d7e18561c1fcfe6eadd6eaa4275358a86529",
       "paragraphs": [
-        "Anthropic priced its initial public offering on November 18 at **$83 per share for a base offering of 980 million Class A shares**. Trading is expected to begin on the Nasdaq Global Select Market on November 19 under ANT, with closing expected November 20 subject to customary conditions. Pricing, the trading debut and closing are separate stages.",
-        "Anthropic is selling 956,351,354 shares and existing stockholders 23,648,646. At the offer price, the base offering totals $81.34 billion before expenses. Anthropic receives none of the selling stockholders' proceeds, so the entire offering amount is not the company's actual cash receipt.",
-        "Underwriters have a 30-day option to buy up to another 147 million shares. The SEC declared the registration statement effective on November 18. The optional increase and pending closing remain conditional; there is no post-listing trading price or first-day percentage change yet."
+        "Anthropic **began trading on Nasdaq under ANT on November 19 U.S. local time**, moving beyond the IPO-pricing and planned-listing stage into public-market trading. It closed its first day at US$97.17, up 17.07% from the US$83 offering price. The shares opened at about US$111.5 and retreated after rising intraday; the opening gain is not the full day's closing performance.",
+        "The company's original November 18 announcement specified 980 million Class A common shares. At US$83 each, that represents approximately US$81.34 billion in base offering proceeds before underwriting discounts and offering expenses. Market-price changes, the base IPO amount and other financing arrangements are different measures. The first-day share-price gain does not represent growth in the company's operating revenue.",
+        "BBC reported that the Nasdaq Composite fell about 2.3% on the same day Anthropic rose, illustrating that one company's debut differed from the broader technology market. The company's original announcement expected the offering to close on November 20. **Trading has begun, while completion of the offering's closing still requires separate confirmation**."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -1010,12 +1176,11 @@
     },
     {
       "article_id": "article-731a68534994b4d5b315c26e",
-      "source_sha256": "de016153543468f861e3a6b22fb033237dc170af994172959d869ce9aea9ce2b",
+      "source_sha256": "53d33031ef6816c6c41d83f013df2ac9e70070e12c090827ee8a494654015a87",
       "paragraphs": [
-        "Serbia's 15th National Assembly held its first sitting on November 17, **confirming all 250 MPs' mandates and administering their oath, thereby constituting the new parliament**. A verification commission compared election certificates against the Republic Electoral Commission's report before submitting its findings.",
-        "The sitting was convened by the previous legislature's speaker, Ana Brnabić, and began at 10 a.m. in Belgrade. The oldest MP, Stojan Radenović, presided with assistance from younger MPs from the four lists with the most seats. The official announcement establishes MPs' mandates and the constitution of parliament; it does not announce formation of a new government.",
-        "The agenda also includes electing a speaker and deputy speakers, appointing a secretary general, and selecting working-body and international-delegation members. Parliament's website still labels the sitting in progress and schedules continuation for November 18 at 10 a.m. local time, or 5 p.m. Beijing time.",
-        "The process has therefore advanced from voting, repeat voting, final results and seat allocation to the new parliament taking office. Completion of the speaker election, subsequent government formation and selection of a prime minister require their own formal outcomes; they cannot be inferred from MPs being sworn in."
+        "On November 19, the third day of its first sitting, Serbia's National Assembly elected **Aleksandar Čupić as Speaker with 140 votes**. The Assembly's official update confirmed that the other candidate, Stojan Radenović, received 97 votes in an open roll-call election. The agenda has therefore moved from discussion of candidates to a formal result.",
+        "Radenović, who had been chairing the sitting, established the two-candidate list. Because he was also a candidate, MP Nada Macura then took over the chair, supervised the vote and announced the result. Independent outlet DTT-NET identified Čupić as the Student List camp's candidate; the candidate's affiliation and the official vote totals have their respective sources.",
+        "The new 15th legislature had confirmed the mandates of all 250 MPs on November 17. Its original first-sitting page was subsequently updated with the November 18 debate and November 19 vote. This step elects the parliamentary leadership; **it is neither a new announcement of the October 25 election result nor a cabinet appointment or government confidence vote**. Formal government formation and the transfer of executive authority still require their subsequent procedures."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3013,40 +3178,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-ebc85486c6727aa902d1bf9d",
-      "source_sha256": "b78c4edccb2656fdc7b6d1b7628e7b6a823f114c2042ebe6ce09e651bb981471",
-      "paragraphs": [
-        "The China Consumers Association has addressed controversy over online sellers supplying different-quality versions of the same listed product. CCTV reported on November 12 that such practices can involve one listing and one price but materially different goods: displaying a high-quality sample while shipping an inferior version, or targeting rural buyers considered less able to return goods or pursue complaints.",
-        "The association said deliberately misrepresenting quality can amount to supplying goods that do not match the listing, passing inferior goods off as superior ones, or even fraud. Profiling buyers by delivery location, purchasing habits or return history and then varying supply also implicates **personal-information rights and fair-trading rights**. It cited consumer-protection, personal-information and algorithm-recommendation rules, emphasizing consistency between the quality represented and the goods supplied.",
-        "The statement also described misleading quality information and discriminatory supply as damaging competition and trust in online shopping. It called for proactive platform enforcement and noted the evidentiary value of transaction records, livestream recordings and photographs of delivered goods. This was the association’s public assessment of the practice; the report did not announce new penalties against named merchants or a nationwide case total."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c235982356df35a244b37c5c",
-      "source_sha256": "3ce1d20cefcc7be67914b3b53586f5bca06e4a809cad9ddeb57bcf50af063eee",
-      "paragraphs": [
-        "Adobe confirms that from **version 22.0**, InDesign and InCopy run natively on Windows ARM64 devices, including Snapdragon X-series PCs. The layout application and companion editorial tool no longer rely on application emulation. This is an architecture-support change; Adobe provides no universal performance-gain percentage for every project.",
-        "The listed minimum processor is the Snapdragon X Elite X1E-78-100, with up to 3.4 GHz and 12 cores, alongside an AVX2 requirement and Qualcomm Adreno graphics. The OS requirement includes Windows 11 24H2 build 26100.7623; the startup-error guidance also lists 25H2 build 26200.7623.",
-        "**Native application support does not make the entire plug-in ecosystem ready**. Adobe says relevant extensions and plug-ins are not currently supported on Windows ARM, and the Creative Cloud desktop app does not display the plug-ins tab under Stock & Marketplace. HEIC/HEIF imports also require both HEIF Image Extensions and HEVC Video Extensions.",
-        "The change concerns how InDesign and InCopy 22.0 and later run on qualifying devices. Operating-system builds, third-party plug-ins and format dependencies still separately determine whether a complete workflow can migrate."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-264f1bdedf04511b3571f1d7",
-      "source_sha256": "b61ab027f4b9165b10e72b6073c93b6bfdcfbad33c308ff6040ab43441ee742a",
-      "paragraphs": [
-        "On November 11 local time, Chinese Vice President Han Zheng, attending as President Xi Jinping’s special representative, addressed the COP31 leaders’ summit in Antalya, Türkiye. He proposed stronger collective action, low-carbon development, climate resilience and international cooperation, calling on developed countries to lead emissions cuts and honor climate-finance commitments, and on all parties to implement their nationally determined contributions.",
-        "Han reiterated China’s targets announced this year for 2030: **non-fossil sources should provide 50% of electricity generation, while electricity should account for 35% of final energy consumption**. These measure the generation mix and final energy use respectively. Both are future targets, rather than shares already achieved.",
-        "On adaptation, China proposed cooperation on disaster prevention, monitoring, early warning and emergency response, along with wider use of its Mazu intelligent meteorological early-warning system. Han also said China would continue South–South projects including the Africa Solar Belt and introduce a Global South climate-action leadership capacity-building program. These are Chinese policy positions and cooperation plans presented at the summit; they do not establish a conference-wide agreement on finance or emissions obligations."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-91e9f3bb3f7e14bc5deaf42c",
       "source_sha256": "ac39e957fc64919f8d313f7594f978abfc9db912030bc916f177f0fb9b1e5b25",
       "paragraphs": [
@@ -3058,125 +3189,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-952c2152830721ef97c2be46",
-      "source_sha256": "5e19ac24a1b3bb0e9a2656ac73773c82cbad68cc582d99d146fd364d23b8d453",
-      "paragraphs": [
-        "China’s National Development and Reform Commission announced on November 12 that **standard gasoline and diesel prices will fall by RMB645 and RMB625 per tonne respectively at 24:00 on November 12**, equivalent to midnight at the start of November 13 Beijing time. It said international crude prices had fluctuated downward since the October 29 adjustment, leaving the latest ten-working-day average below the corresponding previous average.",
-        "The per-tonne adjustment uses standard-product pricing. Pump prices per litre also depend on grade, density, regional retail ceilings and discounts. IT Home estimates average reductions of RMB0.51 per litre for 92-grade gasoline, RMB0.54 for 95-grade and RMB0.53 for diesel. A 50-litre tank of 92-grade would therefore cost about RMB25.5 less. These are estimates, not one nationwide pump transaction price.",
-        "The commission called on major refiners and other processors to organize production and distribution, maintain supply and comply with pricing policy, with stronger local supervision. The announcement establishes this adjustment’s timing and amounts, without guaranteeing the next crude-price trend or adjustment direction."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-95777623a7d8529885c0d483",
-      "source_sha256": "1286c5c4b8c7802cf9f88d9d6312a1c3ff2f5fd76084f15cd2d9bb6d3441f8fc",
-      "paragraphs": [
-        "The UK Office for National Statistics reported on November 12 that **real GDP initially grew 0.7% quarter on quarter and 1.9% year on year in the third quarter of 2026**, after 0.5% quarterly growth in the second quarter. This is a seasonally adjusted estimate of real output in July–September, rather than an annual growth rate or nominal GDP at current prices.",
-        "Services rose 0.9%, mainly driven by business-facing activity; production rose 0.1% and construction fell 0.7%. Manufacturing grew 0.9%, the only expanding major production subsector, with computer, electronic and optical products up 4.6%. Real GDP per head increased 0.7% quarter on quarter and 1.7% year on year.",
-        "The monthly release estimated September growth at 0.2% and left July’s 0.4% increase unchanged. **August was revised down from 0.1% growth to no growth**. These initial estimates can change as fuller business and national-accounts data arrive. They estimate an elapsed quarter and should be distinguished from forecasts for the fourth quarter or full year."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-91d5d29b5a49ed0d11633028",
-      "source_sha256": "34266a59f6fd27139202bf5e886a7e505fff28b4c8f9d161be4e21a7505fa4f0",
-      "paragraphs": [
-        "Apple’s security and operating-system teams published details of Secure Exclaves on November 12, explaining isolated camera and microphone processing in Apple silicon. The design separates ambient sensing from active capture: **ambient mode exposes only authorized limited metadata and discards raw data after processing**. Full data can leave during active audiovisual sessions only after the secure indication mechanism permits it.",
-        "Components include a customized L4 microkernel, capability-based authorization, the Secure Page Table Monitor and Swift-based Secure IPC. The main OS kernel cannot read dedicated exclave memory, while the Neural Engine gains isolated queues. HomeView can recognize up to six enrolled users, returning identifiers, positions and confidence information rather than raw background audiovisual streams.",
-        "Apple says the indicator controller must confirm an LED or on-screen dot has been visible long enough before allowing full sensor data out. Display-based devices also check actual pixel color, brightness and obstruction. Listed uses include iPhone 18 Pro/Pro Max, iPhone Duo, MacBook Neo and HomeView. Microkernel formal verification remains incremental; partial proofs do not guarantee that an entire product has no vulnerabilities."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-3b4f2f1d526d9d207d369306",
-      "source_sha256": "c657622b0ab21d6fce579a667dd191ae8942a708b13c70664e68190b894bcdad",
-      "paragraphs": [
-        "IG Metall’s board approved **24-hour warning strikes** in Germany’s metal and electrical industries on November 12, escalating pressure in wage negotiations from stoppages lasting hours to a full day. Union members at the affected companies must vote first. At the time of the announcement, specific companies and dates had not been disclosed, and no fourth negotiating round had been agreed.",
-        "The union is seeking a 5% pay increase over 12 months for approximately 3.7 million industry employees, alongside safeguards for jobs, sites and future investment, profit-sharing and additional support for lower-paid groups. It says around 464,000 employees took part in earlier warning strikes lasting hours; that figure describes previous participation, not the number committed to forthcoming full-day strikes.",
-        "According to the union, employers’ current offer includes a revocable one-off payment of several hundred euros and a 1.3% pay increase in summer 2028. German public broadcaster ARD reported regional employers’ criticism that full-day stoppages would be disproportionate and deepen industry losses. Three negotiating rounds have failed to resolve disputes over both pay and flexibility in collective agreements, including corresponding investment and employment commitments. The decision escalates industrial action; it does not mean a nationwide full-day stoppage has already occurred."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-3f8e5d7449817e2a9dd5d8bb",
-      "source_sha256": "fcad046266ee0a7bdcc0cb0ea4655fe7c71a4c9e0602cdf4fa5572322947bfab",
-      "paragraphs": [
-        "Samsung announced its full intelligent-eyewear lineup with Gentle Monster and Warby Parker on November 12, offering 30 designs in total. **General availability begins December 10, with preorders from November 12**. Both collections launch in the United States, while the Korean launch covers Gentle Monster. Official U.S. prices start at $395 for Warby Parker and range from $449 to $489 for Gentle Monster, depending on the model.",
-        "With Gemini built in, users can ask about visible objects, summarize a captured whiteboard, translate menus, obtain Google Maps turn-by-turn navigation, and handle notifications, calls and voice replies. Hardware includes a 12MP HDR camera, open-ear speakers, four microphones and Snapdragon AR1 Gen 1. Split computing with Galaxy phones offloads part of the processing to the connected device.",
-        "Samsung gives an approximate weight of 41 grams, varying with frame, configuration and lenses. It claims up to nine hours of battery life per charge and up to 72 hours including the charging case. These are figures under manufacturer conditions; continuous recording, calling and AI interaction cannot be assumed to achieve those upper limits.",
-        "An external LED lights during photo or video capture, with safeguards designed to disable camera capture if the indicator is covered or malfunctioning. Samsung says Gemini automatically redacts bystanders’ faces in visual processing and does not use that visual data for model training or ad targeting. The devices are intended for users aged 18 or older and require age verification for activation. Mainland China is not among the stated launch markets, and preorder availability does not mean the products are already in stock."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-db014cf9033b64c490ae1bd1",
-      "source_sha256": "db5506f782912f8ff79a1b3295aad9203b90254dab6b80b00130ab132a49299f",
-      "paragraphs": [
-        "Noctua introduced the **NT-CP1 AM5/4 carbon-nanotube thermal pad** on November 12 local time for AMD AM5 and AM4 processors. It measures 33×33mm and is 90 micrometers thick. Suggested retail prices are $24.95 and €24.95 respectively. Official Amazon stores begin sales immediately, with other partner retailers receiving stock later; these are not subsidized Chinese-market prices.",
-        "Using Carbice technology, the pad combines carbon nanotubes, a phase-change polymer coating and an aluminum backbone. Noctua says the first few hundred to few thousand thermal cycles improve conformity to microscopic surface irregularities and heat transfer, followed by long-term stability after initial activation. These are the manufacturer’s mechanism and longevity claims; the announcement does not supply a universal temperature reduction for every CPU and cooler.",
-        "The tacky polymer coating helps hold the pad during installation. The manufacturer’s statement about electrically non-conductive surfaces is limited to the condition before use with the coating unpenetrated, not insulation in every situation. The current shape and validation scope target AM5/AM4, rather than arbitrary processors, graphics-memory chips or component gaps."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-8164d05ea6201c086c95c747",
       "source_sha256": "6af3d3b43158252ae1063596d231e7d34d795798ff579f8cb29a341ae20ec2a5",
       "paragraphs": [
         "Square Enix announced on November 12 that Romancing SaGa 3: Destinies United will move from February 16, 2027 to **February 4**. Its North American announcement lists PS5, Xbox Series X|S, Switch, Switch 2 and PC. Japan’s e-STORE separately lists February 5 for Steam, so the dates differ by region and storefront.",
         "North American digital pre-orders are available for PS5, Xbox and PC, with Switch and Switch 2 digital pre-orders scheduled to begin November 19. Pre-ordering the Digital Deluxe Edition includes 72 hours of early access. Japan’s e-STORE is adjusting that entitlement’s start and renaming digital pre-order bonuses as early-purchase bonuses, while keeping the previously specified bonus-distribution period. Pre-ordering, early access and general release are distinct stages.",
         "This is a full 3D remake of the 1995 RPG, retaining eight protagonists and free-form scenarios that let players choose where to explore, which stories to pursue and the order of enemy challenges. The producer says the focus is clearer characters and storytelling, drawing on the fast-paced combat approach praised in the Romancing SaGa 2 remake. Features include fully voiced Japanese and English event scenes and new arrangements supervised by Kenji Ito. The announcement concerns development and release plans; the game has not yet reached general release."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-c0dbb507cbf12dae07d6cf96",
-      "source_sha256": "9bba8c99c53c05560889b7c5c66d9c98194d8f6a644bbc68c487e5478236149b",
-      "paragraphs": [
-        "In its November 12 third-quarter release, Cerebras disclosed an important cloud deal with a “top three hyperscaler” without naming the customer. Reuters cited CEO Andrew Feldman’s earnings-call remarks confirming that it is **Microsoft**, with more details to come next year. A separate value for this agreement has not been disclosed.",
-        "For the third quarter ended September 30, GAAP revenue was $210.8 million, up 55% annually, including $141.9 million in cloud and other services revenue, up 265%. Non-GAAP **core revenue was $230.9 million, up 70%**, with core cloud revenue of $144.9 million, up 272%. The GAAP net loss was approximately $161.2 million, versus core net income of about $29.82 million; adjusted profitability does not mean a return to GAAP profit.",
-        "Remaining performance obligations stood at $26.1 billion at the end of September. The SEC filing says a significant portion relates to the OpenAI agreement, including revenue expected to be fulfilled and recognized in future periods and variable consideration. It is neither revenue already earned in one quarter nor cash already collected. Delivery timing and changing estimates of some pass-through costs can affect recognition.",
-        "The company raised its 2026 core-revenue outlook to $940 million–$960 million, while full-year core operating-margin guidance remains negative 10% to negative 8%. It has contracted for 700 megawatts of data-center capacity for delivery by the end of 2027, rather than all that capacity already being operational. Core measures exclude customer-warrant amortization, some stock-based compensation and data-center pass-through items, and must remain separate from GAAP results."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-839b2f5cab080ceaee728278",
-      "source_sha256": "1c66e7cfaefb35e238815a16f808d0a31bdba77fcfc56f05899860afecb54f0c",
-      "paragraphs": [
-        "Apple’s security bulletin lists **HomeView Software Version 27.2 as released on November 12**, for Apple HomeView. IT Home reported the associated build number as 24V526 on November 13. The release principally fixes security issues across several components, distinguishing remote attacks, attacks within Bluetooth range and attacks from the same network.",
-        "Messages fixes CVE-2026-113961, under which a remote attacker might join an iMessage group and receive its messages. CVE-2026-113960 concerns a newly added group member accessing earlier messages. CoreUtils’ CVE-2026-113965 concerns a malicious Bluetooth device pairing without user interaction; CVE-2026-113964 also involves bypassing limits on pairing-code attempts.",
-        "AirPlay and rapportd separately address pairing-attempt rate limits for attackers within Bluetooth range or on the same network. Bluetooth and brotli receive memory-corruption fixes, while App Intents addresses authorization for access to sensitive user data. Apple supplies impact conditions and remediation descriptions, without counts of actual exploitation or affected users in this bulletin. Required proximity and network conditions differ by component."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-dd2e720e9d97f4cacbced692",
-      "source_sha256": "15ceb72c7d63118d4dcaecf02bab5066c69527b2922c360207de5531a53acbe1",
-      "paragraphs": [
-        "Mississippi’s US Senate contest has reached a clear outcome after more than a week of counting. BBC and NPR report that **the Associated Press has called the race for Democrat Scott Colom over Republican incumbent Cindy Hyde-Smith**. Hyde-Smith conceded and congratulated her opponent in a video on the evening of November 11 local time. A media race call and a candidate’s concession remain distinct from formal state certification.",
-        "The figures carried by BBC at the time were 49.2% for Colom, 48.7% for Hyde-Smith and 2.1% for an independent candidate. Fewer than 5,000 votes separated the two leading candidates out of nearly a million counted. The prolonged count involved outstanding absentee and provisional ballots; this was not another round of voting.",
-        "Colom, 43, is a district attorney. He is the first Democrat elected to the US Senate from Mississippi since 1982 and the state’s first elected Black US senator in more than 140 years. Both reports say the outcome gives Democrats 55 seats in the incoming 100-member Senate. A closely contested Senate race in Alaska remained uncalled when the reports were checked."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-57de3b794b3463ddb086342e",
-      "source_sha256": "376956fcc6b9884a11d306e18812cf033154d006125d0be00a881865391ec64e",
-      "paragraphs": [
-        "Spain held its first general strike since 2012 on November 11, organized by major unions UGT and CCOO around wages, housing and prices. Unions estimated that about **four million workers took part**. That organizer estimate is distinct from the numbers attending street demonstrations in individual cities.",
-        "The BBC reported roughly 120,000 demonstrators in Madrid and more than 50,000 in Barcelona. In Barcelona that evening, some masked people set bins alight and smashed shop windows; police used tear gas and made arrests. The reporting also includes participants’ accounts that most daytime marching was peaceful. Nationwide work stoppages, city marches and localized violence are separate dimensions of the event.",
-        "Transport and some public services faced major disruption. UGT’s published demands include higher pay, more public housing and measures against property speculation. Its call for a minimum-wage increase of at least 7% in 2027 is a union demand, not a government wage policy already implemented.",
-        "Housing is also a major issue ahead of the snap parliamentary election on November 29. The government and opposition have criticized each other over the strike and its electoral implications. Voting has not yet taken place: demonstration turnout is not an election result, and clashes in particular Barcelona streets do not establish nationwide rioting."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3200,18 +3218,6 @@
         "Set in Shenyang, it follows 17-year-old aspiring artist Hope Song investigating her parents’ disappearance through clues at home and around the city. A sketchbook replaces conventional detective equipment: observations combine into insights that unlock conversations, locations and leads. The developer describes more than 100 hand-drawn illustrations.",
         "Xbox’s official announcement lists Xbox Series X|S and Xbox on PC, with day-one access through **Game Pass Ultimate and PC Game Pass**. Platforms and subscription tiers have separate eligibility; day-one subscription access does not mean every Game Pass tier includes it.",
         "The Steam page confirms Simplified Chinese interface and subtitles, without full Chinese voice acting. At the November 12 check it had only six user reviews, insufficient for an overall rating. What is established is the independent game’s full launch and gameplay information, rather than a positive consensus supported by a mature review sample."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-f7aac9d9dadc0e20f070b4d7",
-      "source_sha256": "670738e8675f1595d570b1a56dc1ca9ecbf6df63b59d965f0f6fb551364e75a7",
-      "paragraphs": [
-        "US-mediated Russia–Ukraine talks in Abu Dhabi concluded their second day on November 11. Ukrainian negotiator Rustem Umerov and Russian representative Vladimir Medinsky separately confirmed agreement to pursue a **large-scale exchange of people held captive**. Umerov said details and practical implementation were still being coordinated; the exchange has not already been completed.",
-        "The discussions addressed ending the war, reconstruction and Europe’s security architecture. Ukraine emphasized ending hostilities and securing guarantees, while Russia maintained its territorial demands. BBC reporting describes continuing disagreement over whether a ceasefire should precede a security framework or follow a comprehensive agreement. **No nationwide ceasefire or breakthrough ending the war was announced**.",
-        "US representative Jared Kushner said there were openings for compromise in some areas, while acknowledging that territory was the hardest question and the sides lacked trust. Ukraine’s public statement likewise said positions had been presented directly but major differences remained. The possibility of further talks is an assessment of the process.",
-        "Under the announced plans, Kushner and Steve Witkoff are due to visit Moscow to meet Vladimir Putin on November 12, then Dublin for talks with Volodymyr Zelensky. European representatives also held separate contacts with US and Ukrainian officials in Abu Dhabi, which does not mean they had joined the formal trilateral talks with Russia."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3793,17 +3799,6 @@
         "[New-series reception] This Netflix crime drama adapts Jo Nesbø's Harry Hole novels. As the detective investigates a series of crimes, he must also confront corruption and untrustworthy relationships within the police. The public synopsis presents the conflict between Harry and Tom Waaler as a central source of tension. The story is rooted in Norway, rather than placing the character in the template of an American police procedural.",
         "It is suitable for audiences who enjoy cold, atmospheric settings, character flaws, and long-term investigations. The progression of the case and the protagonist's personal issues are interdependent, so it cannot be understood solely through the label of \"genius detective.\" Currently, the positive ratio among film critics is higher than that of the audience, yet the latter still meets the threshold for this column. This suggests that the work may rely more on the audience's acceptance of the Nordic crime drama's pacing. Here, we organize the original relationships, disclose the story's premise, and current public opinion, without revealing the murderer and without packaging the fictional case as real criminal news.",
         "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic approval is 91% (22 reviews), and audience approval is 76% (displaying 250+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-072bbbdb898a9fdbe14b1d8d",
-      "source_sha256": "d46ad55dcaa61101829c5720ca2290516a4df9f493273fc57f33de65e850016a",
-      "paragraphs": [
-        "The new series \"The Boroughs\" by Netflix places a group of older characters at the center of an adventure: a seemingly peaceful retirement community experiences anomalies, and a group of individuals who were not originally seen as heroes begins to face supernatural threats that threaten to take away the remaining time they have left. The story thus combines elements of supernatural suspense with themes of late-life living, with \"time\" in the public setting serving both as a genre mechanism and directly affecting the characters' situations.",
-        "Compared to the common structure of teaming up teenagers to save the world, this series differs in that the characters enter the crisis with longer life experiences and burdens of loss and relationships. It is worth observing whether these experiences can genuinely influence the actions, rather than relying on the age difference to create humor. Currently, media feedback is relatively strong, while audience feedback is slightly lower but still above the threshold for this column. This article provides a selection entry based on official introductions and public reviews, without presenting supernatural settings as scientific facts or revealing the truth of the threat in advance.",
-        "[Critical Section | 2026-11-02] This season: Rotten Tomatoes critic positive percentage is 96% (75 reviews), and the audience positive percentage is 78% (the page shows over 500 reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
