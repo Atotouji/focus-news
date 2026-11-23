@@ -1,7 +1,148 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T09:22:06.002Z",
+  "generated_at": "2026-11-23T01:27:20.431Z",
   "translations": [
+    {
+      "article_id": "article-b0c1bb0f706afd2891426809",
+      "source_sha256": "7b2391649b28508a393ab9003e6518978670240990d40e00e6a4844102ee50e6",
+      "paragraphs": [
+        "At its 2026–2027 Chinese animation presentation on the evening of November 22, Bilibili announced that **The Three-Body Short Film Collection: Parallel Realms will premiere at 11:00 Beijing time on December 23**. The project is jointly presented by Bilibili's Chinese animation division and Three-Body Universe, TBU, with production companies including Wanweimao Animation, Chaosu Xinlv, Meiqiu Film and Original Force.",
+        "The collection comprises six self-contained animated shorts, using Three-Body concepts such as hibernation, mental seals and the dark forest for stories about ordinary individuals in a crisis. The shorts vary in theme and visual approach, including realistic 3D and stylized cartoon animation. It is an anthology rather than six episodes forming one continuous main plot.",
+        "Animation director Wang Yuren said at the presentation that he was invited to join in early 2024 and worked with nearly 100 artists and creators to develop stories beyond the novels' central narrative. The confirmed developments are the Chinese platform's premiere date and production lineup; the actual premiere remains scheduled for December 23."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-353bc57e974244be3ea1ec95",
+      "source_sha256": "2a8616af9a1cd0db9283942f300af18bb0d8715d2cc91adf2e4835dc974c02fc",
+      "paragraphs": [
+        "At its 2026–2027 Chinese animation presentation, Bilibili announced a collaboration with Liudao Wuyu Animation Studio to turn the third and final chapter of Fog Hill of Five Elements into the theatrical film **Fog Hill of Five Elements: Fengjie Dazhan**, unveiling its first trailer. Lin Hun remains the director, and Liudao Wuyu is involved in both presentation and production. No theatrical release date has been announced.",
+        "The film continues the story after the second chapter. Responding after the trailer's release, Lin said the third chapter's structure had been adjusted and that the big-screen experience required some choices and omissions. Certain Five Elements characters' Zhaoshen combat abilities were absent from the first trailer because that material had not yet been drawn and could not yet be shown. This also indicates that production remains ongoing.",
+        "Lin said the trailer uses material actually produced for the film, with more monsters and more complex action than in the series, while the team continues drawing it by hand. He also reiterated his commitment to hand-drawn animation. These are the director's public descriptions of production methods and progress, rather than a review of the completed film.",
+        "The official statement also reiterated that the entire Fog Hill of Five Elements series may not be used for AI model training or generated materials. The substantive developments are its theatrical-film format, continuity of key creators and first trailer. Earlier television-season ratings are not ratings for this unreleased film."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-5e52360f9703a1a617c869d9",
+      "source_sha256": "9a40acbb1d13680c758ded9755235b1e9b213d722fff3f3da493dad9e3cf5e81",
+      "paragraphs": [
+        "Intel CEO Lip-Bu Tan said at the TomorrowX conference on November 19 that **yields for chips made on Intel 18A had reached 70%**. Tom's Hardware reported the statement, and IT Home covered it on November 23. Comparing it with conditions when he became CEO in March 2025, Tan said 18A yields had then been poor. This is progress publicly described by the company's chief executive.",
+        "Tan did not specify whether 70% meant functional yield, parametric yield or the proportion of silicon ultimately sellable. Passing functional tests, meeting particular performance and power bins, and being sellable as a specific product are different selection criteria. The figure therefore cannot yet be directly converted into a processor's final cost or the supply share of high-end models.",
+        "18A is used for compute tiles in Panther Lake, the Core Ultra 300 series, and in Clearwater Forest Xeon 6+ processors. The latter use multiple chiplets and Foveros Direct 3D stacking, with up to 288 cores. Improvements in process yield still need to be understood alongside die size, packaging and product binning."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-4679234174997bddb0f65610",
+      "source_sha256": "09cd03a3ff5a8204692ae858554572aae8d6671e82e9211a067f3eefb005a7b0",
+      "paragraphs": [
+        "COP31 closed in Antalya, Türkiye, on November 22 **without consensus on its main political agreement, the conference's cover decision**. Negotiations originally due to end on November 20 continued into November 22. The EU, Panama and others still opposed the final text, and the talks jointly led by Türkiye and Australia failed to bridge key differences.",
+        "The disputes centred on fossil fuels and climate finance. The final draft did not directly mention fossil fuels, referring only indirectly to the existing COP28 decision from 2023 on the energy transition. The EU and some island nations considered it insufficiently ambitious. Some poorer countries also objected to the absence of specific adaptation-finance amounts and a comparison baseline, fearing that earlier pledges to increase funding would be difficult to implement.",
+        "In his November 22 closing remarks, UN climate chief Simon Stiell confirmed that agreement had not been reached on the presidency-led decisions, while noting concrete progress on issues including a just transition. This distinction means that **failure of the main political agreement did not invalidate all technical negotiating outcomes or existing climate obligations**.",
+        "The possibility that global warming will exceed the long-term 1.5°C goal in the next few years formed part of the discussions. This concerns a long-term climate target and future pathways, distinct from a single year's temperature record. The BBC reported that Stiell would seek advice on possible reforms to the negotiating process. COP32 is planned for November 2027 in Ethiopia."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-e2475731be0db7ee9055768e",
+      "source_sha256": "6864891057f0f1279040586b5a7c60b3ce695b51b701c1848ec5cc3a260306a3",
+      "paragraphs": [
+        "The Shanghai, Shenzhen and Beijing stock exchanges announced on November 22 that, with China Securities Regulatory Commission approval, the minimum margin ratio for financing securities purchases would fall from 100% to **80%, effective November 30**. The rule has been announced but is not yet in force. The Shanghai exchange's notice also permits brokers to lower margin ratios accordingly for outstanding financing contracts entered into before implementation.",
+        "At the minimum ratio, RMB1 million of margin would support up to RMB1.25 million of financed securities purchases, rather than RMB1 million. This calculation describes the financing capacity permitted by the rule; brokers must still set actual ratios according to client and security risks. The Shanghai exchange requires stricter controls on abnormal trading, including margin ratios, collateral-security conversion ratios and credit limits.",
+        "Citing a regulatory source's estimate, Lianhe Zaobao reported that adjustments for new transactions and existing contracts could together release nearly RMB400 billion of capacity. About RMB100 billion concerns new financing transactions, while around RMB300 billion depends on applying the new ratio to existing contracts. **These are estimates of potential financing capacity, not RMB400 billion already flowing into the stock market**.",
+        "The same day also brought exchange fee-reduction measures and a consultation on market making for ChiNext shares. Reported fee measures cover trading units, data-centre services and extensions of some exemptions. The ChiNext market-making rules remain subject to public consultation. These measures have different implementation statuses rather than constituting a single system already fully in force."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-d662e596b3aaa54076022fe9",
+      "source_sha256": "495bcd55bbc1ff13a09628192b3b9bea41d661c22ceeee7636a0cd6199c0ba3b",
+      "paragraphs": [
+        "Hong Kong completed voting and counting for the 2026 Election Committee Subsector Ordinary Elections on November 22. The Electoral Affairs Commission said voting ended at 18:00 that afternoon and central counting was **completed at 22:15**. Results for the 31 contested subsectors had been published on the election website.",
+        "Commission chairman David Lok said **5,640 voters cast ballots, giving a cumulative turnout of 98.79%**. That percentage refers to the electorate for these subsector elections, not all adult Hong Kong residents. Electronic counting was used, and the commission said counting took approximately three hours and 45 minutes.",
+        "The commission said it would review the arrangements as required by law and submit a report to the Chief Executive. Its descriptions of an open, honest, fair and smooth process are the election authority's published assessment.",
+        "According to the government release, the final Election Committee register will be published on **February 1, 2027**. The close of voting on November 22, publication of results that evening and publication of the final register are separate procedural milestones. These are not results for a Chief Executive election or an election of the entire Legislative Council."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-703c2ae55e2d9859a045c4f7",
+      "source_sha256": "899e89012dc4624101cce340bc5e0ef2a6bc58b8df7ec154ff8bca1713cff29a",
+      "paragraphs": [
+        "A drone struck a five-storey residential building in Dymer, Kyiv region, on November 22, causing a partial collapse. In an address published at 20:33 that evening, President Volodymyr Zelenskyy said **four people were known to have been killed and ten remained unaccounted for**.",
+        "Zelenskyy said rescuers pulled a boy from the rubble that evening and were providing medical care, with more than 130 responders at the scene. Repeated air-raid alerts and renewed threats complicated the search, which would continue until everyone's situation was established.",
+        "Russia's Defence Ministry said on November 22 that its overnight strikes included a power plant, facilities at Kiliya port in Odesa region and a dry-cargo ship. Russia's account of its targets and Ukraine's accounts of damaged housing, casualties and outages are reports by different parties. Rescue work, power restoration and precautions against further attacks continued simultaneously."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7dbea73006b6eb82057b0f1c",
+      "source_sha256": "3d0e104380908c60d9c5f9d8bcfe5038d18da7a6b6c68dde2c4759eef07fe1b4",
+      "paragraphs": [
+        "A severe storm struck Tupanciretã in Brazil's Rio Grande do Sul state early on November 20. A publicly readable November 22 report by Jornal do Comércio cited the state civil-defence update at 07:21 that day as recording **five deaths and 265 injuries**. Lianhe Zaobao also reported that day that the death toll had risen to five and more than 250 people were injured, with extensive damage to homes and public facilities.",
+        "The state civil-defence authority's original release said a National Institute of Meteorology station recorded **gusts of 114km/h**. At 02:38 on November 20, it had sent a red mobile alert to the area including Tupanciretã, warning of a very high risk of roof damage from large hail and strong winds. The release described a supercell thunderstorm; the official materials read did not establish whether a tornado formed.",
+        "The storm damaged roofs extensively, brought down trees and electricity infrastructure, blocked roads and disrupted power and communications. The state's initial November 20 emergency release also recorded damage to a healthcare facility's roof and the transfer of 11 patients to neighbouring municipalities. These are early response records rather than final totals for all damage as of November 22.",
+        "The governor announced the immediate allocation of **R$2 million** in emergency support. Civil-defence, fire and other services dispatched drinking water, tarpaulins, mattresses, generators and other supplies. The federal government also advanced calamity-recognition and assistance procedures, with relief, roof repairs and urban clean-up central to recovery work."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-9057702607bb8a4d24b7fd81",
+      "source_sha256": "bb34effb5566b792e79801ccde4261579b8f8c79b41cce269fea8c4b559a69fa",
+      "paragraphs": [
+        "IT Home reported on November 21 that the vivo S60t had been listed on JD. The 12GB+256GB version is listed at **RMB3,599, with a reported launch or coupon price of RMB3,199**; the 12GB+512GB version is listed at RMB3,999. RMB3,199 and promotional prices after further subsidies are different price bases, with eligibility and conditions varying by region and user.",
+        "The phone has a 6.59-inch AMOLED flat display with 2750×1260 resolution and a reported 144Hz refresh rate. It is 7.92mm thick, weighs about 199g and comes in blue-white, green and dark finishes. Rear cameras comprise a 50-megapixel main camera, an 8-megapixel ultrawide and a 50-megapixel 3x periscope telephoto; the front camera is 50 megapixels.",
+        "The product-specification image lists a **7,200mAh typical battery capacity**, a rated capacity of 7,015mAh, wired charging up to 90W and no wireless charging. It also lists NFC, a single-point 3D ultrasonic fingerprint sensor and USB-C. Typical and rated capacity are different stated measures for the same battery.",
+        "The processor information contains a discrepancy requiring clarification: the headline and embedded specification table say Snapdragon 7 Gen 4, while another part of the body says Snapdragon 7s Gen 4. These names do not identify the same chip, and the exact suffix awaits confirmation in final official model information. The verified development is a Chinese e-commerce listing; no verified announcement establishes simultaneous overseas sales of an identically named model."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-0afef7db4686ed935b98d69d",
+      "source_sha256": "9767e12ee4dcc11d3d0d03d5229bac0d2f605a17f68e7af5785925a8cde2a207",
+      "paragraphs": [
+        "The Russian cargo ship Sparta II caught fire after a drone attack in the eastern Gulf of Finland on the morning of November 21 and subsequently drifted into Finnish waters. In its November 22 update, the BBC cited Finnish authorities as saying **towing had begun**. The Russian rescue vessel Murman was leading the tow, supported by Finnish and Estonian vessels. The ship had been sailing from St Petersburg to Kaliningrad.",
+        "All 16 crew members were evacuated and transferred to another Russian vessel. At a November 22 news conference, the Finnish Border Guard said one crew member had minor injuries. By Sunday afternoon no flames were visible externally, although thermal cameras showed residual heat in some containers. The ship was listing slightly, but authorities described it as stable, with no fuel or other hazardous-substance leaks detected.",
+        "The Finnish Defence Forces assessed that Ukraine was likely responsible; Kyiv had not publicly commented. This was Finland's preliminary attribution. Sparta II is operated by a shipping company associated with Russia's defence structure and is under US sanctions. The Finnish Border Guard said the cargo on this voyage had not been established; the company's background does not establish what the ship was carrying.",
+        "The initial attack occurred in international waters. Finland undertook rescue operations and an investigation after the ship drifted into its waters, and temporarily restricted aviation and maritime traffic. Finland's defence authorities separately reported a suspected airspace violation by a Russian helicopter after the incident, possibly linked to rescue or tracking operations. That investigation and attribution of responsibility for the ship attack remained incomplete."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-b42db3daee61437f8b3ca2c4",
+      "source_sha256": "ab44b599d10872b8a5f95dd46a57b4babcf6b4aa3d8e81f8f6ce42023dd5b462",
+      "paragraphs": [
+        "France saw further demonstrations on November 21 over living costs, public services, education conditions and housing. An Adnkronos report carried by Jiji Press cited the Interior Ministry as counting about **82,500 participants** nationwide, including 21,500 in Paris. Organizers estimated 150,000 nationwide and 45,000 in Paris. These are counts from different parties.",
+        "Both sets of estimates indicated lower participation than on November 14. Authorities had previously counted 106,000 nationwide and 24,000 in Paris, while organizers had estimated 200,000 nationwide. The Paris march included union members, students and Yellow Vests participants, with demands concerning wages, schools and public services rather than one single issue.",
+        "Conditions varied by location. The report said police used tear gas in Lyon to disperse spontaneous groups trying to enter areas where protests were banned. In Marseille, part of the procession became an unauthorized march, and some individuals set bins alight, with flames spreading to vehicles. Tensions also rose toward the end of the Lille march. The size and conditions of the marches varied by city.",
+        "Germany also held student demonstrations on November 20. Reuters reported about 4,000 people at Berlin's Alexanderplatz. Cologne police said turnout was still in the thousands but below the expected 5,000. Reuters described that day's European marches as largely peaceful. Organizers said they had planned actions in 73 German towns and cities, a planning figure rather than independently verified events in every location."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-6b849246c7088535a4dba701",
+      "source_sha256": "ba6d3adf8cca2b7371b87e995fb3d551ac54a6b2c865cf7e645fb3b61f4e1c9b",
+      "paragraphs": [
+        "Guangzhou University's news site reported on November 21 that the Seismological Society of China's Professional Committee on Engineering Seismic Isolation and Vibration Control completed its leadership transition during the 14th National Conference on Structural Vibration Control in Zhengzhou. **Researcher Ping Tan was re-elected chair of the third committee**, and Guangzhou University remains its chair institution.",
+        "The university also announced that Researcher Yuhong Ma was elected vice-chair, Professor Yanhui Liu serves as secretary-general and Associate Professor Wenzhi Zheng as deputy secretary-general. These are professional-committee appointments, separate from university academic promotions or administrative-office changes.",
+        "According to the university, the conference was jointly organized by the committee, North China University of Water Resources and Electric Power, and Henan University of Technology. More than 400 participants from universities, research, design and industry attended, with 20 keynote presentations and 139 parallel-session presentations. Topics included seismic-isolation design, tuned mass damping, intelligent structural design, vibration control through deep reinforcement learning and device performance.",
+        "The meeting also confirmed that **Guangzhou University will host the 15th National Conference on Structural Vibration Control**. The announcement gives no complete dates, submission deadline or registration arrangements for that event; the confirmed development is the host institution."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
     {
       "article_id": "article-6b8f84a64ab7d97aaaac3f90",
       "source_sha256": "ab7fccea49c50721e04be3bb50e0030822a846e752fc1207d941ab0af66876ca",
@@ -241,6 +382,66 @@
         "The ministry said subscriptions reached **US$72.3 billion, approximately 36 times the issue size**. Subscriptions represent demand submitted by investors; the actual amount issued remained US$2 billion. By region, Asian investors received 52% of the allocation, Europe and the Middle East 34%, and the Americas 14%.",
         "By investor type, sovereign institutions received 59%, funds and asset managers 29%, banks and insurers 11%, and dealers 1%. Sovereign institutions therefore accounted for the largest allocation group in this issuance. These percentages describe the allocation structure of this particular bond.",
         "The ministry said the bonds would subsequently be listed on the Hong Kong Stock Exchange. That future listing arrangement is a separate milestone from completion of the issuance; the announcement did not confirm that listing had already been completed."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-89c1b5008b7af961675486e4",
+      "source_sha256": "a6957bf393720cca925ee25416c1640b32b4aa4c6341ba19e7560da8d43e99e3",
+      "paragraphs": [
+        "Thinking Machines Lab released **Inkling 2 Mini with open weights on November 20, with Apache 2.0 listed in its model card**. Tinker also offers inference and customization access. The model accepts text and images, generates text and supports a context window of up to one million tokens.",
+        "The sparse mixture-of-experts model has approximately 26.4 billion total parameters and 3.4 billion normally active parameters. The middle 12 layers of its 24-layer architecture run three times per token, increasing computational depth through shared weights. Including those repeated computations gives roughly 5.4 billion effective weight activations per token. These figures use different accounting conventions rather than representing multiple independent sets of weights.",
+        "Most weights use NVFP4, with the last four layers in MXFP8, producing a mixed-precision checkpoint of about **20GB**. Officially listed local platforms include Apple-silicon devices with at least 32GB of memory and systems such as DGX Spark. Checkpoint size differs from total runtime memory, which also includes caches and framework overhead.",
+        "The team reports 48.2% on DeepSWE v1.1 and 46.5% on Vals Index v2.2, claiming advantages on some agentic tasks among similarly sized open-weight models. These are evaluations presented by the developer, with configurations and tool frameworks affecting comparisons. The model card and launch post also describe limitations in knowledge, instruction following and multi-turn interaction; looping computation does not itself increase the number of facts stored in the weights."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-7ad44f990f0c53ef2e2a5377",
+      "source_sha256": "e33cb285be2bfaa32666441269b65325e065d061c803c42971c655710db77827",
+      "paragraphs": [
+        "OpenAI published work on combating adversarial distillation on November 20, focusing on unauthorized extraction of protected internal reasoning traces to train models without comparable safeguards. The company said GPT-6.2 Astra and Sol have stronger protections against this. Distillation remains a common training technique; the announcement concerns unauthorized capability extraction and its safety risks.",
+        "In an internal adaptive red-team evaluation, attackers tried to recover protected reasoning generated when a model answered an earlier prompt. OpenAI reported that average attack success fell from **54.0%** for GPT-6 Astra with its original safeguards to **0.2%** for GPT-6.2 Astra with updated safeguards. This is a developer-run comparison involving both different models and different safeguard configurations.",
+        "The approach operates at the request and coordinated-campaign levels. Request-level protections include adversarial training, input and output classifiers, and API boundary controls, covering assistant text and tool-call arguments. Campaign-level work examines coordinated extraction patterns across requests and accounts, takes action against account networks when violations are established, and uses investigation findings to improve training and testing.",
+        "The company also reported that training the same pretrained student model on exact reasoning traces or reasoning summaries can transfer different levels of cybersecurity capability, with results varying by inference budget. These findings concern capability transfer and safeguards in specific experiments. The 0.2% figure is not a universal success rate or safety guarantee for every attack and deployment condition."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-f93a3ccd925110f0c2fa13bf",
+      "source_sha256": "81bd455bee455b69b8fe8a3c1eaadfbd7dfb8fc5dcb568c273d5913fdd8da017",
+      "paragraphs": [
+        "MiniMax's research repository dates a batch of cryptanalysis results to **November 20**, with the company describing the work further on November 22. The team says an unreleased internal model conducted automated analysis of historical competition candidates, academic cryptographic schemes and public parameter challenges. Technical reports and supporting artifacts have been published.",
+        "Listed targets include COLM, TII McEliece, ARADI, SBC-VOLE, HAWK, Blender, LOCKER/ROLLO and Waterfall. The team reports different findings for different targets, including ciphertext forgery, key recovery, collisions and reductions in estimated security. The findings apply to particular algorithm versions, parameter sets or reduced-round settings, rather than uniformly to all cryptographic systems of the same type.",
+        "For example, the team reports recovering private keys for 94 TII McEliece Track-2 challenge instances, including 55 without previously public solutions. Maximum speedups and similar figures are the team's results under specific benchmarks. The substantive contribution concerns model involvement in finding algebraic structure, developing analytical approaches and engineering implementations, rather than merely generating explanations of cryptography.",
+        "**The release consists of research materials, not the internal model's weights or a general product interface.** The repository lists Apache 2.0, but that materials licence does not mean the model has been opened. MiniMax explicitly says these findings do not affect mainstream standards such as AES, RSA and SHA-256. Published reports and code permit scrutiny, but do not establish that every result has been independently verified or peer reviewed."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-8561578013c234ec1fedc318",
+      "source_sha256": "45019f5dffcd07eb87f51dd6a15d8845c5ee814dc0ff3863fe59e336c0eb2834",
+      "paragraphs": [
+        "Google announced on November 20 that it was rolling out a new set of Connected Apps through Search and the Gemini app in the **United States**. Merchants include Albertsons, Safeway, Shaw's and Target, with features to help users build grocery orders and check out. The announcement links the features to the Universal Commerce Protocol.",
+        "The expansion moves shopping beyond question answering toward coordination with merchant applications: users can build an order in the relevant interface and proceed to checkout. Its stated scope is the US market and compatible applications, rather than simultaneous availability in Hong Kong, mainland China or every Google account.",
+        "For finance and taxes, Experian capabilities already available in the Gemini app are expanding to Search, allowing US users to check credit ratings and shop for personal loans. H&R Block can calculate taxes and estimate refunds within Search. These concern credit checks, product comparisons and tax estimates, not confirmation of loan approval or a final tax liability.",
+        "Google also said account linking for Angi and Thumbtack would arrive in Search in the coming weeks to help find local professionals, including repair services. This remains a future rollout, distinct from the shopping, finance and tax features already entering phased availability. The announcement does not give one date by which every account will receive access."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-a3930ea9270aa1c002b2b581",
+      "source_sha256": "44fd1ba0de0c4a82ea3577914cb04862afac9e9dbb8a04f64de878acb900eee0",
+      "paragraphs": [
+        "The second CS2 Major of 2026 will take place in Singapore from **November 24 to December 13, with 32 teams overall**. The PGL website and HLTV schedule show that Stage 1 has not started. Team lists and 0–0 Swiss records currently indicate pending competition, not completed match results.",
+        "On November 24, the opening round begins at **12:00 Beijing time with HEROIC versus Imperial and 9z versus Lynn Vision**. Ninjas in Pyjamas versus M80 and 100 Thieves versus Chinggis Warriors are scheduled for 13:00. Singapore, Hong Kong and Beijing all use UTC+8; these times are stated in Beijing time.",
+        "Stage 1 runs from November 24–27 with 16 teams in a Swiss system and eight advancing. Stage 2 runs from November 28 to December 1, combining those eight qualifiers with eight directly invited teams, again with eight advancing. Stage 3, December 2–6, adds another eight invited teams and determines the eight playoff teams. Starting stages and advancement qualifications are separate parts of the format.",
+        "The playoffs are scheduled for December 10–13 at Singapore Indoor Stadium. PGL lists BO3 series and a BO5 final. In Stage 1, advancement and elimination matches are BO3, with other matches BO1. Later round pairings depend on results; no Stage-1 advancement outcomes have yet been completed."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -620,12 +821,24 @@
     },
     {
       "article_id": "article-2463029bbb0aba42fd277e7d",
-      "source_sha256": "c4544b9c56cea3fce0e49ba9e864e7e2e66ee14d3ad42eb47a6b394d10272a59",
+      "source_sha256": "bf564bfaab8e2cd41e76318656f342ec80587407749587fd04610a8bd6557cd5",
       "paragraphs": [
-        "The United Kingdom and European Union are holding a summit in Brussels on November 20. The BBC reported that, according to its understanding, the two sides were seeking agreement on a youth mobility scheme that would allow **up to 100,000 young EU citizens a year to travel, work and study in the UK, with an equal number of young Britons able to go to the EU**. At the time of this check, the report still described it as an expected agreement.",
-        "Downing Street had not confirmed details such as the numbers and said on November 19 that talks were continuing down to the wire. Prime Minister Andy Burnham said he wanted the best deal for Britain at the summit. Negotiations also cover food-trade rules, carbon-emissions pricing and migration cooperation.",
-        "A UK government summit factsheet published on November 17 and updated on November 18 says the Youth Experience Scheme will be strictly capped and time-limited. Modelled on existing UK youth mobility arrangements, it would offer fixed-period opportunities to live, work, study and travel. The government reiterated that it would not rejoin the EU, customs union or single market, or restore freedom of movement, during this Parliament.",
-        "The two sides had disagreed over numerical limits and tuition fees for EU students at UK universities. **The new scheme's age range, permitted duration and application process cannot yet be established from these public materials.** The ages of 18–30 and maximum four-year stay in the EU's 2024 proposal should not be treated as settled eligibility criteria in the current talks."
+        "The UK and EU concluded negotiations on a Youth Experience Scheme on November 20, a substantive development from the earlier expectation of an agreement at the summit. The UK government's outcome explainer specifies annual places for **100,000 young EU citizens and 100,000 young UK citizens**. Participants must be aged 18–31 on the day their visa starts and may work, study, au pair, volunteer or travel.",
+        "Visas or residence permits will initially last two years, with an option to extend for a third, giving a **maximum stay of three years**. Eligible UK participants may switch member states, residing in up to three participating countries over those three years. They must spend 12 months in their current member state before switching. Places will be distributed according to member states' relative populations, covering both EU participants entering the UK and UK participants going to the EU.",
+        "The scheme provides no entitlement to benefits in the other jurisdiction and does not permit dependants. Applicants must pay an application fee, demonstrate sufficient funds and meet requirements including identity, age and no previous participation. EU participants are to pay the UK Immigration Health Surcharge at 75% of the normal full rate; UK participants must hold relevant comprehensive healthcare coverage.",
+        "**Concluding negotiations does not mean applications or work under the scheme are available now.** The government expects the first participants to travel no later than January 2030, with signing, implementation and detailed application arrangements still to follow. The UK and participating member states may restrict labour-market access, with exact terms to be published before signing. The ages of 18–30 and maximum four-year stay in the 2024 proposal no longer describe the eligibility terms in this outcome."
+      ],
+      "method": "machine_translation",
+      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
+    },
+    {
+      "article_id": "article-6d6d2595d0a8d5d830278df6",
+      "source_sha256": "18de3b8ef88b6b53d594634c76f6ab6b4b00270549f000a5ad92356dc3e567ec",
+      "paragraphs": [
+        "AMD announced on November 19 that Unsloth Desktop was adding NPU support for the first time, initially targeting **AMD's XDNA 2 architecture**. Compatible applications can connect through its API to locally running models. The developers say the integration covers more than 100 agentic applications and workflows, including Hermes Agent, Open WebUI, Cline and LangChain.",
+        "Applications send model requests to Unsloth Desktop, with components including Lemonade and FastFlowLM providing model serving and NPU inference before returning results. The NPU handles supported model computation, while orchestration and other application tasks may still use the CPU and GPU. The entire agent workflow does not run exclusively on the NPU.",
+        "Unsloth's documentation lists supported Ryzen AI 300, Ryzen AI Max and Ryzen AI 400 systems with XDNA 2 or newer NPUs, running Windows 11 or Linux x64. Linux also has relevant kernel, driver and firmware requirements. **Support does not extend to every older computer carrying the Ryzen name.**",
+        "NPU models use the four-bit Q4NX format for FastFlowLM, and availability depends on converted, compatible models. AMD says this can enable sustained low-power inference while freeing other processors, but the announcement gives no universal battery-life or performance improvement across all models and PCs. This NPU integration focuses on inference, not a claim that arbitrary models can be trained on the NPU."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -2868,29 +3081,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-9d01a2d6073e7ced3f4be236",
-      "source_sha256": "2d9c7c53364db81151016a2a5c7dd45e5d4a1fe17a85be1ad3804cbec13ab608",
-      "paragraphs": [
-        "At a regular briefing on November 12, IMF spokesperson Julie Kozack said the Fund was closely monitoring recent AI-sector developments, equity-valuation volatility and their effects on markets, the economy and financial stability. **It is too early to conclude that investors are turning away from AI for the long term.** These AI-related remarks were not accompanied by new numerical forecasts for global growth or inflation.",
-        "Reuters reported that Kozack reiterated the risk that AI equity valuations could be reassessed against the technology’s longer-term profitability. That does not establish that recent volatility already amounts to a broad reassessment of AI investment, future profits or productivity gains. The IMF is also watching whether U.S. political changes could slow data-center development.",
-        "Lianhe Zaobao additionally cited Kozack as saying recent developments were insufficient to determine how potential changes in AI investment would affect U.S. inflation pressure. Her remarks distinguish asset prices, real infrastructure investment, future productivity and prices. Volatility and monitoring are established; a new quantitative conclusion about longer-term macroeconomic transmission has not been reached."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-7e4afec5c028fe711f8910ab",
-      "source_sha256": "ad399dc6fadf36a46afb60c0a4cc76ffb527dc2daa09206898fa86b2e3d6dd3f",
-      "paragraphs": [
-        "The UCIe Consortium announced the **UCIe 4.0 chiplet-interconnect specification** on November 12. Its scope expands from individual chiplet interfaces to how compute, accelerator, memory and other chiplets in one package are managed, secured and monitored together while sharing power and area resources.",
-        "The new UCIe.mem protocol standardizes an on-package link between SoCs and memory-logic chiplets, reusing the existing PHY and adapter ecosystem. The consortium cites design metrics of up to 93.75% data efficiency and approximately 2.5 TB/s/mm of die-edge bandwidth density. These are specification and design metrics, not measured results from a shipping processor.",
-        "An optional power-optimized profile advertises a 30%–80% energy-efficiency improvement at 64 GT/s. An enhanced UCIe-S bump map for 48 and 64 GT/s is said to raise shoreline bandwidth density by about 20% and area bandwidth density by 10%. Energy efficiency, edge bandwidth density and area bandwidth density are separate metrics.",
-        "Security and management additions include Trusted Reporting of Chiplet State, or TRoCs, two-way integrity-protected management channels and enhanced reset management. Optional error notifications and link-health monitoring support automotive reliability and functional-safety mechanisms. The consortium says version 4.0 is backward compatible with previous versions and the full specification is publicly available by request. Publication does not establish volume delivery of compatible chips by individual manufacturers."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-d23cddfa8cc4fc2d8f02c654",
       "source_sha256": "c7d6ca20058989c3a6e95068432e2442e4389dd97a46acd45f027512fc12d333",
       "paragraphs": [
@@ -2902,91 +3092,12 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-996ab586942de44e6f82cb14",
-      "source_sha256": "ef008797bc387745cebebd204cb225d61bb1869954ef100e5e9e4eef37c20627",
-      "paragraphs": [
-        "The FBI said in its November 12 announcement that the social-engineering campaign called **FaceStealer** has been linked to more than $400 million in cryptocurrency theft over the past 18 months. Targets include cryptocurrency and Web3 workers and open-source developers and maintainers. The FBI attributes it to North Korea-linked actors tracked in industry as Sapphire Sleet, UNC1069 and other names; that attribution is the U.S. law-enforcement assessment.",
-        "Attackers take over earlier victims’ communication accounts and webcam recordings, then invite their contacts to video meetings. Familiar faces are played in imposter Zoom, Teams or Google Meet interfaces. A simulated audio failure prompts the next target to install a supposed fix; once devices and accounts are compromised, the contacts become further targets. Reusing genuine recordings and generating AI deepfakes are related but distinct techniques.",
-        "The FBI says it disrupted associated cloud infrastructure and seized **more than 900 victim webcam videos**. That number counts recordings and cannot automatically be treated as 900 distinct victims. Its official account also says stolen developer devices and repository accounts could be used to distribute malicious code, extending potential impact to downstream software users.",
-        "The cumulative 18-month FaceStealer campaign is separate from the approximately $6.3 billion Binance theft in late October. Reuters reports that U.S. authorities and security researchers link the two to different North Korean actor groups. The more-than-$400-million figure is neither a single day’s loss nor an alternative tally for the Binance incident."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-41d080fa4bb16f6a8ad9f87e",
-      "source_sha256": "5cf0b21b1d43629a0c4cbf59608602aa38f3691ba1f7058c8be3bdd060cf91b7",
-      "paragraphs": [
-        "Huawei began rolling out **7.0.0.115 SP11** to HarmonyOS computers on November 13, adding a new Office entry for Xiaoyi Work. The release notes list document processing, presentation creation, web design, weekly-report summaries, information retrieval, scheduled tasks and desktop-file icon organization. The entry is in Xiaoyi’s upper-left Office tab.",
-        "Xiaoyi notes gain cross-device synchronization of saved content and smart collections across phones, tablets and computers. Natural-language commands can also identify a document for printing, find it and set print parameters, or locate and install fonts. This is an application and operating-system feature update for HarmonyOS computers, not an announcement releasing the underlying model weights.",
-        "For development and interaction, a preinstalled integrated development engine supports running a Linux environment directly. Wireless projection can adapt to the receiving display, the touchpad gains settings for three-finger dragging and horizontal app switching, and the November 2026 security patch is included. Update items may differ slightly by model; the log does not establish identical availability on every Huawei computer."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-220ed857959255906caacdfa",
-      "source_sha256": "07c8e2d371da2bf6cb3f6d6d6fefdd3ec016341def1035cf2bae1dd7dca72ce7",
-      "paragraphs": [
-        "The new **16GB+512GB Lingdun privacy-screen version of Huawei’s tri-fold Mate XT 2 Ultimate Design went on sale at 10:08 on November 13, with a list price of RMB22,999** and purple, black and white color options. This is a new storage-and-display combination entering sale within the existing Mate XT 2 range, not the series’ first announcement. The price is before subsidies or trade-in deductions.",
-        "The model uses a G-shaped tri-fold design, with a 10.2-inch unfolded inner display and a 6.5-inch outer display. Official specifications list 3.5mm unfolded and 12.3mm folded thickness, a Kirin 9050 Pro processor and HarmonyOS 7. The system adapts large-screen interactions such as images beside text and simultaneous viewing and commenting for the tri-fold format.",
-        "The manufacturer specifies IP58/IP59 dust and water resistance and reports improvements in outer-screen drop and scratch resistance and inner-screen impact resistance, but the launch report does not identify a uniform comparison baseline or complete test settings. These are claims under manufacturer test conditions, not evidence that every fall would be harmless. The launch report provides no independent privacy-display, battery-life or durability testing; prices for other capacities and display configurations apply separately."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-4691d7177c319c7d002ad63c",
-      "source_sha256": "da2812611d1e46a3cae4f0951816fc3917b5222bf2396d8ed404a1fe4f4ed075",
-      "paragraphs": [
-        "Samsung and China Telecom’s **W27 foldable went on sale in China on November 13**, with list prices of RMB18,999 for 16GB+512GB and RMB21,999 for 16GB+1TB. It is a co-branded premium foldable for the Chinese market; its packages, regional features and prices do not automatically apply to overseas Galaxy Z Fold models.",
-        "The W27 uses Snapdragon 8 Elite Gen 5 for Galaxy, with an 8.0-inch inner and 6.5-inch outer display and adaptive 120Hz refresh. Samsung lists an approximately 215g weight, 4.1mm unfolded and 8.9mm folded thickness, excluding the camera module. Cameras include a 200MP main, 50MP ultrawide and 10MP telephoto, with a 5,000mAh battery and 45W wired charging.",
-        "Tiantong satellite voice and messaging require activation of the operator’s corresponding service. The launch report lists a year of direct satellite functionality, 300 voice minutes and 100 text messages; eligibility and charges remain subject to the operator. A future entitlement of 200 million China Telecom tokens is a later claimable benefit, not necessarily credited in full on purchase day. Prices are public list prices, before government subsidies or store promotions."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-1c245ef9b38f9c781fe34e83",
-      "source_sha256": "68ce2f93f0f2050894e08c86ca5547825a613383b42908ad7cebed86ef7ed179",
-      "paragraphs": [
-        "China’s Ministry of Emergency Management said on November 13 that the State Council Work Safety Commission’s office had recently held work-safety accountability interviews with **the principal government officials of 11 cities and prefectures in seven provincial-level regions**. The triggers were major accidents during the year or at least three relatively serious accidents within six months. The notice does not say all interviews occurred on the publication date.",
-        "The major-accident areas are Baotou in Inner Mongolia, Nanyang in Henan and Xiangyang in Hubei. The other group comprises Lüliang, Shuozhou and Xinzhou in Shanxi; Mudanjiang in Heilongjiang; Yantai in Shandong; Zhengzhou in Henan; and Honghe Prefecture and Qujing in Yunnan. Participating authorities covered emergency management, policing, natural resources, housing and construction, transport, agriculture, commerce, market regulation, fire rescue and mine safety.",
-        "The interviews called for action on illegal fireworks production and sales, mines, major hazardous-chemical risk sources, industrial and trading operations, and contractor management. They also addressed fire risks in crowded premises and large mixed-use complexes, road safety and tourism safety. Accountability extends to companies’ principal managers, actual controllers and ultimate beneficiaries. These are oversight and rectification measures for accident-prone areas; the notice supplies neither a new nationwide accident total nor a uniform penalty amount."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-de14093971c948861b67541a",
-      "source_sha256": "0f009193e077b1f253d88e5c136194b4d72a9923e7f4c98084081c6c881b82db",
-      "paragraphs": [
-        "At its third-quarter earnings call on November 13, SMIC said it expects full-year 2026 sales above $12 billion. **Fourth-quarter guidance calls for 4%–6% sequential revenue growth and a 26%–28% gross margin.** Co-CEO Zhao Haijun said capacity released by weaker smartphone and some consumer orders is being shifted to specialty memory, BCD and other higher-demand, higher-value products. The full-year and fourth-quarter figures are management forecasts.",
-        "The unaudited IFRS report released on November 12 shows third-quarter 2026 revenue of $3.190 billion, up 6.1% sequentially and 33.9% year over year. Gross margin was 29.9%, versus 25.3% in the preceding quarter, and capacity utilization rose from 93.7% to 97.3%. Thus, although fourth-quarter margin guidance is similar to the earlier guidance range, it is below the 29.9% actually achieved in the third quarter.",
-        "Under the A-share reporting basis in renminbi, July–September 2026 revenue was RMB21.983 billion, up 28.1% year over year, and net profit attributable to listed-company shareholders was RMB2.847 billion, up 87.6%. First-nine-month revenue and attributable net profit were RMB60.618 billion and RMB7.314 billion. The accompanying table uses thousands of renminbi; these figures must remain separate from IFRS dollar amounts and growth rates.",
-        "Zhao expects foundry capacity to remain tight in 2027. AI-related memory demand may gradually reach balance in mid-to-late 2028, while other computing and supporting chips could remain constrained. Longer equipment lead times could also disrupt execution of next year’s capital spending. These are the company’s supply-and-demand judgments; its fourth-quarter guidance also incorporates pressures from depreciation, raw materials and additional engineering and R&D wafer starts."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-36f92db6af072c249f9d8e89",
       "source_sha256": "fb312edfdd8d80535cb9f5261876b06159918869ad11fd23408450c569be29ce",
       "paragraphs": [
         "At its 25th-anniversary FanFest in Seattle, Xbox officially confirmed that **Wolfenstein 3 is in production at MachineGames**. Brian Bloom and Debra Wilson will reprise BJ Blazkowicz and Grace Walker respectively. This moves the sequel beyond rumor, but the announcement provides no release date, complete platform list or public-demo arrangement.",
         "The event also revealed new Fable quest gameplay, including magical combat against cursed creatures and story clues. Microsoft said FanFest attendees could play it that evening, with a later official podcast featuring Playground Games to explain the footage. This is access for event attendees, rather than a downloadable demo available to everyone.",
         "Halo: Campaign Evolved plans to add the cooperative survival mode Firefight in a free winter update, with attendees able to try it first. Xbox also confirmed that id Software’s next project is in development, without naming or dating it in the recap. These are separate stages—production confirmation, gameplay demonstration and forthcoming content updates—not declarations that all this new content has fully launched."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-7cc870f30d9f0c7973025266",
-      "source_sha256": "88710f45f6f9f3bcbefce7c1ba26a7a2d7a0b44107c1c830ed5ddf86c7e73538",
-      "paragraphs": [
-        "China’s Foreign Ministry announced on November 13 that **the 33rd APEC Economic Leaders’ Meeting will take place in Shenzhen on November 18–19**, under the theme “Building an Asia-Pacific Community to Prosper Together.” Xi Jinping will chair the meeting and deliver remarks, host a welcome banquet for leaders or representatives of participating economies, and hold bilateral meetings with foreign leaders.",
-        "The related APEC CEO Summit is scheduled for November 17–18, also in Shenzhen, under the theme “Promoting Prosperity Together, Winning the Future Together.” Xi will attend its opening ceremony and give a keynote speech. The two events have different names, agendas and dates; the CEO Summit does not mean the Economic Leaders’ Meeting is opening early.",
-        "Japan’s government separately announced that Sanae Takaichi plans to visit the Philippines and China on November 16–19 for ASEAN-related meetings and APEC, marking her first visit to China as prime minister. Japan says discussions will cover trade and investment, regional integration, economic and energy resilience, and the digital economy. Announced travel and summit schedules do not establish that a particular China–Japan bilateral meeting has been finalized or that the meetings have already produced results."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3025,18 +3136,6 @@
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
     },
     {
-      "article_id": "article-e547d0d8cbe359a051232396",
-      "source_sha256": "8e85b84ba1469a952e4781a24b7adca1c79927982bbbf5041ff437c4ae44b226",
-      "paragraphs": [
-        "DeepSeek's pricing page now states that, from **12:00 Beijing time on November 18, 2026, model-triggered server-side search and web fetching have no separate charge; only model tokens are billed**. Covered paths include its network tools and web_search in Anthropic-compatible and Responses APIs.",
-        "Standalone Search and Fetch APIs still cost **RMB5 per 1,000 successful requests**. Search returns structured query results; Fetch retrieves a page's body. Failed, empty or timed-out requests are not charged. The number of returned results does not change the per-request price, so this is not universal free access to every search endpoint.",
-        "Billing depends on the actual calling path. Official guidance exempts model-executed server-side text search, image search and fetching from additional tool fees; direct client calls to standalone Search/Fetch remain request-billed. Input and output tokens retain their applicable model pricing.",
-        "These capabilities build on the application APIs opened November 13, spanning search, file input, URL reading, safety checks, speech recognition and synthesis. Existing deepseek-flash supports Messages, Responses and Chat Completions integration. This changes specific tool billing, not the base model or weight-release status."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
       "article_id": "article-24f1c85b6b6f73795909dae2",
       "source_sha256": "9cf33e620cb0aa9162d8456a30955bc30e155abeb100b1d4e3e7f9094096ae53",
       "paragraphs": [
@@ -3044,50 +3143,6 @@
         "MSI 2027 will take place at Feria de Valencia in Valencia, Spain, the tournament’s first visit to Spain. This announcement does not provide the full competition dates or ticketing arrangements. Confirmation of a host city does not mean ticket sales have started.",
         "Worlds 2027 will span Japan and South Korea. Nagoya will host the Swiss Stage, marking the championship’s first appearance in Japan. Quarterfinals and semifinals move to Suwon Convention Center, with the final at Seoul Arena. Riot is also considering whether the Demacia Cup could replace the traditional Play-In Stage and create more best-of series. **That format change is not finalized.**",
         "The ongoing 2026 World Championship is a separate edition. Its official schedule lists GEN.G versus BLG in the final at 19:00 UTC on November 14, or **03:00 Beijing time on November 15**, with the match still unstarted. The 2027 hosting roadmap does not change that pairing, and an initial 0–0 schedule display is not a final result."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-98b29d52632cb6893d820e03",
-      "source_sha256": "1d6a508e62668ce5a76f2a1a9ea083ea20712cb0b03171c91e459de2095dc393",
-      "paragraphs": [
-        "Razer announced the Soma Pro and Soma Sensa HD Haptics chairs on November 13. **Soma Pro combines six haptic actuators, THX Spatial Audio speakers and Chroma RGB lighting**; the other model retains haptics without adding both speakers and lighting. IT Home reported on November 14 that Soma Pro is marketed in China under the Chinese name Huiyueshen Professional Edition, with a listed China-market price of RMB7,999. That is not the simpler model’s price.",
-        "The Sensa HD system uses algorithm-driven multi-zone feedback, which Razer says conveys direction, intensity and distance. Synapse can convert audio into haptics for games, music and films without native support. Built-in speakers can work alone or with front speakers, while RGB synchronizes with supported games and other devices. These are official feature descriptions, not uniform independent experience or latency-test findings.",
-        "The backrest reclines to 132 degrees, and Pro includes 4D armrests, a magnetic head cushion and dual-density cold-cured foam. Communications support 2.4GHz HyperSpeed or Bluetooth LE, but **a single USB-C power connection is still required**, using a wall supply or compatible power bank. Razer specifies three years of warranty for mechanisms and moving parts and two for electronics. Wireless communications do not eliminate external power requirements."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-a780569363db0e44e6d625b0",
-      "source_sha256": "bf31b4c113376da2b39b703406ae913935ddf81fccc63189533460cdcf426c16",
-      "paragraphs": [
-        "Cosina announced on November 13 that Sony E- and Nikon Z-mount versions of the Voigtländer NOKTON 35mm F1.2 Aspherical are planned for **December 2026, with an exact date still pending**. Both are fast, manual-focus primes for full-frame mirrorless systems and include electronic contacts. Electronic communication and focusing aids do not imply autofocus.",
-        "Both versions use nine elements in seven groups, twelve aperture blades, a 0.3-meter minimum focusing distance, 1:5.8 maximum magnification and a 58mm filter thread. The E version weighs about 380 grams and measures 68.1 by 60.2mm in maximum diameter and length; the Z version is about 390 grams and 67.6 by 62.4mm. Their optical designs are optimized for their respective sensor systems; matching focal lengths and apertures do not erase version differences.",
-        "The official Japanese product tables list separate suggested prices: **JPY140,000 before tax for E mount and JPY130,000 before tax for Z mount**. On compatible bodies, E communicates focusing distance and supports five-axis in-body stabilization. Z supports three-axis stabilization and focusing aids with compatible electronic communication and firmware. These are Japanese pre-tax list prices; China pricing, stock arrival and independent optical tests are not established by the announcement."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-f8c0a66c91a26dc126df66ca",
-      "source_sha256": "aaee576c7e82cab735015452148bc3f5fac1dfa213a0db26ec78a8b71e9adf08",
-      "paragraphs": [
-        "The Federal Reserve released its Financial Stability Report on November 13. A New York Fed survey conducted in September and October received responses from 23 contacts at banks, broker-dealers, investment funds and advisory firms. **AI-related risks were mentioned by 87% of contacts**, versus 50% in spring. Other leading concerns included a risk-asset correction, higher long-term rates, cyberattacks and fiscal debt sustainability.",
-        "AI concerns involved elevated equity valuations and potentially disappointing earnings; AI-enabled cyberattacks or damage from frontier models themselves; and complex financing, borrowing and circular arrangements around data-center construction that could amplify losses. A risk-asset correction was cited by 52%, higher long-term rates by 48%, and cyberattacks and fiscal debt sustainability by 43% each.",
-        "These percentages measure mentions within a small contact survey, rather than probabilities or an official Federal Reserve ranking. The report expressly attributes these views to respondents, not the Board or New York Fed. It generally reflects information available through October 28, 2026, rather than real-time market conditions on November 14."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-bea6f68aca51de60ac08342a",
-      "source_sha256": "b3b934563df9207e693a652fde4ebf9498c00b869cdb8f0324fb25abbe7bc039",
-      "paragraphs": [
-        "On November 13, Google Research reported progress with Antigravity’s /teamwork, combining Gemini 4 models, specialized tools and independent evaluators for mathematics and software engineering. Google says external users can currently access /teamwork and /boost in Antigravity and Deep Review, while formal-proof patterns and some specialized workflows await later updates.",
-        "Google reports that /teamwork-LEAP produced a machine-checked formalization of the Weil conjectures using about 28,800 subagent calls and 1.8 million lines of Lean. **This formalizes existing mathematics rather than proving the Weil conjectures for the first time**: Deligne completed the classic proof in 1974. Mathematicians must still confirm that the formal theorem statement matches the original problem.",
-        "Google also reports a roughly 170,000-line Rust migration of its libgav1 AV1 decoder, with bit-exact output in its conformance tests and, after optimization, 20–30% faster performance under the tested video and hardware conditions. These are Google’s published test results. Applications are open for 10,000 academic researchers to receive six months of free access at the highest usage tier, subject to program eligibility and allocation rather than an automatic grant to everyone."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3416,18 +3471,6 @@
         "The initial supported titles also include F1, with American Sign Language (ASL) and British Sign Language (BSL). Way of the Warrior Kid and Greyhound are planned to follow later this year. **The feature applies to selected titles, rather than automatically translating every film into every language.** Supported content will carry a dedicated icon and can be found using sign-language search terms.",
         "Apple says Deaf and native signers helped design and test the experience, with each film’s interpretation individually crafted for its narrative and emotion. Daniel Durant, who appears in Being Heumann, also directed that film’s sign-language interpretation. This production approach differs from automatically generating a signing video from subtitles.",
         "Requirements are iOS, iPadOS, macOS, tvOS or visionOS 27.2 or later, or a supported third-party device running the latest app software. November 13 is the announced launch date, so the feature is still forthcoming. Regional catalogs, device software versions and individual title support together determine availability."
-      ],
-      "method": "machine_translation",
-      "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
-    },
-    {
-      "article_id": "article-146d73179b7a5b4fba2337af",
-      "source_sha256": "d4394f817e16d63995c4c12ba85fe63cbff2ff13e71d9fae1a5a3e338ced8829",
-      "paragraphs": [
-        "Paradox Interactive announced that the Cities: Skylines II expansion **Park Adventures will arrive on PC through Steam and Microsoft Store on December 2**. It is Iceflake Studios’ first original expansion since taking over development. The announcement gives no console release schedule.",
-        "The expansion centers on modular park-building tools for zoos, nature reserves and amusement parks, adding more than 100 assets and five maps spanning arid, tropical, boreal, alpine and Mediterranean settings. Players can expand parks over time and manage tickets, staff and maintenance costs, shifting the focus from placing individual park buildings to operating park areas.",
-        "The listed prices are $19.99, £16.99 or €19.99, and the expansion is included in Expansion Pass II. These are prices for the respective overseas markets, not confirmed prices or subsidized offers for China.",
-        "The publisher also scheduled a Steam free-play event from November 12 to 16. As of the evening of November 11, that window had not begun, and the announcement did not provide precise start and end times for conversion. The free Seasonal Shift update, already released on November 10, is a separate accompanying release; the paid expansion is still due on December 2."
       ],
       "method": "machine_translation",
       "engine": "ChatGPT中文详报逐段英译；核对事实归属、否定、预测、段落、日期、数值及单位，未标为人工翻译"
@@ -3792,28 +3835,6 @@
         "[New Season Reputation] \"Running Point\" places sports themes within the power dynamics of family businesses. After Isla Gordon took over the Los Angeles Waves basketball team, she had to deal with the pressure of professional sports performance, the expectations of her family members, and whether she was capable of handling the management position. The second season continues along this character foundation, and the official main storyline is not a technical review of a particular game.",
         "The appeal of this type of series lies in the tension between office comedy, family dynamics, and professional competition: a management decision may affect the locker room or alter the status between family members. For those who want light comedy but also want clear career goals for the characters, it offers an additional layer of organizational pressure compared to a purely elite romance-themed plot. The following section uses the second season's independent audience page to avoid treating the first season's reviews as proof of the new season's quality; this introduction does not conflate the fictional team with the real NBA teams, nor does it claim that the show's operational methods are equivalent to the actual management standards of professional teams.",
         "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 85% (13 reviews), and the audience approval rating is 79% (the page shows over 100 reviews). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-928611d6523bc56653127cb3",
-      "source_sha256": "036631aaae33df4f5a7256afcb94a199abc016816e83e977952696b7a6221e70",
-      "paragraphs": [
-        "[New Drama Reviews] Netflix's \"East of Eden\" is adapted from John Steinbeck's novel by Zoe Kazan. Florence Pivar plays Cathy, and Christopher Abbott and Mike Furst portray Adam and Charles, respectively. The public introduction combines the ideal of California life, intergenerational family relationships, and the contradictions people face when confronting choices between good and evil.",
-        "It is suitable for readers interested in literary adaptations and complex character relationships: how desires, jealousy, and self-explanations within the same family accumulate consequences over a longer timescale, which is more central to this type of story than rapid reversals. The theme of \"the American Dream\" in the material should not be simplified into a single success mantra. The current critical reception is specifically for the first season of the 2026 version and should not be conflated with earlier film or television versions.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 88% (72 reviews), and the audience approval rating is 85% (displaying 250+ entries). This is the percentage of positive reviews, not the average score; the sample and percentage may vary."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-e16efed9295128427cb1cba7",
-      "source_sha256": "cddd1f6670addca0cb38225efbfe7f38f346a101ed5448988256984802e08e36",
-      "paragraphs": [
-        "The official Netflix page has confirmed that the second season of the live-action \"ONE PIECE\" has already been released, with the story centered around \"Into the Grand Line.\" Luffy and his crew enter new islands and face stronger enemies. It is the second season of the live-action adaptation series that began in 2023, not a season of the long-form television anime, nor a remake of the first season.",
-        "For original readers, the key consideration is how the series maintains the adventure pace and team dynamics within the limited number of episodes after adding new locations and characters. For new viewers, the complementary nature and shared objectives of the characters are easier to grasp than memorizing all the proper nouns. The official has confirmed the continuation of the series, but continuation does not mean the new season is complete or that there is a clear release date already. The second season currently has strong feedback from both media and audiences, with specific numbers provided below; here, 100% represents that all collected reviews were categorized as positive, which does not mean that every film critic gave a perfect score. This article retains the no-ending commentary and does not replace the animation's rating with the live-action version's reputation.",
-        "[Reputation Section | 2026-11-02] This season: Rotten Tomatoes critic approval rating is 100% (30 reviews), and audience approval rating is 95% (displaying 2,500+ entries). This is the percentage of positive reviews, not the average score; samples and percentages may vary."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
@@ -5587,17 +5608,6 @@
         "[2025 Team Representative Works Review | Public Abstract] Luo, Bi, and Pu re-examine the mechanism of the zero-frequency band gap in seismic metamaterials. Such structures aim to attenuate low-frequency surface waves of earthquakes. Previous works attributed the band gap starting from near zero frequency to the collective behavior of artificial units. The authors selected two typical configurations, namely the fixed barrier and the resonant-type super barrier, and combined analytical and numerical analysis to verify this explanation.",
         "The study suggests that the zero-frequency bandgap is not exclusive to metamaterials. The low-frequency cutoff of the clamped barrier can be explained by rigid boundary conditions; the related phenomena of the resonant barrier are associated with the properties of a \"hard upper cover over a soft half-space\" layered medium, which cannot support certain lower-order surface wave modes. The paper thus distinguishes three sources: structural boundaries, medium layering, and unit resonance, avoiding automatically interpreting similar dispersion diagrams as arising from the same mechanism.",
         "Its contributions are mainly in clarifying the mechanisms, rather than being an engineering product that has already undergone large-scale site seismic verification. The results are applicable to the assumptions of the barrier and medium discussed in the paper and cannot therefore be used to dismiss the vibration-damping capabilities of all metamaterials. For the team of Kaiming Bi, this representative work demonstrates a research path that involves examining the mechanisms through the dynamics model itself, maintaining a clear thematic distinction from studies on wind turbines or ship collisions."
-      ],
-      "method": "machine_translation",
-      "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
-    },
-    {
-      "article_id": "article-a69e4350b4ac24460c44387c",
-      "source_sha256": "5332c79f6c68454aa290d854d363fa0afb02479e6d1b8887e2d8fefd6f2710e8",
-      "paragraphs": [
-        "[2025 representative paper retrospective | Public-abstract guide] Hörteborn and colleagues propose the medium-fidelity STAPS model of ship-traffic collision probability, incorporating maneuverability and motion physics into Monte Carlo simulations and comparing it with the lower-fidelity IWRAP Mk II. The study addresses ship-impact scenarios in bridge design, focusing on how model simplifications alter estimated accident probabilities.",
-        "A comparison of the two cases shows that both the duration of the error and the routing layout significantly affect the results. In the baseline scenario, the ship collision probability given by IWRAP Mk II is about 4.5 times that of STAPS. The authors therefore believe that the simpler IWRAP is suitable for early design screening, while STAPS is more appropriate for subsequent stages that require more detailed scenarios.",
-        "The multiplier here belongs to the specific case under study and cannot be considered a general reduction factor. In the estimation of collision probability, factors such as how far a ship can continue to navigate after entering an abnormal state, how it is affected by the environment, and whether the route through the bridge area allows for avoidance, may all alter the final collision scenario. The value of the study on ship-bridge and offshore structure collision prevention lies in providing a framework for comparing the accuracy of probabilistic models; it does not replace the calculation of structural collision consequences. A single lower contact probability does not equate to the risk of collapse being satisfied by the criteria."
       ],
       "method": "machine_translation",
       "engine": "Qwen3-4B Q4_K_M / llama.cpp b12063; paragraph translation with sampled corrections"
